@@ -1,0 +1,607 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+3100,1213,1211,balthazar02,Olorin,un,fr,"{'version': 5, 'overall': {'rating': 1226.4963713352613, 'deviation': 275.15479218856126, 'volatility': 0.0599999783593299}}","{'version': 5, 'overall': {'rating': 1356.005790619537, 'deviation': 162.37683309271029, 'volatility': 0.06003103808319124}}",19.643206575031673,21.96704602560395,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-24]
+PC[OGS: https://online-go.com/game/3100]
+GN[]
+PB[balthazar02]
+PW[Olorin]
+BR[17k]
+WR[14k]
+TM[3000]OT[5x30 byo-yomi]
+RE[W+2.5]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[pp][pd][dp]
+C[balthazar02: hahha pédé
+Olorin: onegaishimasu :D
+Olorin: ehh
+balthazar02: j'rigôl je têème
+balthazar02: tu joues ou quoi?
+]
+;W[dd]
+(;B[qg]
+C[Olorin: ouais ouais
+Olorin: haha trop stylé le bruit
+balthazar02: t'es plutôt rapide comme mec :)
+]
+(;W[nq]
+(;B[np]
+(;W[mp]
+(;B[mo]
+(;W[lp]
+(;B[lo]
+(;W[op]
+C[balthazar02: ça me fait trop plaisir de jouer, la dernière que j'ai fait c'était ya 2 mois hahah :)
+]
+(;B[no]
+C[Olorin: en plus ce serveur est trop classe :)
+]
+(;W[oo]
+(;B[kp]
+(;W[pq]
+(;B[po]
+(;W[on]
+(;B[lq]
+(;W[mq]
+(;B[kr]
+(;W[jq]
+(;B[kq]
+(;W[fq]
+(;B[ip]
+(;W[jp]
+(;B[jo]
+(;W[dq]
+(;B[fp]
+(;W[cp]
+(;B[co]
+(;W[do]
+(;B[ep]
+(;W[cn]
+(;B[bo]
+(;W[bp]
+(;B[dn]
+(;W[qm]
+(;B[pn]
+(;W[pm]
+(;B[qn]
+(;W[ro]
+C[balthazar02: putain j'avais réfléchi et j'en était arrivé à ce point vital mias j'ai eu un doute et j'ai joué ailleur fiuuuuuuuuuuuuuuu
+]
+(;B[mr]
+C[Olorin: ^^
+]
+(;W[bn]
+(;B[eo]
+(;W[ao]
+(;B[do]
+(;W[ci]
+(;B[cm]
+(;W[fc]
+(;B[bm]
+(;W[an]
+(;B[am]
+(;W[ap]
+(;B[nr]
+(;W[oq]
+(;B[om]
+(;W[rn]
+(;B[pl]
+(;W[ol]
+(;B[nm]
+(;W[ql]
+(;B[pk]
+(;W[nn]
+(;B[nk]
+(;W[mm]
+(;B[nl]
+(;W[mn]
+C[balthazar02: je fais beaucoup d'erreures la deuxième ne sera pas la m^me....
+]
+(;B[qk]
+(;W[rl]
+(;B[lm]
+(;W[ln]
+(;B[ko]
+(;W[ll]
+(;B[km]
+(;W[kc]
+(;B[cq]
+(;W[bq]
+(;B[cr]
+(;W[br]
+(;B[dr]
+(;W[cs]
+C[Olorin: on te mettra surtout pas de handicap ^^
+Olorin: ou alors pas de komi
+Olorin: un truc comme ça
+Olorin: mais 4 pierres c'est énorme
+balthazar02: 3
+]
+(;B[ds]
+C[Olorin: c'était trois?
+balthazar02: oui
+balthazar02: et j'ai cliqué sansa faire expres...
+balthazar02: faut que 'arrêtes de me parler quand je pense ;)
+Olorin: spa un mauvais coup ^^
+]
+(;W[eq]
+C[balthazar02: oui je m'en red compte :)
+]
+(;B[bs]
+(;W[pc]
+(;B[oc]
+(;W[qc]
+(;B[qd]
+(;W[ob]
+(;B[cj]
+(;W[nc]
+(;B[od]
+(;W[dj]
+(;B[bj]
+(;W[cf]
+(;B[bi]
+(;W[ch]
+(;B[bh]
+C[Olorin: voilà
+]
+(;W[bg]
+C[balthazar02: haaaaaa gouré de 1 case ordi de merde
+Olorin: tu peux reprendre ton coup
+Olorin: encore^^
+balthazar02: bah c'était l'otre
+balthazar02: jpeu plus
+]
+(;B[md]
+C[Olorin: ""undo move'
+]
+(;W[mc]
+(;B[ld]
+(;W[ml]
+(;B[kk]
+(;W[kl]
+(;B[jl]
+(;W[je]
+(;B[lc]
+(;W[kg]
+(;B[ke]
+(;W[kd]
+(;B[kf]
+(;W[jf]
+(;B[lb]
+(;W[lf]
+(;B[le]
+(;W[lh]
+(;B[mf]
+(;W[jh]
+(;B[lg]
+(;W[mg]
+(;B[lf]
+(;W[mi]
+(;B[ng]
+(;W[ki]
+(;B[na]
+(;W[nb]
+(;B[kb]
+C[Olorin: beau coup
+]
+(;W[oa]
+C[balthazar02: ça reviens au fur et à mesure de la partie
+]
+(;B[ic]
+(;W[hd]
+(;B[id]
+(;W[ie]
+(;B[jd]
+(;W[fk]
+(;B[hc]
+(;W[gd]
+(;B[gc]
+(;W[rd]
+(;B[he]
+(;W[hf]
+(;B[ge]
+(;W[fd]
+(;B[fe]
+(;W[ee]
+(;B[ff]
+(;W[fh]
+(;B[gg]
+(;W[hg]
+(;B[gh]
+(;W[hi]
+(;B[gi]
+(;W[hj]
+(;B[gj]
+(;W[gk]
+(;B[fj]
+(;W[ej]
+(;B[ei]
+(;W[di]
+(;B[eh]
+(;W[eg]
+(;B[fg]
+(;W[dh]
+(;B[fb]
+(;W[eb]
+(;B[ec]
+(;W[ed]
+(;B[dc]
+(;W[db]
+(;B[fa]
+(;W[ea]
+(;B[gb]
+(;W[cc]
+(;B[ag]
+(;W[af]
+(;B[dg]
+(;W[fi]
+C[balthazar02: j'ai perdu trop de pierre je suis trop aggro
+Olorin: aggro?
+balthazar02: aggressif
+Olorin: ah
+Olorin: bah
+]
+(;B[dk]
+C[Olorin: à pardir du moment où t'es déconnecté et que tu manques de place pour des yeux
+Olorin: ta seule chance c'est une erreur de l'adversaire si vraiment t'es têtu
+]
+(;W[ek]
+C[balthazar02: oui c'est ce que je visais
+]
+(;B[el]
+(;W[fl]
+C[balthazar02: ya pas assez de temps je trouve
+Olorin: lol t'es sérieux :D
+]
+(;B[fm]
+C[Olorin: t'as encore 20 min de temps de réflexion
+]
+(;W[dl]
+(;B[ck]
+(;W[em]
+(;B[gm]
+(;W[dm]
+(;B[hk]
+(;W[cl]
+(;B[bl]
+(;W[ik]
+(;B[hl]
+(;W[il]
+(;B[im]
+(;W[gl]
+(;B[hm]
+(;W[jk]
+(;B[en]
+(;W[el]
+(;B[jm]
+(;W[lk]
+(;B[ni]
+(;W[mh]
+(;B[nh]
+(;W[re]
+(;B[rf]
+(;W[nd]
+(;B[ne]
+(;W[ma]
+(;B[pb]
+(;W[qb]
+(;B[rc]
+(;W[rb]
+(;B[qe]
+(;W[rk]
+(;B[rj]
+(;W[mj]
+(;B[se]
+(;W[sc]
+(;B[sf]
+(;W[nj]
+C[balthazar02: t'es un batard je me suis trompé de case
+Olorin: haha
+balthazar02: je t'ai demande une reprise de coup
+Olorin: j'ai pas vu?
+balthazar02: mon pad est moisi
+Olorin: redemande 
+balthazar02: peuxpl us
+]
+(;B[oj]
+(;W[mk]
+(;B[ok]
+(;W[or]
+(;B[sd]
+(;W[rc]
+(;B[mb]
+(;W[ah]
+(;B[la]
+(;W[pa]
+(;B[na]
+(;W[sj]
+(;B[ra]
+(;W[qa]
+(;B[sa]
+(;W[sb]
+C[balthazar02: hahah je fais de la merde ;)
+]
+(;B[si]
+(;W[sk]
+C[Olorin: ^^
+]
+(;B[ri]
+C[Olorin: pourtant t'as joué à l'autre bout du goban mais bon ^^
+]
+(;W[ai]
+C[balthazar02: yosé la nan?
+balthazar02: heu reprend ton coup tu joue en chacal
+balthazar02: je croyais qu'on allait doucement vers la fin de partie....
+Olorin: bah ouais ça fait un bail que c'est le yosé 
+Olorin: ?
+balthazar02: can you take back your play? please?
+Olorin: mais pourquoi?
+balthazar02: je galère à cliquer sur l'endroit que je veux cliquer à chaque fois!!!
+balthazar02: ça me fatigue
+balthazar02: azrt
+Olorin: mais tu veux dire que tu voulais consolider là où j'ai joué et que t'as pas pu?
+balthazar02: attend j'ai ouvert un autre onglet!!!
+balthazar02: ordii de meeeeerde
+balthazar02: oui je suis pas teubé!!
+Olorin: ok
+balthazar02: je clique et mon pad me balance en u coup sec en haut ou sur les côtées de mon ecran...
+Olorin: ok ok
+balthazar02: genre la...
+]
+(;B[aj]
+C[Olorin: t'as pas de souris?
+]
+(;W[ag]
+C[balthazar02: non....
+]
+(;B[os]
+(;W[ps]
+(;B[ak]
+(;W[ns]
+C[balthazar02: aha ah lol j'abandonne
+balthazar02: tu joues sur mes erreures
+Olorin: bah t'as essayé aussi hein :)
+balthazar02: laisse moi reprendre mon coup je veux vraiment voir ce que ça donnerai please;...
+balthazar02: en terme de points
+Olorin: ok
+balthazar02: merci
+]
+(;B[ms]
+(;W[os]
+(;B[ma]
+C[Olorin: tkt :)
+balthazar02: c'est la fin?
+Olorin: ouais
+Olorin: tout est comblé là
+Olorin: ah non
+balthazar02: territoire neutre donc
+]
+(;W[kn]
+(;B[jn]
+(;W[]
+C[Olorin: passe :)
+]
+(;B[]
+C[Olorin: voilà
+balthazar02: j'ai passé je comprend rien avec les pierres mortes
+Olorin: accept removed stones
+Olorin: je gagne par 2,5 points
+Olorin: haha
+Olorin: et par 20 points si j'avais bouffé ton groupe je pense
+Olorin: à la louche
+Olorin: on regarde la partie?
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3101,1213,1211,balthazar02,Olorin,un,fr,"{'version': 5, 'overall': {'rating': 1226.4963713352613, 'deviation': 275.15479218856126, 'volatility': 0.0599999783593299}}","{'version': 5, 'overall': {'rating': 1356.005790619537, 'deviation': 162.37683309271029, 'volatility': 0.06003103808319124}}",19.643206575031673,21.96704602560395,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-24]
+PC[OGS: https://online-go.com/game/3101]
+GN[]
+PB[balthazar02]
+PW[Olorin]
+BR[18k]
+WR[14k]
+TM[3600]OT[5x30 byo-yomi]
+RE[W+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[Olorin: t'es noir ma poule ;)
+]
+;B[pd]
+(;W[dp]
+C[balthazar02: t'as pas eu tonannéee?
+Olorin: haha
+]
+(;B[dd]
+C[Olorin: torture psychologique
+Olorin: arriere satan
+]
+(;W[pp]
+C[balthazar02: mais pourquoiiiiiii?????
+]
+(;B[pj]
+C[Olorin: j'ai pas eu mon premier semestre!
+Olorin: une couille au rattrapage
+Olorin: spa grave je finis ma l3 en décembre
+balthazar02: hhaahhaha je m'en fous alors que sois meilleur au go moi je suis master !!
+Olorin: haha crétin
+]
+(;W[cf]
+(;B[qn]
+C[balthazar02: nan je rigole c'est dur ma poule
+]
+(;W[nq]
+C[Olorin: tkt tkt :)
+]
+(;B[ef]
+C[Olorin: j'en profite pour partir en stage dans les andes
+Olorin: apres le premier semestre
+]
+(;W[dh]
+(;B[dg]
+(;W[cg]
+(;B[jj]
+C[Olorin: bon j'ai mis une heure de réflexion à chacun
+]
+(;W[cd]
+(;B[de]
+(;W[ce]
+C[balthazar02: et la bizzarrement je joue plus vitre
+]
+(;B[dc]
+(;W[jc]
+(;B[jd]
+(;W[kd]
+(;B[qp]
+(;W[qq]
+(;B[qo]
+C[Olorin: je me disais aussi ^^
+balthazar02: je suis un vrai noob
+]
+(;W[id]
+(;B[je]
+(;W[md]
+(;B[ie]
+(;W[oc]
+(;B[hd]
+(;W[ic]
+(;B[me]
+(;W[le]
+(;B[fn]
+(;W[dn]
+(;B[dl]
+(;W[cj]
+(;B[eh]
+(;W[em]
+(;B[fp]
+(;W[cl]
+(;B[dk]
+(;W[di]
+(;B[eq]
+(;W[qf]
+(;B[qg]
+(;W[qd]
+(;B[pf]
+C[balthazar02: dsl
+]
+(;W[pc]
+(;B[nd]
+(;W[mc]
+(;B[qe]
+(;W[re]
+(;B[rf]
+(;W[pe]
+(;B[oe]
+(;W[rc]
+(;B[oo]
+(;W[kq]
+(;B[kp]
+(;W[lp]
+(;B[lo]
+(;W[mp]
+(;B[op]
+(;W[oq]
+(;B[po]
+(;W[mf]
+(;B[nf]
+(;W[lf]
+C[balthazar02: je voulais reprendre t""as joué trto vite...
+balthazar02: ?
+balthazar02: ?
+]
+(;B[ne]
+(;W[lh]
+(;B[mh]
+(;W[mi]
+(;B[mg]
+(;W[lg]
+(;B[nh]
+(;W[lj]
+(;B[nj]
+(;W[ej]
+C[balthazar02: oui bah ça va profite de meilleur niveau :)
+]
+(;B[ek]
+(;W[fl]
+C[balthazar02: heu je fais trop d'erreur c'etait un mauvaic coup ça
+balthazar02: can i take it back i have a better idea?
+Olorin: lol
+]
+(;B[fk]
+(;W[gl]
+(;B[jl]
+(;W[jg]
+(;B[ml]
+(;W[hm]
+(;B[hn]
+(;W[mo]
+(;B[ln]
+(;W[hh]
+(;B[gi]
+(;W[gb]
+C[balthazar02: hého :)
+Olorin: ?
+Olorin: quoi?
+]
+(;B[jq]
+C[balthazar02: rien
+]
+(;W[kr]
+(;B[pq]
+(;W[pr]
+(;B[pp]
+(;W[fd]
+(;B[fc]
+(;W[gc]
+(;B[gd]
+(;W[ec]
+(;B[ed]
+(;W[fb]
+(;B[eb]
+(;W[fc]
+(;B[fe]
+(;W[nn]
+(;B[rq]
+(;W[qr]
+C[balthazar02: je saisa pas quoi jouer :)
+]
+(;B[bb]
+(;W[om]
+(;B[ol]
+(;W[jr]
+(;B[jp]
+(;W[db]
+(;B[cc]
+(;W[dq]
+(;B[hj]
+(;W[iq]
+C[balthazar02: appel moi please
+balthazar02: :)
+]
+(;B[rr]
+(;W[os]
+(;B[ip]
+(;W[hq]
+(;B[gq]
+(;W[hp]
+(;B[ho]
+(;W[gr]
+(;B[fr]
+(;W[hr]
+(;B[gh]
+(;W[im]
+(;B[jm]
+(;W[in]
+(;B[go]
+(;W[io]
+(;B[ko]
+(;W[gp]
+(;B[fq]
+(;W[gm]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

@@ -1,0 +1,1924 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1602,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-01]
+PC[OGS: https://online-go.com/game/1602]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[B+R]
+SZ[9]
+KM[0.5]
+RU[AGA]
+HA[5]
+AB[ee][fe][ge][de][ce]
+;W[cc]
+(;B[bd]
+(;W[fc]
+(;B[fd]
+C[Cosha11: Sorry, explain how you get points again... I think I'm missing that slight bit. So its not apparently how many pieces you capture, but how man""Whats"" you get?
+xentac: when you finish a game, there are spaces that you've surrounded
+xentac: you count the empty spaces
+xentac: the prisoners themselves are subtracted from your empty space score
+xentac: so your goal is to surround the largest territory
+]
+(;W[gc]
+(;B[he]
+(;W[cg]
+(;B[ef]
+(;W[eg]
+(;B[fg]
+(;W[dg]
+(;B[eh]
+(;W[dh]
+(;B[fh]
+C[Cosha11: It's deceiving to tell if your online or not ;)
+Cosha11: And tell me where you have 0.5 points?
+Cosha11: Unless it spoils the game in any way
+xentac: the 0.5 is just to split ties
+xentac: I gave you 5 stones to start
+xentac: so I get an extra 0.5, so we can't have any ties
+xentac: I have a little green circle beside my name that says I'm online
+xentac: but I might not actually be at the computer...
+]
+(;W[bf]
+(;B[di]
+(;W[ci]
+(;B[ei]
+(;W[dc]
+(;B[ec]
+(;W[eb]
+(;B[ed]
+C[Cosha11: Can't you just leave me guys alone, and go put your guys in a corner or somewhere? ;)
+]
+(;W[bc]
+(;B[ac]
+(;W[ab]
+C[xentac: Nah, it's more fun to try and capture them!
+]
+(;B[ad]
+(;W[ba]
+(;B[hc]
+(;W[hb]
+(;B[ib]
+(;W[hd]
+C[xentac: that move wasn't so good...
+]
+(;B[id]
+C[Cosha11: Mine?
+Cosha11: Oh,,,,
+]
+(;W[ic]
+C[xentac: yeah
+xentac: now this situation is a little bit weird
+xentac: it looks like you'd be able to capture right back
+Cosha11: how so?
+xentac: it seems like you'd be able to play H7
+Cosha11: Nope
+Cosha11: Illigal or somewhat
+xentac: but you can't
+xentac: because it's a ko
+xentac: you can't play in the spot I just captured, if it'll put us back to where we were before
+]
+(;B[fb]
+C[xentac: so you have to play somewhere else
+]
+(;W[fa]
+C[Cosha11: Womp womp
+xentac: actually, that's a great ko threat
+xentac: if I ignored your play, you could have captured my E8 stone
+xentac: which would have been really bad for me
+xentac: so I had to play something like F9 to save myself
+xentac: which lets you play H7 now
+Cosha11: It does?
+xentac: yes
+xentac: this is how a ko fight goes
+]
+(;B[hc]
+(;W[cd]
+(;B[be]
+(;W[ic]
+C[Cosha11: Nope ;)
+]
+(;B[ea]
+(;W[gb]
+C[xentac: we are just about done
+xentac: also, shouldn't you be sleeping? :P
+]
+(;B[hc]
+C[Cosha11: Maybe maybe
+]
+(;W[if]
+C[Cosha11: But I could ask the same
+xentac: I don't have a bed time, I'm an adult!
+]
+(;B[hg]
+(;W[ic]
+(;B[hf]
+(;W[ie]
+C[xentac: uh oh, you lose the ko
+Cosha11: Why?
+xentac: well, the ko is just the capturing back and forth
+xentac: you can't do it anymore
+Cosha11: Well I know why I lost it, but how?
+xentac: the reason you lost it was because you made a move that I didn't have to respond to
+]
+(;B[ig]
+(;W[id]
+C[xentac: which gave me the opportunity to end the ko
+xentac: you should have gone with something like D8
+xentac: and dragged it out more
+xentac: you had more ko threats than I did
+xentac: in fact, my J4 was barely a threat
+xentac: but you fell for it!
+xentac: mwahaha
+]
+(;B[af]
+(;W[ag]
+(;B[ah]
+(;W[bh]
+(;B[bg]
+C[Cosha11: Bada-boom
+xentac: well played
+xentac: you beat me
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1638,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-05]
+PC[OGS: https://online-go.com/game/1638]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+90.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[Cosha11: Let the games begin...
+]
+;B[ee]
+C[Cosha11: Let the games begin...
+]
+(;W[df]
+(;B[ce]
+(;W[de]
+(;B[dd]
+(;W[ef]
+(;B[ff]
+(;W[ed]
+(;B[fe]
+(;W[cd]
+(;B[dc]
+(;W[be]
+(;B[cf]
+(;W[cg]
+(;B[bf]
+(;W[bg]
+(;B[af]
+(;W[ag]
+C[Cosha11: This sucks
+Cosha11: So if I go to B6, you wouldnt be able to play on A5 right?
+Cosha11: Or would you just capture and I wouldnt be able to play there...
+]
+(;B[bd]
+(;W[ae]
+(;B[ac]
+(;W[bc]
+(;B[cc]
+(;W[ad]
+(;B[ab]
+(;W[bb]
+C[Cosha11: So if I play at B9, you would be able to play A9?
+]
+(;B[fg]
+(;W[ec]
+C[xentac: That is correct.
+xentac: Sorry, I'm playing on my phone and didn't notice your typing.
+]
+(;B[cb]
+(;W[db]
+(;B[eb]
+(;W[ca]
+(;B[fc]
+(;W[fb]
+(;B[gb]
+(;W[fd]
+(;B[gd]
+(;W[gc]
+C[Cosha11: Stupid...
+]
+(;B[fa]
+(;W[hb]
+(;B[fc]
+(;W[hc]
+(;B[ha]
+(;W[ge]
+(;B[hd]
+(;W[he]
+(;B[id]
+(;W[ie]
+(;B[ib]
+(;W[ic]
+(;B[gd]
+(;W[hd]
+(;B[hf]
+(;W[gf]
+(;B[gg]
+(;W[hg]
+(;B[hh]
+(;W[if]
+(;B[ig]
+(;W[ih]
+(;B[ii]
+C[xentac: It's a lot harder when you don't have handicap pieces to fall back to
+]
+(;W[hi]
+(;B[gi]
+(;W[gh]
+(;B[fi]
+(;W[fh]
+(;B[eh]
+(;W[ei]
+(;B[di]
+(;W[eg]
+C[Cosha11: Juuuuuuuuuuuuuuuuuuuuuuuuuunk
+]
+(;B[dh]
+C[xentac: Come at my bro
+Cosha11: me*
+]
+(;W[ch]
+C[Cosha11: What was the saying you used?
+]
+(;B[ci]
+C[xentac: Aww stupid auto complete
+]
+(;W[bi]
+(;B[bh]
+C[xentac: What? You steppin? 
+]
+(;W[dg]
+(;B[ci]
+(;W[]
+(;B[ai]
+C[Cosha11: I GOT ONE I GOT ONE!!
+]
+(;W[ah]
+(;B[di]
+C[xentac: Number 2 actually
+]
+(;W[]
+(;B[eh]
+(;W[dh]
+C[Cosha11: That it? Pass?
+xentac: Sure
+xentac: You could have passed a long time ago
+]
+(;B[bf]
+C[Cosha11: Ah...
+]
+(;W[]
+(;B[]
+C[xentac: I got all the points and you got none of them... 
+xentac: Ready to be reasonable? :P
+Cosha11: :P
+Cosha11: One more with no handicap, then we'll bump it up if I dont improve
+xentac: I don't think it's worth it, to be honest. You have to understand life and death and eyes better before then.
+Cosha11: Alrighty, that'll work
+xentac: We could try 3 or 4 handicap. And you might also want to choose the more traditional starting position. 
+xentac: Which would you prefer 3 or 4?
+Cosha11: Lets go with 4 then (is that traditional?)
+xentac: I mean there are traditional placements for the handicap stones. No matter how many there are. 
+Cosha11: Alrighty, Ill google them and use them for next round
+xentac: http://senseis.xmp.net/?HandicapStonePlacementOnSmallerBoards
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1816,809,25,Cosha11,sayaqubit,ca,us,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1199.4302226484647, 'deviation': 104.20556110152884, 'volatility': 0.06001514683352674}}",24.303382182144386,19.12661440408453,False,False,provisional,supporter,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-15]
+PC[OGS: https://online-go.com/game/1816]
+GN[Cosha11]
+PB[Cosha11]
+PW[saya]
+BR[30k]
+WR[29k]
+TM[604800]OT[1/604800 canadian]
+RE[B+10.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[saya: hi. good game, have fun :)
+]
+;B[ee]
+(;W[fe]
+(;B[ef]
+(;W[cc]
+(;B[dd]
+C[Cosha11: You too!
+]
+(;W[be]
+(;B[dc]
+(;W[db]
+(;B[eb]
+(;W[fc]
+(;B[ec]
+(;W[fd]
+(;B[fb]
+(;W[hb]
+(;B[gb]
+(;W[hc]
+(;B[gc]
+(;W[de]
+(;B[ed]
+(;W[cd]
+(;B[cb]
+(;W[ca]
+(;B[da]
+(;W[bb]
+C[saya: doh
+]
+(;B[ba]
+C[Cosha11: Sorry chap :)
+saya: lol
+]
+(;W[bc]
+(;B[ff]
+(;W[gd]
+(;B[hd]
+C[saya: hm this is not going well for me
+]
+(;W[df]
+(;B[eg]
+(;W[eh]
+C[Cosha11: Bad move...
+]
+(;B[dg]
+(;W[cf]
+(;B[cg]
+(;W[bg]
+(;B[af]
+C[Cosha11: ""Eye"""" see what your doing ;)
+]
+(;W[bf]
+C[saya: are you 30k or just not ranked yet?
+Cosha11: Is 30K high or low?
+]
+(;B[ag]
+C[saya: low
+]
+(;W[ae]
+C[Cosha11: Well I had a good teacher :) 
+Cosha11: I havent been playing long though
+]
+(;B[bh]
+C[saya: me either :)
+]
+(;W[ah]
+C[Cosha11: If it enlightens you, your my first opponent other than my mentor 
+]
+(;B[ch]
+C[saya: I'm honored. I think you are better than me, although I've been playing many people (long games) since ~January
+Cosha11: Ah
+]
+(;W[ag]
+C[Cosha11: My First month :D
+saya: long games sometimes make it hard to learn I think
+Cosha11: Well what my mentor does it review it with me, did you want to do that in the end?
+]
+(;B[bi]
+C[saya: sure
+]
+(;W[ai]
+(;B[ge]
+(;W[ab]
+(;B[db]
+C[Cosha11: We're almost done
+]
+(;W[aa]
+(;B[ca]
+(;W[fd]
+(;B[he]
+(;W[gg]
+(;B[gf]
+(;W[fh]
+(;B[]
+(;W[fg]
+C[saya: I'm not giving up yet
+]
+(;B[hg]
+C[saya: =D
+]
+(;W[if]
+C[Cosha11: Well, at this point placing stones I dont need to respond to is giving me points
+Cosha11: But if you can survive on my side, go for it then
+]
+(;B[gh]
+(;W[hh]
+C[Cosha11: oops....
+]
+(;B[ig]
+(;W[gi]
+(;B[ih]
+(;W[hi]
+(;B[di]
+(;W[ei]
+(;B[dh]
+(;W[ii]
+(;B[hf]
+C[saya: now you have two eyes and I can't make more, so I'm happy. ready to pass and finish?
+Cosha11: Im ready
+]
+(;W[]
+(;B[]
+C[Cosha11: Cool, ready to review?
+saya: you killed me. 'grats. :)
+saya: yea
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1576,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-05-31]
+PC[OGS: https://online-go.com/game/1576]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+10.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[5]
+AB[ee][dd][cc][ff][gg]
+;W[df]
+C[xentac: I don't know why they let you choose the handicap placement
+xentac: http://senseis.xmp.net/?HandicapStonePlacementOnSmallerBoards
+xentac: this is the traditional positions
+Cosha11: Maybe on the way the game was set up?
+]
+(;B[ef]
+(;W[ed]
+C[xentac: I thought that japanese rules forced you to have a fixed layout...
+]
+(;B[fd]
+(;W[ec]
+(;B[fc]
+(;W[eb]
+(;B[fb]
+(;W[cb]
+(;B[ea]
+C[Cosha11: So to take a piece of yours, diagonal doesn't count as touching right?
+Cosha11: Loyalties*
+xentac: liberties
+xentac: that's correct, only the lines coming off of it count
+Cosha11: Cool
+]
+(;W[da]
+(;B[fa]
+(;W[bb]
+(;B[bc]
+(;W[ab]
+(;B[cd]
+(;W[de]
+(;B[ce]
+(;W[cf]
+(;B[bf]
+(;W[bg]
+C[Cosha11: So let me get this straight...
+Cosha11: If you put a piece on A3, you get all the guys on the left-ish
+xentac: ""get all"" them, how?
+xentac: I wouldn't capture anything
+xentac: but you'd have to make the group alive...
+Cosha11: I see
+]
+(;B[ag]
+(;W[be]
+(;B[ae]
+(;W[af]
+(;B[dc]
+(;W[db]
+C[Cosha11: And If I got to a7, I get all your men?
+xentac: how many lines are coming off that group?
+xentac: how many open spaces
+xentac: even if you went to a7, you'd still have to go to a9, b9, and c9
+xentac: those are all open
+Cosha11: Ah gotcha
+]
+(;B[ac]
+(;W[ad]
+C[xentac: how many liberties does your B7 group have now?
+Cosha11: 7
+Cosha11: And if you go b6, you get them all.....
+xentac: no... it only has 1
+xentac: liberties are only counted as open spaces
+Cosha11: OH! 
+xentac: once a group has no liberties, it's captured
+xentac: so you had that part right
+Cosha11: So if I go to b6, you get the group?
+xentac: I don't think you're allowed to go to B6
+xentac: because you're not allowed to capture yourself
+xentac: ""suicide""
+]
+(;B[fe]
+(;W[eg]
+(;B[fg]
+(;W[eh]
+(;B[gh]
+(;W[fh]
+(;B[fi]
+(;W[ei]
+(;B[gi]
+(;W[]
+C[Cosha11: Did you pass?
+xentac: yes
+xentac: there aren't any more moves to make
+Cosha11: For either of us?
+xentac: that's correct
+xentac: you can't threaten anything of mine
+xentac: I can't threaten anything of yours
+]
+(;B[di]
+C[Cosha11: What about that..
+]
+(;W[dh]
+(;B[ci]
+(;W[ch]
+C[Cosha11: :(
+]
+(;B[bi]
+C[xentac: hehehe
+]
+(;W[bh]
+(;B[ai]
+(;W[ah]
+C[xentac: yum
+]
+(;B[]
+(;W[]
+C[Cosha11: Well then..
+xentac: ok, I win by 10
+xentac: which is pretty good for you actually
+Cosha11: Is that bad? :P
+xentac: I expected you to have a lot more trouble
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))"
+1903,809,25,Cosha11,sayaqubit,ca,us,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1199.4302226484647, 'deviation': 104.20556110152884, 'volatility': 0.06001514683352674}}",24.303382182144386,19.12661440408453,False,False,provisional,supporter,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-19]
+PC[OGS: https://online-go.com/game/1903]
+GN[Go!]
+PB[Cosha11]
+PW[saya]
+BR[30k]
+WR[29k]
+TM[1814400]OT[20/12096000 canadian]
+RE[W+T]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+;B[ee]
+(;W[ef]
+(;B[de]
+(;W[df]
+(;B[fe]
+(;W[ff]
+(;B[ge]
+(;W[gf]
+(;B[ce]
+(;W[cf]
+(;B[bf]
+(;W[bd]
+(;B[cc]
+(;W[cb]
+(;B[db]
+(;W[dc]
+C[saya: doh
+saya: that wasn't good :( lol
+]
+(;B[ec]
+C[Cosha11: Could be worse
+]
+(;W[cd]
+(;B[dd]
+(;W[bc]
+(;B[dc]
+(;W[ca]
+(;B[bb]
+(;W[ab]
+(;B[ba]
+(;W[aa]
+(;B[ad]
+C[Cosha11: Just got worse ;)
+]
+(;W[bb]
+(;B[ae]
+(;W[be]
+(;B[da]
+(;W[bg]
+(;B[hf]
+(;W[af]
+))))))))))))))))))))))))))))))))))"
+1914,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-20]
+PC[OGS: https://online-go.com/game/1914]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[1814400]OT[20/1728000 canadian]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+;W[fo]
+(;B[ho]
+(;W[dl]
+(;B[gm]
+(;W[gn]
+(;B[hm]
+(;W[hn]
+(;B[in]
+(;W[fm]
+C[Cosha11: Oh, thanks for the lesson by the way :)
+xentac: you're welcome
+xentac: it's fun
+xentac: I especially like saying, ""that move is stupid""
+Cosha11: Well as long as its not boring ;)
+xentac: I like making you think
+]
+(;B[gl]
+C[xentac: EMPTY TRIANGLE
+]
+(;W[pf]
+C[Cosha11: GAAAAAAAAAAAAAAAAAAAAAH
+Cosha11: I THOUGHT ABOUT IT TO!
+]
+(;B[om]
+(;W[nd]
+(;B[oe]
+(;W[ng]
+(;B[nf]
+(;W[of]
+(;B[ne]
+C[Cosha11: See what I did there? ;D
+]
+(;W[ql]
+(;B[pk]
+(;W[pn]
+(;B[on]
+(;W[po]
+(;B[oo]
+(;W[pl]
+(;B[pm]
+(;W[qm]
+(;B[qn]
+(;W[qo]
+C[xentac: there you go, I gave you the undo
+Cosha11: :D
+]
+(;B[rn]
+C[Cosha11: NO
+Cosha11: D:
+]
+(;W[ro]
+C[Cosha11: Dead?
+xentac: it'll be hard to make it live
+xentac: either by capturing or making it out
+xentac: gotta go now
+Cosha11: Later
+]
+(;B[rm]
+(;W[rl]
+(;B[ol]
+(;W[mj]
+(;B[nk]
+(;W[lk]
+(;B[mk]
+(;W[kk]
+(;B[jk]
+(;W[li]
+(;B[kj]
+C[Cosha11: Was that a good move? Since its not an empty triangle right...
+xentac: it is not an empty triangle, this is true
+]
+(;W[lj]
+(;B[ll]
+(;W[kl]
+(;B[lm]
+(;W[km]
+(;B[ln]
+(;W[kn]
+(;B[ko]
+C[Cosha11: Hey, is there a time limit on our Go game?
+xentac: yeah, you have 15 days + 2 weeks and 6 days per 20 moves
+]
+(;W[im]
+C[Cosha11: Well Im leaving for vacation tomorrow...
+]
+(;B[jn]
+C[xentac: We shall see if you run out of time or not.  Usually they have vacation days that kick in.
+]
+(;W[jm]
+(;B[il]
+(;W[gi]
+(;B[hk]
+(;W[ij]
+(;B[ii]
+(;W[hj]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1690,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-08]
+PC[OGS: https://online-go.com/game/1690]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+1.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[gc][cc][cg][gg]
+;W[ee]
+(;B[fd]
+(;W[fe]
+(;B[ge]
+(;W[cd]
+(;B[dc]
+(;W[fg]
+(;B[ff]
+(;W[ef]
+(;B[gf]
+(;W[fh]
+(;B[gh]
+(;W[dd]
+(;B[ec]
+(;W[bc]
+(;B[cb]
+(;W[bb]
+(;B[ca]
+(;W[dg]
+(;B[ed]
+(;W[ba]
+(;B[gi]
+(;W[fi]
+(;B[gd]
+(;W[]
+C[Cosha11: Passing time?
+xentac: is there anything you can attack?
+xentac: or that you need to defend?
+Cosha11: Well you passed right?
+xentac: I did
+xentac: but you have to make the decision yourself
+Cosha11: Well you get points for pieces you capture right?
+xentac: yes...
+xentac: but every piece you play is a lost point
+]
+(;B[]
+))))))))))))))))))))))))))"
+1734,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-10]
+PC[OGS: https://online-go.com/game/1734]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[B+19.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[gc][cc][cg][gg]
+;W[ee]
+(;B[fd]
+(;W[fg]
+(;B[fe]
+(;W[ff]
+(;B[gf]
+(;W[dc]
+(;B[dd]
+(;W[ed]
+(;B[ec]
+(;W[db]
+(;B[ef]
+(;W[de]
+(;B[cd]
+(;W[dg]
+(;B[eg]
+(;W[fh]
+(;B[ce]
+(;W[df]
+(;B[eh]
+(;W[dh]
+C[xentac: thanks
+xentac: those stones are so yummy
+]
+(;B[gh]
+(;W[fi]
+(;B[gi]
+(;W[ei]
+C[Cosha11: *sigh*
+]
+(;B[eb]
+C[xentac: you should have known they were dead at move 24 or 25
+]
+(;W[cf]
+(;B[cb]
+(;W[be]
+(;B[bd]
+(;W[bf]
+(;B[ae]
+(;W[af]
+(;B[ad]
+(;W[]
+C[Cosha11: You pass?
+xentac: yes
+Cosha11: And if so, I should play D9, or should that be automatic
+xentac: it's dead already
+xentac: you don't have to play anything
+]
+(;B[da]
+C[xentac: if it doesn't have two eyes or couldn't get them, it's dead
+Cosha11: :)
+xentac: well, now you just lost yourself a point
+]
+(;W[]
+C[xentac: would you like to lose more?
+]
+(;B[]
+C[xentac: ok, you mark the dead stones
+Cosha11: Just mine?
+xentac: yup
+xentac: you win
+xentac: by 19.5
+xentac: good work
+xentac: we might have to go to 3 stones soon
+Cosha11: Down to three handicap :)
+Cosha11: So by playing d9, I lost a point
+xentac: yes
+xentac: because those stones were dead
+Cosha11: And it would have been concidered dead already
+xentac: you would have had an extra space at d9
+Cosha11: I see
+xentac: because here
+xentac: my score right now is 17.5
+xentac: ignoring your black stone
+xentac: how many spaces do I have
+xentac: empty spaces
+Cosha11: 12
+Cosha11: 13
+xentac: right
+xentac: 12 not including the black one
+xentac: I captured 3 in the game
+xentac: 12 + 3 is...?
+Cosha11: 15
+Cosha11: but what about that dead one?
+Cosha11: You dont count that?
+xentac: so the black stone at C3 is also considered captured
+xentac: and the space it took up in mine
+xentac: so 15 + 2 more
+Cosha11: Or is it counted by a space
+Cosha11: Ah
+Cosha11: 17
+xentac: that's how I got 17
+Cosha11: I think I get it
+xentac: [object Object\]
+xentac: [object Object\]
+xentac: neat
+xentac: can you mouse over those ones?
+Cosha11: So 12 for spaces, 4 for deads...
+Cosha11: Yeah
+xentac: 13 for spaces
+xentac: because the C3 space is empty after we remove the dead stone
+Cosha11: Ah, NOW I get it
+xentac: ok so
+xentac: next game
+xentac: 4 stones or 3?
+Cosha11: 3
+Cosha11: Until I beat you there
+Cosha11: And then just go down till theres none
+xentac: hehehe
+Cosha11: And you can decide when you want to use the big board
+xentac: actually, before then we'll probably go to the big board
+xentac: sometime around 3 or 2 handicap stones
+xentac: and then we'll play on a board where you'll get 9
+Cosha11: Why, you act as if that may take awhile to beat you with no handicap
+Cosha11: ;)
+xentac: yes, it's a very different game
+xentac: if you can beat me with no handicap, I would expect you to be able to do some serious damage against me on a big board
+xentac: but the strategy on a small board is different than a big one
+Cosha11: By a lot?
+xentac: think of the 9x9 as the kiddie pool
+xentac: they're related
+Cosha11: Or can you transfer over stuff youve learned here
+xentac: would you rather be able to do laps in the kiddie pool?
+Cosha11: like eyes
+xentac: or would you like to swim sooner in the big pool?
+xentac: being awesome at 9x9 isn't the goal, being awesome at 19x19 is
+Cosha11: Alright
+xentac: we'll drop down to 3 handicap next
+]
+))))))))))))))))))))))))))))))))))))))"
+1735,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-10]
+PC[OGS: https://online-go.com/game/1735]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+14.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[cc][cg][gg]
+;W[fd]
+(;B[dd]
+(;W[ef]
+(;B[de]
+(;W[df]
+(;B[cf]
+(;W[ec]
+(;B[dc]
+(;W[eb]
+(;B[db]
+(;W[dh]
+(;B[dg]
+(;W[eg]
+(;B[ch]
+(;W[eh]
+(;B[ee]
+(;W[ff]
+(;B[gf]
+(;W[fe]
+(;B[ed]
+(;W[gh]
+(;B[fc]
+(;W[fb]
+(;B[gc]
+(;W[gb]
+(;B[ge]
+(;W[gd]
+(;B[hc]
+(;W[hd]
+(;B[he]
+(;W[hb]
+(;B[ic]
+(;W[id]
+C[xentac: you just connected a piece to a dead group...
+Cosha11: Can I save the guys at the bottem with eyes?
+xentac: maybe
+xentac: you have to be careful
+]
+(;B[ie]
+(;W[hh]
+C[xentac: that won't do...
+]
+(;B[hg]
+(;W[ci]
+(;B[bi]
+(;W[di]
+(;B[bh]
+(;W[ib]
+(;B[fh]
+(;W[fg]
+(;B[ea]
+(;W[fa]
+(;B[da]
+(;W[]
+(;B[]
+C[xentac: good
+Cosha11: Getting there
+xentac: back in a bit
+Cosha11: Cool
+Cosha11: Later
+xentac: ok, back
+]
+))))))))))))))))))))))))))))))))))))))))))))))))"
+1824,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-16]
+PC[OGS: https://online-go.com/game/1824]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+8.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[cc][cg][gg]
+;W[fc]
+(;B[de]
+(;W[ef]
+(;B[df]
+(;W[eg]
+(;B[dg]
+(;W[ee]
+(;B[dh]
+(;W[eh]
+(;B[ei]
+(;W[fi]
+C[xentac: normally you save a move like that till the end
+xentac: but in this case, I sort of have to respond to it
+]
+(;B[di]
+C[Cosha11: But then you could just do the same thing to me first...
+Cosha11: Or does it not affect the amount of points for either side
+xentac: It does, but it's a small number of points compared to other moves you could make on the board
+xentac: you always want to think what the best move is, not just what a move is
+]
+(;W[fh]
+(;B[ec]
+C[xentac: That's better
+xentac: Much bigger
+]
+(;W[ed]
+(;B[dd]
+(;W[eb]
+C[Cosha11: Sorry, even still this rules gets me, if I play d8, you would STILL be able to kill e7? EVEN THOUGH, its ""kinda"" looks like suicide
+Cosha11: Nvm, figured it out
+]
+(;B[dc]
+C[xentac: yes, I would be able to play d8, because my move would be capturing and opening up a liberty at e7... it's a ko
+]
+(;W[db]
+(;B[cb]
+(;W[gf]
+(;B[da]
+(;W[fb]
+(;B[ea]
+(;W[fa]
+C[Cosha11: Another small detail
+xentac: yes?
+Cosha11: If I try like crazy to save g3, the result of me placing my men gives you more points in the end?
+xentac: these are two situations
+xentac: either you can make something that lives
+xentac: in that case, all the empty space is yours and not mine
+Cosha11: But if I fail...
+xentac: if you place a stone and I respond
+xentac: then it's net 0
+xentac: as in, no points are gained or lost
+Cosha11: So its worth a shot to try and save it?
+xentac: the only way you would lose points
+xentac: is if you played and I didn't respond
+Cosha11: ?
+xentac: so you have to be careful that every piece you play is necessary for life
+xentac: if you played a move that I didn't need to respond to, then it's free points for me
+Cosha11: So as long as you place a stone to respond, its worth nothing?
+xentac: that's right
+xentac: they cancel out
+Cosha11: Since if we passed right now, you'd win eh?
+Cosha11: ;)
+xentac: well... you need to protect something first...
+xentac: but I think I would win
+Cosha11: k
+]
+(;B[ca]
+C[Cosha11: Juuuust double checking
+]
+(;W[hg]
+(;B[fd]
+(;W[gd]
+(;B[fe]
+(;W[ff]
+(;B[gh]
+(;W[hh]
+(;B[hi]
+(;W[]
+(;B[hf]
+(;W[gi]
+(;B[ge]
+C[xentac: ok, look at what you just did
+xentac: the group had how many liberties before?
+Cosha11: What one?
+Cosha11: F 56?
+Cosha11: 5-6*
+xentac: yeah
+xentac: the one you just extended
+Cosha11: One, and it still has one
+xentac: ok
+Cosha11: Just pass one more time please :)
+xentac: so what did that move gain you?
+]
+(;W[he]
+C[Cosha11: Hope?
+Cosha11: :P
+xentac: nope
+xentac: it wouldn't have gained you anything
+xentac: even if I had passed
+Cosha11: Yeah, it would
+Cosha11: If I played at f3
+Cosha11: Then I'd eat all those guys and win
+xentac: hehehe
+Cosha11: BUT since you didnt pass....
+xentac: sure...
+Cosha11: I now die D:
+xentac: I could have played in so many ways to protect that
+Cosha11: But I was one move away
+]
+(;B[]
+(;W[]
+C[xentac: 8.5 points
+xentac: it would have been 7.5, but I passed once
+Cosha11: Getting there
+xentac: yup
+xentac: do we need to go over this one?
+xentac: I don't see many mistakes, apart from maybe not trying to save your stone sooner
+Cosha11: Well I think I got it, unless you want to point anything out
+xentac: also, trying to split me is a good thing
+xentac: let's go over a couple things
+]
+)))))))))))))))))))))))))))))))))))))))))"
+1658,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-05]
+PC[OGS: https://online-go.com/game/1658]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+35.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[cc][gc][gg][cg]
+;W[ef]
+(;B[de]
+(;W[df]
+(;B[cf]
+(;W[fd]
+(;B[ee]
+(;W[ff]
+(;B[fe]
+(;W[gf]
+(;B[cd]
+(;W[gd]
+(;B[fc]
+(;W[ec]
+(;B[eb]
+(;W[db]
+(;B[dc]
+(;W[ed]
+(;B[hd]
+(;W[fb]
+(;B[gb]
+(;W[ea]
+C[Cosha11: I hate it when you do that
+xentac: what? capture something?
+xentac: or trick you?
+Cosha11: Take one without my knowing of the move before hand
+Cosha11: And one I could have prevented
+xentac: well, you should have seen it
+xentac: once I played F8, it was inevitable
+Cosha11: Could have least given me a hint...
+Cosha11: ;)
+]
+(;B[ga]
+C[xentac: if you'd like that, I can do that next time
+]
+(;W[he]
+C[Cosha11: No, all in good fun
+]
+(;B[ie]
+(;W[hc]
+(;B[id]
+(;W[if]
+C[Cosha11: Hah! Saw it comming!
+xentac: whoops
+xentac: *sad trombone*
+Cosha11: Are you seeing something that im not?
+Cosha11: Since all i see is J7
+Cosha11: Slowly comming
+xentac: how do you stop the J6 group from being captured?
+Cosha11: Is there a way?
+xentac: no
+xentac: I thought when you said you ""saw it comming"" you meant that you protected yourself
+Cosha11: No, I was meaning h6 D:
+xentac: ah
+xentac: but then you played J5
+xentac: even though it didn't help you
+xentac: you basically gave up another piece
+]
+(;B[ce]
+(;W[cb]
+(;B[bd]
+(;W[bb]
+(;B[ac]
+(;W[dh]
+(;B[ch]
+(;W[dg]
+(;B[di]
+(;W[ei]
+(;B[ci]
+(;W[fh]
+C[Cosha11: Poor little G3....
+xentac: that combination of moves is a very common end game one
+xentac: indeed
+xentac: yummy
+]
+(;B[hg]
+C[xentac: another way to think about it though... you never took any steps to save him...
+]
+(;W[gh]
+C[Cosha11: The concept of eyes is comming in handy
+xentac: you read about it?
+xentac: eyes are very key... once a group has eyes, it's uncapturable
+xentac: that's how you prove to everyone that something is your territory
+Cosha11: really?
+xentac: essentially
+]
+(;B[ig]
+C[xentac: unless a group has two eyes, it's dead
+]
+(;W[hf]
+C[Cosha11: How many eyes do you need?
+xentac: 2
+xentac: one eye is not enough
+xentac: I can show you later
+]
+(;B[hi]
+(;W[hh]
+(;B[ih]
+(;W[fg]
+(;B[gi]
+(;W[fi]
+(;B[ge]
+(;W[ic]
+(;B[hb]
+(;W[ib]
+(;B[ia]
+(;W[fa]
+C[Cosha11: Should I be passing now?
+xentac: no ko for you
+xentac: nope
+xentac: not quite yet
+]
+(;B[ab]
+(;W[bc]
+C[xentac: good
+]
+(;B[ba]
+(;W[ca]
+C[Cosha11: good?
+xentac: yeah, good, you figured out where you needed to play
+xentac: that was still open
+]
+(;B[aa]
+(;W[ad]
+C[xentac: sadly, that wasn't the right play
+Cosha11: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+]
+(;B[ae]
+(;W[ac]
+C[xentac: mmmm... the taste of your tears
+xentac: they're so sweet
+Cosha11: Passing time?
+xentac: yeah
+]
+(;B[]
+(;W[]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1660,796,809,biovf,Cosha11,pt,ca,"{'version': 5, 'overall': {'rating': 1241.2027455881605, 'deviation': 233.36750989033806, 'volatility': 0.05999859335765335}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",19.919136968843286,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-06]
+PC[OGS: https://online-go.com/game/1660]
+GN[Pratice]
+PB[biovf]
+PW[Cosha11]
+BR[30k]
+WR[30k]
+TM[259200]OT[1/259200 canadian]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"
+1707,836,809,piotrf,Cosha11,pl,ca,"{'version': 5, 'overall': {'rating': 1342.5459130375302, 'deviation': 65.99214108752061, 'volatility': 0.060026555877903745}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",21.73610826025801,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-10]
+PC[OGS: https://online-go.com/game/1707]
+GN[]
+PB[piotrf]
+PW[Cosha11]
+BR[30k]
+WR[30k]
+TM[86400]OT[1/86400 canadian]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"
+1713,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-10]
+PC[OGS: https://online-go.com/game/1713]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[604800]OT[1/604800 canadian]
+RE[W+20.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[gc][cc][cg][gg]
+;W[fd]
+(;B[dd]
+(;W[eg]
+(;B[df]
+(;W[ef]
+(;B[de]
+(;W[ec]
+(;B[dc]
+(;W[dg]
+C[Cosha11: :(
+xentac: what?
+Cosha11: You didnt see what I was doing?
+xentac: no... I think you're confused
+Cosha11: Ill tell you later
+xentac: if you're trying to make eyes... you have lots of opportunity still
+]
+(;B[fg]
+(;W[ch]
+(;B[ee]
+(;W[fe]
+(;B[ff]
+(;W[hd]
+(;B[eh]
+(;W[dh]
+C[Cosha11: And thats komi right?
+xentac: you mean atari?
+Cosha11: Thats the one
+xentac: komi is the 0.5 I get at the beginning
+xentac: that's correct
+xentac: you put the D3 group in atari
+]
+(;B[di]
+C[xentac: a hahane?
+xentac: really...
+]
+(;W[fh]
+C[Cosha11: dead? :(
+xentac: you tell me
+Cosha11: yeah....
+Cosha11: So would it be better to TRY and save it? or just go do something else
+xentac: well, no matter what you lose E2
+xentac: so given that, what is the state of your other pieces?
+Cosha11: If I play e1, it would end up as dead, through 2-3 moves
+xentac: that's what I'm saying
+xentac: look at the board
+xentac: and pretend E2 isn't there
+xentac: same with D1
+xentac: what does that tell you about other pieces?
+]
+(;B[bg]
+(;W[bh]
+(;B[ag]
+(;W[hc]
+(;B[eb]
+(;W[fb]
+(;B[db]
+C[Cosha11: Correct?
+xentac: that saves E8, for sure
+]
+(;W[fc]
+C[xentac: good that you recognized it though
+]
+(;B[fa]
+(;W[ga]
+(;B[ea]
+(;W[hb]
+(;B[gh]
+(;W[ei]
+(;B[ge]
+(;W[gd]
+(;B[he]
+(;W[ie]
+(;B[if]
+(;W[id]
+C[Cosha11: So if you didnt play j5, and I went down to j2, and h2, would those be eyes?
+xentac: I don't fully understand the question
+Cosha11: Ill draw it out after then, since its moot
+xentac: the spaces have to be completely surrounded... so who would have played at J5?
+Cosha11: me
+Cosha11: leave h4, g4, and h3, open
+Cosha11: leaving*
+xentac: if you had a piece at J5, H2 and J2
+xentac: you would have 5 spaces
+xentac: only one eye
+xentac: at that point
+xentac: if you then played H4
+xentac: you would have two eyes
+xentac: or H3 and J4
+xentac: that would have separated them into two eyes
+Cosha11: K
+Cosha11: But now i cant right?
+xentac: no, you totally can
+xentac: you just need two separated spaces within there somewhere
+xentac: I'm hoping that you can't so I can win ;)
+Cosha11: So IF I played h3, j3. would those be eyes?
+Cosha11: In the corner
+xentac: if you play H3, G4 and H4 would be one eyes
+Cosha11: I have a mic if thats quicker
+xentac: eye
+xentac: I have a call to make at 2
+xentac: so I don't have a lot of time
+Cosha11: Alrighty, Ill make it quick then
+xentac: so you want to use the mic?
+xentac: or no?
+Cosha11: Either way
+xentac: how about we finish it now
+Cosha11: K
+xentac: and then maybe review with audio after my call
+xentac: sometime...
+Cosha11: That works
+Cosha11: ;)
+Cosha11: So eyes have to be seperated
+]
+(;B[gi]
+(;W[hf]
+C[xentac: that's right
+]
+(;B[gf]
+C[xentac: now you're in trouble though
+]
+(;W[hg]
+(;B[ig]
+(;W[ih]
+(;B[hh]
+(;W[if]
+(;B[ii]
+(;W[hi]
+(;B[ha]
+(;W[ia]
+(;B[]
+(;W[ah]
+(;B[]
+(;W[]
+C[Cosha11: I see the mistake I made by not playing A2
+xentac: you would have had me
+xentac: nah
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1738,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-11]
+PC[OGS: https://online-go.com/game/1738]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+29.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gc][cg][gg]
+;W[dd]
+C[xentac: I can't play this one realtime
+Cosha11: No worries
+xentac: but I'll be able to make a couple moves today
+]
+(;B[cc]
+(;W[dc]
+(;B[cd]
+(;W[eg]
+(;B[dg]
+(;W[ef]
+(;B[df]
+(;W[de]
+(;B[ce]
+(;W[ge]
+(;B[ee]
+(;W[ed]
+C[Cosha11: oops..
+]
+(;B[fe]
+(;W[gd]
+C[xentac: well, not really...
+Cosha11: Now that I see, I was meaning when you put my guy in atari
+xentac: [object Object\]
+]
+(;B[gf]
+C[Cosha11: JUNK
+]
+(;W[ff]
+C[xentac: except now you do...
+]
+(;B[fg]
+(;W[eh]
+(;B[fh]
+(;W[dh]
+(;B[ch]
+(;W[fd]
+C[Cosha11: My stomach growls in anticipation...
+]
+(;B[di]
+C[Cosha11: Oh...
+]
+(;W[ei]
+(;B[ci]
+(;W[cb]
+(;B[bb]
+(;W[db]
+(;B[bc]
+(;W[hc]
+C[Cosha11: Gunna think this out for a bit, fyi...
+xentac: sure
+]
+(;B[hf]
+(;W[he]
+(;B[if]
+(;W[hh]
+C[Cosha11: bummer
+xentac: I'm not all that good at life and death problems
+xentac: so this might still be alive...
+]
+(;B[fi]
+(;W[hi]
+(;B[ih]
+(;W[ii]
+C[Cosha11: So if I play h3
+Cosha11: Youd still be able to play j3
+Cosha11: which starts a ko fight
+Cosha11: right?
+xentac: correct
+xentac: but what happens if you win the ko fight?
+Cosha11: you lose the ko fight?:D
+xentac: [object Object\]
+xentac: even if you win, it will look like that
+Cosha11: So they're dead
+Cosha11: Right?
+xentac: I'm going to say yes
+Cosha11: But is that what really happens?
+xentac: no, I'm pretty sure that no matter what happens they're dead
+]
+(;B[ig]
+C[Cosha11: :D
+Cosha11: Huzza! It looks like they can live
+]
+(;W[ba]
+C[xentac: no, they can't...
+]
+(;B[aa]
+C[Cosha11: You cant kill them
+Cosha11: Id have to play first right?
+Cosha11: How do you do variations
+xentac: if you click Analyze Game and then go through a variation, give it a name, and click Share
+]
+(;W[ca]
+C[Cosha11: [object Object\]
+xentac: except I wouldn't play like that...
+]
+(;B[ab]
+C[xentac: [object Object\]
+]
+(;W[]
+C[Cosha11: What order do you play?
+xentac: you have to look at all possible combinations
+xentac: click on the variation and you'll see
+Cosha11: But why would I play H3?
+Cosha11: Then its just suicide with you
+xentac: ok
+xentac: well then
+xentac: let's try
+xentac: there's one way to find out ;)
+xentac: I think even if you pass, we can still fight it out
+Cosha11: [object Object\]
+]
+(;B[ie]
+C[xentac: I would never play H3 except as the move to capture
+]
+(;W[id]
+C[Cosha11: Gimmie a sec
+]
+(;B[]
+C[Cosha11: Your right
+]
+(;W[gi]
+C[xentac: there was one move you could have made to make it seki
+Cosha11: Was?
+xentac: well, I just made it
+xentac: ;)
+]
+(;B[]
+(;W[]
+C[Cosha11: And by doing that I would have won?
+xentac: seki is neither alive or dead
+xentac: it's worth nothing
+xentac: but it would have removed my points
+xentac: it was worth about 22 points
+Cosha11: ouch
+xentac: so that would have brought our score to a difference of 7.5
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))"
+3907,471,809,xentac,Cosha11,ca,ca,"{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",23.349918379753024,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-18]
+PC[OGS: https://online-go.com/game/3907]
+GN[]
+PB[xentac]
+PW[Cosha11]
+BR[13k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[Void]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+C[Cosha11: Ooops...
+xentac: Yeah, I think that wasn't right
+]
+)"
+3908,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-18]
+PC[OGS: https://online-go.com/game/3908]
+GN[]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[604800]OT[10/1209600 canadian]
+RE[W+21.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[ff]
+(;B[fe]
+(;W[gf]
+C[xentac: Not sure if you want to finish this game tonight, but I probably have time for one full 9x9 tonight
+Cosha11: Same
+]
+(;B[ef]
+(;W[ed]
+(;B[dd]
+(;W[ee]
+(;B[ec]
+(;W[fd]
+(;B[ge]
+(;W[fc]
+(;B[dc]
+(;W[fb]
+(;B[eb]
+(;W[gd]
+(;B[he]
+(;W[hf]
+(;B[hd]
+(;W[hc]
+(;B[ic]
+C[Cosha11: Crud...
+]
+(;W[hb]
+C[xentac: that's ok, there's still more of the board
+]
+(;B[fg]
+(;W[hg]
+(;B[eh]
+(;W[df]
+(;B[dg]
+(;W[eg]
+(;B[de]
+(;W[ef]
+(;B[cf]
+(;W[dh]
+(;B[di]
+(;W[fh]
+(;B[gh]
+C[Cosha11: Almost missed that one
+]
+(;W[ei]
+C[xentac: I think you were screwed either way
+]
+(;B[ci]
+(;W[ch]
+(;B[fi]
+(;W[gi]
+C[Cosha11: So it's safe to assume that you see everything
+]
+(;B[bh]
+(;W[bi]
+(;B[ag]
+(;W[ea]
+(;B[da]
+C[Cosha11: That game?
+]
+(;W[fa]
+C[xentac: mostly
+]
+(;B[ci]
+(;W[di]
+(;B[ah]
+(;W[ci]
+(;B[]
+(;W[ai]
+C[Cosha11: Can I save anything on the left side?
+Cosha11: Right*
+xentac: nope
+Cosha11: b4?
+xentac: that's a good one
+]
+(;B[bf]
+C[xentac: you don't want to pass right now
+xentac: do you have an undo?
+]
+(;W[]
+(;B[]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+430133,471,809,xentac,Cosha11,ca,ca,"{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",23.349918379753024,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-12]
+PC[OGS: https://online-go.com/game/430133]
+GN[Jason throwdown]
+PB[xentac]
+PW[Cosha11]
+BR[13k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[Void]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+)"
+430255,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-13]
+PC[OGS: https://online-go.com/game/430255]
+GN[Ready, Set, ...]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[ee]
+(;B[fd]
+(;W[fe]
+(;B[de]
+(;W[df]
+(;B[ce]
+(;W[ed]
+(;B[ec]
+(;W[dd]
+(;B[dc]
+(;W[cd]
+(;B[cc]
+(;W[cf]
+C[Cosha11: Brb in like 10, so don't hold your breath
+xentac: sure, I'll probably be doing other things
+Cosha11: I hate things that I cant see until they're like this....
+]
+(;B[ge]
+(;W[fg]
+(;B[ff]
+(;W[ef]
+(;B[eg]
+C[Cosha11: Meant to place it in G4....
+]
+))))))))))))))))))"
+450073,809,471,Cosha11,xentac,ca,ca,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-12-18]
+PC[OGS: https://online-go.com/game/450073]
+GN[Go-rilla...]
+PB[Cosha11]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[259200]OT[86400 fischer]
+RE[W+15.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[eg]
+(;B[ee]
+(;W[ff]
+(;B[fd]
+(;W[fe]
+(;B[ed]
+(;W[cc]
+(;B[df]
+(;W[he]
+(;B[ge]
+(;W[gf]
+(;B[gd]
+(;W[hd]
+(;B[hc]
+(;W[dh]
+(;B[ch]
+(;W[ef]
+(;B[de]
+(;W[be]
+(;B[dg]
+(;W[eh]
+(;B[di]
+(;W[ei]
+(;B[ci]
+(;W[eb]
+(;B[id]
+(;W[if]
+(;B[ic]
+(;W[gb]
+C[Cosha11: Are you trying to kill my whole group?
+xentac: well, if you don't make two eyes, I'd be happy to
+xentac: mostly I'm trying to reduce its size
+]
+(;B[dc]
+(;W[db]
+(;B[cd]
+(;W[bd]
+(;B[bc]
+(;W[cb]
+(;B[fb]
+(;W[fa]
+(;B[fc]
+(;W[hb]
+(;B[ib]
+(;W[ga]
+(;B[bf]
+(;W[ce]
+(;B[dd]
+(;W[bb]
+(;B[ae]
+(;W[ad]
+(;B[af]
+(;W[ac]
+(;B[ie]
+(;W[hf]
+(;B[]
+(;W[cf]
+(;B[bg]
+(;W[ea]
+(;B[ia]
+(;W[ha]
+(;B[ec]
+(;W[]
+(;B[]
+C[Cosha11: I thought I had that one in the bag
+xentac: you were too busy attacking one side to worry about the other
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

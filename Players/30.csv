@@ -1,0 +1,727 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+75,4,30,matburt,EdLee,us,us,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",17.66169912212786,24.303382182144386,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-28]
+PC[OGS: https://online-go.com/game/75]
+GN[Welcome to Nova]
+PB[matburt]
+PW[EdLee]
+BR[26k]
+WR[1k]
+TM[0]OT[604800 simple]
+RE[W+R]
+SZ[19]
+KM[0.5]
+RU[AGA]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+;W[qf]
+(;B[qe]
+(;W[pf]
+C[matburt: greetings!
+]
+(;B[of]
+C[EdLee: hi!
+EdLee: Testing Nova! :)
+]
+(;W[pe]
+(;B[oe]
+C[matburt: I'm not a very advanced player, but I hope you enjoy it and like what you see
+EdLee: Is there a way to see the list of ALL on-going games ?
+EdLee: I am also a beginner -- don't worry :)
+matburt: not yet... that's something we are going to put in though.  If you go to someone's profile page you can see what games they are playing though
+matburt: ahh... you picked a 1k rank which would be very good :)
+EdLee: oh, are you a developer ? :)
+matburt: I am!
+matburt: one of them... anoek is the other
+EdLee: Thanks for all the hardwork ! :)
+EdLee: I can post comments and suggestions on the L19 forum :)
+EdLee: oh, something funny about L 19
+EdLee: L19. L20
+EdLee: why does L19 look special ? :)
+EdLee: oh, let me see a1
+EdLee: oh, co-ordinates. i1
+EdLee: J1
+EdLee: J19, J20
+matburt: yeah!
+matburt: you can also run analysis and post a whole move line
+]
+(;W[qd]
+C[EdLee: if you have a board that is 20x20 or bigger, then J20 will not show as a coordinate :)
+]
+(;B[re]
+C[EdLee: I will post my suggestions on Lifein19x19 forum --
+EdLee: - Please make a Full-Screen board option :)
+]
+(;W[rf]
+(;B[rd]
+C[matburt: it should expand as your browser expands?  You mean moreso?
+]
+(;W[qc]
+(;B[rc]
+C[EdLee: yes -- more so :) Currently, the board is about 75% of my screen height
+]
+(;W[pc]
+(;B[od]
+C[matburt: interesting... we'll add that to the feature list :)
+]
+(;W[rb]
+C[EdLee: I would like a real Full-screen board -- so the height of the board = the height of my screen :) 
+EdLee: Thank you !! :)
+]
+(;B[pg]
+(;W[qh]
+C[EdLee: This is completely independent of Kaya.gs ? :)
+matburt: oh gotcha
+]
+(;B[qg]
+C[matburt: completely independent
+EdLee: nice !
+]
+(;W[rg]
+C[EdLee: There is another webserver, too ...
+]
+(;B[sf]
+C[matburt: wasn't too crazy about kaya's look and feel
+matburt: we also feel like we have a more compelling feature set
+]
+(;W[rh]
+C[EdLee: there are now at least 3 competing web servers :)
+]
+(;B[sb]
+C[matburt: so I've heard... I think we have the best
+]
+(;W[qb]
+C[EdLee: this one is interesting! :)
+]
+(;B[oc]
+C[EdLee: I like the little country flag :)
+]
+(;W[ob]
+(;B[og]
+C[matburt: nice :)
+]
+(;W[nb]
+(;B[nc]
+(;W[mc]
+(;B[lc]
+(;W[md]
+(;B[me]
+(;W[ld]
+C[EdLee: The red button , lower left -- for feedback and bugs -- what is it ? A tomato ? :)
+]
+(;B[le]
+(;W[kd]
+(;B[ke]
+C[matburt: It's a lady bug :)
+EdLee: oh ! lady bug
+EdLee: needs more artwork -- it's not clear that it's a lady bug :)
+]
+(;W[kc]
+(;B[lb]
+C[matburt: hah... I just picked a bug icon
+EdLee: i think the ladybug needs bigger, round black dots -- and the star points should be smaller :)
+EdLee: on the 9x9 board, the star points are too big -- i will also include this as a feedback on Life19x19
+]
+(;W[jc]
+(;B[mb]
+C[matburt: Excellent, thanks
+matburt: oh wait
+matburt: those are actually my stones
+EdLee: - also, the stone click sound -- needs to re-record better sound :)
+EdLee: which are actually your stones ? :)
+matburt: since you picked a 1k ranking it gave me a handicap
+EdLee: yes, 9 stones :)
+EdLee: 9 stones is very difficult for me :)
+matburt: yep... this is the auto handicap system
+]
+(;W[kb]
+C[EdLee: i just want to test Nova :)
+]
+(;B[na]
+(;W[oi]
+(;B[pi]
+C[matburt: Well I hope you like it so far :)  Even with the lopsided handicap
+EdLee: i enjoy it ! :)
+]
+(;W[ph]
+C[EdLee: it has potential ! :)
+]
+(;B[qi]
+(;W[oh]
+(;B[nh]
+(;W[oj]
+(;B[ok]
+(;W[pk]
+(;B[qk]
+(;W[pl]
+(;B[om]
+(;W[ri]
+(;B[qj]
+(;W[ol]
+(;B[nk]
+C[EdLee: oh -- the numbers on the upper left and lower left -- 40 for Black. 29.5 for White -- they are very strange. You probably want to remove them :)
+]
+(;W[nl]
+(;B[pm]
+C[matburt: why?
+matburt: those are the current scores... if you highlight them  you'll see the breakdown
+]
+(;W[ql]
+(;B[qm]
+(;W[rl]
+C[EdLee: yes - the ""current scores"" have no meaning :) should be disabled :) or, at least, make it an option
+]
+(;B[rk]
+C[EdLee: option to enable or disable ""score estimate"" , for example -- i'm adding a thread to the Life19x19 feedback :)
+]
+(;W[nm]
+(;B[sl]
+C[matburt: sounds good :)
+matburt: I'm going to go grab a bite to eat... I'll be back in a bit
+]
+(;W[rm]
+(;B[ni]
+C[EdLee: you have 7 days!! :)
+EdLee: maybe I take a nap  :)
+matburt: hah
+matburt: note that the star points aren't actually this big... those are my stones
+matburt: (just saw your feedback on lifein19x19
+]
+(;W[nj]
+(;B[mk]
+(;W[mj]
+(;B[ml]
+(;W[nn]
+(;B[on]
+(;W[oo]
+C[EdLee: the thumbnail view of all my games is very nice!!
+]
+(;B[po]
+C[matburt: yeah... I figured youd like that :)
+EdLee: very nice! :)
+]
+(;W[op]
+(;B[pq]
+(;W[oq]
+(;B[pr]
+(;W[or]
+(;B[ps]
+(;W[qo]
+(;B[qp]
+(;W[ro]
+(;B[rp]
+(;W[je]
+(;B[kf]
+(;W[id]
+(;B[mi]
+(;W[lj]
+(;B[li]
+(;W[ki]
+(;B[kj]
+(;W[kh]
+(;B[lk]
+(;W[ii]
+(;B[sg]
+(;W[ig]
+(;B[sh]
+(;W[rj]
+(;B[so]
+(;W[rn]
+(;B[mm]
+(;W[mn]
+(;B[oa]
+(;W[pb]
+(;B[ln]
+(;W[lo]
+(;B[kn]
+(;W[dg]
+(;B[cf]
+(;W[cg]
+(;B[df]
+(;W[eg]
+(;B[ef]
+(;W[cc]
+(;B[dc]
+(;W[bd]
+(;B[bf]
+(;W[db]
+(;B[eb]
+(;W[bb]
+(;B[da]
+(;W[cb]
+(;B[cd]
+(;W[ac]
+(;B[be]
+(;W[cq]
+(;B[dq]
+(;W[cp]
+(;B[dr]
+(;W[cr]
+(;B[ds]
+(;W[do]
+(;B[ep]
+(;W[eo]
+(;B[fp]
+(;W[hp]
+(;B[hq]
+(;W[iq]
+(;B[gp]
+(;W[ip]
+(;B[ir]
+(;W[hr]
+(;B[gq]
+(;W[jr]
+(;B[bg]
+(;W[gn]
+(;B[hm]
+(;W[cl]
+(;B[ck]
+(;W[dl]
+(;B[ek]
+(;W[bk]
+(;B[ch]
+(;W[bj]
+(;B[bi]
+(;W[gr]
+(;B[fg]
+(;W[fc]
+(;B[ed]
+(;W[ec]
+(;B[fb]
+(;W[gc]
+(;B[gb]
+(;W[ge]
+(;B[gf]
+(;W[ij]
+(;B[ik]
+C[matburt: new update for the site :)
+]
+(;W[hk]
+(;B[hl]
+(;W[jk]
+(;B[il]
+(;W[kk]
+(;B[si]
+(;W[ji]
+(;B[gk]
+C[EdLee: thanks -- i noticed the new thumbnails :)
+]
+(;W[lm]
+(;B[ho]
+(;W[go]
+(;B[fr]
+(;W[fs]
+(;B[io]
+(;W[jq]
+(;B[kq]
+(;W[jo]
+(;B[kp]
+(;W[ko]
+(;B[jn]
+(;W[kr]
+(;B[es]
+(;W[em]
+(;B[gs]
+(;W[is]
+(;B[eh]
+(;W[eq]
+(;B[dh]
+C[EdLee: Hmm... you killed 3 stones but lost 12... (After I fixed the push-and-cut at F5-E6 with E7, you needed to play here E3 to live :) )
+matburt: :-|
+]
+(;W[hj]
+(;B[fl]
+C[EdLee: Matburt, how do i change my avatar photo ?
+matburt: Your avatar photo is set from gravatar so go there and set up an avatar with the same email address you are using here and it will automatically show up!
+]
+(;W[pn]
+(;B[qn]
+(;W[pn]
+(;B[lr]
+(;W[lq]
+(;B[ks]
+(;W[os]
+(;B[ls]
+(;W[in]
+(;B[hn]
+(;W[jm]
+(;B[lp]
+(;W[mp]
+(;B[im]
+(;W[km]
+(;B[sk]
+(;W[hf]
+(;B[gg]
+(;W[fe]
+(;B[fd]
+(;W[gd]
+(;B[hc]
+(;W[fi]
+(;B[gi]
+(;W[gj]
+(;B[fj]
+(;W[gh]
+(;B[fh]
+(;W[hi]
+(;B[cs]
+(;W[ei]
+(;B[br]
+(;W[bq]
+(;B[aq]
+(;W[bo]
+(;B[ap]
+C[EdLee: Oooh! New board (and stones) ? The wood color of the new board is much prettier! And shell stones!? Wow! Good job! Thanks!
+matburt: Thanks!
+matburt: We're working hard :)
+]
+(;W[di]
+(;B[ib]
+(;W[ci]
+(;B[jf]
+(;W[if]
+(;B[he]
+(;W[hd]
+(;B[sj]
+(;W[ll]
+(;B[gm]
+(;W[fm]
+(;B[bn]
+(;W[cn]
+(;B[ao]
+(;W[ai]
+(;B[ah]
+(;W[bh]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+93,30,45,EdLee,x13420x,us,gt,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1893.4781648084818, 'deviation': 63.04391494231077, 'volatility': 0.06003749430021636}}",24.303382182144386,29.69618228758129,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-28]
+PC[OGS: https://online-go.com/game/93]
+GN[]
+PB[EdLee]
+PW[x13420x]
+BR[1k]
+WR[1d]
+TM[300]OT[300 fischer]
+RE[?]
+SZ[9]
+KM[0.5]
+RU[Chinese]
+;B[gc]
+C[EdLee: hi
+EdLee: Testing Nova :)
+]
+)"
+98,4,30,matburt,EdLee,us,us,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",17.66169912212786,24.303382182144386,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-29]
+PC[OGS: https://online-go.com/game/98]
+GN[Welcome to Nova]
+PB[matburt]
+PW[EdLee]
+BR[26k]
+WR[1k]
+TM[0]OT[604800 simple]
+RE[W+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pp]
+(;W[dd]
+C[EdLee: The Star points are too big ! :)
+EdLee: hi matburt!!! :)
+]
+(;B[dj]
+C[matburt: you aren't the first person to say that :)
+EdLee: hehe ^^
+]
+(;W[pd]
+C[EdLee: i am thinking... perhaps 1/3 of its current diameter  :)
+]
+(;B[jd]
+C[EdLee: 1/3 or 1/4 of its current diameter may be OK :)
+matburt: yikes... that's pretty small.  I'd be concerned about what happens at that diameter when it is scaled down for mobiles
+EdLee: yes -- mobiles are different :) that's a good observation :)
+]
+(;W[dp]
+(;B[jp]
+C[EdLee: i also just played in our 9-stone game -- i took a nap :)
+matburt: oh hehe
+EdLee:  :)
+]
+(;W[qn]
+(;B[rn]
+(;W[qo]
+(;B[ro]
+(;W[qp]
+(;B[qq]
+(;W[rp]
+(;B[rq]
+C[EdLee: but now i have to switch back and forth between the thumbnail view and the 2 games :)
+]
+(;W[sq]
+(;B[sp]
+C[matburt: yah... I'm keeping two tabs open for this
+matburt: I need to go put my daughter to bed... I will be back in a few
+]
+(;W[so]
+C[EdLee: self atari :)
+]
+(;B[sr]
+C[matburt: Yeah... I wish I were as good at Go as I am writing code ;)
+]
+(;W[sp]
+(;B[sn]
+C[EdLee: me too ! :)
+]
+(;W[pq]
+(;B[rr]
+(;W[pr]
+(;B[po]
+C[EdLee: mat, where are you ? Santa Barbara here :)
+matburt: Ahh... Raleigh, North Carolina!
+matburt: I've never been west of Texas unfortunately
+]
+(;W[qm]
+(;B[rm]
+C[EdLee: wow!
+EdLee: wasn't Congress there recently ?
+]
+(;W[ql]
+(;B[rl]
+C[matburt: I think it was out towards the mountains
+matburt: near Asheville
+matburt: which is a beautiful place
+]
+(;W[rk]
+(;B[sk]
+(;W[rj]
+C[EdLee: writing feedback on Life19x19.... :)
+]
+(;B[qk]
+(;W[sl]
+C[matburt: excellent
+]
+(;B[sm]
+C[matburt: sorry I'm not a much better player!
+EdLee: no problem :)
+EdLee: testing Nova!! :)
+]
+(;W[nq]
+(;B[oq]
+(;W[op]
+(;B[or]
+(;W[nr]
+(;B[os]
+C[matburt: Well we really appreciate your feedback
+]
+(;W[ns]
+C[matburt: and I'm learning to get better ;)
+]
+(;B[np]
+C[EdLee: that's great! -- we all do that
+EdLee: i missed Congress 2012 near Asheville :)
+]
+(;W[oo]
+(;B[pn]
+C[matburt: Yeah I missed it too... would have loved to show off nova but it wasn't even begun at that time
+]
+(;W[pm]
+(;B[on]
+(;W[no]
+(;B[om]
+(;W[sl]
+(;B[cp]
+C[EdLee: hehe :)
+EdLee: hehe -- about congress :) not about the capture :)
+matburt: hah
+matburt: brb
+matburt: going to be a little slower playing... working on our tournament system :)
+]
+(;W[cq]
+(;B[co]
+C[EdLee: great!!! :)
+EdLee: i'm digesting dinner -- just ate, too. And writing feedback on Lifein19x19 :) Take your time! :)
+]
+(;W[dq]
+(;B[cn]
+(;W[hq]
+(;B[gq]
+(;W[gp]
+(;B[gr]
+(;W[hp]
+(;B[hr]
+(;W[iq]
+(;B[ir]
+(;W[jq]
+(;B[kq]
+(;W[jr]
+(;B[js]
+(;W[kr]
+(;B[lr]
+(;W[kp]
+(;B[lq]
+(;W[lp]
+(;B[ks]
+(;W[fq]
+(;B[fr]
+(;W[eq]
+(;B[er]
+(;W[ch]
+(;B[ci]
+(;W[ei]
+(;B[ej]
+(;W[fi]
+(;B[fj]
+(;W[gi]
+(;B[gj]
+(;W[hi]
+(;B[hj]
+(;W[bi]
+(;B[cj]
+(;W[bj]
+C[EdLee: A friend just made this same shape (C10) last night -- very strange feeling. Locally, of course you want to hane at B10 :)
+]
+(;B[ck]
+(;W[lc]
+C[matburt: ahh yes :)
+matburt: that makes sense to create an eye at that point
+matburt: instead of a continuation
+]
+(;B[kc]
+C[EdLee: hmmm...not exactly. :)
+]
+(;W[ld]
+(;B[ke]
+(;W[kb]
+(;B[jb]
+(;W[lb]
+(;B[ka]
+(;W[qc]
+(;B[mp]
+(;W[mo]
+(;B[le]
+(;W[me]
+(;B[mf]
+(;W[ne]
+(;B[fc]
+(;W[dc]
+(;B[ee]
+(;W[de]
+(;B[mi]
+(;W[ij]
+(;B[hk]
+(;W[ji]
+(;B[lh]
+C[matburt: I see what you mean now :)
+]
+(;W[kd]
+(;B[ll]
+(;W[je]
+(;B[ie]
+(;W[jf]
+(;B[kf]
+(;W[kg]
+(;B[lf]
+(;W[if]
+(;B[hf]
+(;W[id]
+(;B[jc]
+(;W[he]
+(;B[hg]
+(;W[ih]
+(;B[gf]
+(;W[hc]
+(;B[pg]
+(;W[ol]
+(;B[lo]
+(;W[ko]
+(;B[ln]
+(;W[nm]
+(;B[mm]
+(;W[il]
+(;B[hl]
+(;W[im]
+(;B[hm]
+(;W[jo]
+(;B[qr]
+(;W[nn]
+(;B[ms]
+(;W[bk]
+(;B[cl]
+(;W[bl]
+(;B[bm]
+(;W[en]
+(;B[fn]
+(;W[em]
+(;B[dm]
+(;W[el]
+(;B[qe]
+(;W[bp]
+(;B[bo]
+(;W[bq]
+(;B[ap]
+(;W[fl]
+(;B[fp]
+(;W[fo]
+(;B[go]
+(;W[eo]
+(;B[gm]
+(;W[dl]
+(;B[al]
+(;W[dh]
+(;B[eg]
+(;W[og]
+(;B[oh]
+(;W[ng]
+(;B[nh]
+(;W[pe]
+(;B[pf]
+(;W[ph]
+(;B[pi]
+(;W[qh]
+(;B[qi]
+(;W[rh]
+(;B[qj]
+(;W[oj]
+(;B[ps]
+(;W[qs]
+(;B[rs]
+(;W[lj]
+C[EdLee: Hmmm... very strange last 2 moves...
+]
+(;B[kk]
+(;W[ik]
+(;B[jj]
+(;W[mj]
+C[matburt: it's probably not fair to you... I'm running so many games at the same time, and I'm not very good to begin with, also I'm trying to work on code for the site so I don't have but just a few seconds to make a move
+EdLee: No problem, mat :)
+]
+(;B[nj]
+(;W[nk]
+(;B[ni]
+(;W[ki]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+162,30,169,EdLee,shogo,us,jp,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1762.400512612979, 'deviation': 150.99690234091779, 'volatility': 0.060007989801687624}}",24.303382182144386,28.035433019979486,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-01]
+PC[OGS: https://online-go.com/game/162]
+GN[Test Game]
+PB[EdLee]
+PW[shogo.inamoto]
+BR[1k]
+WR[6d]
+TM[0]OT[172800 simple]
+RE[?]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[6]
+AB[dj][pj][dd][pp][pd][dp]
+C[shogo.inamoto: Him let's enjoy this game:)
+]
+)"

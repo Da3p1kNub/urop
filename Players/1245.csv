@@ -1,0 +1,152 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+3264,863,1245,quirck,Daniil,ru,ru,"{'version': 5, 'overall': {'rating': 1912.127859752357, 'deviation': 94.52637805524225, 'volatility': 0.059989675985073126}}","{'version': 5, 'overall': {'rating': 1455.553218985408, 'deviation': 310.7225685934302, 'volatility': 0.05999934730537026}}",29.923081179059565,23.607051931204378,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-29]
+PC[OGS: https://online-go.com/game/3264]
+GN[]
+PB[quirck]
+PW[Daniil]
+BR[11k]
+WR[5k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[quirck: Хорошей игры!
+Daniil: Взаимно
+]
+;B[pd]
+C[Daniil: Взаимно
+]
+(;W[dq]
+(;B[dd]
+(;W[qp]
+(;B[do]
+(;W[dm]
+C[quirck: ну вот, думать заставляешь
+quirck: :)
+Daniil: и вовсе нет, если что и заставляет - так это свойство игры, а не я.
+]
+(;B[cq]
+C[quirck: твой выбор джосеки))
+Daniil: а я джосек не помню!!!
+quirck: кстати про говорят, что в таких позициях лучше ответ чем хасами
+quirck: так я ж тоже:D
+Daniil: а разве хасами - это не ответ?
+]
+(;W[dp]
+(;B[cp]
+C[quirck: ответ это отскок
+]
+(;W[cr]
+C[Daniil: вот только при игре тут мышкой вдвое чаще тыкать надо, чем на кгс. Если бы можно было вулючить такой режим тут, что щёлкнул - походил...
+quirck: можно
+Daniil: включить*
+quirck: пятая сверху слева
+quirck: галка то есть
+quirck: попереключай ее) там три режима
+Daniil: ага! точно! спасибо!
+]
+(;B[co]
+(;W[gp]
+(;B[dj]
+(;W[cl]
+(;B[jd]
+(;W[br]
+(;B[fo]
+(;W[hn]
+(;B[gn]
+(;W[gl]
+(;B[fl]
+(;W[fk]
+C[quirck: ща меня быстренько сожрут
+]
+(;B[el]
+C[Daniil: ну уж нет! Это мен щас сожрут!
+Daniil: меня*
+]
+(;W[ek]
+(;B[gm]
+(;W[hm]
+(;B[dk]
+(;W[dl]
+(;B[gk]
+(;W[hl]
+(;B[fj]
+(;W[en]
+(;B[eo]
+(;W[fm]
+(;B[ej]
+(;W[em]
+(;B[bm]
+(;W[bl]
+(;B[cn]
+(;W[ci]
+(;B[bq]
+(;W[cf]
+(;B[ef]
+(;W[oq]
+(;B[pj]
+(;W[pl]
+(;B[ce]
+(;W[be]
+(;B[bd]
+(;W[ph]
+(;B[nj]
+(;W[qf]
+(;B[qe]
+(;W[of]
+(;B[nd]
+(;W[nl]
+(;B[qk]
+(;W[qi]
+(;B[ok]
+(;W[mf]
+(;B[ld]
+(;W[lk]
+(;B[rm]
+(;W[qn]
+(;B[li]
+(;W[kf]
+(;B[if]
+(;W[ih]
+(;B[jj]
+(;W[kj]
+(;B[ki]
+(;W[ji]
+(;B[jh]
+(;W[ii]
+(;B[jg]
+(;W[ij]
+(;B[jk]
+(;W[ik]
+(;B[mk]
+(;W[ll]
+(;B[bk]
+(;W[ck]
+(;B[cj]
+(;W[bj]
+(;B[bi]
+(;W[ak]
+(;B[ch]
+(;W[bh]
+(;B[ai]
+(;W[hf]
+(;B[he]
+(;W[di]
+(;B[dh]
+(;W[ei]
+(;B[fi]
+C[quirck: ого
+Daniil: спасибо за игру!
+quirck: спасибо за игру
+quirck: а я-то волновался что ща a5
+quirck: или l12
+Daniil: ну, это ж без толку
+quirck: почему
+Daniil: A5 сэмэай не выиграть
+Daniil: а L12 всё равно R9 не убьёт, а отставание уже большое
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

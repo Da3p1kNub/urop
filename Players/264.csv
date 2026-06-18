@@ -1,0 +1,42 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+261,38,264,macelee,foxfrog,gb,cn,"{'version': 5, 'overall': {'rating': 1899.364357181547, 'deviation': 127.35021126343803, 'volatility': 0.0600079275452601}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",29.76803629261477,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-14]
+PC[OGS: https://online-go.com/game/261]
+GN[]
+PB[macelee]
+PW[foxfrog]
+BR[5d]
+WR[5d]
+TM[0]OT[172800 simple]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[foxfrog: Hi 
+foxfrog: please play
+macelee: hi, have a nice game
+]
+;B[pd]
+C[foxfrog: Hi 
+foxfrog: please play
+macelee: hi, have a nice game
+]
+)"
+345,264,287,foxfrog,Sunceng,cn,us,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1584.8021807641146, 'deviation': 196.9535038700516, 'volatility': 0.06000081730110176}}",24.303382182144386,25.576504494688077,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-18]
+PC[OGS: https://online-go.com/game/345]
+GN[Game Name]
+PB[foxfrog]
+PW[Sunceng]
+BR[5d]
+WR[6d]
+TM[0]OT[30 simple]
+RE[?]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+)"

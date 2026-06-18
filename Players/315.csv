@@ -1,0 +1,17 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+442,317,315,Wheeler,Successful Student,us,us,"{'version': 5, 'overall': {'rating': 864.4749395192604, 'deviation': 105.22653633838675, 'volatility': 0.06001419647013157}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",11.545461843182977,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-22]
+PC[OGS: https://online-go.com/game/442]
+GN[]
+PB[Wheeler]
+PW[Successful Student]
+BR[30k]
+WR[30k]
+TM[0]OT[86400 simple]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"

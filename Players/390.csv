@@ -1,0 +1,17 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+609,390,304,六合棋,quark,un,us,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1853.653785484707, 'deviation': 154.09076380481838, 'volatility': 0.059994869291448726}}",24.303382182144386,29.20408907716725,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-03-09]
+PC[OGS: https://online-go.com/game/609]
+GN[]
+PB[六合棋]
+PW[quark]
+BR[30k]
+WR[29k]
+TM[1814400]OT[20/1728000 canadian]
+RE[Void]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+)"

@@ -1,0 +1,157 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+189,4,184,matburt,errol_orr,us,ru,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",17.66169912212786,24.303382182144386,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-01]
+PC[OGS: https://online-go.com/game/189]
+GN[Welcome to Nova]
+PB[matburt]
+PW[errol_orr]
+BR[26k]
+WR[10k]
+TM[0]OT[172800 simple]
+RE[?]
+SZ[9]
+KM[7.5]
+RU[AGA]
+C[matburt: Hey, I saw you resigned our previous match so I thought we could have another go at it
+]
+;B[gg]
+C[matburt: Hey, I saw you resigned our previous match so I thought we could have another go at it
+]
+(;W[cc]
+C[errol_orr: ok, i agree
+]
+(;B[ce]
+(;W[dg]
+C[matburt: How do you like the site so far?
+]
+(;B[ec]
+(;W[dd]
+(;B[ed]
+C[errol_orr: i like it
+]
+(;W[gc]
+(;B[gd]
+C[matburt: Excellent... we certainly want people to like it and choose to play here
+]
+(;W[fd]
+(;B[fe]
+(;W[fc]
+(;B[de]
+C[errol_orr: its good becose i dont need a client programm
+]
+(;W[ge]
+C[matburt: I'm not crazy about client programs either.  Given that it's 2013 we should be able to do anything a client can do in the browser
+]
+(;B[dc]
+(;W[bd]
+(;B[cd]
+(;W[bb]
+(;B[be]
+(;W[ff]
+(;B[cb]
+(;W[ee]
+(;B[ef]
+(;W[eg]
+C[errol_orr: is it you real rate - 26k? )
+]
+(;B[fe]
+(;W[gf]
+C[matburt: Well.... that's probably pretty generous. I'm not really that good
+]
+(;B[bc]
+(;W[ee]
+(;B[ad]
+C[errol_orr: ok. i see
+]
+(;W[bg]
+(;B[hf]
+C[matburt: I'm a much better programmer than Go player... I'd like to get better though.
+]
+(;W[hh]
+(;B[he]
+(;W[hd]
+(;B[id]
+(;W[ic]
+(;B[ie]
+C[errol_orr: where the properties of our game? rules (Chinese or japanies), time, komi and so on
+]
+(;W[hg]
+(;B[ib]
+C[matburt: Yeah good point... it should be displayed on this view
+matburt: in this case I created the game so I know
+matburt: aga ruleset, 1 day play time with a standard clock, no handicap, 7.5 komi
+]
+(;W[if]
+(;B[fb]
+C[matburt: That should be coming up on an update pretty soon
+]
+(;W[gb]
+C[errol_orr: ok
+]
+(;B[ga]
+(;W[eb]
+(;B[ea]
+(;W[fa]
+(;B[fe]
+C[matburt: bleh F8.... I need to take a break from software and study the game more
+]
+(;W[da]
+C[errol_orr: what is F8 do? i dont understand
+]
+(;B[ag]
+C[matburt: If you put board coordinates in the chat like so then mouse over it... it will highlight the stone location
+matburt: I was just pointing out that I made a blunder
+matburt: you can also do this:
+matburt: [object Object\]
+]
+(;W[af]
+C[errol_orr: its some kind of undu?
+matburt: nope... it's just a highlight
+]
+(;B[ab]
+C[matburt: and then the analysis is for sharing alternate moves
+]
+(;W[bf]
+C[matburt: variations
+errol_orr: so i can Analyze Game when i plaing?
+]
+(;B[ba]
+C[errol_orr: playing
+]
+(;W[ee]
+C[matburt: correct, and share the variations
+errol_orr: ok it intresting, but strange too)
+]
+(;B[db]
+C[matburt: well say you were playing a weaker player like myself... you could show them a variation that might help them
+]
+(;W[ea]
+C[matburt: I'll be right back
+errol_orr: it is some teaching game
+]
+(;B[df]
+C[errol_orr: Iэll be back too, after 5-10 minutes
+]
+(;W[cf]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+163,4,184,matburt,errol_orr,us,ru,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",17.66169912212786,24.303382182144386,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-31]
+PC[OGS: https://online-go.com/game/163]
+GN[Welcome to Nova]
+PB[matburt]
+PW[errol_orr]
+BR[26k]
+WR[10k]
+TM[0]OT[172800 simple]
+RE[?]
+SZ[9]
+KM[7.5]
+RU[AGA]
+C[errol_orr: hi gg
+matburt: hey there... sorry it has taken me a while.  Was asleep :)
+]
+)"

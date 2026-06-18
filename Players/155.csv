@@ -1,0 +1,44 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+142,104,155,Oolong4Go,jcorbellasole,_Klingon,un,"{'version': 5, 'overall': {'rating': 1487.0974735216928, 'deviation': 79.93436684201419, 'volatility': 0.06000532839122804}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.103391824779585,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-30]
+PC[OGS: https://online-go.com/game/142]
+GN[Trying out the new server]
+PB[Oolong4Go]
+PW[jcorbellasole]
+BR[5k]
+WR[5k]
+TM[86400]OT[86400 fischer]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+C[jcorbellasole: hi
+Oolong4Go: Hi, have a fun game
+jcorbellasole: looks as error ocurred
+]
+;B[pd]
+C[jcorbellasole: hi
+Oolong4Go: Hi, have a fun game
+jcorbellasole: looks as error ocurred
+]
+)"
+969,94,155,prozz,jcorbellasole,150,un,"{'version': 5, 'overall': {'rating': 1693.71341001999, 'deviation': 64.83753698676142, 'volatility': 0.06010018315302806}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",27.11514169667412,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-09]
+PC[OGS: https://online-go.com/game/969]
+GN[play with me!]
+PB[prozz]
+PW[jcorbellasole]
+BR[10k]
+WR[5k]
+TM[172800]OT[1/172800 canadian]
+RE[Void]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[5]
+AB[jj][dd][pp][pd][dp]
+)"

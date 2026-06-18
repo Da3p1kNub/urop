@@ -1,0 +1,647 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+2138,938,909,theScroobiousPip,starzend,un,nz,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1533.584742275327, 'deviation': 239.71369816875458, 'volatility': 0.06000581489971936}}",24.303382182144386,24.81598929002268,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-10]
+PC[OGS: https://online-go.com/game/2138]
+GN[round two?]
+PB[theScroobiousPip]
+PW[starzend]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[13]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[dd][jd][dj]
+;W[jj]
+(;B[fj]
+(;W[jf]
+(;B[hd]
+(;W[kd]
+(;B[jc]
+(;W[cd]
+(;B[cc]
+(;W[ce]
+(;B[dh]
+(;W[ch]
+(;B[df]
+(;W[cf]
+(;B[cg]
+(;W[bg]
+(;B[dg]
+C[theScroobiousPip: damnit, i already feel like this is getting away from me
+]
+(;W[cj]
+(;B[ci]
+(;W[bi]
+C[starzend: consider the position you were in last game
+starzend: you're doing much better this time.
+]
+(;B[bh]
+(;W[ah]
+(;B[bj]
+(;W[ck]
+(;B[ai]
+(;W[ag]
+(;B[aj]
+(;W[bf]
+(;B[de]
+(;W[bc]
+(;B[bb]
+(;W[cb]
+(;B[dc]
+(;W[db]
+(;B[eb]
+(;W[ab]
+(;B[ae]
+(;W[ad]
+(;B[da]
+(;W[ba]
+(;B[ea]
+(;W[fk]
+(;B[hh]
+C[theScroobiousPip: have to say, that one threw me. not sure where a good response space was...
+]
+(;W[ih]
+C[starzend: That's a perfectly reasonable response.
+]
+(;B[ig]
+(;W[jg]
+(;B[jh]
+(;W[kh]
+(;B[ii]
+(;W[ji]
+(;B[ih]
+(;W[je]
+(;B[ie]
+(;W[ke]
+(;B[kc]
+(;W[ij]
+(;B[hj]
+(;W[hk]
+(;B[gk]
+(;W[hl]
+(;B[gl]
+(;W[fl]
+(;B[ek]
+(;W[el]
+(;B[dl]
+(;W[dk]
+(;B[ei]
+(;W[dm]
+(;B[cm]
+(;W[cl]
+(;B[gm]
+(;W[hm]
+(;B[fm]
+(;W[em]
+(;B[dl]
+C[starzend: oops :)
+]
+(;W[md]
+(;B[ld]
+(;W[le]
+(;B[lc]
+C[starzend: Im pretty sure you've won this game.
+starzend: I'll continue to see if I can win some territory, but may resign soon.
+]
+(;W[gb]
+(;B[fc]
+(;W[gc]
+(;B[gd]
+C[theScroobiousPip: I've been feeling pretty confident, so its good to see its not neccisarily me missing something big
+]
+(;W[ic]
+(;B[ib]
+(;W[jb]
+(;B[hc]
+(;W[hb]
+(;B[ia]
+(;W[ja]
+(;B[id]
+C[starzend: Congratualtions :)
+starzend: Would you like to play again?
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2076,938,909,theScroobiousPip,starzend,un,nz,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1533.584742275327, 'deviation': 239.71369816875458, 'volatility': 0.06000581489971936}}",24.303382182144386,24.81598929002268,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-04]
+PC[OGS: https://online-go.com/game/2076]
+GN[]
+PB[theScroobiousPip]
+PW[starzend]
+BR[30k]
+WR[30k]
+TM[432000]OT[259200 fischer]
+RE[W+71.5]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+C[starzend: gah, sorry. since I'm new on here it hasn't given you a handicap.
+starzend: I'll pass for the next two turns to make up for it.
+]
+;B[jd]
+C[starzend: gah, sorry. since I'm new on here it hasn't given you a handicap.
+starzend: I'll pass for the next two turns to make up for it.
+]
+(;W[]
+C[theScroobiousPip: I don't know what that means, but ok
+]
+(;B[ie]
+C[starzend: I'll skip my go again one more time. I'd suggest you put a stone at d4
+starzend: The thing to remember in this game is you're trying to capture territory, not stones, so when you've got a handicap you should try and use it to grab portions of the board before the game begins.
+]
+(;W[]
+C[theScroobiousPip: ok, i am literally learning by doing here. i expect to lose thouroughly and quickly. Why do you suggest d4, how is that point better than others at this point?
+]
+(;B[dj]
+C[starzend: because concentrating your forces at this stage of the game leaves the rest of the board open to claim.
+starzend: so d4 is good, because it's the other side of the board. D10, or k4 would also be good. The're the traditional handicap points (and as you can see, those intersections are marked on the board)
+]
+(;W[dd]
+(;B[jj]
+C[starzend: If you look at your stones now, they form an inverted L, if you imagine each stone exerts an area of control around it, you should see that the area you control now is much larger than if yuo'd placed all your stones in that corner.
+starzend: since you control most of the board, I have to extend my own zone, and then attack yours. 
+starzend: I'll first extend my zone by playing D5, which is hard up against your territory as defined by your stone at D4
+]
+(;W[di]
+C[starzend: Your options are to either try and cut down the space available to me, attack my space, box me in or reinforce your own territory already.
+]
+(;B[de]
+C[starzend: That's a pretty good move, because it divides my groups and I am forced to respond.
+]
+(;W[ce]
+(;B[cf]
+C[starzend: Are you familiar with stone removal rules? 
+starzend: Because of those rules diagonals are weaker than straight lines. Your diagonal leaves me free to do this for example.
+starzend: Now if I go at E9, your stone at D9 is removed. 
+starzend: if you go there, you're extending towards your group around J9
+]
+(;W[df]
+C[starzend: (which is good, as it prevents me from taking your stone) but that leaves me free to connect my new stones to my old group at D5
+starzend: [object Object\]
+theScroobiousPip: so, if i play at d7, does that go twards blocking your territory merge?
+theScroobiousPip: or can you simply play at c7 or e7 and shrug it off?
+theScroobiousPip: or e9 to capture my stone at d9 even?
+]
+(;B[ee]
+C[starzend: if you were to play at d7 you would have threatened my stone at d8 I would have been forced to go E8 to keep it from being taken.
+starzend: and yes, it would make it harder for me to link those two groups
+starzend: e7 would be less effective, because it's diagonal and the stone would be unsupported so would be vulnerable to you.
+starzend: c7 would be a threat to your stone at c8, and would help maintain the integrity of the group.
+theScroobiousPip: couldn't you have dealt with my threat by placing at e9, which would have removed one of the stones i was threatening with?
+starzend: yup
+]
+(;W[cg]
+C[starzend: I've gone e7, but it leaves my groups as a whole pretty weak.
+]
+(;B[dh]
+C[starzend: if you were to cut in behind me at something like c10, or perhaps b10 that group would be in danger of falling apart. 
+]
+(;W[eh]
+C[starzend: here I'm trapping that stone you just placed at d6 between two groups. 
+]
+(;B[eg]
+C[theScroobiousPip: i feel i have been put on the defensive,
+starzend: you have lost the initiative, because your stone at d6 didn't put any pressure on me.
+starzend: I was free to respond in whatever fashion I chose, which was naturally the worst thing for you.
+]
+(;W[ef]
+C[theScroobiousPip: yeah, i was trying to block the merging of your two groups
+theScroobiousPip: i had a couple of pressure moves, but each felt like it had an obvious response that also disadvantaged me
+]
+(;B[ff]
+C[starzend: Yeah. sometimes in that situation it's best to just move elsewhere on the board. you can move between battles, or perhaps move into new territory.
+]
+(;W[dg]
+C[starzend: I think this situation shows why diagonals are weak.
+]
+(;B[ch]
+(;W[bf]
+(;B[bh]
+(;W[fe]
+C[starzend: B6 is a decent move, but I would have gone for A6
+starzend: It does the same thing, but it claims a little more territory, and is reasonably safe, since I don't have a stone at B7
+starzend: It's possible you're setting up an attack on my four stone group there, but if you're doing that you have to do something about your stones at d9 and e7, because it requires two moves to attack that large group and only one to remove the indicated groups.
+theScroobiousPip: true :/
+]
+(;B[ed]
+(;W[fd]
+C[starzend: have you hit the ""analyze game"" button?
+starzend: it'll let you try different moves to see how they go. 
+theScroobiousPip: ?
+theScroobiousPip: how does that work?
+starzend: click it, then you'll be able to move as me too, so you can see how things look on the board.
+starzend: it's not recorded, and unless you share it I can't see what you're up to.
+theScroobiousPip: ah
+theScroobiousPip: thats kind of cool
+starzend: yeah, this is the best online go platform I've come across so far, possibly for that alone.
+starzend: others offer similar, but it can be a hassle.
+theScroobiousPip: looks like if i lose that group of three we're playing around i'll be sad
+starzend: Yeah, you would be, but it should be pretty easy to defend.
+]
+(;B[ec]
+(;W[dc]
+C[theScroobiousPip: i think the part thats getting me is the recipricality
+starzend: I'm not sure I follow.
+theScroobiousPip: theres no way i can threaten you without you also threatening me
+starzend: Yeah, you're in a difficult spot. 
+theScroobiousPip: yeah, but i think its more basic than that
+starzend: as un-helpful as it is, you generally try and avoid that situation to begin with.
+theScroobiousPip: if this was chess [the other other iconic strategy game\], i could attempt to threaten any offending piece with something it couldn't hit
+starzend: oh, I see what you're worrying about.
+theScroobiousPip: here, to threaten i need to place a stone beside you, and the contrary is that you are beside me threatening me back
+]
+(;B[fc]
+C[starzend: it's not entirely like that.
+starzend: there are different configurations of stones, some of which are un-takable.
+theScroobiousPip: probably
+starzend: [object Object\]
+starzend: that configuration down the bottom is untakable
+starzend: and in it's simplest form.
+theScroobiousPip: how weak is that as its forming?
+starzend: the variation? it's not weak at all
+starzend: it can NEVER be taken.
+theScroobiousPip: its a lot of stones, so a lot of your moves too to stop me
+theScroobiousPip: yeah, once its like that its rock solid, but the variations on the way i meant
+starzend: it would require two stones to be placed at a time to take that formation.
+starzend: oh, right. that formation is only the idealized form. it rarely plays out like that in a game.
+theScroobiousPip: yarp
+theScroobiousPip: if you see someone building that and you don't mess with it, you deserve the juggernaut you're gonna get
+starzend: [object Object\]
+starzend: yeah, but you can disguise what  you're doing.
+starzend: click the variation I just shared and go back to move 29
+starzend: that's a 'plausable' way it could happen
+theScroobiousPip: yeah, thats pretty plausible
+starzend: again, without interference from black, but more likely than the big one below
+theScroobiousPip: you probably could have pulled it off
+starzend: that's a good move
+theScroobiousPip: i'll try not to let you do that then :P
+starzend: you've stopped my threat to your group, because it will take two moves to take my d9 stones, but three to take your d11 group
+]
+(;W[fg]
+C[theScroobiousPip: um... those stones don't map to owners?
+starzend: My move there forces you to respond, but I could easily abandon those stones as unimportant.
+starzend: in the analyze thing?
+theScroobiousPip: oh, maybe
+starzend: sorta. You can place whatever colour stones where ever you like.
+theScroobiousPip: i'm back on the gmae
+starzend: then the stones are all correct.
+]
+(;B[ei]
+(;W[gf]
+C[theScroobiousPip: what are your points - why do they keep climbing and mine keep being zero?
+theScroobiousPip: also, what are the days?
+theScroobiousPip: and why do they fluctiuate wildly?
+starzend: that's how many days you've got to make a move before you're penalized.
+]
+(;B[ci]
+C[starzend: it's generally not set that high, but you said you wanted a true corrospondence game.
+]
+(;W[fh]
+C[theScroobiousPip: yeah, this is the functional hour, when i'm done at work, but not yet gone home
+starzend: yeah - my last day is friday so I don't exactly have much to do either.
+]
+(;B[ge]
+C[starzend: that's a very good move
+theScroobiousPip: yeah, i'm having trouble figuring out how to open cells
+starzend: [object Object\]
+theScroobiousPip: but figure i want to stop you getting a group with multiples
+starzend: this variation is what could happen if you hadn't gone there.
+theScroobiousPip: is that impenetrable too?
+starzend: yes, for the same reason.
+starzend: that's more how it happens in a game.
+theScroobiousPip: phew
+theScroobiousPip: thats what i thought
+]
+(;W[gc]
+C[theScroobiousPip: i wasn't sure if my stones at e9 and d6 made that not an option, but thought i'd play it safe
+theScroobiousPip: i think this is a bad move, but don't know why
+]
+(;B[gd]
+(;W[ff]
+C[starzend: it's decent
+starzend: [object Object\]
+starzend: this is actually a pretty good shape to have
+theScroobiousPip: how so?
+starzend: [object Object\]
+starzend: it's the stronger it's a stronger varient of the thing just shared
+starzend: it has lots of liberties when not as surrounded as that one, but it's easy to reinforce
+starzend: [object Object\]
+starzend: or do something like this: 
+starzend: that shape there is un-cutable
+theScroobiousPip: thats the 5 stones, not the 3?
+starzend: if I go h9, you just go h10 and vice versa
+theScroobiousPip: [object Object\]
+theScroobiousPip: as it has two eyes?
+theScroobiousPip: or is it incomplete in some way?
+starzend: it's not yet complete
+theScroobiousPip: ok
+starzend: though it can be with two stones.
+]
+(;B[be]
+(;W[fb]
+C[starzend: that was indeed one of the spots that could have made it safe
+theScroobiousPip: I'm gonna have to abscond soon, so this will get less real-time pretty soon
+starzend: all good, you've got another 13 days till you have to make a move :)
+theScroobiousPip: i think the other is/was b7?
+theScroobiousPip: yeah, just courtesy rather than vanishing mysteriously
+starzend: it was indeed
+starzend: my current plan is to attempt to take your large group, then it becomes trivial to make the group safe.
+theScroobiousPip: excellent, liking the past tense
+theScroobiousPip: sounds fair
+starzend: I could have fought for it, but taking your group is easier and more profitable
+theScroobiousPip: but it will have to wait toll later i think, if i don't catch a bus soon, my whole night gets knocked out of alignment
+starzend: no worries
+theScroobiousPip: so, ciao
+starzend: /wave
+]
+(;B[eb]
+(;W[ea]
+(;B[hf]
+(;W[db]
+C[starzend: H9 might have been better there. same effect, but joins the stones to the supporting ones to their right.
+]
+(;B[hd]
+(;W[ic]
+C[starzend: Good plan, but not so good timing.
+]
+(;B[jf]
+C[starzend: building eyes comes when fighting over territory. You've just lost the fight for the upper left hand corner, so now you should be trying to make territory instead.
+starzend: Remember, you win this game by unocupied spaces, not stones taken/not taken.
+]
+(;W[ke]
+C[theScroobiousPip: yeah, i'm not aiming for stones
+theScroobiousPip: i was trying to consolidate territory in the top right
+]
+(;B[ig]
+(;W[kc]
+C[starzend: which you will now need to fight me for.
+starzend: [object Object\]
+theScroobiousPip: yeah, i know
+]
+(;B[kf]
+C[theScroobiousPip: so, to ""claim"" the grey area, would I want to extend from k4 / d4, or place new single stones in the wilderness?
+starzend: to claim it, you should place stones where you think my best avenues of attack would be.
+]
+(;W[gk]
+C[starzend: as a general rule, if i need to put a stone somewhere, you should put a stone there first
+starzend: and if move a forces move b, you should just go for move b directly, though that is obviously dependant on the timing of events.
+]
+(;B[jl]
+(;W[ek]
+(;B[jh]
+(;W[dk]
+C[starzend: that's a pretty good defensive wall you've got there. ideally it'd be about one line closer in, but as it is, it'd take someone better than I to successfully attack it
+starzend: I think anyway.
+starzend: (note - I'm not very good)
+]
+(;B[hj]
+C[theScroobiousPip: the dotted line?
+]
+(;W[ej]
+C[starzend: for defensive purposes L would be better than K. While K claims more territory there's a lot of open space back there that could be invaded.
+]
+(;B[kj]
+C[starzend: decent move, but it yields the initiative to me. 
+]
+(;W[cj]
+C[starzend: [object Object\]
+theScroobiousPip: possibly. I'm having a hard time seeing initiative
+theScroobiousPip: i can feel when its against me, but heaven help me when i try to find it
+]
+(;B[fi]
+(;W[gi]
+C[starzend: A lot of this game is intuitive and requires experience to play.
+starzend: which is one of the reasons computers suck at it.
+starzend: initiative is just making moves that force me to respond. threatening something I want forces me to react and grants you the initiative. 
+starzend: defensive moves will almost always lose you the initiative, but sometimes are worth while anyway.
+theScroobiousPip: sadly i'm a defensive player by nature
+starzend: defensive is fine, but there's a difference between defending a corner and a defensive approach to claiming the board. 
+]
+(;B[gj]
+C[starzend: it doesn't matter if you have an impenetrable corner if you cede the rest of the board to gain that corner.
+]
+(;W[fj]
+C[theScroobiousPip: i know
+]
+(;B[ck]
+C[theScroobiousPip: i don't know how to9 rout you
+]
+(;W[di]
+(;B[gh]
+(;W[hi]
+(;B[ii]
+(;W[hk]
+(;B[ij]
+(;W[hh]
+C[theScroobiousPip: damn, thats not good
+]
+(;B[hg]
+C[starzend: sadly your position isn't looking good.
+starzend: if you like, we can end this game and start a new one.
+]
+(;W[id]
+C[theScroobiousPip: If we're gonna end, what horrible mistakes did I make? What should I avoid in future?
+]
+(;B[hc]
+C[starzend: your main mistake was in the early stages of the game.
+starzend: you went for density in a small area, meaning you had to try to attack me to make space later on
+]
+(;W[hb]
+(;B[he]
+C[theScroobiousPip: and to beat that i want to seed th board sparesely but widely?
+]
+(;W[kd]
+C[starzend: think of it less as seeding the board and more as positioning strong-holds.
+starzend: they're the places you connect to to control that area of the board so that when the battle comes to that area you've already got forces in place.
+]
+(;B[bj]
+(;W[ei]
+(;B[gb]
+C[starzend: These are good moves, you're putting the pressure on me to respond. 
+]
+(;W[fc]
+(;B[ga]
+C[theScroobiousPip: I've been reading strategy, though it never seems applicable to this game - maybe i've just let myself get into such a terrible position...
+]
+(;W[ha]
+C[starzend: While you are in a bad position, I'd say that your difficulties in applying the strategy are really common to begin with.
+theScroobiousPip: oh yeah, its hardly unique or unusual
+starzend: like with the eyes, the situations a strategy is useful in is rarely as obvious as it is when you're learning about it.
+theScroobiousPip: but its pretty annoying to be pants at something
+]
+(;B[ib]
+C[starzend: ha. yeah I know exactly how you feel.
+starzend: I'm getting hammered at some of my other games.
+]
+(;W[jc]
+(;B[kb]
+(;W[fa]
+(;B[ih]
+(;W[gg]
+(;B[le]
+(;W[ld]
+(;B[lc]
+(;W[lb]
+(;B[md]
+C[theScroobiousPip: ah, fuck. got too caught up and didn't look ahead
+theScroobiousPip: ignore the undo request, curious about how it worked, but i've made my bed and i'll lie in it.
+]
+(;W[mc]
+(;B[me]
+(;W[lf]
+(;B[mf]
+(;W[mg]
+(;B[lh]
+(;W[mj]
+(;B[mk]
+(;W[mh]
+(;B[mi]
+(;W[li]
+(;B[ki]
+(;W[kg]
+C[starzend: you're super close to making two eyes there.
+theScroobiousPip: what do i need to do to firm that out? connect all edges of eyes?
+]
+(;B[ik]
+C[starzend: [object Object\]
+starzend: this is safe, vecause the group at k8 can't be taken, destroying the eye at j8
+]
+(;W[je]
+(;B[kk]
+C[starzend: [object Object\]
+starzend: this would have done the same thing.
+]
+(;W[jg]
+(;B[kh]
+(;W[lg]
+(;B[if]
+(;W[lk]
+(;B[ml]
+(;W[ll]
+(;B[lj]
+(;W[mi]
+(;B[km]
+(;W[mm]
+(;B[kl]
+C[starzend: [object Object\]
+]
+(;W[mk]
+(;B[hl]
+C[theScroobiousPip: yeah, took me long enough
+]
+(;W[gl]
+C[starzend: it's your first game!
+starzend: it takes a while to recognize the patterns. You've caught the idea faster than I did.
+]
+(;B[il]
+C[theScroobiousPip: its still 2/3rds random placing
+]
+(;W[lm]
+C[starzend: nah, after you read up on strategy you definitely had the idea of what was going on.
+starzend: it'll take a while before it feels solid, but if you play again you'll do way better.
+]
+(;B[gm]
+(;W[fm]
+(;B[fl]
+(;W[hm]
+C[theScroobiousPip: damn it, i always miss those little capture moves
+theScroobiousPip: this is what i meant ages ago about the weird reciprocality of threatening
+starzend: yeah, it's about timing
+]
+(;B[el]
+C[starzend: if you aren't connected to a safe group it's really easy to lose loose stones like that
+]
+(;W[gm]
+C[starzend: when I say timing, the time to make moves like you just did (and lost a stone for it) is when your opponent is forced to move elsewhere or lose soemthing more valuable.
+theScroobiousPip: yeah, i thought i had you pinned between your stone on 1 or the group of 3 you just connected to
+theScroobiousPip: one or the other
+theScroobiousPip: missed the cancel clause
+]
+(;B[cl]
+(;W[dl]
+(;B[dm]
+C[starzend: here I've been fighting for the survival of my broup at g2
+]
+(;W[fk]
+C[starzend: move 135 was the one that took the pressure off me, and let me act against you
+]
+(;B[bm]
+(;W[em]
+(;B[cm]
+(;W[bd]
+(;B[ai]
+(;W[bg]
+(;B[ah]
+(;W[ag]
+C[starzend: and that's pretty much the game
+starzend: unless you want to try and fight for my territory in the upper left hand corner?
+theScroobiousPip: yeah, thats what i figured, hence not fighting for b9
+]
+(;B[bk]
+(;W[]
+C[starzend: if you're done just hit pass and the game should end
+starzend: (assuming nova gs works like other clients)
+starzend: actually, you can get an extra point by going at j1
+]
+(;B[im]
+C[theScroobiousPip: thanks
+]
+(;W[]
+C[starzend: nw
+]
+(;B[]
+C[theScroobiousPip: ok.... what do i do here?
+starzend: here we decide which groups of stones are dead and which are alive
+starzend: I've selected the ones I think are dead
+theScroobiousPip: do i need to do anything?
+starzend: if you agree, you click accept removed stones, if not you hit cancel and the game resumes
+starzend: we then play out the disputed groups to find out which of us was right.
+starzend: Thanks for the game :)
+theScroobiousPip: lost by 71.5 points. so close lol
+starzend: first game!
+theScroobiousPip: i know i know
+starzend: you can't be too hard on yourself :P
+starzend: want to play again?
+theScroobiousPip: just, one of these days i'm gonna try something and be literally amazing first go
+theScroobiousPip: but guess its not this either
+starzend: haha, the only things like that are the things you've done before.
+theScroobiousPip: a man can dream... a man can dream.
+starzend: indeed
+theScroobiousPip: new game sounds fine, though i'll likely not have heaps more time today
+starzend: no worries
+starzend: It's correspondence so time isn't exactly the main concern :) 
+theScroobiousPip: ja ja, just almost doing the real-time thing here for a while
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2137,909,938,starzend,theScroobiousPip,nz,un,"{'version': 5, 'overall': {'rating': 1533.584742275327, 'deviation': 239.71369816875458, 'volatility': 0.06000581489971936}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.81598929002268,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-10]
+PC[OGS: https://online-go.com/game/2137]
+GN[round 2]
+PB[starzend]
+PW[theScroobiousPip]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[Void]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[pp][pd][dp]
+C[theScroobiousPip: shit. my bragging has got me in trouble!
+starzend: whoops!
+starzend: I've got this backwards 
+]
+;W[dd]
+C[starzend: whoops!
+starzend: I've got this backwards 
+]
+)"

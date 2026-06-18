@@ -1,0 +1,183 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1567,676,471,berryp,xentac,us,ca,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-05-30]
+PC[OGS: https://online-go.com/game/1567]
+GN[]
+PB[berryp]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[1814400]OT[20/1728000 canadian]
+RE[W+T]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[5]
+AB[cc][gc][gg][cg][ee]
+;W[ef]
+(;B[dg]
+(;W[ge]
+(;B[fd]
+(;W[fe]
+(;B[eb]
+(;W[ce]
+(;B[bd]
+(;W[cd]
+(;B[df]
+(;W[dc]
+(;B[hf]
+(;W[he]
+(;B[dh]
+C[xentac: man, I can't remember what I was doing...
+]
+(;W[fg]
+(;B[hd]
+(;W[gd]
+(;B[ec]
+(;W[hc]
+)))))))))))))))))))"
+1125,676,471,berryp,xentac,us,ca,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1439.475436123927, 'deviation': 87.7371674534422, 'volatility': 0.06001474004856412}}",24.303382182144386,23.349918379753024,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-25]
+PC[OGS: https://online-go.com/game/1125]
+GN[]
+PB[berryp]
+PW[xentac]
+BR[30k]
+WR[13k]
+TM[86400]OT[1/86400 canadian]
+RE[W+38.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[5]
+AB[ec][bc][hc][hg][eg]
+C[berryp: evenin'
+xentac: Good luck. 
+berryp: ha
+xentac: I'm surprised it's letting you place your own handicap stones
+xentac: You get to place 5 of them
+berryp: what? i placed and clicked 'submit move'
+]
+;W[ed]
+(;B[dc]
+(;W[fc]
+(;B[fb]
+(;W[gc]
+(;B[ee]
+(;W[fe]
+(;B[gd]
+(;W[ge]
+(;B[he]
+(;W[gb]
+(;B[eb]
+(;W[de]
+(;B[ef]
+(;W[cg]
+(;B[ce]
+(;W[dd]
+(;B[cd]
+(;W[df]
+(;B[dh]
+(;W[ch]
+(;B[bg]
+(;W[dg]
+(;B[eh]
+(;W[gg]
+(;B[fg]
+(;W[gf]
+(;B[hf]
+(;W[gh]
+(;B[gi]
+(;W[fi]
+(;B[hi]
+(;W[hh]
+(;B[ii]
+(;W[ih]
+C[xentac: ha ha! corners only have two liberties, you have to be careful in them
+berryp: yeah yeah
+berryp: realized that _after_ the fact.
+]
+(;B[ga]
+(;W[ha]
+(;B[hb]
+(;W[fa]
+(;B[hd]
+(;W[fd]
+(;B[ci]
+(;W[bi]
+(;B[di]
+(;W[bh]
+(;B[ag]
+(;W[bf]
+(;B[af]
+(;W[ae]
+(;B[ah]
+(;W[ai]
+C[berryp: yeah, ok.
+]
+(;B[be]
+C[xentac: pretty close to being finished
+]
+(;W[ad]
+(;B[cc]
+(;W[ac]
+(;B[ea]
+(;W[ga]
+(;B[ab]
+(;W[bb]
+C[berryp: darn.
+]
+(;B[ba]
+C[xentac: generally, that's a good way to block, but because B6 is free, you can't get away with it
+]
+(;W[cb]
+C[berryp: which was?
+xentac: I'll show you in the review
+berryp: k
+]
+(;B[ca]
+(;W[aa]
+(;B[da]
+(;W[ab]
+(;B[db]
+(;W[bd]
+C[xentac: oh crap
+xentac: well, I fucked that up big time
+]
+(;B[af]
+(;W[ag]
+C[xentac: congrats
+xentac: I didn't kill everything ;o)
+]
+(;B[ae]
+(;W[ig]
+C[berryp: what's this 21 days + 2wk business?
+]
+(;B[cf]
+(;W[bg]
+C[xentac: that's how long we have to make moves and whatnot
+berryp: thought so.
+]
+(;B[ib]
+(;W[if]
+(;B[ic]
+(;W[ie]
+C[berryp: oh
+berryp: i seem to be in a picke, here.
+]
+(;B[cb]
+(;W[]
+C[xentac: it's all done, you should pass too
+berryp: why is it all done?
+xentac: I can explain
+xentac: but essentially, there are no more moves you can make to increase your score or decrease mine
+xentac: and same with me
+berryp: oh i see.
+berryp: of course.
+]
+(;B[]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

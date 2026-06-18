@@ -1,0 +1,18 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+3329,1217,1264,Ravenas,Losipe,de,un,"{'version': 5, 'overall': {'rating': 1109.8648246560242, 'deviation': 224.7135371523028, 'volatility': 0.05999953023440453}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",17.329979915033086,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-31]
+PC[OGS: https://online-go.com/game/3329]
+GN[Anfängerschlacht]
+PB[Ravenas]
+PW[Losipe]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+)"

@@ -1,0 +1,42 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+2042,288,916,csobod,Selbeven,us,us,"{'version': 5, 'overall': {'rating': 1333.1912566618555, 'deviation': 195.06834014127082, 'volatility': 0.05999843071633905}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",21.57423796905288,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-30]
+PC[OGS: https://online-go.com/game/2042]
+GN[Game]
+PB[csobod]
+PW[Nithin]
+BR[19k]
+WR[15k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[csobod: Let's do a Malkovitch game! If you're not familiar with the term, it's a game where each player records their reasoning behind each move; even just a one or two-word entry is fine. The tab for the Malkovitch Journal is above the chat box, next to the speech bubbles.
+csobod: At the end of the match, our journals are revealed and we can more effectively review!
+csobod: Star point.
+]
+;B[pd]
+C[csobod: Star point.
+]
+)"
+2167,916,274,Selbeven,Urg,us,pl,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1899.7737880462869, 'deviation': 66.14262124891015, 'volatility': 0.060048881684063055}}",24.303382182144386,29.773026016174747,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-13]
+PC[OGS: https://online-go.com/game/2167]
+GN[Play more GO #3]
+PB[Nithin]
+PW[Urg]
+BR[15k]
+WR[9k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+(;W[dc]
+))"

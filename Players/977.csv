@@ -1,0 +1,703 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+62251371,1266745,977,salaamander,Schiz,un,un,"{'version': 5, 'overall': {'rating': 402.69840124158077, 'deviation': 112.81528062674181, 'volatility': 0.06000460174974428}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",5.0,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2024-03-07]
+PC[OGS: https://online-go.com/game/62251371]
+GN[Friendly Match]
+PB[salaamander]
+PW[Schiz]
+BR[?]
+WR[?]
+TM[864000]OT[86400 fischer]
+RE[W+21.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[gc][cg]
+;W[dd]
+(;B[cc]
+(;W[cd]
+(;B[dc]
+(;W[ec]
+(;B[ed]
+(;W[eb]
+(;B[fd]
+(;W[bc]
+(;B[gg]
+(;W[eg]
+(;B[ef]
+(;W[fg]
+(;B[ff]
+(;W[gh]
+(;B[ge]
+(;W[hg]
+(;B[gf]
+C[salaamander: stupid mistake
+]
+(;W[hf]
+(;B[ie]
+(;W[dg]
+(;B[fh]
+(;W[eh]
+(;B[df]
+(;W[ch]
+(;B[de]
+(;W[cb]
+(;B[be]
+(;W[bg]
+(;B[cf]
+(;W[hh]
+(;B[he]
+(;W[ha]
+(;B[ib]
+(;W[hb]
+(;B[hc]
+(;W[gb]
+(;B[fc]
+(;W[fb]
+(;B[bd]
+(;W[db]
+(;B[if]
+(;W[ig]
+C[salaamander: :*
+salaamander: gotta go
+Schiz: np
+]
+(;B[ac]
+C[Schiz: ...
+]
+(;W[ab]
+(;B[ad]
+(;W[af]
+(;B[bf]
+(;W[bh]
+C[salaamander: pass?
+]
+(;B[]
+C[Schiz: let
+Schiz: let's fill dame
+]
+(;W[ia]
+C[salaamander: wait
+salaamander: i missed a move? 
+Schiz: you passed
+salaamander: so i miss a move if you don't pass as well?
+Schiz: yes
+salaamander: that's not cool
+Schiz: but it doesn't really matter actually
+Schiz: if the game is really over nobody can gain any more points
+]
+(;B[ic]
+(;W[ce]
+(;B[ae]
+C[salaamander: yalla let's end this please
+]
+(;W[ag]
+C[Schiz: inshallah
+]
+(;B[]
+(;W[]
+C[salaamander: wtf
+salaamander: that's a huge margin
+Schiz: we had 2 stones this time
+Schiz: that's almost an even match
+salaamander: but that wasn't the feeling i had during the game
+salaamander: so weird
+Schiz: it takes a long time to develop good instincts as to how the game is going
+Schiz: especially on big board
+Schiz: but remember that you already know how to count
+Schiz: and you can do it even before the game is over
+salaamander: im kinda shocked
+Schiz: you should look it over and see if you can figure out where things went wrong
+salaamander: i remember one bad move
+Schiz: in retrospect you can see more
+Schiz: in the beginning b had 2 stones on the board, how did they end up?
+salaamander: what do you mean?
+salaamander: the two stones are alive
+Schiz: yes
+Schiz: but G3 for example did not end up surrouinding any territory
+Schiz: you can remove it without affecting the score even
+Schiz: sorry you had c3, not g3. but the same comment stands
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+62549798,1266745,977,salaamander,Schiz,un,un,"{'version': 5, 'overall': {'rating': 402.69840124158077, 'deviation': 112.81528062674181, 'volatility': 0.06000460174974428}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",5.0,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2024-03-21]
+PC[OGS: https://online-go.com/game/62549798]
+GN[Friendly Match]
+PB[salaamander]
+PW[Schiz]
+BR[?]
+WR[?]
+TM[864000]OT[86400 fischer]
+RE[W+R]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[gc][cg]
+;W[cc]
+(;B[gg]
+(;W[ff]
+(;B[ee]
+(;W[fg]
+(;B[gf]
+(;W[fe]
+(;B[ge]
+(;W[fd]
+(;B[gd]
+(;W[fc]
+(;B[fb]
+(;W[eb]
+(;B[gb]
+(;W[bf]
+(;B[dc]
+(;W[db]
+(;B[dd]
+(;W[ce]
+(;B[ef]
+(;W[eg]
+C[Schiz: are you back home?
+salaamander: first move from the holy land !
+Schiz: amazing
+Schiz: we shall meet asap
+]
+(;B[ec]
+C[salaamander: absolutelyzx 
+]
+(;W[de]
+(;B[df]
+(;W[cd]
+(;B[ed]
+(;W[dg]
+C[salaamander: yeah i meant resign not undo
+salaamander: happy to stop here and analyze when u have time later today (while it's fresh)
+Schiz: sure
+Schiz: not absolutely sure can do it today but maybe i can around 7 something
+Schiz: welcome back!
+salaamander: <3
+salaamander: ok let's try a quick one around 7
+salaamander: i'm curious to know where i went wrong
+Schiz: great
+Schiz: it wasn't such a long match so ithink we can get to the point quickly
+salaamander: 👌 
+]
+)))))))))))))))))))))))))))"
+4354476,977,966,Schiz,tomerdmnt,un,un,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 2075.3705555737697, 'deviation': 101.14287329800298, 'volatility': 0.0600051341345358}}",24.303382182144386,31.81959941823388,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2016-03-15]
+PC[OGS: https://online-go.com/game/4354476]
+GN[Friendly Match]
+PB[Schiz]
+PW[tomerdmnt]
+BR[?]
+WR[4d]
+TM[0]OT[0 none]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[qd]
+(;W[dd]
+(;B[pq]
+(;W[od]
+(;B[ld]
+(;W[pf]
+(;B[oe]
+(;W[pe]
+(;B[pd]
+(;W[nd]
+(;B[ne]
+(;W[me]
+))))))))))))"
+4354479,977,966,Schiz,tomerdmnt,un,un,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 2075.3705555737697, 'deviation': 101.14287329800298, 'volatility': 0.0600051341345358}}",24.303382182144386,31.81959941823388,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2016-03-15]
+PC[OGS: https://online-go.com/game/4354479]
+GN[Friendly Match]
+PB[Schiz]
+PW[tomerdmnt]
+BR[?]
+WR[4d]
+TM[0]OT[0 none]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+(;W[dp]
+(;B[pp]
+(;W[dd]
+(;B[fc]
+(;W[nq]
+(;B[lp]
+(;W[qf]
+(;B[qj]
+(;W[no]
+(;B[on]
+(;W[qq]
+(;B[qp]
+(;W[pq]
+))))))))))))))"
+416620,966,977,tomerdmnt,Schiz,un,un,"{'version': 5, 'overall': {'rating': 2075.3705555737697, 'deviation': 101.14287329800298, 'volatility': 0.0600051341345358}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",31.81959941823388,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-22]
+PC[OGS: https://online-go.com/game/416620]
+GN[]
+PB[tomerdmnt]
+PW[Schiz]
+BR[5k]
+WR[2k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+(;W[dp]
+(;B[pp]
+(;W[dd]
+C[tomerdmnt: Hi :)
+]
+(;B[pj]
+(;W[nq]
+C[Schiz: אה יש כאן גם צ'אט
+Schiz: נראה לי שכשנגיע למהלך 20 או משהו נפתח עוד משחק כבר במקביל
+tomerdmnt: סבבה
+]
+(;B[pn]
+(;W[pr]
+(;B[jd]
+(;W[qq]
+(;B[fc]
+(;W[cf]
+(;B[db]
+C[tomerdmnt: איזה פוסקי מעצבן אנחנו משחקים ;)
+]
+(;W[cc]
+C[Schiz: כן אבל אל תגיד שזה מפתיע אותך! תמיד יוצא לנו דברים מוזרים...
+Schiz: בכל מקרה אם רוצים אפשר להתחיל תוך כדי המשחק הזה עוד כמה במקביל ואז יהיה לנו הזדמנות להרוס גם כמה פוסקים אחרים
+tomerdmnt: כן, אני בעד
+]
+(;B[ff]
+(;W[nc]
+C[Schiz: זה עלה על דעתי עכשיו שלראשונה אנחנו במצב שאנחנו מתחילים לנצח או להפסיד משחקים בגלל הפוסקי, ולא רק בגלל טעויות טקטיות בהמשך המשחק
+]
+(;B[pf]
+(;W[pb]
+(;B[qc]
+(;W[lc]
+(;B[kb]
+(;W[lb]
+(;B[fq]
+C[Schiz: זיבי הייתי עסוק כמה ימים ופיספסתי.....!
+]
+)))))))))))))))))))))))"
+61466322,1266745,977,salaamander,Schiz,un,un,"{'version': 5, 'overall': {'rating': 402.69840124158077, 'deviation': 112.81528062674181, 'volatility': 0.06000460174974428}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",5.0,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2024-02-10]
+PC[OGS: https://online-go.com/game/61466322]
+GN[Friendly Match]
+PB[salaamander]
+PW[Schiz]
+BR[?]
+WR[?]
+TM[14400]OT[5x30 byo-yomi]
+RE[W+0.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[cc]
+(;B[ed]
+(;W[cf]
+(;B[be]
+(;W[bg]
+(;B[dg]
+(;W[ce]
+(;B[cd]
+(;W[bd]
+(;B[dd]
+(;W[bb]
+(;B[cb]
+(;W[dc]
+(;B[fc]
+(;W[ch]
+(;B[he]
+(;W[eb]
+(;B[fe]
+(;W[dh]
+(;B[eg]
+(;W[eh]
+(;B[fh]
+(;W[fb]
+(;B[gb]
+(;W[ga]
+(;B[ha]
+(;W[fa]
+(;B[df]
+(;W[bf]
+(;B[de]
+(;W[hb]
+(;B[hc]
+(;W[ia]
+(;B[ic]
+(;W[bh]
+(;B[ec]
+(;W[db]
+(;B[ei]
+(;W[di]
+(;B[fi]
+(;W[ha]
+(;B[ib]
+(;W[]
+(;B[]
+C[Schiz: [object Object\]
+]
+))))))))))))))))))))))))))))))))))))))))))))"
+61489679,1266745,977,salaamander,Schiz,un,un,"{'version': 5, 'overall': {'rating': 402.69840124158077, 'deviation': 112.81528062674181, 'volatility': 0.06000460174974428}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",5.0,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2024-02-12]
+PC[OGS: https://online-go.com/game/61489679]
+GN[Friendly Match]
+PB[salaamander]
+PW[Schiz]
+BR[?]
+WR[?]
+TM[864000]OT[86400 fischer]
+RE[W+8.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[dd]
+(;B[cc]
+(;W[dc]
+(;B[cd]
+(;W[ce]
+(;B[de]
+(;W[be]
+(;B[cf]
+(;W[ee]
+(;B[df]
+(;W[cb]
+(;B[bd]
+(;W[bc]
+(;B[eb]
+(;W[ge]
+(;B[fe]
+(;W[fd]
+(;B[ff]
+(;W[gd]
+(;B[he]
+(;W[hf]
+(;B[hd]
+(;W[fc]
+(;B[hc]
+C[salaamander: thanks for the pass hehe
+]
+(;W[gf]
+C[Schiz: sure
+]
+(;B[fg]
+(;W[fb]
+(;B[ec]
+(;W[ed]
+(;B[ad]
+(;W[ae]
+(;B[ef]
+(;W[hh]
+(;B[hg]
+(;W[ig]
+(;B[gi]
+(;W[ac]
+(;B[gh]
+(;W[bh]
+(;B[bg]
+(;W[ag]
+(;B[bf]
+(;W[af]
+(;B[ch]
+(;W[ih]
+(;B[hi]
+(;W[ah]
+(;B[ii]
+(;W[if]
+(;B[ci]
+C[Schiz: note thhat the H7 group is not necessarily dead yet
+Schiz: perhaps you can make 2 eyes
+]
+(;W[bi]
+C[salaamander: i thought about eyes there
+salaamander: but i need 3 stones to make it
+Schiz: if you surround territory you can make eyes
+Schiz: if white tries to stop you, you can perhaps eat him
+]
+(;B[gb]
+C[Schiz: good
+]
+(;W[ga]
+(;B[ha]
+(;W[fa]
+(;B[ie]
+(;W[ib]
+(;B[ic]
+C[Schiz: good
+Schiz: now white will try to murder F3
+Schiz: the response might not be obvious, but he can be stopped
+]
+(;W[eh]
+(;B[dh]
+C[Schiz: now E1 was the right idea just not the right place
+]
+(;W[ei]
+(;B[eg]
+C[Schiz: well done
+Schiz: now W can't atari anywhere
+Schiz: W tries one last thing
+]
+(;W[hb]
+C[Schiz: until you can redo E1
+]
+(;B[ia]
+C[Schiz: go back a couple more
+]
+(;W[fh]
+C[salaamander: wtf
+salaamander: you fucked me up
+]
+(;B[fi]
+C[Schiz: let's do a couple undos
+Schiz: E1 was the right idea actually
+Schiz: just not quite the corect place
+Schiz: right
+Schiz: W can't D1
+]
+(;W[hb]
+(;B[ib]
+(;W[]
+(;B[]
+C[Schiz: good game
+salaamander: :)
+Schiz: i don't have time to analyze now
+salaamander: no worries
+Schiz: but i recommend you look it over yourself and see if you can detect the major issues
+salaamander: 👍 
+salaamander: i'll try the AI review haha
+Schiz: if you see something that went wrong, start going backwards and see where the trouble started
+Schiz: first try looking yourself
+salaamander: sounds good, will do it later though
+Schiz: sure
+Schiz: good job
+salaamander: danke
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+61575529,1266745,977,salaamander,Schiz,un,un,"{'version': 5, 'overall': {'rating': 402.69840124158077, 'deviation': 112.81528062674181, 'volatility': 0.06000460174974428}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",5.0,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2024-02-16]
+PC[OGS: https://online-go.com/game/61575529]
+GN[Friendly Match]
+PB[salaamander]
+PW[Schiz]
+BR[?]
+WR[?]
+TM[864000]OT[86400 fischer]
+RE[B+15.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[cc]
+(;B[ed]
+(;W[dg]
+(;B[ef]
+(;W[df]
+(;B[ce]
+(;W[cf]
+(;B[de]
+(;W[bg]
+C[salaamander: btw, i saw the upcoming atari, and decided to give up on C3
+salaamander: not sure if that was the right thing, or there was actually a way to save it
+]
+(;B[cd]
+(;W[dc]
+(;B[ec]
+(;W[bc]
+(;B[bd]
+(;W[eg]
+(;B[fg]
+(;W[eb]
+(;B[fb]
+(;W[da]
+C[salaamander: sorry man, i'm not getting any kind of notification when u make a move
+Schiz: no problem
+Schiz: go with the flow
+salaamander: ""go""
+salaamander: :)
+Schiz: :)
+salaamander: )
+]
+(;B[eh]
+(;W[dh]
+(;B[ei]
+(;W[di]
+(;B[fh]
+(;W[ad]
+(;B[ae]
+(;W[ac]
+(;B[fa]
+(;W[af]
+(;B[be]
+(;W[bf]
+(;B[ee]
+(;W[ba]
+(;B[ea]
+(;W[db]
+C[Schiz: we're about to finish
+Schiz: but first
+Schiz: take a moment and see if you can count the score by hand
+Schiz: a point is every empty space surrounded by that player, plus the number of captures
+Schiz: W gets a bonus 0.5
+Schiz: C3 counts as twice for white, once for the point C3 and once for the captured stone (although it's technically just dead, not captureD)
+salaamander: black 30
+salaamander: w 14.5
+salaamander: ?
+Schiz: checking
+Schiz: great
+Schiz: well done
+Schiz: now do pass
+Schiz: and white will try to mess stuff up, don't let him
+Schiz: or you can play dame at D6
+]
+(;B[dd]
+(;W[he]
+(;B[ge]
+(;W[hc]
+(;B[hd]
+(;W[id]
+(;B[gd]
+(;W[hb]
+(;B[ha]
+(;W[hf]
+(;B[hg]
+(;W[gb]
+(;B[ga]
+(;W[ig]
+(;B[ib]
+(;W[hh]
+(;B[gi]
+(;W[hi]
+C[salaamander: oops
+]
+(;B[gf]
+(;W[ih]
+(;B[ic]
+(;W[ie]
+(;B[if]
+(;W[]
+(;B[]
+C[Schiz: well done
+Schiz: now i have a task for you
+salaamander: ..
+Schiz: can you enter this?
+Schiz: https://online-go.com/demo/view/1228287
+Schiz: or maybe this https://online-go.com/demo/view/1228287
+Schiz: ok same url
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+61677895,1266745,977,salaamander,Schiz,un,un,"{'version': 5, 'overall': {'rating': 402.69840124158077, 'deviation': 112.81528062674181, 'volatility': 0.06000460174974428}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",5.0,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2024-02-17]
+PC[OGS: https://online-go.com/game/61677895]
+GN[Friendly Match]
+PB[salaamander]
+PW[Schiz]
+BR[?]
+WR[?]
+TM[14400]OT[5x30 byo-yomi]
+RE[W+4.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[dd]
+(;B[ec]
+(;W[fg]
+(;B[ff]
+(;W[gf]
+(;B[ge]
+(;W[hf]
+(;B[hh]
+(;W[fe]
+(;B[ef]
+(;W[gd]
+(;B[he]
+(;W[hd]
+(;B[eg]
+(;W[fh]
+(;B[eh]
+(;W[fc]
+(;B[fb]
+(;W[fd]
+(;B[gb]
+(;W[db]
+(;B[ed]
+(;W[ee]
+(;B[dc]
+(;W[eb]
+(;B[cc]
+(;W[cb]
+(;B[cd]
+(;W[hb]
+(;B[hc]
+(;W[ic]
+(;B[ha]
+(;W[ib]
+(;B[de]
+(;W[ie]
+(;B[bb]
+(;W[hg]
+(;B[gh]
+(;W[ba]
+(;B[fi]
+(;W[bc]
+(;B[be]
+(;W[ih]
+(;B[hi]
+(;W[ad]
+(;B[ae]
+(;W[ab]
+(;B[cf]
+(;W[bd]
+(;B[bf]
+(;W[ig]
+(;B[ii]
+(;W[bh]
+(;B[ch]
+(;W[ci]
+(;B[di]
+(;W[bg]
+(;B[ag]
+(;W[ah]
+(;B[af]
+(;W[bi]
+(;B[ai]
+(;W[]
+(;B[]
+C[Schiz: [object Object\]
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

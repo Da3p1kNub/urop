@@ -1,0 +1,549 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1640,831,671,sofina,wayward,sk,rs,"{'version': 5, 'overall': {'rating': 1215.8619792233847, 'deviation': 283.1803355250868, 'volatility': 0.06000103845834988}}","{'version': 5, 'overall': {'rating': 1966.5540172134433, 'deviation': 63.19245744922825, 'volatility': 0.060013338812852125}}",19.441608203413374,30.57281131468437,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-05]
+PC[OGS: https://online-go.com/game/1640]
+GN[]
+PB[sofina]
+PW[wayward]
+BR[6k]
+WR[1k]
+TM[1814400]OT[20/3456000 canadian]
+RE[W+28.5]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[5]
+AB[jj][dd][pp][pd][dp]
+;W[qf]
+(;B[nd]
+C[sofina: GG
+sofina: :))
+sofina: :*
+]
+(;W[rd]
+(;B[qc]
+(;W[lc]
+(;B[qj]
+(;W[rc]
+(;B[of]
+(;W[ph]
+(;B[oj]
+(;W[fc]
+(;B[df]
+(;W[id]
+(;B[nh]
+(;W[nq]
+(;B[lq]
+(;W[cn]
+(;B[np]
+(;W[qq]
+(;B[qp]
+(;W[pq]
+(;B[oq]
+(;W[or]
+(;B[op]
+(;W[mr]
+(;B[mq]
+(;W[nr]
+(;B[dn]
+(;W[lj]
+(;B[kh]
+(;W[kl]
+(;B[cm]
+(;W[cq]
+(;B[dq]
+(;W[co]
+(;B[do]
+(;W[bm]
+(;B[bl]
+(;W[cl]
+(;B[dm]
+(;W[bn]
+(;B[bk]
+(;W[cr]
+(;B[cp]
+(;W[bp]
+(;B[dr]
+(;W[ni]
+(;B[oi]
+(;W[mh]
+(;B[mg]
+(;W[ng]
+(;B[oh]
+(;W[lh]
+(;B[lg]
+(;W[kg]
+(;B[nf]
+(;W[ki]
+(;B[jh]
+(;W[ji]
+(;B[hj]
+(;W[ii]
+(;B[ij]
+(;W[nl]
+(;B[pl]
+(;W[jq]
+(;B[lr]
+(;W[jo]
+(;B[lo]
+(;W[kn]
+(;B[rb]
+(;W[sb]
+(;B[qb]
+(;W[rh]
+(;B[qe]
+(;W[re]
+(;B[qg]
+(;W[pg]
+(;B[pf]
+(;W[rf]
+(;B[ri]
+(;W[qi]
+(;B[ec]
+(;W[fd]
+(;B[mc]
+(;W[cc]
+(;B[cd]
+(;W[bd]
+(;B[be]
+(;W[bb]
+(;B[ad]
+(;W[ac]
+(;B[ae]
+(;W[eb]
+(;B[dc]
+(;W[db]
+(;B[dk]
+(;W[gh]
+(;B[eh]
+(;W[fj]
+(;B[ej]
+(;W[fk]
+(;B[gm]
+(;W[go]
+(;B[gq]
+(;W[el]
+(;B[dl]
+(;W[fm]
+(;B[hp]
+(;W[ho]
+(;B[kc]
+(;W[kd]
+(;B[ld]
+(;W[jc]
+(;B[kb]
+(;W[jb]
+(;B[lb]
+(;W[kf]
+(;B[le]
+(;W[ff]
+(;B[fi]
+(;W[gi]
+(;B[rq]
+(;W[rr]
+(;B[rp]
+(;W[rj]
+(;B[rk]
+(;W[si]
+(;B[qk]
+(;W[om]
+(;B[pm]
+(;W[ds]
+(;B[es]
+(;W[cs]
+(;B[er]
+(;W[sr]
+(;B[am]
+(;W[ao]
+(;B[ms]
+(;W[pr]
+(;B[ip]
+(;W[jp]
+(;B[io]
+(;W[in]
+(;B[ir]
+(;W[jr]
+(;B[on]
+(;W[nn]
+(;B[ol]
+(;W[nm]
+(;B[mj]
+(;W[mk]
+(;B[nj]
+(;W[li]
+(;B[ln]
+(;W[lm]
+(;B[ke]
+(;W[je]
+(;B[sk]
+(;W[bc]
+(;B[cf]
+(;W[hr]
+(;B[iq]
+(;W[gr]
+(;B[fq]
+(;W[is]
+(;B[fo]
+(;W[fn]
+(;B[sj]
+(;W[ri]
+(;B[al]
+(;W[an]
+(;B[lf]
+(;W[jf]
+(;B[ja]
+(;W[ia]
+(;B[ka]
+(;W[jd]
+(;B[ef]
+(;W[fg]
+(;B[eg]
+(;W[fp]
+(;B[eo]
+(;W[gp]
+(;B[hq]
+(;W[og]
+(;B[pi]
+(;W[qh]
+(;B[ns]
+(;W[os]
+(;B[ls]
+(;W[fh]
+(;B[ei]
+(;W[oo]
+(;B[pn]
+(;W[no]
+(;B[po]
+(;W[mi]
+(;B[mn]
+(;W[ok]
+(;B[pk]
+(;W[nk]
+(;B[pj]
+(;W[mo]
+(;B[mp]
+(;W[mm]
+(;B[sq]
+(;W[qs]
+(;B[ee]
+(;W[qd]
+(;B[pe]
+(;W[fe]
+(;B[fr]
+(;W[js]
+(;B[ra]
+(;W[ko]
+(;B[lp]
+(;W[ep]
+(;B[sa]
+(;W[sc]
+(;B[ek]
+(;W[em]
+(;B[gs]
+(;W[hs]
+(;B[fs]
+(;W[gn]
+(;B[]
+(;W[]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3496,831,671,sofina,wayward,sk,rs,"{'version': 5, 'overall': {'rating': 1215.8619792233847, 'deviation': 283.1803355250868, 'volatility': 0.06000103845834988}}","{'version': 5, 'overall': {'rating': 1966.5540172134433, 'deviation': 63.19245744922825, 'volatility': 0.060013338812852125}}",19.441608203413374,30.57281131468437,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-06]
+PC[OGS: https://online-go.com/game/3496]
+GN[]
+PB[sofina]
+PW[wayward]
+BR[7k]
+WR[1k]
+TM[259200]OT[86400 fischer]
+RE[W+18.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[sofina: :)
+]
+;B[ee]
+(;W[ge]
+C[wayward: :)
+]
+(;B[fe]
+(;W[ce]
+C[sofina: tup
+wayward: samo napred
+wayward: da vidim sta ces s tim
+sofina: svasta 
+sofina: =)
+]
+(;B[gf]
+(;W[gd]
+(;B[fc]
+(;W[hf]
+(;B[hg]
+(;W[gg]
+(;B[ff]
+(;W[hh]
+(;B[he]
+(;W[ig]
+(;B[hd]
+(;W[gc]
+(;B[hc]
+(;W[gb]
+(;B[fb]
+(;W[hb]
+(;B[cc]
+(;W[dg]
+(;B[eg]
+(;W[dh]
+(;B[eh]
+(;W[bd]
+(;B[df]
+(;W[cf]
+(;B[di]
+(;W[ch]
+(;B[ci]
+(;W[bi]
+(;B[ei]
+(;W[bh]
+(;B[bc]
+(;W[ac]
+(;B[ab]
+(;W[ad]
+(;B[bb]
+(;W[cd]
+(;B[dd]
+(;W[ic]
+(;B[ga]
+(;W[ha]
+(;B[fa]
+(;W[fd]
+(;B[ed]
+(;W[ie]
+(;B[gi]
+(;W[gh]
+(;B[hi]
+(;W[ii]
+(;B[fi]
+C[wayward: pff
+wayward: no ko :)
+]
+(;W[ih]
+C[sofina: ah
+sofina: that would be actually interesting one:)
+wayward: psst
+wayward: what happens if B plays b4?
+wayward: key point for this shape
+]
+(;B[bf]
+C[wayward: if you see two groups connected like at c3
+wayward: consider the key point there
+wayward: it's the eye point
+sofina: I see
+]
+(;W[af]
+C[wayward: luckily, I seem to have enough liberties left (I was about to connect if you took d5)
+sofina: oki
+wayward: but this goes to show that seemingly sente moves like W threatening d5 can quickly turn sour :)
+sofina: :)
+sofina: do you want to finish or is the game finished?
+wayward: let's finish
+sofina: waiting for your turn :)
+wayward: if you are unsure about the situation on the left, play it out
+wayward: I played
+wayward: it's B's turn
+sofina: ah
+sofina: I moved myself into review
+sofina: then waited and waited
+sofina: :)
+wayward: aha, Analyze mode
+wayward: very useful on Nova
+]
+(;B[bg]
+(;W[ag]
+C[sofina: I really like this environment
+wayward: yeah and you can change board & stones
+]
+(;B[de]
+(;W[fg]
+(;B[ef]
+C[sofina: nice guzva
+sofina: :)))
+]
+(;W[db]
+C[wayward: :)
+sofina: I knew that
+sofina: you wanna have it all
+wayward: let's just see what happens
+wayward: I'm not out to annihilate you
+]
+(;B[dc]
+C[wayward: just taking key points for fun
+sofina: sure, sure
+sofina: I am joking
+]
+(;W[ba]
+C[sofina: what can be taken, must be taken
+]
+(;B[eb]
+(;W[ca]
+(;B[cb]
+C[wayward: almost :)
+]
+(;W[da]
+(;B[aa]
+(;W[fh]
+C[sofina: the heck, one liberty save me
+sofina: :)
+]
+(;B[ea]
+(;W[]
+(;B[]
+C[sofina: congrats! :)
+wayward: click Accept
+wayward: congrats
+wayward: and as a reward
+wayward: have some nice wallpapers :)
+wayward: http://www.deviantart.com/morelikethis/323412811
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+415954,831,671,sofina,wayward,sk,rs,"{'version': 5, 'overall': {'rating': 1215.8619792233847, 'deviation': 283.1803355250868, 'volatility': 0.06000103845834988}}","{'version': 5, 'overall': {'rating': 1966.5540172134433, 'deviation': 63.19245744922825, 'volatility': 0.060013338812852125}}",19.441608203413374,30.57281131468437,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-20]
+PC[OGS: https://online-go.com/game/415954]
+GN[]
+PB[sofina]
+PW[wayward]
+BR[7k]
+WR[1k]
+TM[259200]OT[86400 fischer]
+RE[W+16.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[wayward: idemo polako :)
+sofina: hey hou
+sofina: :)
+sofina: polako ali sigurno
+wayward: :)
+]
+;B[ee]
+(;W[fd]
+(;B[ed]
+(;W[ec]
+C[wayward: you can also disable the submit button and then you play by double-clicking
+wayward: I guess suitable for faster games :)
+sofina: aha aha:0
+]
+(;B[dc]
+(;W[fc]
+C[sofina: and he thinks and thinks and thinks...
+sofina: O:-)
+]
+(;B[fe]
+(;W[cg]
+C[sofina: now every move seems ugly
+sofina: I am hanging in the air
+wayward: actually
+wayward: if here every move seems ugly
+]
+(;B[db]
+C[wayward: then you should take your time and consider this position more deeply
+]
+(;W[eb]
+(;B[ce]
+(;W[fg]
+(;B[hd]
+(;W[hc]
+(;B[gd]
+(;W[gc]
+(;B[gg]
+(;W[gf]
+(;B[hf]
+(;W[ff]
+C[wayward: careful reading will reveal that B's position is not so weak as it seems
+wayward: as*
+sofina: I must think a little bit more
+sofina: :)
+wayward: you have 7 days :)
+sofina: dammit
+sofina: :D
+wayward: take it slow
+wayward: remember the basic structure of determining a move
+sofina: I have no idea what basic structure is:)
+wayward: here goes
+wayward: :)
+wayward: 1. understand local positions; will a move change things, and how
+wayward: 2. understand global board situation
+wayward: 3. combine the understanding of local positions into global board situation to determine how the position can change depending on those local moves
+wayward: :)
+wayward: actually 1. and 2. should go in the other order
+wayward: first: who is ahead, who has influence and where, where are yose points
+wayward: second: where are the moves that can swing the situation and how
+]
+(;B[hg]
+C[wayward: third: pick a move to swing the situation, considering if your opponent will have to answer
+]
+(;W[ge]
+(;B[fh]
+(;W[eh]
+(;B[gh]
+(;W[he]
+(;B[ih]
+(;W[bf]
+(;B[be]
+(;W[ae]
+C[sofina: awww
+sofina: I concluded I don't want to give you that corner
+sofina: but now you have all sente in the world:)
+wayward: you were right
+]
+(;B[ad]
+C[wayward: but you could have protected it with sente :)
+]
+(;W[af]
+C[sofina: dangit
+sofina: :)
+]
+(;B[bd]
+(;W[da]
+(;B[ca]
+(;W[ea]
+C[wayward: review?
+sofina: let's finish
+wayward: yes, after I mean
+]
+(;B[cf]
+C[sofina: aha
+]
+(;W[bh]
+C[sofina: yes
+]
+(;B[ei]
+(;W[dh]
+(;B[cb]
+C[sofina: didn't I play there already?
+]
+(;W[df]
+(;B[de]
+(;W[if]
+(;B[hi]
+(;W[ef]
+C[sofina: wut
+sofina: omg
+sofina: let's undo pls
+sofina: :D
+]
+(;B[ig]
+(;W[ie]
+(;B[di]
+(;W[ci]
+(;B[fi]
+(;W[]
+(;B[]
+C[wayward: can review?
+sofina: yes pls
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))"

@@ -1,0 +1,3540 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+433349,54478,1144,zakwak011,penderi,un,un,"{'version': 5, 'overall': {'rating': 995.3715039114518, 'deviation': 141.60437513618055, 'volatility': 0.05999245382230676}}","{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}",14.809466506221757,15.957587728247967,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-20]
+PC[OGS: https://online-go.com/game/433349]
+GN[]
+PB[zakwak011]
+PW[penderi]
+BR[30k]
+WR[30k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"
+422973,1144,1147,penderi,idiocratic,un,it,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 895.9626866400455, 'deviation': 65.78122853873121, 'volatility': 0.06001321619626367}}",15.957587728247967,12.37368669401893,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-30]
+PC[OGS: https://online-go.com/game/422973]
+GN[]
+PB[penderi]
+PW[go_fys]
+BR[30k]
+WR[28k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[dd]
+(;W[pq]
+(;B[on]
+(;W[dp]
+(;B[en]
+(;W[dn]
+(;B[dm]
+C[penderi: FINSHED!
+]
+)))))))"
+3307,1147,1144,idiocratic,penderi,it,un,"{'version': 5, 'overall': {'rating': 895.9626866400455, 'deviation': 65.78122853873121, 'volatility': 0.06001321619626367}}","{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}",12.37368669401893,15.957587728247967,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-03]
+PC[OGS: https://online-go.com/game/3307]
+GN[]
+PB[go_fys]
+PW[penderi]
+BR[30k]
+WR[30k]
+TM[0]OT[0 none]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+(;W[dp]
+(;B[dc]
+(;W[pp]
+(;B[de]
+(;W[jj]
+(;B[if]
+(;W[ig]
+(;B[hg]
+(;W[ih]
+(;B[hh]
+(;W[ii]
+(;B[mg]
+(;W[hf]
+(;B[gf]
+(;W[he]
+(;B[gc]
+(;W[hc]
+(;B[hd]
+(;W[ge]
+(;B[ic]
+(;W[kc]
+(;B[ie]
+(;W[kd]
+C[penderi: I've a feeling that this, my first 19x19 game will be a complete
+penderi: mess
+]
+(;B[gd]
+(;W[fd]
+(;B[fe]
+C[go_fys: good
+]
+(;W[kf]
+(;B[lf]
+(;W[je]
+(;B[le]
+(;W[nd]
+(;B[oe]
+(;W[ld]
+(;B[jb]
+(;W[mc]
+(;B[pc]
+C[penderi: this game has started giuving me knightmares
+]
+(;W[of]
+(;B[pf]
+C[penderi: Er I can't even remember you capturing stones lol
+]
+(;W[me]
+(;B[nf]
+(;W[jc]
+(;B[og]
+(;W[lg]
+(;B[kg]
+(;W[lh]
+(;B[jf]
+)))))))))))))))))))))))))))))))))))))))))))))))"
+2845,1131,1144,Aficionado2013,penderi,es,un,"{'version': 5, 'overall': {'rating': 1283.266601050904, 'deviation': 107.3021132004596, 'volatility': 0.06002099396734419}}","{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}",20.690680017569846,15.957587728247967,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-13]
+PC[OGS: https://online-go.com/game/2845]
+GN[Primera]
+PB[Aficionado2013]
+PW[penderi]
+BR[30k]
+WR[30k]
+TM[691200]OT[172800 fischer]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[penderi: Hi, this is all a bit new
+penderi: .... so I'm learning
+]
+)"
+2866,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-13]
+PC[OGS: https://online-go.com/game/2866]
+GN[4 stone handicap?]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+13.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: Yo
+penderi: aha!
+]
+;W[ee]
+C[penderi: aha!
+]
+(;B[dc]
+C[penderi: forget the undo!
+penderi: how have you got 1/2 point already? was you're white???
+]
+(;W[ge]
+C[pathogenix: I have a half point?
+pathogenix: Oh, yes
+pathogenix: Komi
+pathogenix: White gets some points to begin with to make up for the advantage that black gets from having the first move
+pathogenix: It's usually 5.5 or 6.5 points. It also serves to prevent ties
+pathogenix: I've got a four stone handicap, so I basically have to savage you by whatever means necessary. If you don't make any silly mistakes, you basically can't lose
+pathogenix: on a 9x9... 19x19 is very different
+penderi: lol
+]
+(;B[dd]
+C[pathogenix: a 9x9 board is essentially one big fight, but it's good for learning the basic tactics
+]
+(;W[fc]
+(;B[ed]
+(;W[fd]
+(;B[eb]
+(;W[fb]
+(;B[fa]
+(;W[ga]
+(;B[de]
+(;W[ef]
+(;B[df]
+(;W[eg]
+(;B[dg]
+(;W[dh]
+(;B[eh]
+(;W[fh]
+(;B[ei]
+(;W[di]
+(;B[ci]
+(;W[fi]
+(;B[ch]
+(;W[ea]
+C[penderi: I think I'm cocking this up at every turn
+]
+(;B[db]
+C[pathogenix: :) You're supposed to, and then we review the game another day. that's how you lose fifty games
+penderi: yup I figured thsat lol
+]
+(;W[da]
+C[penderi: It's rather like fencing I'd guess - knowing when to parry and when to lunge
+]
+(;B[eh]
+C[penderi: that was a damn twatty move
+pathogenix: And knowing which shapes are good, and which bad. Part of that is aesthetic taste, and part of it is proverbs
+]
+(;W[ei]
+(;B[ca]
+(;W[fa]
+(;B[cb]
+(;W[fg]
+C[pathogenix: I think this game is about done. You should pass.
+]
+(;B[ff]
+(;W[gf]
+C[penderi: have you beaten me already? I mean iut doesnt look good i admit
+]
+(;B[gi]
+(;W[gh]
+(;B[]
+C[pathogenix: Yes :)
+]
+(;W[]
+C[penderi: what does this mean?
+pathogenix: one sec
+penderi: NEW GAME
+penderi: ???
+]
+)))))))))))))))))))))))))))))))))))))))"
+2869,1142,1144,zidsal,penderi,un,un,"{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}","{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}",14.155541794894088,15.957587728247967,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-14]
+PC[OGS: https://online-go.com/game/2869]
+GN[fight to the death]
+PB[zidsal]
+PW[penderi]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+26.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[penderi: HEY!
+penderi: OI!
+zidsal: yo
+pathogenix: Oh, awesome - I get to harrass you both while you play
+]
+;B[cg]
+C[zidsal: yo
+]
+(;W[ee]
+C[penderi: hey!
+penderi: OI!
+zidsal: ok I'm moving sheesh :p
+]
+(;B[cf]
+C[zidsal: HEY!
+zidsal: OI!
+]
+(;W[ce]
+C[penderi: OI
+]
+(;B[be]
+C[pathogenix: I can't help but note that the conversation thus far lacks the traditional Japanese respect for your opponent.
+]
+(;W[bf]
+(;B[af]
+C[zidsal: there undid
+zidsal: I think
+]
+(;W[ae]
+C[penderi: lmao. I fear you at this game
+penderi: also ont undo
+zidsal: =-(
+penderi: lol same again!
+zidsal: haha
+zidsal: just noticed
+zidsal: is this some kind of psychological tatic
+penderi: no I just dont want to undo
+zidsal: it undid before
+penderi: Ah your go lol
+zidsal: I had to confirm it
+zidsal: click again and wait for me to get the popup
+penderi: I know, then I decided that's not cricket
+penderi: your go
+penderi: GO!
+]
+(;B[ad]
+(;W[ag]
+(;B[bg]
+(;W[ai]
+(;B[bi]
+(;W[ci]
+(;B[bh]
+C[pathogenix: lol
+]
+(;W[dg]
+(;B[ah]
+(;W[ch]
+(;B[dh]
+C[penderi: I don't get this game lol
+]
+(;W[di]
+C[zidsal: dead end
+zidsal: >.<
+]
+(;B[ei]
+(;W[eh]
+(;B[eg]
+(;W[fi]
+C[penderi: You are beating my ass
+zidsal: I just did a few of the problems and it helped
+]
+(;B[fh]
+C[penderi: lol I've no idea in the workld
+zidsal: =-(
+pathogenix: You're offering him your ass
+]
+(;W[ef]
+C[pathogenix: That reminds me...
+]
+(;B[gi]
+(;W[ff]
+(;B[df]
+(;W[de]
+(;B[eh]
+(;W[gg]
+C[zidsal: ah unicode problem is back splended
+penderi: lol
+zidsal: that explains all the breakages at least
+]
+(;B[hh]
+(;W[hf]
+(;B[hg]
+(;W[ig]
+C[penderi: TWAT
+]
+(;B[gh]
+C[penderi: As in i'm a
+zidsal: language
+zidsal: =-(
+penderi: lol
+]
+(;W[cd]
+C[zidsal: you are making this a hostile work environment
+]
+(;B[gc]
+C[penderi: I'm shouting at myself
+penderi: Oh you arse
+]
+(;W[bd]
+C[pathogenix: :D
+]
+(;B[gb]
+(;W[bc]
+(;B[ga]
+(;W[ac]
+(;B[cc]
+(;W[fa]
+(;B[bb]
+(;W[da]
+(;B[ab]
+(;W[ca]
+(;B[dd]
+(;W[cb]
+(;B[db]
+(;W[dc]
+(;B[fc]
+(;W[ed]
+(;B[fd]
+(;W[eb]
+(;B[fe]
+(;W[ge]
+(;B[gd]
+(;W[hd]
+(;B[id]
+(;W[ie]
+(;B[ic]
+C[penderi: Somethign weird has happened - I've started playing spaces
+zidsal: :P
+]
+(;W[hc]
+C[zidsal: I am happy to space this out like this
+]
+(;B[hb]
+C[penderi: I've no idea what's going on
+]
+(;W[ib]
+C[zidsal: I'm ahead in points from start
+]
+(;B[ia]
+(;W[ih]
+(;B[ic]
+(;W[id]
+C[zidsal: Bob must be crying from seeing this game
+]
+(;B[ba]
+C[penderi: I think that bit at the start where I fecked about and lost 10 dudes was funny
+]
+(;W[hi]
+C[zidsal: haha
+penderi: that was beyond stupid
+]
+(;B[ii]
+(;W[ci]
+(;B[ch]
+(;W[if]
+C[zidsal: GO AWAY UNICODE NO ONE LIKES YOU
+zidsal: /rant
+]
+(;B[di]
+(;W[ib]
+(;B[fg]
+(;W[gf]
+(;B[ic]
+C[penderi: apparently the game is done. We've driven Bob MAD
+zidsal: haha
+]
+(;W[]
+(;B[]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2873,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-14]
+PC[OGS: https://online-go.com/game/2873]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: Yo
+penderi: how did 4 pieces get on the bloody board
+pathogenix: Handicap
+]
+;W[ee]
+C[pathogenix: Yo
+penderi: how did 4 pieces get on the bloody board
+pathogenix: Handicap
+]
+(;B[de]
+(;W[ed]
+(;B[ec]
+(;W[dd]
+(;B[cd]
+(;W[dc]
+(;B[db]
+(;W[fc]
+(;B[fd]
+(;W[eb]
+(;B[ef]
+(;W[fe]
+(;B[ff]
+(;W[gd]
+(;B[gf]
+(;W[ce]
+(;B[ea]
+(;W[cb]
+(;B[be]
+(;W[df]
+(;B[hd]
+(;W[bd]
+(;B[cf]
+(;W[bc]
+(;B[he]
+(;W[hc]
+(;B[dg]
+(;W[bf]
+(;B[ae]
+(;W[af]
+(;B[fb]
+(;W[da]
+(;B[ca]
+(;W[fa]
+(;B[ad]
+C[penderi: tits
+]
+(;W[bh]
+C[pathogenix: :)
+]
+(;B[ch]
+(;W[ci]
+(;B[bi]
+(;W[ai]
+(;B[di]
+(;W[bg]
+)))))))))))))))))))))))))))))))))))))))))))"
+2877,1144,1147,penderi,idiocratic,un,it,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 895.9626866400455, 'deviation': 65.78122853873121, 'volatility': 0.06001321619626367}}",15.957587728247967,12.37368669401893,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-14]
+PC[OGS: https://online-go.com/game/2877]
+GN[]
+PB[penderi]
+PW[go_fys]
+BR[30k]
+WR[30k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[cc]
+;W[fg]
+(;B[dc]
+(;W[ge]
+C[penderi: Oh fuck
+penderi: AGAIN!
+]
+)))"
+2878,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-19]
+PC[OGS: https://online-go.com/game/2878]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[1200]OT[5x30 byo-yomi]
+RE[B+T]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+)"
+2880,1144,1143,penderi,eskitek,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",15.957587728247967,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-16]
+PC[OGS: https://online-go.com/game/2880]
+GN[]
+PB[penderi]
+PW[eskitek]
+BR[30k]
+WR[30k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+)"
+2881,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-19]
+PC[OGS: https://online-go.com/game/2881]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+;W[ee]
+)"
+2984,1144,1142,penderi,zidsal,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}",15.957587728247967,14.155541794894088,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2984]
+GN[]
+PB[penderi]
+PW[zidsal]
+BR[30k]
+WR[30k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+)"
+2985,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2985]
+GN[A game that won't time out.,]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+85.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+;W[ee]
+(;B[dd]
+(;W[ed]
+(;B[ec]
+(;W[fc]
+(;B[fb]
+(;W[fd]
+(;B[gd]
+(;W[eb]
+(;B[ef]
+(;W[de]
+(;B[ce]
+(;W[dc]
+(;B[df]
+(;W[cd]
+(;B[cf]
+(;W[ge]
+(;B[fe]
+(;W[gb]
+C[penderi: TWAT
+]
+(;B[ff]
+(;W[he]
+(;B[hd]
+(;W[id]
+(;B[ic]
+(;W[hc]
+(;B[hb]
+(;W[ib]
+(;B[gc]
+(;W[fa]
+(;B[hd]
+(;W[gd]
+(;B[db]
+(;W[cb]
+C[penderi: Not understandign the game is becoming a problem lol
+]
+(;B[ea]
+C[pathogenix: :)
+]
+(;W[hg]
+(;B[if]
+(;W[hf]
+(;B[hh]
+C[pathogenix: Good :)
+]
+(;W[ig]
+(;B[ca]
+(;W[bc]
+(;B[bd]
+(;W[be]
+(;B[ab]
+(;W[bf]
+(;B[ba]
+(;W[bb]
+(;B[ac]
+(;W[da]
+(;B[ae]
+(;W[af]
+(;B[ag]
+(;W[ad]
+(;B[bg]
+(;W[ih]
+(;B[ii]
+C[penderi: TIT
+pathogenix: incorrect
+]
+(;W[gh]
+(;B[hi]
+(;W[gi]
+C[penderi: yup
+]
+(;B[fh]
+(;W[fi]
+(;B[hh]
+(;W[hi]
+(;B[ei]
+(;W[eh]
+(;B[dh]
+(;W[di]
+(;B[eg]
+(;W[fg]
+(;B[gf]
+(;W[ch]
+(;B[bi]
+C[penderi: I have 0
+]
+(;W[dg]
+(;B[ci]
+(;W[bh]
+(;B[dh]
+(;W[ai]
+(;B[ah]
+(;W[dg]
+C[pathogenix: boom
+penderi: FUCK IT
+penderi: lol
+penderi: SO MANY TIMES
+pathogenix: :)
+penderi: man that fucks me off
+]
+(;B[cg]
+(;W[]
+C[pathogenix: white passes
+]
+(;B[]
+C[penderi: Well I played like a complete fucking asshole
+pathogenix: Not really
+penderi: I'm not so sure. Need to count. I suspect I'm not sure how
+penderi: 1 vs 86. dear god
+pathogenix: Move 56
+penderi: ? 56
+pathogenix: should have been at H2
+pathogenix: not H1
+penderi: Ah yes I saw that.
+pathogenix: then black gets to keep the bottom
+penderi: hmm. lunger and parry
+penderi: lunge
+penderi: another?
+pathogenix: always
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2990,1144,1142,penderi,zidsal,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}",15.957587728247967,14.155541794894088,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2990]
+GN[]
+PB[penderi]
+PW[zidsal]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[cc]
+;W[gg]
+(;B[cg]
+C[zidsal: oh snap
+]
+(;W[ee]
+(;B[gc]
+(;W[fg]
+(;B[ed]
+(;W[ff]
+(;B[fe]
+C[zidsal: wait I cant anaylze game
+zidsal: curses
+]
+(;W[fd]
+(;B[ge]
+(;W[dd]
+(;B[fc]
+(;W[ec]
+(;B[gd]
+C[zidsal: =-(
+]
+(;W[ef]
+C[penderi: CHEAT!
+]
+(;B[ed]
+(;W[df]
+(;B[ce]
+(;W[bg]
+C[zidsal: stop trying to trap me in
+zidsal: go make some pretty patterns in the corner or something
+]
+(;B[bf]
+C[penderi: I have no idea what I'm doing. I got 1 piont agianst BOB
+zidsal: more then me I think
+]
+(;W[cf]
+(;B[dc]
+(;W[eb]
+(;B[ag]
+(;W[cd]
+(;B[bh]
+(;W[be]
+(;B[bd]
+(;W[de]
+(;B[ae]
+(;W[ce]
+(;B[bc]
+(;W[fd]
+(;B[ad]
+(;W[ab]
+(;B[bb]
+(;W[hh]
+C[penderi: Hmm.
+]
+(;B[hf]
+(;W[ig]
+(;B[hg]
+(;W[gh]
+(;B[ih]
+(;W[hi]
+(;B[if]
+(;W[fi]
+(;B[dh]
+(;W[fh]
+(;B[eg]
+C[zidsal: damn I lose
+penderi: how do you know that?
+zidsal: can't make 2 eyes
+zidsal: so my middle part is dead
+zidsal: as you've got me surounded
+penderi: I had no oidea
+penderi: I think you missed something tho
+]
+))))))))))))))))))))))))))))))))))))))))))))))))"
+2991,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2991]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+35.5]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: I'll try explaining my moves as I go
+penderi: dont not yet
+]
+;W[ee]
+C[penderi: dont not yet
+]
+(;B[ed]
+C[penderi: let me bitch adn rage. 
+penderi: I'm sure I'll chagne my midn and quickly
+pathogenix: As you will :)
+]
+(;W[fd]
+(;B[fc]
+(;W[dd]
+(;B[de]
+(;W[dc]
+(;B[ec]
+(;W[cd]
+(;B[db]
+(;W[cb]
+(;B[bc]
+(;W[eb]
+(;B[da]
+(;W[ca]
+(;B[ba]
+(;W[ea]
+(;B[ab]
+(;W[bb]
+C[penderi: Damn didnt see somethign I think. Also went lunge/parry/lunge. Caught in 2 minds
+]
+(;B[fa]
+C[pathogenix: Don't play next to an enemy stone on the first line
+]
+(;W[fb]
+C[pathogenix: instant atari
+]
+(;B[ga]
+(;W[gb]
+(;B[hb]
+(;W[hc]
+C[penderi: Find it hard to stop A LUNGE
+]
+(;B[ef]
+(;W[fe]
+(;B[hd]
+(;W[gd]
+(;B[ff]
+(;W[bd]
+C[penderi: way too isolated
+penderi: feels weak
+]
+(;B[ge]
+(;W[he]
+(;B[gf]
+(;W[hf]
+(;B[hg]
+(;W[id]
+(;B[be]
+(;W[ce]
+(;B[cf]
+(;W[df]
+(;B[dg]
+(;W[bf]
+C[penderi: Shit I should have had d4
+]
+(;B[ae]
+C[pathogenix: Aye, connect up, stay strong
+]
+(;W[af]
+(;B[ig]
+C[pathogenix: The bottom is still yours for the taking
+penderi: that's what I'm trying
+pathogenix: J3 at B3
+penderi: but prob just parried at wrong time. 
+pathogenix: It ataris two white stones
+pathogenix: and allows black to close off the bottom while white defends himself
+]
+(;W[bh]
+C[pathogenix: Gah, B2 is a white mistake
+pathogenix: A2 would have worked, B2 doesn't because of the atari that I was talking about 30 sodding seconds ago
+penderi: hmmm I nearly udnerstand
+]
+(;B[ci]
+C[pathogenix: Well, if white A2, black can't play A3 because it's atari, right? And if black played B3, white can connect at A3
+]
+(;W[bg]
+C[penderi: I don't quite get that. It's the black B3. I'm connecctiung and nudging forward but...
+pathogenix: I'll explain after the game
+]
+(;B[ch]
+(;W[bi]
+(;B[eg]
+C[penderi: suprised you didnt E3
+pathogenix: If white E3, black E2
+penderi: bit of a stretch i guess
+pathogenix: And white can't escape atari
+pathogenix: If black had only two liberties instead of 3, then it would have worked
+penderi: I hate the use of a word I've known for decades being continually used and I dont really understand it lol
+pathogenix: it's BRUTAL when someone does that to you and demolishes your territory :)
+penderi: It's like I've 2 missing axioms
+penderi: yup
+]
+(;W[if]
+C[pathogenix: I think this one is done :)
+]
+(;B[]
+(;W[]
+C[penderi: guessing youve one by a mile again. biut closer
+pathogenix: MUCH closer
+pathogenix: because you didn't die at the bottom this time :)
+penderi: not really lol
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2992,1144,1142,penderi,zidsal,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}",15.957587728247967,14.155541794894088,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2992]
+GN[]
+PB[penderi]
+PW[zidsal]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+11.5]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[cc]
+;W[gc]
+(;B[gg]
+(;W[ee]
+(;B[cg]
+(;W[hh]
+(;B[de]
+(;W[fe]
+(;B[ef]
+(;W[gd]
+(;B[he]
+(;W[db]
+(;B[fg]
+(;W[bc]
+(;B[dd]
+(;W[dc]
+(;B[cb]
+(;W[ca]
+(;B[bb]
+(;W[cd]
+(;B[bd]
+C[penderi: shit bad move
+zidsal: want to redo
+penderi: nah
+zidsal: damn
+zidsal: can't see why its a bad move
+zidsal: 1 second
+zidsal: :LD
+penderi: ?
+zidsal: i think that was a good move
+zidsal: means can't grab top
+zidsal: as you'd stop it
+zidsal: b getting c5
+zidsal: surley
+zidsal: or you can grab a7
+penderi: hmm unsure 
+]
+(;W[ce]
+(;B[bf]
+(;W[df]
+(;B[dh]
+(;W[ed]
+(;B[eg]
+(;W[fc]
+(;B[hf]
+(;W[eb]
+(;B[ac]
+C[penderi: sorry about that
+zidsal: its cool
+]
+(;W[id]
+(;B[ie]
+(;W[ig]
+(;B[gh]
+(;W[gi]
+(;B[hg]
+(;W[ii]
+(;B[fi]
+(;W[bh]
+(;B[ei]
+(;W[ag]
+(;B[ae]
+(;W[ch]
+C[zidsal: think I am about to make the same mistake I made in the other corner
+zidsal: >.<
+]
+(;B[hi]
+(;W[cf]
+(;B[ih]
+(;W[be]
+(;B[if]
+C[zidsal: think you've won this 1 again
+zidsal: I've got the middle and top right
+zidsal: but you have the rest
+]
+(;W[di]
+(;B[ge]
+(;W[hd]
+(;B[da]
+(;W[ea]
+(;B[fa]
+C[zidsal: ian you can't trap it
+penderi: sure i can
+zidsal: look at e7 and d6
+zidsal: that area has liberties as its connected
+]
+(;W[fb]
+C[penderi: I actually dont know what that means lol
+]
+(;B[dd]
+C[penderi: you played a top one here.
+]
+(;W[de]
+(;B[gb]
+(;W[ga]
+(;B[ha]
+(;W[hb]
+(;B[ib]
+C[zidsal: you can't win in a 2 by 2 area its what happened to me in the corners
+]
+(;W[ic]
+(;B[]
+C[penderi: I think I fucked this game at halfway lol
+zidsal: =-(
+]
+(;W[]
+C[penderi: yup you kicked nmy ass. Thoguht so!
+penderi: nice one!
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2995,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2995]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: White plays in the middle - why?
+]
+;W[ee]
+(;B[ed]
+C[penderi: most disruptibve for the 4 taken?
+]
+(;W[fe]
+(;B[fd]
+(;W[dd]
+(;B[de]
+C[pathogenix: Yeah, he threatens to cut in every direction
+]
+(;W[ce]
+(;B[df]
+(;W[cd]
+(;B[dc]
+(;W[gd]
+C[pathogenix: H6 is a bad move
+]
+(;B[ge]
+C[penderi: too weak>
+pathogenix: :)
+pathogenix: Because of G5
+penderi: thought so. I can spot that at least.
+penderi: but cant you h5?
+pathogenix: If white saves G6, he loses E5 and F5
+pathogenix: which sucks
+]
+(;W[gf]
+(;B[hd]
+(;W[ff]
+(;B[hf]
+(;W[fg]
+(;B[fh]
+(;W[gh]
+C[penderi: Ok danger signs
+penderi: I'm gonna fuck this up
+pathogenix: protect what's most valuable :)
+penderi: shit
+penderi: hmmm
+penderi: Options I see are 
+penderi: h3 - most defgensive
+penderi: h2 - to catch back
+penderi: g2 same
+penderi: e3 most aggressive
+penderi: And really unsure lol
+penderi: gut feel - g1
+penderi: g1 before not g2
+pathogenix: If black E2, white captures this stone and we're in a fight to see if I can live
+penderi: E2. 
+penderi: Fuckl.
+pathogenix: G1... is atari, after H3, white can atari again at E2 
+penderi: cant go there now. Interesting answer tho
+penderi: Ok I'll h2 then
+penderi: which is also a weak move I tend to play
+]
+(;B[hh]
+C[penderi: ahg youll h3 lol
+pathogenix: Okay... now what are you going to do with it?
+]
+(;W[hg]
+C[pathogenix: Yes :)
+penderi: quite and f2 isolated
+]
+(;B[ig]
+C[penderi: j3, cut loses
+]
+(;W[eh]
+(;B[fi]
+C[pathogenix: white can't cut at J2 or J4
+pathogenix: it's atari
+]
+(;W[gi]
+C[penderi: Ah so wasted move?
+pathogenix: No, correct move
+]
+(;B[dh]
+C[pathogenix: You connected H2 back to your group above by playing J3
+penderi: hmmm felt strong at least. last one a gamble to wreslte bottom back
+pathogenix: white can't cut it off and you keep some corner
+]
+(;W[cf]
+C[pathogenix: I'm not sure about this... there's a lot of bad potential for white
+]
+(;B[bd]
+(;W[bg]
+C[pathogenix: white trades the top for some more of the bottom
+penderi: it feels like it's fairly neauteal lol. Wanted to play b6 for ages which probably means it's wrong
+]
+(;B[af]
+C[pathogenix: it's a big end game move... it's a little early because we're still fighting over the middle
+pathogenix: but it's a good move
+penderi: a4 to try and contain and flank/squeeze
+]
+(;W[bf]
+C[penderi: I can feel there's a mouse trap final move available that will mean I lose evrything
+penderi: you realise this is killing my productivity
+pathogenix: not at all... A4 is connected in the same manner as J3
+pathogenix: white can't immediately atari it because he loses his stones
+penderi: Now this is the killer.
+penderi: My gut says A5 but I wonder should I actually play b5?
+penderi: I woudl usually play A5 but think B5 is a little sttronger
+]
+(;B[be]
+C[penderi: fuck it
+]
+(;W[ag]
+(;B[ah]
+C[penderi: TWAT
+penderi: First move I instantly regret this game
+penderi: (A2)
+pathogenix: don't play on the first line next to (blah)
+]
+(;W[bh]
+C[penderi: LOL
+]
+(;B[ci]
+(;W[ch]
+(;B[bi]
+C[pathogenix: Oh shit
+penderi: FUCKING HELL
+pathogenix: !!
+penderi: That was lucky
+penderi: jsut felt quite good
+penderi: ER
+pathogenix: Oh cock biscuits
+penderi: I feel likje I lucked that one out
+]
+))))))))))))))))))))))))))))))))))))))"
+2996,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-20]
+PC[OGS: https://online-go.com/game/2996]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+17.5]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+;W[ee]
+(;B[ed]
+(;W[fe]
+(;B[fd]
+(;W[ge]
+(;B[de]
+(;W[df]
+(;B[ef]
+(;W[ce]
+(;B[dd]
+(;W[ff]
+(;B[fg]
+(;W[eg]
+C[penderi: SGHIT same line
+]
+(;B[cf]
+(;W[be]
+(;B[ad]
+(;W[eh]
+(;B[di]
+(;W[ei]
+(;B[dh]
+C[penderi: wasnt sure on b2 or f2
+penderi: d2 or f2
+pathogenix: D2 is good
+]
+(;W[bg]
+C[pathogenix: I've no idea if this works or not
+]
+(;B[af]
+(;W[bf]
+C[penderi: whoa that threw mw
+]
+(;B[bc]
+(;W[ch]
+(;B[bi]
+C[pathogenix: interesting... why B1?
+]
+(;W[bh]
+(;B[ah]
+(;W[ag]
+C[pathogenix: One stone is save-able
+penderi: well. utimately thought I'd have some kind of eye withg a2.. gaps on a1 and c1 I thoguht weren't bad patterns. Suspect that's not good and theyre both dead now
+pathogenix: Yeah, the bottom is dead, but B1 was interesting, it prevented the move I wanted to make
+penderi: I can't tell if I tale c1
+pathogenix: which was C1
+]
+(;B[ci]
+(;W[dg]
+C[penderi: fuck it Id have made c1. BUt I want F2
+]
+(;B[fh]
+(;W[hg]
+(;B[gi]
+C[penderi: so yeah aethetically I'm favouring gapos, wholly held by me or not
+penderi: I suspect that's stupid
+pathogenix: no, not stupid
+]
+(;W[hh]
+(;B[hd]
+(;W[he]
+C[penderi: ooo now
+penderi: J5 seems sensible but gut says H4
+penderi: can't tell if thzat's bad or good lol
+penderi: hmmm
+]
+(;B[ie]
+(;W[if]
+C[penderi: suspect I should have been braver
+pathogenix: No, H4 would be a silly move
+]
+(;B[hf]
+(;W[gf]
+C[penderi: LOL
+pathogenix: especially after J4 :D
+penderi: Is passing sensible?
+pathogenix: nearly Black still has a defect at J6, and can rescue his stone at A4. then there are a few neutral points at G6, B6, and A6
+]
+(;B[]
+(;W[]
+C[pathogenix: You should undo. It's not time to pass yet, the borders aren't finished
+penderi: how do I do that?
+penderi: sorry I left it...
+]
+(;B[]
+C[pathogenix: If you do that, you won't get any territory, and I get one point
+penderi: aha
+pathogenix: You have to finish off the game for the scorer to work, or you can leave it and count it manually
+]
+(;W[ae]
+(;B[id]
+(;W[gd]
+(;B[fc]
+(;W[bd]
+(;B[ac]
+C[penderi: shit#
+]
+(;W[cd]
+(;B[dc]
+C[penderi: I think I'm fucking up the endgame
+pathogenix: H7
+pathogenix: I'll pass :)
+]
+(;W[]
+(;B[]
+C[pathogenix: But H7 captures three stones and knackers your territory
+penderi: oh really?
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3019,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-21]
+PC[OGS: https://online-go.com/game/3019]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+R]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[penderi: right slight delay - need to test proxy for a while...
+]
+;W[ee]
+C[penderi: right slight delay - need to test proxy for a while...
+]
+(;B[ed]
+C[pathogenix: Let's try this move for a change
+]
+(;W[ec]
+C[penderi: Oh gwd.
+]
+(;B[de]
+(;W[fd]
+C[penderi: Interesting I like this
+]
+(;B[fe]
+(;W[dd]
+(;B[ef]
+C[penderi: FUCKING IDIOT
+penderi: sorry. I jhust upset mysefl
+]
+(;W[df]
+C[penderi: I think Ive lost
+]
+(;B[cf]
+C[penderi: Ive done it again
+pathogenix: You should have recaptured E5 in ko
+]
+(;W[ce]
+C[penderi: Nearly resigned the game there lol
+]
+(;B[be]
+(;W[ff]
+(;B[cd]
+C[penderi: honestly that was just too stupid
+pathogenix: :D
+pathogenix: That's the shortest game I've ever played
+]
+))))))))))))))"
+3020,1144,1142,penderi,zidsal,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}",15.957587728247967,14.155541794894088,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-21]
+PC[OGS: https://online-go.com/game/3020]
+GN[]
+PB[penderi]
+PW[zidsal]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+R]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[ee]
+;W[gc]
+(;B[fc]
+(;W[gg]
+(;B[fd]
+(;W[ef]
+(;B[df]
+(;W[dg]
+(;B[eg]
+(;W[ff]
+(;B[cg]
+(;W[dh]
+(;B[ch]
+(;W[ci]
+(;B[bi]
+(;W[eh]
+(;B[fh]
+(;W[fg]
+C[zidsal: oh crap
+]
+(;B[gf]
+(;W[ge]
+(;B[gd]
+(;W[hd]
+(;B[he]
+(;W[hf]
+(;B[if]
+C[penderi: SHIT SHIT SHIT
+zidsal: ?
+]
+(;W[di]
+(;B[hg]
+(;W[ie]
+(;B[hc]
+(;W[bh]
+(;B[gh]
+(;W[ai]
+(;B[bg]
+(;W[ig]
+(;B[id]
+(;W[ic]
+(;B[ib]
+(;W[hb]
+(;B[ga]
+(;W[fb]
+(;B[ei]
+(;W[fi]
+(;B[gb]
+(;W[hc]
+(;B[ha]
+(;W[fa]
+C[zidsal: its dead jim -> in regards to the top right corner. You need at least a 3 by 3 for an area to be able to live, you can't make eyes in a 2 by 2
+]
+(;B[ea]
+C[penderi: OH tit
+]
+(;W[af]
+C[zidsal: woops
+zidsal: no need to undo
+zidsal: if you dont want to
+penderi: oh for gods sake.
+]
+(;B[eb]
+C[penderi: phew
+zidsal: huh
+zidsal: confused
+penderi:  lol what by?
+penderi: You keep on bloody escaping
+zidsal: never mind
+zidsal: chat was updating faster then screen 0o
+penderi: lol
+]
+(;W[cf]
+(;B[bf]
+(;W[de]
+C[penderi: AHHHH DIE!
+]
+(;B[ce]
+(;W[be]
+(;B[df]
+(;W[cd]
+(;B[dd]
+(;W[ag]
+C[zidsal: finally those pieces are mine
+]
+(;B[bd]
+(;W[cf]
+(;B[ae]
+(;W[de]
+(;B[cc]
+(;W[ce]
+(;B[gi]
+(;W[ei]
+(;B[fe]
+C[penderi: that scarred me that game
+zidsal: =-(
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3025,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-21]
+PC[OGS: https://online-go.com/game/3025]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+33.5]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+;W[ec]
+(;B[ed]
+(;W[gd]
+(;B[fc]
+(;W[fd]
+(;B[fe]
+(;W[hc]
+(;B[ge]
+(;W[hd]
+(;B[he]
+(;W[ee]
+(;B[hb]
+C[pathogenix: hmmm
+penderi: yes. I thought I'd ignore and see.
+pathogenix: I'm going to try something and see what happns
+]
+(;W[gb]
+(;B[ga]
+(;W[fb]
+(;B[ic]
+C[penderi: SHIT
+pathogenix: that's not what I expected
+penderi: me neither
+]
+(;W[id]
+(;B[ie]
+(;W[dd]
+(;B[eb]
+(;W[db]
+(;B[dc]
+(;W[cd]
+(;B[de]
+(;W[ce]
+(;B[df]
+(;W[bc]
+(;B[bd]
+(;W[be]
+(;B[ae]
+(;W[ad]
+(;B[ac]
+(;W[ab]
+(;B[bb]
+C[pathogenix: now you're in random mode again
+pathogenix: breathe
+]
+(;W[cb]
+C[penderi: no I'm trying to paky ateris / lines lol
+penderi: different tactic
+penderi: that seems to be worse than my prev
+]
+(;B[ba]
+C[pathogenix: yeah, your previous tactic secured most of the lower board
+]
+(;W[ca]
+(;B[da]
+(;W[ea]
+C[penderi: twat
+]
+(;B[ef]
+(;W[bg]
+(;B[eg]
+(;W[ch]
+(;B[di]
+(;W[dh]
+(;B[eh]
+(;W[dg]
+(;B[ff]
+(;W[cf]
+(;B[ei]
+C[pathogenix: game over... ?
+]
+(;W[ci]
+(;B[]
+(;W[]
+C[penderi: hmmm fuck the liberties
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3026,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-21]
+PC[OGS: https://online-go.com/game/3026]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+R]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+;W[ge]
+(;B[fe]
+(;W[gd]
+(;B[fd]
+(;W[fc]
+(;B[ec]
+(;W[hc]
+(;B[hd]
+C[penderi: SHIT
+pathogenix: I expected you to capture F7 and let white live on the right hand side
+]
+(;W[gb]
+C[pathogenix: White gets to make a secure group, but black builds a big thick wall facing the rest of the board... now we have a fight on our hands :)
+penderi: yes.....
+]
+(;B[ff]
+(;W[gf]
+(;B[fb]
+(;W[gc]
+(;B[ga]
+(;W[eb]
+(;B[db]
+C[penderi: SHIT
+penderi: H8 would have been better
+]
+(;W[fa]
+C[pathogenix: H8 instead of G9?
+pathogenix: Black H8, White J8 or H9, and then what does black do?
+]
+(;B[ea]
+C[penderi: black blocks in whit
+pathogenix: Oh no black doesn't
+]
+(;W[da]
+(;B[ca]
+C[penderi: yeah I had a feeling you were sayign that for a reason.
+pathogenix: now then... what to do
+penderi: you're going to burst out
+pathogenix: White can't play E9, because you capture four stones
+penderi: throguh the diags?
+penderi: I want H8 and J7
+penderi: Suspect IU also want h4 and 5
+]
+(;W[ed]
+C[penderi: and then leave the rest of the board to you
+penderi: and lose
+penderi: bollocks
+pathogenix: This is a gamble by white
+]
+(;B[dc]
+C[penderi: gonna try and parry. suyspect I'll lose
+]
+(;W[fg]
+C[pathogenix: white threatens to surround three stones
+penderi: I'm hoping it's a thread. Not sure yet...
+]
+(;B[eg]
+(;W[fh]
+(;B[eh]
+(;W[ef]
+(;B[ee]
+(;W[de]
+C[pathogenix: Doesn't work :)
+pathogenix: You should go back a few moves and look at that shape. Three stones atari'd in that way can't escape. Useful trick to memorise
+pathogenix: so E2 at E4 and black gets a nice thick wall on the outside;now white is out of his little box
+pathogenix: Worse, neither of the groups at top and bottom are quite alive yet. You can deal with one of them at a time, so white gets to pick on the other
+penderi: SHIT SHIT SHIT
+]
+(;B[cd]
+(;W[dh]
+C[pathogenix: Bah, I think this is the wrong move from white
+pathogenix: actually, more like right move, wrong timing
+]
+(;B[dg]
+(;W[ei]
+C[pathogenix: this connecting move is nice when it works
+]
+(;B[ce]
+C[penderi: bollocks
+penderi: lol
+]
+(;W[ch]
+(;B[cf]
+C[penderi: I'm trying to safely seal myself into a small part of the board
+]
+(;W[bh]
+C[pathogenix: :)
+pathogenix: to be fair, from what I remember of this game, your one mistake was not connecting solidly to save those three stones
+pathogenix: but that's Go.
+]
+(;B[bg]
+(;W[ag]
+(;B[af]
+(;W[ah]
+(;B[he]
+(;W[hf]
+(;B[hb]
+C[pathogenix: I think we're done :)
+]
+(;W[ha]
+(;B[hg]
+C[penderi: that fekt like my worst defeat.
+pathogenix: er... no... I don't think so
+pathogenix: 12 point living group
+penderi: in other words I've done much worse ;-)
+penderi: I understood atari for the first time this weekend. Felt like an adult learning to count
+]
+))))))))))))))))))))))))))))))))))))))))))))))"
+3186,1143,1144,eskitek,penderi,un,un,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}",24.303382182144386,15.957587728247967,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-28]
+PC[OGS: https://online-go.com/game/3186]
+GN[]
+PB[eskitek]
+PW[penderi]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+;B[gf]
+(;W[fe]
+(;B[ed]
+(;W[cg]
+(;B[fd]
+(;W[ge]
+(;B[ee]
+(;W[ff]
+C[penderi: I keep thinking I[m black. Oh dear...
+]
+(;B[hg]
+(;W[ef]
+C[penderi: I keep thinking I'm black lol
+eskitek: ha
+]
+(;B[fg]
+C[penderi: Ok. I AM WHITE
+]
+(;W[gg]
+(;B[gh]
+(;W[dd]
+(;B[ec]
+(;W[dc]
+(;B[df]
+(;W[de]
+))))))))))))))))))"
+3211,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-28]
+PC[OGS: https://online-go.com/game/3211]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+R]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: I'm going to have to reduce my handicap soon, I think
+]
+;W[ge]
+C[pathogenix: I'm going to have to reduce my handicap soon, I think
+]
+(;B[fd]
+(;W[fe]
+(;B[ee]
+(;W[gd]
+(;B[hd]
+C[penderi: to what?
+]
+(;W[ed]
+C[pathogenix: 3 stones :)
+]
+(;B[fc]
+C[penderi: damnit bottled it
+]
+(;W[he]
+(;B[ff]
+(;W[hc]
+(;B[id]
+(;W[ic]
+(;B[hb]
+C[pathogenix: Good. G8 is a forcing move, white has to respond, and black gets to solidify his corner
+]
+(;W[ie]
+C[pathogenix: H8, sorry
+pathogenix: white's not alive yet, and black is building on the outside, but he's still thin
+penderi: yes it's intriguing this.
+]
+(;B[gf]
+C[penderi: I've tried an odd move
+]
+(;W[ih]
+C[pathogenix: likewise
+penderi: tits
+]
+(;B[hf]
+(;W[if]
+C[pathogenix: :)
+pathogenix: Go magic
+]
+(;B[ig]
+C[penderi: oh. oh dear
+pathogenix: nope :)
+]
+(;W[hg]
+(;B[hh]
+(;W[hi]
+C[pathogenix: KO
+pathogenix: FIGHT
+pathogenix: KO
+pathogenix: FIGHT
+pathogenix: KO
+pathogenix: FIGHT
+]
+(;B[ig]
+C[penderi: hmm
+]
+(;W[ef]
+C[pathogenix: if white can take H3 and G2 in order, he lives in the corner
+pathogenix: H2 was a good move because it's the vital point for making a second eye there, now I have to capture it, or find another way to live
+]
+(;B[de]
+(;W[hg]
+C[penderi: yes my new understanding of atari means I favour more liberties. I'm learnign DAMNED slow
+pathogenix: :D so long as you're learning
+penderi: aye!
+]
+(;B[dd]
+C[penderi: hmm
+]
+(;W[gh]
+C[pathogenix: white lives
+penderi: tits
+pathogenix: :D
+]
+(;B[ec]
+(;W[fg]
+(;B[df]
+C[pathogenix: white wins!
+penderi: SHIT
+penderi: man im shit at this game
+pathogenix: dude...
+]
+(;W[dh]
+C[pathogenix: J6 or H6 would have been good ko threats
+pathogenix: but atari on a single stone isn't threatening enough to stop white from playing a move that saves his whole grou\]
+pathogenix: White's all like ""You want *that* stone? Fine, blud; help yourself""
+pathogenix: Game's not done though, and black has the lead
+pathogenix: white has 15 points of territory in the bag, black has more like 35
+]
+(;B[gb]
+(;W[ch]
+(;B[eh]
+C[penderi: Tryign to figure out if that was a good move or not
+pathogenix: No, it's going to die
+]
+(;W[eg]
+(;B[dg]
+C[pathogenix: Black doesn't need to be aggressive here - all you have to do is close off the borders
+]
+(;W[bh]
+C[penderi: but I'm testing the positions
+]
+(;B[fh]
+C[penderi: and fucking them obvipously
+]
+(;W[ei]
+(;B[di]
+(;W[fi]
+C[penderi: well I'm just playing shit now
+pathogenix: Uh? Why did you resign!
+pathogenix: Black wins the game, you muppet
+]
+)))))))))))))))))))))))))))))))))))))))))))"
+3283,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-30]
+PC[OGS: https://online-go.com/game/3283]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[16k]
+TM[259200]OT[86400 fischer]
+RE[W+84.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: Win this one, and we'll change handicap - you've improved a lot :)
+penderi: I'll cool heading up to 2 lol
+]
+;W[fd]
+C[penderi: I'll cool heading up to 2 lol
+]
+(;B[fc]
+(;W[ed]
+(;B[dd]
+(;W[cd]
+(;B[dc]
+(;W[bd]
+(;B[ce]
+(;W[be]
+(;B[cf]
+(;W[bc]
+(;B[cb]
+(;W[bb]
+(;B[ba]
+(;W[ab]
+(;B[ad]
+C[penderi: damn bad move
+]
+(;W[bf]
+C[pathogenix: Right idea
+]
+(;B[bg]
+C[pathogenix: Right move
+pathogenix: White looks dead... 
+]
+(;W[de]
+(;B[ee]
+(;W[fe]
+(;B[ef]
+(;W[ff]
+(;B[df]
+(;W[fg]
+(;B[ec]
+(;W[hd]
+(;B[gd]
+(;W[ge]
+(;B[he]
+(;W[hf]
+(;B[ie]
+(;W[id]
+(;B[ic]
+(;W[if]
+(;B[hg]
+(;W[fh]
+C[penderi: Have I fucked this?
+]
+(;B[fi]
+(;W[ei]
+(;B[gi]
+C[penderi: I have I snatched a lost from victory
+]
+(;W[gh]
+C[penderi: have I dicked this?
+]
+(;B[hh]
+C[pathogenix: mmm... no
+]
+(;W[hc]
+C[pathogenix: Black has the lead, white is nibbling away at it, but I think it will be ultimately pointless
+]
+(;B[hb]
+C[penderi: Yoiu have overestimated by pants endgame
+]
+(;W[ib]
+C[pathogenix: No, I think white loses by a large margin
+pathogenix: but we'll see :)
+]
+(;B[ia]
+C[penderi: DUMB MOVE
+pathogenix: Undo?
+penderi: NO. Live and die by your fuck ups
+]
+(;W[ha]
+C[pathogenix: this is painful for black
+penderi: You are goign to win.
+penderi: Felt it about 10 moves back. 
+pathogenix: black should make an eye up here at the top, you can't attach again or I'll kill your stone
+penderi: Not quite sure 
+penderi: how
+penderi: Yup I see that but it's a flase eye no?
+]
+(;B[gb]
+C[pathogenix: pretty much any move OTHER than G9 or G8
+penderi: LMAO
+pathogenix: actually, that's oaky
+penderi: I thoguht xconnecting woudl provide strength
+penderi: See mate, my end game is amazingly BAD
+pathogenix: it does, and white can't push in
+pathogenix: White G9, Black F9, and white can't connect back to his stone at J8 or he loses 4 stones instead of 2
+]
+(;W[ic]
+C[penderi: AYE. i 
+]
+(;B[ga]
+(;W[ia]
+(;B[hi]
+C[penderi: twat move again
+]
+(;W[dh]
+(;B[eh]
+C[pathogenix: yeah, that was pointless, those stones are dead
+]
+(;W[eg]
+C[penderi: indeed
+penderi: EVEN worse move
+]
+(;B[ch]
+C[pathogenix: :D
+pathogenix: Stop it!
+pathogenix: better
+]
+(;W[dg]
+(;B[ci]
+(;W[di]
+C[pathogenix: You win or lose the game on your next move
+pathogenix: Black has one eye up top currently, and can make an eye at the bottom
+pathogenix: Unless white manages to capture things
+pathogenix: actually... hang on
+penderi: hmm I think I'm fucked at the bottom
+penderi: you can always get my eye
+pathogenix: white 23.5
+pathogenix: black ...
+pathogenix: oh, it's fine
+pathogenix: 31
+penderi: B2 or B1 means C1 or C2 get caught. So IO've screwed the bottom I think
+]
+(;B[bi]
+C[penderi: Well I'll try I think
+pathogenix: why are C1 or C2 getting caught?
+pathogenix: actually, that's a good move, I think
+pathogenix: black gets an eye at A2...
+pathogenix: so if white takes A2...
+]
+(;W[ah]
+C[pathogenix: black has to capture the dead white stones
+pathogenix: it's a capture race
+pathogenix: If black had taken an eye at A2, he could connect at D5 and he'd be alive
+pathogenix: now, either black will capture white's dead stones, or white will capture this group in the lower left
+pathogenix: This just got very interesting :D
+]
+(;B[ai]
+C[penderi: OH SHIT.
+]
+(;W[ag]
+(;B[af]
+C[penderi: screwing it up again
+]
+(;W[ae]
+C[pathogenix: I think white just won
+pathogenix: black can connect
+pathogenix: hmmm
+pathogenix: if black connects, can white live?
+pathogenix: no
+pathogenix: so black should still win
+pathogenix: but it still comes down to a capture race, because black's group at the top isn't alive yet, and if black plays D5, white can kill him
+pathogenix: buuuuttt... what if black lives first...
+pathogenix: That works, all black's stones can live
+pathogenix: fuck, this is quite a complex situation
+]
+(;B[ca]
+C[penderi: went with gut of C9
+]
+(;W[ea]
+C[pathogenix: E9 is the vital point, black can't make two eyes now
+pathogenix: Fuuuuck... is this seki?
+pathogenix: No, still black's game
+]
+(;B[aa]
+(;W[af]
+(;B[bh]
+C[penderi: SHIT FUCKED IT
+penderi: sh_it fu_cked it
+penderi: all that time lol.
+]
+(;W[de]
+C[pathogenix: white gets a full house...
+pathogenix: Once you've passed and accepted stones, I'll put together a review and send it to you
+pathogenix: I should have resigned, but I wanted you to connect and understand the capture race
+pathogenix: I suppose this is another way of making the point
+]
+(;B[]
+C[penderi: LMAO you could say that.
+penderi: Amazing.
+]
+(;W[]
+C[penderi: White by 84.5 point
+penderi: This game needs recording as a grand 'what not to do' 
+pathogenix: I'll review :)
+penderi: yes. at the moment I'm scarred.
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3285,1144,1142,penderi,zidsal,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}",15.957587728247967,14.155541794894088,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-30]
+PC[OGS: https://online-go.com/game/3285]
+GN[]
+PB[penderi]
+PW[zidsal]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[ee]
+;W[gc]
+(;B[cc]
+(;W[gg]
+(;B[ge]
+(;W[fc]
+C[penderi: STOP MAKING ME FUCKING THINK
+]
+(;B[fd]
+C[zidsal: =-(
+]
+(;W[gd]
+(;B[ec]
+(;W[fe]
+C[zidsal: welll that was stupid of me
+]
+(;B[ff]
+C[penderi: Yes. That was something I'd do
+]
+(;W[he]
+(;B[hd]
+(;W[gf]
+(;B[gb]
+(;W[fe]
+(;B[ed]
+(;W[ge]
+(;B[fb]
+(;W[hc]
+(;B[hb]
+(;W[id]
+(;B[ef]
+(;W[ib]
+(;B[ia]
+(;W[ha]
+(;B[ga]
+(;W[fa]
+(;B[ea]
+(;W[cg]
+(;B[cf]
+(;W[bf]
+(;B[df]
+(;W[dg]
+(;B[bg]
+(;W[be]
+(;B[ce]
+))))))))))))))))))))))))))))))))))))"
+3296,1144,1246,penderi,johnpaulfriel,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",15.957587728247967,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-30]
+PC[OGS: https://online-go.com/game/3296]
+GN[]
+PB[penderi]
+PW[johnpaulfriel]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[cc]
+;W[gg]
+(;B[ee]
+(;W[gc]
+(;B[ge]
+(;W[fe]
+(;B[fd]
+(;W[ed]
+(;B[ff]
+(;W[ec]
+(;B[fc]
+(;W[cd]
+(;B[dd]
+(;W[fa]
+(;B[eb]
+(;W[fb]
+(;B[dc]
+(;W[ce]
+(;B[cf]
+(;W[de]
+(;B[df]
+(;W[gf]
+(;B[bd]
+(;W[gd]
+(;B[gb]
+(;W[hb]
+(;B[hc]
+(;W[ga]
+(;B[be]
+(;W[he]
+(;B[hd]
+C[penderi: dude watch out for your l;iberties
+penderi: at some point you must play g8 or i'll take another 2...
+]
+(;W[ic]
+(;B[gb]
+(;W[gc]
+C[johnpaulfriel: mate I dont really know what liberties are
+johnpaulfriel: I need to read teh rules and do the puzzles 
+johnpaulfriel: I think i just got lucky with Bob so he recommended I play you
+johnpaulfriel: Im off for a week so may do it on the beach
+]
+(;B[gd]
+C[penderi: lol!
+penderi: Nice one fella. You'll kick my arse soon enough
+]
+(;W[id]
+(;B[hf]
+(;W[hg]
+(;B[ie]
+))))))))))))))))))))))))))))))))))))))"
+3424,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-04]
+PC[OGS: https://online-go.com/game/3424]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[16k]
+TM[259200]OT[86400 fischer]
+RE[B+2.5]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[cc]
+(;B[ee]
+(;W[df]
+(;B[ce]
+(;W[cf]
+(;B[bf]
+(;W[de]
+(;B[dd]
+(;W[be]
+C[pathogenix: Black is amarigatachi
+pathogenix: That's my new Go word, and I'm going to use it whenever possible :)
+pathogenix: It means ""the shit left over from a failed attack""
+pathogenix: black's too thin and has cutting points everywhere
+penderi: yES i FEARED THAT LOL
+]
+(;B[cd]
+(;W[bg]
+(;B[ef]
+C[penderi: I've just messed that up
+]
+(;W[dg]
+(;B[bh]
+(;W[ch]
+(;B[eg]
+(;W[ed]
+(;B[dh]
+(;W[af]
+C[penderi: Want to resign this lol!!
+]
+(;B[ec]
+(;W[dc]
+C[pathogenix: Black's in the lead
+pathogenix: And I think this move by white might be too timid
+pathogenix: timid/sensible
+pathogenix: White can't play sensible in a handicap game. That's why I avoid them whenever possible :D
+penderi: I think it's time to lose my handicap or move to 19x19
+penderi: But that is coimpeltly frying my head against fra
+]
+(;B[fd]
+(;W[bd]
+C[pathogenix: We can play 19x19 whenever you like; just blast through the first game and then we'll talk about what went wrong
+pathogenix: 'cos it will
+penderi: hmmm k
+]
+(;B[ed]
+(;W[eh]
+(;B[fh]
+(;W[di]
+(;B[ff]
+(;W[eb]
+(;B[fb]
+(;W[ea]
+(;B[fa]
+(;W[db]
+(;B[ba]
+(;W[fi]
+(;B[ab]
+C[pathogenix: Can you make two eyes in that space?
+]
+(;W[bc]
+C[pathogenix: If not, don't play there
+penderi: ahh gotcha
+]
+(;B[gi]
+C[pathogenix: I think that is the last reasonable move by black
+]
+(;W[ei]
+C[pathogenix: time to pass
+pathogenix: Good game :)
+]
+(;B[]
+C[penderi: I got lucky I think.
+penderi: Time for 19s?
+]
+(;W[]
+C[penderi: OK What's next. 
+penderi: No handicap 9 or a 19?
+penderi: You choose!
+]
+)))))))))))))))))))))))))))))))))))))))))"
+3425,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-04]
+PC[OGS: https://online-go.com/game/3425]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[16k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[gg][gc][cg]
+;W[cc]
+(;B[ee]
+(;W[ge]
+(;B[dc]
+(;W[dd]
+(;B[ed]
+(;W[ec]
+C[penderi: shet
+pathogenix: White can't capture that black stone yet
+pathogenix: If that shape was on the second line, the black stone is captured, but on the third line white needs another stone to be able to capture
+penderi: I don't quite see that.,
+pathogenix: at either B7 or F7
+penderi: yet
+]
+(;B[fc]
+C[pathogenix: http://www.lifein19x19.com/forum/viewtopic.php?f=15&t=7764
+]
+(;W[db]
+C[penderi: yes figured that woudl happen. FOrced move and tried to link. We'll see if it's any good lol
+]
+(;B[fd]
+(;W[ff]
+C[penderi: hmm risked F6 being a useless move to have strength but may not have needed it.
+]
+(;B[fg]
+(;W[ef]
+(;B[de]
+(;W[cf]
+C[pathogenix: This might be a mistake
+pathogenix: But I think it's okay
+penderi: That's a lovely move bob
+penderi: I've been on the backfoot all through lol
+]
+(;B[df]
+(;W[dg]
+C[pathogenix: C 3 and D5 are a shape called Keima
+pathogenix: That's how you cut the keima :)
+pathogenix: jump to the far side
+]
+(;B[eg]
+(;W[dh]
+C[penderi: SHIT
+penderi: C5 NOT B4
+penderi: OOOO submit
+penderi: phew
+pathogenix: Black can capture those stones
+]
+(;B[ce]
+(;W[bf]
+(;B[be]
+C[pathogenix: not now though
+]
+(;W[bh]
+C[penderi: FUCK
+penderi: I don't know my corners. Tsk.
+]
+(;B[eh]
+C[pathogenix: white's shape in the lower left is called geta, or the net
+penderi: Oh yes. Just seen that. Fucked there then lol
+pathogenix: Actually, it's mouth shape
+pathogenix: but the net is the technique
+penderi: flower surely
+pathogenix: where you capture by loosely surrounding so that the enemy stone can't escape
+penderi: You've kicked my ass I thjink
+]
+(;W[ch]
+C[pathogenix: No, we're still rumbling
+pathogenix: white's probably going to live in the upper left, and is going to live in the lower left, white's stones in the centre are weak
+pathogenix: I'm trying to work out what to do about them
+pathogenix: If black had captured the two white stones at D2 and D3, the game would be over for white already
+]
+(;B[he]
+C[penderi: yeah I tried to see if I could.
+penderi: And then saw I couldn't lol
+pathogenix: If you go back to move 19
+pathogenix: Black captures at C2
+pathogenix: white can try to run to E2, but then black squeezes him at F2
+penderi: hmm.
+pathogenix: third line atari *does* work if you have another stone. I'll show you in the review
+penderi: it's about about the bloody flank manouver
+]
+(;W[hf]
+C[penderi: It's all about that
+penderi: This could be stupiud
+]
+(;B[gf]
+(;W[hd]
+C[pathogenix: No
+]
+(;B[fe]
+(;W[gd]
+C[penderi: oh shit. false ete
+penderi: eye
+pathogenix: It's not a false eye
+penderi: I DONT KNOW THE BASICS.
+penderi: Need to scrub up on eyes and corners
+pathogenix: Okay, black's eye at E4 isnt' false
+pathogenix: white E4, black F4 and vice versra
+penderi: ok 
+pathogenix: So all those stones are connected and it's a real eye
+pathogenix: one down, one to go
+penderi: lol
+penderi: shit
+]
+(;B[eb]
+C[penderi: a 19x19 game will make my mind melt
+]
+(;W[dc]
+C[penderi: Ok. So weak move. Just delayed the inevitable.
+pathogenix: Not sure I need to respond to that move, but the life and death problem is complicated otherwise :)
+penderi: yup
+penderi: think I've now caused F8 weakness so preventing cut...
+]
+(;B[fb]
+C[penderi: now lost eye to the right
+]
+(;W[hg]
+C[penderi: You've now got top left, right and bottom left
+penderi: think that's it...
+pathogenix: you can still make eyes at the top, and at the bottom
+]
+(;B[hh]
+C[penderi: may have just rushed that
+penderi: YES. YEs I have
+]
+(;W[ie]
+C[pathogenix: white lives? I think
+]
+(;B[gi]
+(;W[hc]
+C[pathogenix: Now definitely
+pathogenix: but so does black
+penderi: Tryign to figure out if I must live or stop you.
+penderi: Live i think
+]
+(;B[fi]
+(;W[ba]
+C[pathogenix: Black was already alive there, white couldn't prevent you getting two eyes
+]
+(;B[hb]
+C[pathogenix: Why did white play B9? See if you can find the shape
+penderi: I think it's so you gurentee an eye
+penderi: spelling
+pathogenix: It's a rectangular six again
+penderi: really???
+pathogenix: Yup
+penderi: ok thats completely thrown me
+pathogenix: White just played the vital point for the rectangular six
+pathogenix: Project a line out from C7 to the edge
+pathogenix: What do you see?
+]
+(;W[ib]
+C[pathogenix: don't do anything silly
+penderi: hang on soz
+]
+(;B[ac]
+(;W[bc]
+(;B[bd]
+(;W[ab]
+(;B[bb]
+(;W[cb]
+C[penderi: I'm probably being a plun
+penderi: m
+pathogenix: white lives
+penderi: Oh dear
+pathogenix: A7 was interesting, though
+]
+(;B[ad]
+C[penderi: yes wanted to cut into your 6
+pathogenix: A7, followed by A8 might have killed
+]
+(;W[ha]
+C[penderi: No to ko
+penderi: lol
+]
+(;B[gb]
+C[penderi: that was probably very dumb
+penderi: but hey it's crazy endgame times
+]
+(;W[ic]
+(;B[ga]
+C[pathogenix: No, connecting was correct
+]
+(;W[ia]
+C[pathogenix: as was blocking
+pathogenix: black can still get one  point at the top
+]
+(;B[ig]
+C[penderi: dah missed that
+]
+(;W[ea]
+(;B[if]
+(;W[ih]
+C[penderi: tti
+pathogenix: :)
+pathogenix: Ignroed it for a reason
+penderi: yup
+penderi: kept convincing myself I could get the RHS
+pathogenix: No, it's alive
+]
+(;B[af]
+(;W[ag]
+C[pathogenix: Oh shit
+]
+(;B[bg]
+C[penderi: hmm was surprised there
+pathogenix: right...
+penderi: you're abotu ti whiup mny ass
+penderi: lol
+penderi: hmm I think the bottom is now open...
+]
+(;W[ai]
+C[pathogenix: Yeah, white's group is dead as it stands
+penderi: oh crumbs.
+penderi: I've 12 places to go
+pathogenix: ?
+]
+(;B[ah]
+C[pathogenix: Ko fight!
+]
+(;W[gh]
+(;B[fh]
+(;W[ag]
+C[penderi: I was running from one of those
+]
+(;B[ii]
+C[pathogenix: It's white's only chance
+penderi: lol
+penderi: Surely this just goes on forever?
+penderi: Interesting ghow on 9x9 it's always around move 70...
+penderi: This is pretty interestign this game
+penderi: WTF
+pathogenix: White's dead
+penderi: ??
+pathogenix: ARSE
+penderi: O.
+penderi: er.
+pathogenix: white can't make two eyes in the corner.
+penderi: Yeahwhen I said I had places to go I *thought* bottom right coudl get an eye or 2
+penderi: then saw the left
+pathogenix: [object Object\]
+penderi: I think I got lucky in many ways
+pathogenix: If white had lived, I'd have won by about 4 points
+pathogenix: But I was a twat and died :D
+penderi: hmmm I suspect there's a subtlety to the game I'm missing there
+pathogenix: can't say twat, can't say cunt, but you can say arse
+penderi: lol
+pathogenix: apparently, you can't say point
+pathogenix: Oh you can
+pathogenix: it's been changed
+penderi: I like how all swear words, no matter how long, get shortened to 4
+penderi: MOTHERFUCKER
+penderi: yup. 
+pathogenix: Cuntingbollockwanker
+pathogenix: Wow!
+penderi: yeah
+penderi: Really like that 
+pathogenix: c-u-n-t-i-n-g-b-o-l-l-o-c-k-w-a-n-k-e-r gets filtered
+pathogenix: without the dashes
+penderi: lol
+penderi: yes and MF
+pathogenix: what about cuntfucker
+penderi: probably lol
+pathogenix: or cuntinual
+pathogenix: hmmm...
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3482,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-06]
+PC[OGS: https://online-go.com/game/3482]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[16k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[penderi: blimey
+]
+;B[dp]
+(;W[pd]
+(;B[pj]
+C[pathogenix: That's... a bad move, I think
+]
+(;W[cd]
+C[penderi: Yeah I was trying to be pseudo agressive. Unfortunately that's howe it turned out lol
+]
+(;B[ij]
+(;W[pp]
+C[pathogenix: That's definitely a bad move
+pathogenix: but let's see what happens
+]
+(;B[on]
+(;W[qn]
+(;B[op]
+(;W[oq]
+(;B[oo]
+(;W[nq]
+(;B[np]
+(;W[cn]
+(;B[dl]
+(;W[cp]
+(;B[dn]
+(;W[dq]
+(;B[co]
+(;W[bo]
+(;B[do]
+(;W[cq]
+(;B[bn]
+(;W[bp]
+(;B[cm]
+C[pathogenix: You played well in this corner. I think I should have gotten a better result here.
+]
+(;W[eq]
+C[pathogenix: But no matter. White is alive in both the bottom corners, black has a large framework growing. Now what?
+penderi: time to linky linky
+]
+(;B[gp]
+C[penderi: (I obviously have no clue!)
+]
+(;W[mp]
+(;B[mq]
+(;W[lq]
+(;B[mo]
+(;W[lp]
+(;B[no]
+C[pathogenix: Oh, we already have a game
+pathogenix: handy :)
+]
+(;W[ip]
+(;B[gq]
+(;W[ec]
+C[penderi: lol
+]
+(;B[de]
+(;W[ce]
+C[pathogenix: interesting move
+]
+(;B[dg]
+C[penderi: That's usually a bad sign lol
+pathogenix: No, it's unusual, but it works as a reduction... running away seems wrong though
+]
+(;W[cf]
+(;B[dd]
+(;W[dc]
+(;B[pe]
+(;W[qe]
+(;B[pg]
+(;W[od]
+(;B[me]
+C[penderi: being completely reactionary. hate it
+]
+(;W[df]
+(;B[ee]
+(;W[ef]
+C[pathogenix: It's called having gote
+pathogenix: And you're supposed to hate it, hate it with a passion, and recognise when you don't *have* to respond to something urgently, to take the initiative - sente
+pathogenix: sente is a wonderful thing
+]
+(;B[fe]
+C[penderi: I'm still being a fucking goat
+]
+(;W[gd]
+(;B[ie]
+(;W[ge]
+C[pathogenix: 2-space jump is a bit far. One space would have been better, or even just an extension. 
+pathogenix: Leaving two spaces there, though, is basically bending over and holding your arse cheeks apart, begging to be penetrated
+penderi: I thoguht of extending and then figured I was being goat boy. Tity
+]
+(;B[gg]
+(;W[ff]
+C[pathogenix: G13 at F14. Having gote sucks, but it sucks less than having your stones taken away
+]
+(;B[hf]
+(;W[pf]
+C[pathogenix: Now... what do you want to do about this one? Before responding, try to picture the continuation
+pathogenix: What's important?
+penderi: hmmm
+penderi: Well I'd say I need to start creating eyes in the center #1. BUT Q15 could go byebyes
+penderi: SO the big question is, do I chase out to connect to N15 or do I start making eyes
+penderi: OR I've completely faield to grasp what's important
+]
+(;B[oe]
+(;W[of]
+(;B[ne]
+(;W[qg]
+(;B[pi]
+(;W[og]
+(;B[ph]
+C[penderi: GOTE BOY!
+]
+(;W[pl]
+(;B[nm]
+(;W[ok]
+C[penderi: hmm it's a fight you want, aye?
+]
+(;B[ml]
+(;W[nj]
+(;B[mh]
+(;W[oh]
+C[penderi: shit.
+]
+(;B[oi]
+(;W[ni]
+C[pathogenix: :)
+]
+(;B[nh]
+C[penderi: I can feel a hole opening up
+pathogenix: The problem is that I've got all the corners
+]
+(;W[lj]
+C[pathogenix: and the centre is usually worth nothing
+pathogenix: because it's immensely permeable
+pathogenix: Also, you have a lot of groups that aren't yet alive
+pathogenix: O12 and N8 are problematic because by pushing through here I can attack both. Whichever one you want to defend, I can lean on the other
+pathogenix: But J4 can invade from the bottom and the group at E14 can invade the left
+]
+(;B[kh]
+C[penderi: DICK
+penderi: d_ick#
+]
+(;W[kl]
+(;B[mk]
+C[penderi: GOTE BOY
+]
+(;W[mj]
+C[pathogenix: I've been paying a lot of attention recently to sente and gote
+penderi: I AM GOTE BOY
+]
+(;B[mn]
+(;W[lm]
+C[pathogenix: The big problem here is that M7 also makes it harder for black to escape
+]
+(;B[jl]
+(;W[kk]
+(;B[il]
+(;W[jm]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+4061,1144,1142,penderi,zidsal,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 967.6483538793991, 'deviation': 248.33301825894392, 'volatility': 0.060003201510394566}}",15.957587728247967,14.155541794894088,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-25]
+PC[OGS: https://online-go.com/game/4061]
+GN[]
+PB[penderi]
+PW[zidsal]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[9]
+KM[5.5]
+RU[Japanese]
+;B[cc]
+;W[gc]
+C[zidsal: how you doing then Ian
+penderi: Fella!! Drowning in work and being a moody bastard as ever haha!!! Howe's you doing? Eating fuck all and getting no sleep?
+]
+(;B[fe]
+C[penderi: Hope all is well fella!
+zidsal: pretty much that. Being a couch potato as usual
+]
+(;W[ed]
+C[penderi: LOL
+]
+(;B[ce]
+(;W[ee]
+)))))"
+4610,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-08]
+PC[OGS: https://online-go.com/game/4610]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[15k]
+TM[259200]OT[86400 fischer]
+RE[W+115.5]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[penderi: WHOA that's an advantage. I think.
+]
+;W[qf]
+C[penderi: WHOA that's an advantage. I think.
+]
+(;B[oe]
+(;W[qi]
+(;B[qg]
+(;W[pg]
+C[pathogenix: the nine stone handicap?
+pathogenix: Yeah, I've not played a 9-stone game before
+pathogenix: Should be interesting
+penderi: Your going to kick my ass. Also. I AM GOAT BOY
+]
+(;B[qe]
+(;W[qh]
+(;B[pf]
+C[penderi: BALLS to goyte.
+]
+(;W[rg]
+(;B[og]
+(;W[qn]
+C[penderi: Ohg. you out sente'd me
+]
+(;B[pl]
+(;W[qq]
+(;B[ph]
+(;W[pi]
+C[pathogenix: Yeah, I kind of have to keep the pressure up
+penderi: popp
+]
+(;B[oh]
+(;W[qg]
+C[penderi: I'm guessing this is a falsYou' going to make me count my libertiese eye but fuck.,
+]
+(;B[oi]
+(;W[cf]
+C[penderi: I FUCKING KNEW IT
+]
+(;B[oj]
+C[pathogenix: Knew what?
+]
+(;W[qj]
+C[penderi: You'd bust out. Declar the RHS 'no bother' and leave me wasing stones...
+]
+(;B[ql]
+(;W[rk]
+C[pathogenix: It's still a bother
+pathogenix: White's not quite alive there yet, and can't afford to make a follow up move in the left corner until he's safe
+penderi: that's what I wondered....
+]
+(;B[rm]
+(;W[pn]
+C[pathogenix: I think the larger group is okay. I can see two ways to live there
+penderi: tits
+]
+(;B[nm]
+C[penderi: GOYTINNNI!
+]
+(;W[op]
+C[penderi: Damnit your confident again
+]
+(;B[oo]
+(;W[on]
+(;B[np]
+(;W[oq]
+(;B[pq]
+(;W[nq]
+(;B[lp]
+(;W[no]
+C[penderi: SHIT SHIT SHIT
+]
+(;B[nn]
+(;W[mp]
+C[pathogenix: :)
+]
+(;B[mq]
+(;W[lq]
+(;B[mo]
+(;W[po]
+(;B[np]
+(;W[oo]
+(;B[kq]
+(;W[lr]
+(;B[ls]
+(;W[ks]
+(;B[kr]
+(;W[ms]
+(;B[mr]
+(;W[nr]
+(;B[ls]
+(;W[lr]
+(;B[lq]
+(;W[ls]
+(;B[js]
+(;W[ns]
+(;B[jr]
+(;W[fd]
+(;B[ef]
+(;W[de]
+(;B[ee]
+(;W[ed]
+(;B[cd]
+(;W[ci]
+(;B[cg]
+(;W[dg]
+(;B[dh]
+(;W[eg]
+(;B[fg]
+(;W[ch]
+(;B[bg]
+(;W[bf]
+(;B[df]
+(;W[eh]
+(;B[di]
+(;W[bh]
+(;B[ce]
+(;W[ff]
+(;B[fe]
+(;W[gf]
+(;B[hf]
+(;W[ge]
+(;B[gd]
+(;W[de]
+(;B[en]
+(;W[cq]
+(;B[cp]
+(;W[dq]
+(;B[eq]
+(;W[er]
+(;B[dr]
+(;W[bp]
+(;B[bq]
+(;W[cr]
+(;B[cs]
+(;W[ds]
+(;B[jl]
+(;W[ck]
+(;B[af]
+(;W[ag]
+(;B[he]
+(;W[gh]
+(;B[hh]
+(;W[hg]
+(;B[gg]
+(;W[fh]
+(;B[cj]
+(;W[bj]
+(;B[bk]
+(;W[bl]
+(;B[dk]
+(;W[cl]
+(;B[dl]
+(;W[ig]
+(;B[cm]
+(;W[bm]
+(;B[jg]
+(;W[hd]
+(;B[ie]
+(;W[id]
+(;B[je]
+(;W[jc]
+(;B[kc]
+(;W[gc]
+(;B[ic]
+(;W[ib]
+(;B[jb]
+(;W[hc]
+(;B[jc]
+(;W[ha]
+(;B[ja]
+(;W[hi]
+(;B[ih]
+(;W[ii]
+(;B[jh]
+(;W[ji]
+(;B[ki]
+(;W[kj]
+(;B[kk]
+(;W[lj]
+(;B[li]
+(;W[ij]
+(;B[jk]
+(;W[ep]
+(;B[lk]
+(;W[fq]
+(;B[mj]
+(;W[jn]
+(;B[jo]
+(;W[in]
+(;B[hn]
+(;W[io]
+(;B[ip]
+(;W[ho]
+(;B[go]
+(;W[hp]
+(;B[gq]
+(;W[gp]
+(;B[fp]
+(;W[fo]
+(;B[jm]
+(;W[gn]
+(;B[hm]
+(;W[im]
+(;B[il]
+(;W[gm]
+(;B[hl]
+(;W[fk]
+(;B[kn]
+(;W[gj]
+(;B[hq]
+(;W[re]
+(;B[qd]
+(;W[rd]
+(;B[rc]
+(;W[mp]
+(;B[rf]
+(;W[lo]
+(;B[np]
+(;W[iq]
+(;B[ko]
+(;W[ir]
+(;B[ln]
+(;W[rb]
+(;B[sd]
+(;W[sf]
+(;B[jq]
+(;W[qc]
+(;B[pc]
+(;W[qb]
+(;B[pb]
+(;W[pa]
+C[pathogenix: I've lost audio
+]
+(;B[ob]
+(;W[oa]
+C[penderi: is it back?
+]
+(;B[nb]
+(;W[na]
+(;B[mb]
+(;W[ma]
+(;B[la]
+(;W[qa]
+(;B[lb]
+(;W[rn]
+(;B[hr]
+(;W[gr]
+(;B[is]
+(;W[gs]
+(;B[hs]
+(;W[rl]
+(;B[rj]
+(;W[qm]
+(;B[pk]
+(;W[om]
+(;B[ol]
+(;W[gl]
+(;B[nl]
+(;W[hk]
+(;B[if]
+(;W[gg]
+(;B[]
+(;W[]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+5447,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-17]
+PC[OGS: https://online-go.com/game/5447]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[15k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[pathogenix: Onegaishimasu
+pathogenix: You should play some other people after this. It's best to play people who are 2-3 stones stronger than you. I've spotted a couple of easy marks ;)
+]
+;W[qf]
+C[pathogenix: Onegaishimasu
+pathogenix: You should play some other people after this. It's best to play people who are 2-3 stones stronger than you. I've spotted a couple of easy marks ;)
+]
+(;B[oe]
+C[penderi: LMAO. That's probablhy a good idea for your boredom threshold too!!
+pathogenix: I never get bored with go
+]
+(;W[nq]
+(;B[lp]
+(;W[no]
+(;B[np]
+(;W[op]
+(;B[mp]
+C[penderi: HAve to say I can feel my learning improving
+]
+(;W[oo]
+C[pathogenix: That happens
+pathogenix: Sometimes you feel like you're making no progress, other times, you feel stronger :)
+penderi: Yes. That sounds very GO!.
+pathogenix: I've recently broken through a wall, I think
+penderi: Also. No out of depth lol. THat shape gives me the twitches
+pathogenix: It's not good for white
+]
+(;B[oq]
+(;W[pl]
+(;B[mq]
+C[penderi: Right sorry for missign the game today. More next week! Have a top weekend mate, catch yer WEDS
+]
+(;W[po]
+(;B[qp]
+(;W[qi]
+C[penderi: this is a little worrying..
+]
+(;B[pg]
+C[pathogenix: now white has to choose
+pathogenix: Do I want to connect to the bottom, or do I want to protect this cutting point?
+pathogenix: and I think the answer is I'm going to connect up
+]
+(;W[qj]
+(;B[qk]
+(;W[pk]
+(;B[ql]
+(;W[qm]
+(;B[pm]
+(;W[om]
+(;B[on]
+(;W[nn]
+C[pathogenix: Is there a plan here?
+]
+(;B[nm]
+C[penderi: LMAO
+]
+(;W[pn]
+(;B[ok]
+C[penderi: SHIT
+]
+(;W[ol]
+C[pathogenix: The problem here is that you offered white a choice, unintentionally, of connecting to R14, or connecting to the bottom. Whichever one white chose, you should have taken the other
+pathogenix: Once white decided to connect to the bottom, you can't stop him, it would have been much better to simply cut at R13 and take the big corner
+pathogenix: There's still some chaos that white can wreak with that R14 stone, but it would be essentially dead after that.
+pathogenix: Instead, you tried to stop me doing what I decided on, and now we have this horrible fight where black is at a severe disadvantage
+pathogenix: Worse still, White is now totally solid and able to move into the corner, but R14 still hasn't been cut off, so you can let me save it, or give me sente to go and harass you elsewhere.
+pathogenix: it *is* just one stone, but it has its greedy eyes on your upper right corner,  so now black has a choice :)
+]
+(;B[qh]
+C[pathogenix: nice :)
+]
+(;W[pi]
+C[penderi: tits
+pathogenix: No, that's a good move
+penderi: t _ i _ t _s
+pathogenix: white has to respond, so you get to cut off that stone in sente
+penderi: yeah but I'vescrewedthe game lol
+pathogenix: you can't keep everything
+penderi: I'm getting there but slowly.
+pathogenix: yeah, it's a painful lesson
+pathogenix: http://online-go.com/game/417206 is a bizarre game. 7x5 between a 2 dan and a 30 kyu who REALLY doesn't understand the game.
+pathogenix: It was around move 35 where we began to wonder if he was actually a really clever spam bot
+penderi: lmao
+]
+(;B[oi]
+(;W[ph]
+(;B[qg]
+(;W[pf]
+C[penderi: Boollocks just found game. sorry.
+]
+(;B[of]
+C[penderi: hullo?
+penderi: oh est le Bob?
+]
+(;W[cn]
+C[penderi: oh
+]
+(;B[dl]
+C[penderi: My rating is -887
+]
+(;W[en]
+C[pathogenix: Harsh :)
+]
+(;B[dn]
+(;W[co]
+(;B[do]
+(;W[cm]
+C[penderi: harsh but fair!
+]
+(;B[dm]
+(;W[mm]
+(;B[nl]
+(;W[ml]
+(;B[nk]
+(;W[jl]
+(;B[oj]
+(;W[rl]
+(;B[oh]
+(;W[qc]
+(;B[qe]
+C[penderi: dah
+]
+(;W[pc]
+(;B[rf]
+C[penderi: popp
+]
+(;W[qd]
+(;B[pe]
+C[pathogenix: Pop quiz: You  just captured two stones. What did White get out of the exchange?
+]
+(;W[oc]
+C[pathogenix: Why didn't I try and stop you?
+penderi: You considered the whole thing irrelevant and decided to outflank me, thereby making the move redundant. I'd say...
+]
+(;B[nc]
+C[pathogenix: Well, you can't kill white in the corner, and by ignoring my play there, you've basically given me a large corner. If you look at how much territory I'm surrounding here, it clearly outweighs the two points you've just captured.
+]
+(;W[nb]
+C[penderi: yes I think I rumbled that and slowly.
+penderi: I got 2 POINTs!
+]
+(;B[ob]
+(;W[pb]
+C[penderi: I deserve to be well beaten now
+]
+(;B[mb]
+(;W[oa]
+(;B[mc]
+(;W[cf]
+(;B[dh]
+(;W[cc]
+(;B[de]
+(;W[ce]
+(;B[cd]
+C[penderi: Hmmm
+]
+(;W[bd]
+(;B[be]
+(;W[bf]
+(;B[df]
+(;W[ch]
+C[penderi: When are you back in then?
+]
+(;B[cg]
+C[penderi: Also how the devil etc etc ?
+]
+(;W[bg]
+C[penderi: Is my chat even appearing???
+]
+(;B[dg]
+(;W[ei]
+(;B[ci]
+C[pathogenix: :) I was playing on the phone, so no, it wasn'ty appearing
+]
+(;W[bh]
+C[pathogenix: Hopefully I'll be in in the near future. The wife is out of hospital, but not well at all
+pathogenix: I need to arrange childcare with his grandad
+penderi: LMAO
+penderi: AHA!
+penderi: HOLY shit. Bob. Sorry I didn't fucking ask. What an asshole. I presumed it was cos you jsut fancied working from home.
+penderi: Mein got. Sorry pal. Hope she's getting there at least. Very glad she's out of hispital.
+penderi: Also. Time with Grandpa! Excellent! Hopefully he'll drink beer and fire guns.
+]
+(;B[bc]
+(;W[ae]
+C[pathogenix: IT wouldn't surprise me...
+penderi: A klaxen should sound whenever I feel like I'm starting to play Go 'right'
+]
+(;B[bi]
+C[pathogenix: you're not doing too badly up here in this corner. Keeping the pressure up nicely.
+]
+(;W[ah]
+(;B[dc]
+(;W[di]
+(;B[cj]
+(;W[mk]
+(;B[mj]
+(;W[lj]
+(;B[lk]
+(;W[kk]
+(;B[ll]
+(;W[lm]
+(;B[kj]
+(;W[li]
+C[pathogenix: M11 is better
+pathogenix: Force white to capture, and seal him out
+penderi: Im titting this up
+pathogenix: Yeah this bit has gone very well for me
+pathogenix: undeservedly well
+pathogenix: Do you see what I mean about M11?
+]
+(;B[lh]
+C[pathogenix: Black ataris, white captures the two stones, black connects
+]
+(;W[mi]
+(;B[ki]
+(;W[mh]
+(;B[mg]
+(;W[lg]
+C[pathogenix: I'm not sure this is going to work...
+]
+(;B[kh]
+(;W[ng]
+(;B[mf]
+(;W[og]
+C[pathogenix: no of course it doesn't
+]
+(;B[nh]
+(;W[hl]
+C[pathogenix: Oh shit
+pathogenix: don't click there
+]
+(;B[ni]
+C[pathogenix: ah
+penderi: shit
+penderi: sorry
+pathogenix: :)
+pathogenix: That's oaky
+penderi: didnt understand
+]
+(;W[kl]
+C[penderi: or rather didnt see chat 
+pathogenix: :)
+penderi: penis
+]
+(;B[nf]
+(;W[hj]
+(;B[il]
+(;W[im]
+(;B[ik]
+(;W[hk]
+(;B[ij]
+(;W[gi]
+(;B[hm]
+(;W[in]
+(;B[lj]
+(;W[fp]
+(;B[km]
+(;W[kn]
+C[penderi: im dicking this now
+pathogenix: no... white has problems still
+pathogenix: many problems
+]
+(;B[mn]
+(;W[ln]
+(;B[jn]
+C[pathogenix: that's one of them
+]
+(;W[mo]
+C[pathogenix: should have cut white off
+]
+(;B[jo]
+(;W[jm]
+(;B[hn]
+C[penderi: daaa
+]
+(;W[ho]
+(;B[io]
+(;W[go]
+(;B[fo]
+(;W[eo]
+(;B[fn]
+(;W[fm]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+422938,1144,1147,penderi,idiocratic,un,it,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 895.9626866400455, 'deviation': 65.78122853873121, 'volatility': 0.06001321619626367}}",15.957587728247967,12.37368669401893,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-29]
+PC[OGS: https://online-go.com/game/422938]
+GN[]
+PB[penderi]
+PW[go_fys]
+BR[30k]
+WR[28k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[penderi: lol shit no handicap
+]
+;B[dd]
+C[penderi: lol shit no handicap
+]
+(;W[pd]
+(;B[pj]
+C[penderi: can't remember how to set up T_W_A_T mode
+penderi: My rating is -887
+]
+(;W[qp]
+C[go_fys: you need to stop setting up timed mode :)
+penderi: HOW ??? restart???
+]
+))))"
+434179,1144,54679,penderi,Chibiko,un,un,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1231.094056647346, 'deviation': 172.12192074677094, 'volatility': 0.06000068769085821}}",15.957587728247967,19.72982518970113,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-21]
+PC[OGS: https://online-go.com/game/434179]
+GN[]
+PB[penderi]
+PW[Chibiko]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"
+443381,1144,914,penderi,pathogenix,un,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1045.9814470695308, 'deviation': 309.0607826064922, 'volatility': 0.060004853160903746}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",15.957587728247967,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-12-06]
+PC[OGS: https://online-go.com/game/443381]
+GN[]
+PB[penderi]
+PW[pathogenix]
+BR[30k]
+WR[12k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[penderi: sorry mate. Feel awful for abandoning games
+]
+;W[nc]
+C[penderi: sorry mate. Feel awful for abandoning games
+]
+(;B[ld]
+C[pathogenix: :) that's okay
+penderi: how yer feeling today?
+penderi: less fluey?
+pathogenix: Not so bad. Alex is poorly today, though
+]
+(;W[qf]
+C[pathogenix: I hate high handicap games
+pathogenix: :D They're terrifying
+penderi: Ah man alive. You're all taking it in turns to be ill !
+penderi: I'd add a lol on the end but I guess it's not funny anymore!
+penderi: Handicap games. I palyed smartgo a bit more. It STILL won't let me progress from 9x9 handicap games
+penderi: It thinks I'm a plum
+penderi: I fear it's right
+]
+(;B[oe]
+(;W[qc]
+C[penderi: I like that move
+]
+(;B[oc]
+C[pathogenix: you should play some more against humans :)
+penderi: lol
+]
+(;W[ob]
+C[pathogenix: handicap go is weird because all the moves I want to play are hard to do when there's already a stone sat waiting for me :) 
+]
+(;B[pc]
+C[penderi: Yeah it seems a considerable adv...
+]
+(;W[pb]
+(;B[nd]
+(;W[mc]
+(;B[lc]
+(;W[cn]
+(;B[mb]
+C[penderi: I thing IU'm about to knob the top right corner
+penderi: Also you're 12KYU!
+]
+(;W[nb]
+(;B[lb]
+(;W[en]
+(;B[dn]
+(;W[dm]
+(;B[do]
+(;W[ck]
+(;B[dl]
+(;W[el]
+C[pathogenix: :) Yes
+pathogenix: though should be 11kyu here soon
+pathogenix: 9 kyu on DGS, and 8 kyu on KGS :D
+pathogenix: The top right corner is fine. White lives in the corner, but black is strong on the outside
+pathogenix: There's no real point playing there for a bit, it's settled.
+]
+)))))))))))))))))))))))"

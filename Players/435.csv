@@ -1,0 +1,181 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+726,435,118,WovenRoses,Slava,un,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1491.1210122619768, 'deviation': 156.9605820821865, 'volatility': 0.059998992848964455}}",24.303382182144386,24.16594262751665,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-03-26]
+PC[OGS: https://online-go.com/game/726]
+GN[ 圍棋]
+PB[WovenRoses]
+PW[Slava]
+BR[30k]
+WR[15k]
+TM[0]OT[259200 simple]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[jj]
+(;W[qd]
+C[Slava: haha, tengen, ok
+]
+(;B[pe]
+C[Slava: the very center star point is called tengen, and usually isnt a good starting area
+WovenRoses: well this is my first time. be gentle. i'm like a delicate flower
+Slava: I'll try and make it fun :\]
+]
+(;W[oc]
+C[WovenRoses: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=CB2RQAV8NU6obM&tbnid=T8dEtWcFsATdcM:&ved=0CAUQjRw&url=http%3A%2F%2Fcookiebitch.typepad.com%2Fcookiebitch%2F2006%2F10%2Fwhat_i_dont_kno.html&ei=QQFRUYucDKPV0gHlo4HwAg&bvm=bv.44158598,d.dmQ&psig=AFQjCNGTCfr2Ie_OlRh9wxpQ4GqqH3XnxA&ust=1364349620071144
+]
+(;B[nb]
+C[WovenRoses: shorter url http://cookiebitch.typepad.com/cookiebitch/images/flower.jpg
+]
+(;W[nc]
+C[Slava: haha
+]
+(;B[mc]
+(;W[pq]
+(;B[nd]
+C[Slava: I like that picture
+]
+(;W[od]
+(;B[pp]
+(;W[qp]
+(;B[oe]
+(;W[ne]
+(;B[qq]
+(;W[qo]
+(;B[pd]
+(;W[md]
+C[WovenRoses: your mom likes that picture
+]
+(;B[ld]
+C[Slava: :\\
+]
+(;W[lc]
+(;B[lb]
+(;W[kc]
+C[Slava: in Game Preferences you can change the way the board looks 
+]
+(;B[jc]
+(;W[kb]
+(;B[ka]
+(;W[mb]
+C[Slava: Careful :\]
+]
+(;B[kd]
+(;W[ja]
+C[WovenRoses: Your mouth is square
+WovenRoses: in that emoticon
+WovenRoses: which is funny cause your mouth isn't square
+Slava: :[
+WovenRoses: :[\]
+]
+(;B[dd]
+C[Slava: you should take the corners first
+Slava: around D4 or D 16
+]
+(;W[oq]
+C[Slava: Good. c16 and d17 are usually good too
+]
+(;B[cd]
+(;W[oo]
+C[Slava: Hm. thats a little slow. Better to take the other corner first, or expand outward along the sides of the D16
+]
+(;B[da]
+(;W[jp]
+C[WovenRoses: like that?
+Slava: Not quite. More like c14 or d14. Expanding along the sides of the board
+]
+(;B[db]
+C[Slava: something more like that
+]
+(;W[fc]
+(;B[dc]
+(;W[cp]
+C[Slava: so, you've pretty much made that corner yours
+Slava: but I get to play the other one since you didn't take it
+]
+(;B[po]
+C[WovenRoses: We can share corners
+]
+(;W[pn]
+C[Slava: ah, ok. So heres a lesson on a shape. the q4 stone is already dead
+]
+(;B[qe]
+C[WovenRoses: oh i see
+Slava: http://senseis.xmp.net/?Net
+Slava: Hm, I should definately play you on a handicap
+WovenRoses: No handicap
+]
+(;W[pc]
+C[Slava: alright :\]
+]
+(;B[rd]
+(;W[qc]
+(;B[rc]
+(;W[rb]
+(;B[sb]
+(;W[sc]
+(;B[sd]
+(;W[re]
+C[WovenRoses: ha
+]
+(;B[rf]
+(;W[qb]
+C[Slava: Better count your liberties :\] (the free spaces)
+Slava: oh nvm
+WovenRoses: what's a liberty?
+Slava: its the number of spaces a piece has before being captured
+]
+(;B[ia]
+C[Slava: Also, make sure you hit submit everytime. Sometimes people forget 
+WovenRoses: yeah i forget
+WovenRoses: cause i'm dumb
+]
+(;W[la]
+(;B[id]
+(;W[mg]
+(;B[je]
+(;W[ph]
+(;B[if]
+(;W[fe]
+(;B[he]
+(;W[df]
+(;B[ma]
+(;W[qg]
+C[Slava: The n19 stone only has one liberty
+Slava: which means its in Atari
+Slava: meaning I can capture it next move
+]
+(;B[na]
+(;W[ob]
+(;B[oa]
+C[Slava: Do you know how to make life?
+]
+(;W[pa]
+C[WovenRoses: do you know how to make death?
+]
+(;B[hg]
+C[WovenRoses: darn
+]
+(;W[di]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+727,435,118,WovenRoses,Slava,un,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1491.1210122619768, 'deviation': 156.9605820821865, 'volatility': 0.059998992848964455}}",24.303382182144386,24.16594262751665,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-03-26]
+PC[OGS: https://online-go.com/game/727]
+GN[]
+PB[WovenRoses]
+PW[Slava]
+BR[30k]
+WR[15k]
+TM[0]OT[259200 simple]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+;W[nc]
+)"

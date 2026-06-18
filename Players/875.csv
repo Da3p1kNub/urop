@@ -1,0 +1,269 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1876,875,766,gingervitis,Quantumplation,us,un,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1471.229649841315, 'deviation': 69.70537110719266, 'volatility': 0.0600037411794836}}",24.303382182144386,23.85504630668434,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-17]
+PC[OGS: https://online-go.com/game/1876]
+GN[Ging vs Pi]
+PB[gingervitis]
+PW[Quantumplation]
+BR[30k]
+WR[15k]
+TM[0]OT[0 none]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+;W[qf]
+(;B[gm]
+(;W[nc]
+(;B[fk]
+(;W[oe]
+(;B[in]
+(;W[fq]
+(;B[gh]
+(;W[cf]
+(;B[lm]
+(;W[cd]
+(;B[eg]
+(;W[dg]
+(;B[ei]
+(;W[di]
+(;B[dh]
+(;W[ch]
+(;B[fh]
+C[gingervitis: KAI FIGHT BITCH
+Quantumplation: Ko*
+]
+(;W[ci]
+C[gingervitis: IT'S KAI NOW
+]
+(;B[df]
+(;W[cg]
+(;B[ce]
+(;W[ef]
+(;B[ee]
+C[Quantumplation: jesus, you just really want to ko don't you
+gingervitis: :3
+]
+(;W[ff]
+(;B[gf]
+(;W[fg]
+(;B[fe]
+(;W[eh]
+C[gingervitis: hold up
+gingervitis: i thought that was an eye
+gingervitis: what did i do wrong
+Quantumplation: it was what's called a false eye
+gingervitis: lol i read about those. i thought i knew how to recognize them. whoops.
+Quantumplation: http://nova.gs/game/demo/253
+gingervitis: oooh that's cool
+gingervitis: http://i.imgur.com/3aUhSc7.png
+Quantumplation: yup lol
+]
+(;B[gg]
+(;W[de]
+C[gingervitis: IT'S GETTING KO UP IN HERE
+Quantumplation: #ko
+gingervitis: no
+Quantumplation: #yes
+]
+(;B[ek]
+C[gingervitis: stop
+]
+(;W[be]
+C[gingervitis: ooh, per-move chat division
+Quantumplation: :D
+]
+(;B[fi]
+C[Quantumplation: there's also a spectator log an malcovich log
+Quantumplation: under the analyze game, you can draw on the board
+Quantumplation: and if I mention a position, like F11, it highlights that point :D
+gingervitis: =O
+]
+(;W[ck]
+(;B[gj]
+C[Quantumplation: good, you prevented the false eye
+]
+(;W[dm]
+C[Quantumplation: if You played at F10, an I played at D9, false eye
+gingervitis: :3
+Quantumplation: also
+Quantumplation: what is this devil magic
+Quantumplation: they sold me this jar of
+Quantumplation: stripes
+Quantumplation: of peanut butter and jam
+gingervitis: I KNOW
+gingervitis: ITS MY FAVORITE THING
+gingervitis: <3
+gingervitis: i used to buy like
+gingervitis: 2 a week freshman year
+gingervitis: and just EAT IT
+Quantumplation: I'm just slabbing it on tortillas, rolling them up
+Quantumplation: i'm going to end up so fat
+Quantumplation: good thing I also have hummus
+Quantumplation: that's healthy right?
+gingervitis: yes pi
+gingervitis: especially if you put it together
+Quantumplation: a family sized, 7 dollar tub of hummus
+gingervitis: please get actual food
+gingervitis: ...... lol.
+Quantumplation: THIS IS CLOSER TO ACTUAL FOOD THAN I USUALLY EAT, EXCUSE YOU
+gingervitis: burgers are closer to actual food than peanutbutterandjelly-filled tortillas
+Quantumplation: NO
+Quantumplation: THAT'S FOOD
+Quantumplation: make your move
+gingervitis: no
+Quantumplation: =[
+gingervitis: this is how we now chat
+gingervitis: only here
+gingervitis: not on facebook
+gingervitis: not on hall
+gingervitis: we will open this page at work.
+Quantumplation: lmao
+gingervitis: and talk here.
+]
+(;B[ii]
+(;W[iq]
+C[Quantumplation: My brother is getting really into Go
+Quantumplation: I showed him while I was in Florida
+Quantumplation: and he randomly found a friend at school who plays
+Quantumplation: and he's getting really strong XD I can't beat him at 9 stones anymore, we have to play at 8
+]
+(;B[jo]
+(;W[kc]
+(;B[hj]
+(;W[qi]
+(;B[gp]
+(;W[gq]
+(;B[en]
+(;W[dn]
+(;B[do]
+(;W[co]
+(;B[eq]
+(;W[dq]
+(;B[dl]
+(;W[dk]
+(;B[em]
+(;W[cl]
+(;B[cm]
+(;W[cn]
+(;B[hh]
+(;W[dc]
+(;B[gb]
+(;W[ge]
+(;B[eb]
+(;W[db]
+(;B[cc]
+(;W[bc]
+(;B[ec]
+(;W[ed]
+C[gingervitis: how did you take that?
+gingervitis: i thought adjacent stones count as a group?
+Quantumplation: sure
+Quantumplation: there are no lines diagonally on the board
+gingervitis: .....oh.
+Quantumplation: lol
+gingervitis: diagonals count for liberties... but not groups?
+Quantumplation: ? no
+gingervitis: .....oh.
+Quantumplation: diagonals don't count for either
+gingervitis: well i've been playing entirely wrong
+Quantumplation: XD
+Quantumplation: we can restart if you want
+gingervitis: nah
+]
+(;B[rf]
+(;W[qe]
+(;B[qd]
+(;W[re]
+(;B[pe]
+(;W[pf]
+(;B[rd]
+(;W[se]
+C[Quantumplation: should I order pizza?
+gingervitis: ...no
+Quantumplation: =[
+gingervitis: you should make food
+Quantumplation: noooo
+Quantumplation: making food is a hassle
+gingervitis: so go buy food
+]
+(;B[sd]
+C[Quantumplation: ... wat that makes it even more of a hassle
+]
+(;W[od]
+(;B[of]
+C[gingervitis: but delicious
+Quantumplation: not really
+gingervitis: there is a place on the corner of union an 4th
+]
+(;W[ph]
+C[gingervitis: brownstone bagels
+gingervitis: it's pretty close and has good bagels
+Quantumplation: you and your bagels
+]
+(;B[pg]
+(;W[og]
+C[gingervitis: are you discriminating against my jewish heritage
+]
+(;B[qg]
+(;W[nf]
+C[Quantumplation: yes
+gingervitis: ...wait fuck
+]
+(;B[rh]
+(;W[qh]
+C[Quantumplation: we also probably should have started on a smaller board, games take forever on the 19x19 when you're new
+gingervitis: lel
+gingervitis: oh well
+gingervitis: your fault
+]
+(;B[sf]
+(;W[rg]
+C[gingervitis: wat
+gingervitis: ...
+gingervitis: oh
+gingervitis: fuck
+Quantumplation: heh
+gingervitis: GIVE ME MY CHESS BOARD BACK
+gingervitis: :|
+gingervitis: the irony of you playing this game
+gingervitis: where you have so much more choice than chess
+gingervitis: =P
+Quantumplation: XD
+]
+(;B[qb]
+(;W[pc]
+(;B[qc]
+(;W[pa]
+C[Quantumplation: careful now
+]
+(;B[qa]
+(;W[sb]
+(;B[rc]
+(;W[rb]
+C[Quantumplation: R19 group is dead unless I make a mistake.  You don't have enough room to make eyes
+gingervitis: sure i do
+Quantumplation: ok, go ahead and try lol
+Quantumplation: OK FINE GOSH
+Quantumplation: I'LL GO BUY FOOD
+Quantumplation: MEANIE
+gingervitis: =D =D
+]
+(;B[sc]
+(;W[pb]
+C[gingervitis: fuck
+gingervitis: i ran through the analysis of every possible move inside the thingy
+gingervitis: but i didnt consider that one.
+Quantumplation: 3x2 in the corner is always dead
+Quantumplation: 3x2 against a wall is always alive
+Quantumplation: [object Object\]
+Quantumplation: Oh, nope, that doesn't work
+Quantumplation: [object Object\]
+Quantumplation: [object Object\]
+Quantumplation: [object Object\]
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

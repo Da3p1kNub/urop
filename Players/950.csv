@@ -1,0 +1,145 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+2114,27,950,Phelan,TheSparky,pt,us,"{'version': 5, 'overall': {'rating': 1638.6375354196946, 'deviation': 62.32166217923733, 'volatility': 0.060182288143821185}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",26.349842584047963,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-08]
+PC[OGS: https://online-go.com/game/2114]
+GN[Teaching game?]
+PB[Phelan]
+PW[TheSparky]
+BR[6k]
+WR[30k]
+TM[0]OT[0 none]
+RE[W+T]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[TheSparky: Hi Phelan
+TheSparky: Last I checked, I'm 29th Kyu
+]
+)"
+2863,950,27,TheSparky,Phelan,us,pt,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1638.6375354196946, 'deviation': 62.32166217923733, 'volatility': 0.060182288143821185}}",24.303382182144386,26.349842584047963,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-14]
+PC[OGS: https://online-go.com/game/2863]
+GN[Sparks Phel on the board.]
+PB[TheSparky]
+PW[Phelan]
+BR[30k]
+WR[7k]
+TM[518400]OT[86400 fischer]
+RE[W+T]
+SZ[9]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[Phelan: have a good game
+TheSparky: You too
+]
+;W[fc]
+C[TheSparky: You too
+]
+(;B[fd]
+(;W[gd]
+(;B[ge]
+(;W[hd]
+(;B[hc]
+C[TheSparky: I'm sure it shows, but I have no idea about strategy in this game
+Phelan: heh
+Phelan: there's not much strategy in these small boards, mostly tactics
+Phelan: either way, still too early to tell
+Phelan: so far you haven't made any mistake
+]
+(;W[he]
+(;B[fe]
+(;W[hf]
+(;B[gf]
+(;W[hg]
+(;B[hh]
+(;W[fb]
+(;B[gb]
+(;W[ga]
+(;B[ec]
+(;W[eb]
+(;B[db]
+(;W[ic]
+(;B[gh]
+(;W[ed]
+(;B[dc]
+(;W[cf]
+(;B[ce]
+(;W[bf]
+C[Phelan: did you forget about this game?
+]
+(;B[de]
+C[TheSparky: I did, sorry
+Phelan: heh, no prob
+]
+(;W[dg]
+(;B[df]
+(;W[ch]
+)))))))))))))))))))))))))))))"
+3928,950,1165,TheSparky,rgatti,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1353.2750721192251, 'deviation': 78.83792801366381, 'volatility': 0.06000553332123077}}",24.303382182144386,21.92037965331417,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-19]
+PC[OGS: https://online-go.com/game/3928]
+GN[The Game of Ineptitude!]
+PB[TheSparky]
+PW[rgatti]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[13]
+KM[5.5]
+RU[Japanese]
+;B[dd]
+;W[jc]
+(;B[ic]
+(;W[id]
+C[rgatti: Have a good game!
+rgatti: Thanks for challenging me!  I'm enjoying learning this game via playing!
+rgatti: Oooh!  They added timestamps!  That's awesome!
+TheSparky: You too :D
+TheSparky: I'm here for the lulz
+]
+(;B[jd]
+(;W[hc]
+C[rgatti: Yeah, so far, I've only played with Phel (who is much better than me) and ohgrande (who seems about as new as I am).
+rgatti: I'm enjoying playing, but I learn a lot with each game (seeing things, including errors, play out... versus reading about ideal play/position in some book or website)
+rgatti: Plus, I enjoy chatting,.. ;-)
+TheSparky: I've only played with Phel as well.
+TheSparky: He is kicking my ass
+TheSparky: Ha.  Filter
+TheSparky: Go is one of those games where a huge difference in skill level is immensely difficult to overcome, regardless of handicaps
+TheSparky: I mean, I could start with 9 extra stones on the board, but if I don't know the strategies, then I may as well not have them
+]
+(;B[ib]
+C[rgatti: It is certainly a game I'm learning a lot about when I'm playing
+rgatti: Mostly learning that whatever I just did against Phel was wrong... and a horrible decision
+rgatti: but still learning... kind of
+rgatti: And then repeating those mistakes to remind myself why that wasn't the right thing to do
+]
+(;W[jb]
+(;B[hb]
+(;W[gc]
+(;B[gb]
+C[TheSparky: I'm sure this is wrong, but it amuses me
+]
+(;W[fb]
+C[rgatti: Yeah, I've been there :-)
+]
+(;B[hd]
+(;W[ie]
+(;B[ja]
+(;W[kd]
+C[TheSparky: So, every move I plan out ends horribly for me
+]
+(;B[ia]
+C[TheSparky: So we'll do that
+]
+(;W[ka]
+)))))))))))))))))"

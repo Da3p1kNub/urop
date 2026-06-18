@@ -1,0 +1,145 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+2450,1049,288,Gentleman Gin,csobod,un,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1333.1912566618555, 'deviation': 195.06834014127082, 'volatility': 0.05999843071633905}}",24.303382182144386,21.57423796905288,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-24]
+PC[OGS: https://online-go.com/game/2450]
+GN[]
+PB[Gentleman Gin]
+PW[csobod]
+BR[30k]
+WR[21k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[13]
+AB[jp][lp][ko][kq][mq][lr][nr][ms][os][np][in][is][jr]
+C[csobod: You have thirteen handicap moves.
+]
+;W[dd]
+(;B[ec]
+(;W[pd]
+(;B[ce]
+(;W[de]
+(;B[ef]
+(;W[fe]
+(;B[he]
+(;W[hd]
+(;B[gf]
+(;W[dp]
+(;B[ic]
+C[Gentleman Gin: You should, hopefully by now, know that I'm shit at this game. Also, I'm not going to get very far into it before I pass out drunk, thought I do like the idea of being able to keep a game going with you for the next couple days.
+]
+(;W[id]
+C[csobod: Aye. We'll fix your go over time. It won't happen over night. And I just feel this is pretty convinient.
+]
+(;B[jd]
+(;W[ie]
+(;B[jf]
+C[Gentleman Gin: We'll have a true game in two weeks.
+]
+(;W[je]
+(;B[gc]
+(;W[hc]
+C[csobod: Aye. You know what we should do? We should take a booth at The Mills with my board and stones in tow, and play drinking Go. Every time you capture a group of four or more stones, that's a shot of alcohol. Resignation is chugging a full pint.
+]
+(;B[kc]
+C[Gentleman Gin: That sounds mild compared to my drinking games.
+csobod: I know, but if I try your drinking games I'll die.
+]
+(;W[ke]
+(;B[lf]
+(;W[ld]
+C[Gentleman Gin: I'll get this out of the air now: I like ponies, like My Little Pony, and I've discovered a huge drinking culture built up around it. And yeah, drinking while doing that shit almost kills me.
+]
+(;B[md]
+C[csobod: Really?
+csobod: Because, if so, that could be the only thing you could say that would shock me. And I'll give it a shot with you sometime.
+Gentleman Gin: I feel like I have decent reasons for liking the show. Mostly that all the bright colors and happiness were in complete contrast with the shit I went through everyday.
+csobod: That makes sense.
+csobod: It really does.
+csobod: And ait'
+csobod: *And it's really sad.
+]
+(;W[mc]
+(;B[nb]
+(;W[nc]
+C[Gentleman Gin: No, it's not sad. Ponies are usually just the neckbeards' way of making friends. And if you're not a neckbeard, than ponies are a happy sort of thing. THere's a whole community that grew up around drinking and watching ponies.
+Gentleman Gin: I mean, I enjoy drinking and watching a lot of things, but to find over a hundred people who just want to drink and watch ponies, at the same time, it's fun.
+]
+(;B[pc]
+C[Gentleman Gin: Anyway, I'm going to bed now. Can't drive to work drunk like I did this morning, terrible experience. Luckily, I'm not actually doing work, just working on getting out of the navy.
+csobod: Huh, well that's not so bad. I obsessively rewatch the some 75 episodes of Hikaru no Go, a suspiciously homosexual show about a juvenille's obsession with another boy the same age for the sake of ""meeting [his\] rival in combat.""
+csobod: Goodnight, man. I'll probably play throughout the day tomorrow. It works in Chrome on Android, btw.
+csobod: Which is why the Submit button is ther.e
+Gentleman Gin: It better work on android, probably the only way I would ever play. These bastards need an android app.
+csobod: They're in beta for one right now, it's going to release in like a month.
+csobod: They were in alpha only three or four weeks ago, so it's moving along pretty well. There's a lot of daily updates and feature additions every week.
+csobod: Anyway man, goodnight. I'll talk to you soon. I'm glad you made it through all of this.
+]
+(;W[qg]
+(;B[dc]
+(;W[cc]
+C[csobod: You can actually plan conditional moves in Nova, too. So if you think your opponent is going to respond somewhere, you can plan out your response in advance.
+]
+(;B[fc]
+(;W[fd]
+(;B[gd]
+(;W[ge]
+(;B[hb]
+(;W[ib]
+(;B[ia]
+(;W[jc]
+(;B[jb]
+(;W[kd]
+(;B[lc]
+(;W[gb]
+(;B[ga]
+(;W[ha]
+(;B[fb]
+(;W[fa]
+(;B[ea]
+(;W[ja]
+(;B[ka]
+(;W[kb]
+(;B[la]
+(;W[lb]
+C[csobod: Around when you're going to be back, we're going to have a Go instructor hosted at the RHPL. He'll be visiting at least once a month, for like one four hour class a month.
+csobod: Or possibly two 2-hour classes.
+]
+(;B[ma]
+(;W[mb]
+(;B[ne]
+(;W[od]
+(;B[oc]
+(;W[ob]
+(;B[pb]
+(;W[oa]
+(;B[pa]
+(;W[na]
+(;B[qd]
+(;W[nd]
+(;B[ra]
+(;W[qe]
+(;B[qb]
+(;W[rd]
+(;B[rc]
+(;W[sc]
+(;B[sb]
+(;W[sd]
+C[csobod: Alright, so the upper right group needs two eyes. There's two places you can play inside the group that will make two eyes.
+csobod: http://senseis.xmp.net/?TwoEyes
+]
+(;B[se]
+(;W[re]
+C[csobod: That's not it.
+]
+(;B[rf]
+(;W[qf]
+C[csobod: That's not it either.
+]
+(;B[sg]
+(;W[si]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

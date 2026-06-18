@@ -1,0 +1,17 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+469,170,340,egor.orlov.1988,chrishadi_90,ru,id,"{'version': 5, 'overall': {'rating': 1088.7567379217446, 'deviation': 181.53345675622896, 'volatility': 0.06000237368539084}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",16.885458465485325,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-26]
+PC[OGS: https://online-go.com/game/469]
+GN[]
+PB[egor.orlov.1988]
+PW[chrishadi_90]
+BR[30k]
+WR[30k]
+TM[0]OT[86400 simple]
+RE[Void]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+)"

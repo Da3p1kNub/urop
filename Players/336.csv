@@ -1,0 +1,26 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+897,336,537,bendar,Giorgio A. Tsoukalos,un,us,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1729.28128066704, 'deviation': 189.43205865040548, 'volatility': 0.0600042866920283}}",24.303382182144386,27.59625599327592,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-02]
+PC[OGS: https://online-go.com/game/897]
+GN[Death to the Newbie!]
+PB[bendar]
+PW[lunchbox.rodgers]
+BR[18k]
+WR[12k]
+TM[86400]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[6]
+AB[dj][pj][dd][pp][pd][dp]
+C[lunchbox.rodgers: Hey bendar
+lunchbox.rodgers: crodgers here :)
+]
+;W[nc]
+C[lunchbox.rodgers: Hey bendar
+lunchbox.rodgers: crodgers here :)
+]
+)"

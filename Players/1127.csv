@@ -1,0 +1,51 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+2835,895,1127,daegs,jcmraz,us,us,"{'version': 5, 'overall': {'rating': 1665.6621674699836, 'deviation': 63.74912722723486, 'volatility': 0.0601398493335887}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",26.728521419510315,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-10]
+PC[OGS: https://online-go.com/game/2835]
+GN[]
+PB[daegs]
+PW[jcmraz]
+BR[11k]
+WR[9k]
+TM[604800]OT[10/432000 canadian]
+RE[Void]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[pd][dp]
+;W[dd]
+(;B[pp]
+(;W[qf]
+(;B[nc]
+(;W[qn]
+(;B[qj]
+(;W[of]
+(;B[pl]
+C[jcmraz: Sorry about the delay. It's been a very rough week
+]
+(;W[pj]
+C[daegs: Sorry to hear that, no problem 
+]
+(;B[pk]
+(;W[pi]
+(;B[qo]
+(;W[nq]
+C[jcmraz: I'm not actually 100% positive of my rank btw
+]
+(;B[kp]
+C[daegs: Neither am I ;) What are you on KGS ?
+jcmraz: I don't play ranked on kgs xD it puts me at 14k but I havent played ranked in the past 8 months
+]
+(;W[lp]
+(;B[kq]
+(;W[lo]
+C[jcmraz: I'm gunna run out of time xD fairly certain I'm going to lose this game anyways xD
+]
+(;B[jn]
+C[jcmraz: I did a piss poor job playing under the handicap and there was no way I was gunna have enough time to finish at this point xD 
+jcmraz: I'm sorry about that. I had fun playing you up to this point
+]
+))))))))))))))))))"

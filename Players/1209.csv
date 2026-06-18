@@ -1,0 +1,2332 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+2288377,1209,15729,Bloosqr,GNU Go Level 1,us,un,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",23.067837834644436,24.303382182144386,False,False,provisional,bot provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2015-06-25]
+PC[OGS: https://online-go.com/game/2288377]
+GN[Friendly Match]
+PB[Bloosqr]
+PW[GNU Go Level 1]
+BR[7k]
+WR[?]
+TM[600]OT[5x30 byo-yomi]
+RE[B+70.5]
+SZ[13]
+KM[5.5]
+RU[Japanese]
+HA[9]
+AB[gd][gj][dg][jg][gg][dd][jj][jd][dj]
+;W[ck]
+(;B[cj]
+(;W[dk]
+(;B[ek]
+(;W[el]
+(;B[fk]
+(;W[fl]
+(;B[gl]
+(;W[bj]
+(;B[bi]
+(;W[bk]
+(;B[kk]
+(;W[kc]
+(;B[kd]
+(;W[jc]
+(;B[ic]
+(;W[ib]
+(;B[hc]
+(;W[hb]
+(;B[gb]
+(;W[ld]
+(;B[le]
+(;W[lc]
+(;B[cc]
+(;W[me]
+(;B[lf]
+(;W[ai]
+(;B[ah]
+(;W[mf]
+(;B[mg]
+(;W[md]
+(;B[lh]
+(;W[aj]
+(;B[bg]
+(;W[ci]
+(;B[bh]
+(;W[dl]
+(;B[di]
+(;W[gm]
+(;B[hl]
+(;W[hm]
+(;B[im]
+(;W[fm]
+(;B[jl]
+(;W[jb]
+(;B[ee]
+(;W[ga]
+(;B[fa]
+(;W[ha]
+(;B[eb]
+(;W[]
+(;B[]
+))))))))))))))))))))))))))))))))))))))))))))))))))))"
+434399,1209,266,Bloosqr,Tequila Bob,us,us,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1477.4868616356396, 'deviation': 65.6754018781808, 'volatility': 0.06001781902274298}}",23.067837834644436,23.95329560932078,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-21]
+PC[OGS: https://online-go.com/game/434399]
+GN[Correspondance game 4]
+PB[Bloosqr]
+PW[Tequila Bob]
+BR[29k]
+WR[25k]
+TM[604800]OT[172800 fischer]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[dd][pp][pd][dp]
+;W[jc]
+(;B[hc]
+(;W[qj]
+(;B[ql]
+C[Bloosqr: Hi thanks for the game!
+]
+(;W[cj]
+(;B[ch]
+(;W[jq]
+(;B[hq]
+(;W[nj]
+(;B[jj]
+(;W[mf]
+(;B[cl]
+(;W[mn]
+C[Bloosqr: This is a unique game :)
+]
+(;B[jp]
+(;W[kq]
+(;B[iq]
+(;W[kp]
+(;B[jo]
+(;W[ko]
+(;B[mq]
+(;W[jn]
+(;B[ho]
+C[Bloosqr: woops
+]
+(;W[hn]
+(;B[go]
+(;W[gn]
+(;B[fn]
+(;W[fm]
+(;B[dn]
+(;W[ek]
+(;B[gj]
+(;W[ei]
+(;B[eh]
+(;W[fh]
+(;B[fg]
+(;W[eg]
+(;B[dh]
+(;W[gg]
+(;B[ff]
+(;W[gi]
+(;B[gm]
+(;W[hm]
+(;B[gl]
+(;W[fl]
+(;B[hl]
+(;W[im]
+(;B[il]
+(;W[jl]
+(;B[jk]
+(;W[kl]
+(;B[nl]
+(;W[ml]
+(;B[fk]
+(;W[fj]
+(;B[gk]
+(;W[ki]
+(;B[pj]
+(;W[ji]
+(;B[el]
+(;W[em]
+(;B[dl]
+(;W[ik]
+(;B[hj]
+(;W[hi]
+(;B[en]
+(;W[ij]
+(;B[dm]
+(;W[cq]
+(;B[dq]
+(;W[cp]
+(;B[co]
+(;W[bo]
+(;B[bn]
+(;W[ap]
+(;B[an]
+(;W[dr]
+(;B[er]
+(;W[cs]
+(;B[ao]
+(;W[bp]
+(;B[br]
+C[Bloosqr: i am not sure if this works..
+]
+(;W[ar]
+(;B[cr]
+(;W[qq]
+(;B[pq]
+(;W[qp]
+C[Tequila Bob: No, that works just fine.
+]
+(;B[qo]
+(;W[ro]
+(;B[qn]
+(;W[rn]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+431925,1209,51468,Bloosqr,blujay13,us,un,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1573.8610952575136, 'deviation': 101.5259160041212, 'volatility': 0.06000306330735163}}",23.067837834644436,25.41612833531971,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-16]
+PC[OGS: https://online-go.com/game/431925]
+GN[First nova / ogs game.. ]
+PB[Bloosqr]
+PW[blujay13]
+BR[30k]
+WR[29k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+;B[dp]
+C[blujay13: hii
+Bloosqr: hey thanks for the game!
+]
+;W[pd]
+C[blujay13: yea, you too! :)
+]
+(;B[nc]
+(;W[ph]
+(;B[pc]
+(;W[qc]
+(;B[pb]
+(;W[qb]
+(;B[od]
+(;W[pe]
+(;B[pp]
+(;W[jd]
+(;B[dd]
+(;W[dj]
+(;B[kc]
+(;W[jc]
+(;B[gc]
+(;W[fe]
+(;B[kd]
+(;W[ke]
+(;B[le]
+(;W[ld]
+(;B[lc]
+(;W[md]
+C[Bloosqr: this server is awesome btw... i wish there was a notifier for iPads .. but the interface looks great!!
+]
+(;B[me]
+C[blujay13: it is isn't it? :\]
+]
+(;W[kf]
+(;B[lf]
+C[Bloosqr: you are pretty good btw.. i don't think i am 30k probably but you are definitely not 29k either :)
+blujay13: lulz, im way too tired right now
+blujay13: im making pretty bad mistakes
+]
+(;W[lg]
+(;B[mg]
+(;W[ne]
+C[Bloosqr: i always lose by giving people these walls on accident.. those two points aren't really worth much in the grand scheme of things...
+blujay13: no, i shoulda grabbed a corner earlier
+Bloosqr: and of course i just gave you your two points back :)
+blujay13: but i continued to play local lol
+]
+(;B[mf]
+(;W[nd]
+(;B[oe]
+(;W[of]
+(;B[oc]
+(;W[nf]
+(;B[mc]
+(;W[lh]
+(;B[mh]
+(;W[mi]
+(;B[kg]
+(;W[nh]
+C[Bloosqr: i need to sleep :)
+]
+(;B[kh]
+C[blujay13: lol same here
+]
+(;W[li]
+(;B[ki]
+(;W[kj]
+(;B[ii]
+(;W[jj]
+(;B[ij]
+(;W[ik]
+(;B[jp]
+C[Bloosqr: take it all i'm taking a new territory :)
+]
+(;W[go]
+(;B[gp]
+(;W[hp]
+(;B[gq]
+(;W[mp]
+(;B[nq]
+(;W[mq]
+(;B[pl]
+(;W[pn]
+(;B[qo]
+(;W[qn]
+(;B[ro]
+(;W[rn]
+(;B[rl]
+(;W[qk]
+(;B[ql]
+(;W[oo]
+(;B[op]
+(;W[no]
+(;B[nm]
+(;W[jo]
+(;B[hq]
+(;W[ip]
+(;B[iq]
+(;W[jq]
+(;B[kp]
+C[blujay13: crap...
+blujay13: i shoulda placed it on the other side
+]
+(;W[ko]
+(;B[kq]
+C[Bloosqr: ya it hunk so..
+]
+(;W[lo]
+(;B[pk]
+(;W[qj]
+(;B[pj]
+(;W[qi]
+(;B[lm]
+C[Bloosqr: that was supposed to be i think so...
+]
+(;W[nk]
+(;B[im]
+(;W[hm]
+(;B[on]
+(;W[po]
+(;B[mn]
+(;W[ll]
+(;B[mo]
+(;W[np]
+(;B[oq]
+(;W[lp]
+C[Bloosqr: damn it.. i thought i could cut you... oh well
+blujay13: nopee :D
+]
+(;B[in]
+(;W[io]
+(;B[hn]
+(;W[gn]
+(;B[ho]
+(;W[hl]
+(;B[jn]
+(;W[km]
+(;B[kn]
+(;W[ln]
+(;B[mm]
+(;W[il]
+(;B[fo]
+(;W[fn]
+C[Bloosqr: okay my mad plan was just mad :)
+]
+(;B[eo]
+C[blujay13: xD
+]
+(;W[en]
+(;B[dn]
+(;W[dm]
+(;B[fi]
+(;W[eh]
+C[Bloosqr: i am super sloppy about cutting points... apparantly
+blujay13: maybe you're just too tired right now
+]
+(;B[dg]
+(;W[eg]
+(;B[dh]
+(;W[ei]
+(;B[ci]
+(;W[cj]
+C[Bloosqr: i think also its a bit of playing too much against a computer instead of a human...
+]
+(;B[cm]
+(;W[cn]
+(;B[do]
+(;W[bn]
+C[blujay13: that would be bad too
+]
+(;B[em]
+(;W[fm]
+C[Bloosqr: hah!!! i think i did something smart for a sec :)
+]
+(;B[dl]
+C[blujay13: lulz
+]
+(;W[el]
+(;B[fl]
+(;W[dm]
+(;B[cl]
+(;W[em]
+(;B[ek]
+C[blujay13: yay, i livee :D
+]
+(;W[dk]
+C[Bloosqr: easy come easy go :)
+]
+(;B[gm]
+C[blujay13: jk
+blujay13: i was dumb
+blujay13: -_-
+Bloosqr: we are both super tired... 
+Bloosqr: that at least made the game a bit more competitive rather than you slaughtering me on my first game on ogs :)
+]
+(;W[fj]
+C[blujay13: lol, true
+blujay13: but its not your first time playing go, so...
+Bloosqr: whoa.. actually i have to think about this.. i think that really a bad move on your part..the whole bottom right looks a bit iffy now...
+blujay13: naw, that's still good
+Bloosqr: is it?
+blujay13: i'd rather secure that top left
+Bloosqr: nooo...... its mine!!!
+]
+(;B[qp]
+(;W[om]
+C[Bloosqr: oh i see you are right...
+blujay13: xD
+]
+(;B[pm]
+(;W[nn]
+(;B[ol]
+C[Bloosqr: its still not super obvious to me...
+Bloosqr: actually...
+Bloosqr: i really like this ogs interface and the fact that you can chat actually... it makes the game much more interesting... i have been playing turn by turn on dgs a bit.. its fun but super clunky
+]
+(;W[rk]
+C[blujay13: what's dgs?
+]
+(;B[sl]
+(;W[sm]
+(;B[on]
+C[Bloosqr: dragon go server
+]
+(;W[nl]
+(;B[om]
+(;W[oj]
+(;B[mr]
+(;W[ok]
+C[blujay13: i can kill ur stones before u can kill mine
+blujay13: :D
+]
+(;B[jr]
+C[Bloosqr: can you?
+]
+(;W[ml]
+C[Bloosqr: lets play it out.. 
+blujay13: can i?
+Bloosqr: i don't know honestly.. i feel like i am 3 or so away.. but you fill in your liberties to grab me.. maybe its semi?
+Bloosqr: seki?
+blujay13: maybe...
+blujay13: hopefully
+Bloosqr: haha
+Bloosqr: :)
+Bloosqr: i'm good with seki too to be honest ...
+Bloosqr: you were massacring me earlier..
+blujay13: lol
+blujay13: now this looks pretty bad for me
+Bloosqr: its weird how one random bad move changed the whole board..
+blujay13: lol
+blujay13: -_-
+Bloosqr: this game has no leeway ...
+blujay13: i shoulda gone to sleep a long time ago
+Bloosqr: i think its seki actually
+blujay13: yea
+blujay13: no matter how i play it out, it becomes seki
+Bloosqr: this is my first seki in my life to be honest!!
+blujay13: it's my first seki with something this big xD
+Bloosqr: I was thinking M1 for you for a bit.. but I can block back..
+Bloosqr: i mean M2
+blujay13: you still gonna play it out?
+Bloosqr: oh its my turn..
+Bloosqr: has it been my turn the whole time?
+blujay13: xD
+blujay13: yea
+Bloosqr: haha
+]
+(;B[lq]
+C[Bloosqr: apologies
+]
+(;W[sk]
+C[blujay13: it's cool :\]
+]
+(;B[so]
+C[Bloosqr: i was panicking there for a sec...
+Bloosqr: wait did i mess up?
+blujay13: no, i think i messed up -_-
+Bloosqr: do you want to crash and we stare at this tomorrow?
+Bloosqr: i think i messed up to be honest..
+blujay13: that would be nice...
+blujay13: naw, i'm pretty sure that bottom right group is dead
+blujay13: >.<
+Bloosqr: okay thanks again for the game :) lets stare at it tomorrow..
+Bloosqr: btw how long have you been playing?
+Bloosqr: i have been reading those cartoony baduk books and playing some iPad game..
+blujay13: i got onto this server a year ago, but i played a little with my grandparents when i was a kid
+Bloosqr: ahh cool..
+blujay13: i meant, i got on this server this last summer
+blujay13: lol
+Bloosqr: i played a bit in school like a million years ago and a few months ago i thought i'd reteach myself how to play it properly...
+Bloosqr: instead of just putting pieces down.. which was the school strategy..
+Bloosqr: oh i see why you think its dead
+blujay13: dangit
+blujay13: -_-
+blujay13: it is dead
+Bloosqr: where was the mess up?
+blujay13: i have no clue
+blujay13: im just gonna crash
+blujay13: im sad :[
+Bloosqr: awww
+Bloosqr: its my first game it wouldn't have been sporting if you kicked my butt :)
+Bloosqr: also that thing was complicated...
+blujay13: but now i'm getting my butt kicked
+blujay13: :[
+Bloosqr: yea but not really due to skill on my part
+Bloosqr: that was just luck
+Bloosqr: it was that move on the left you gave me on accident that allowed this.. w/out that you would have the whole board...
+Bloosqr: okay i'm crashing... ttyl
+blujay13: well, w/e
+blujay13: yea
+blujay13: good night
+blujay13: :\]
+Bloosqr: :)
+]
+(;W[df]
+(;B[cf]
+(;W[bi]
+(;B[bh]
+(;W[ah]
+(;B[bg]
+(;W[aj]
+(;B[he]
+C[Bloosqr: hey apologies about the delay was flying back home yesterday..
+]
+(;W[hd]
+(;B[gd]
+(;W[ge]
+(;B[je]
+(;W[jf]
+(;B[id]
+(;W[ie]
+(;B[hf]
+(;W[hc]
+(;B[hb]
+(;W[ic]
+(;B[if]
+(;W[jg]
+(;B[ih]
+(;W[qa]
+(;B[pa]
+(;W[kb]
+(;B[lb]
+(;W[la]
+C[Bloosqr: how are you moving so fast?
+Bloosqr: can you pre store moves?
+]
+(;B[jb]
+C[blujay13: u can
+blujay13: lol
+]
+(;W[ib]
+C[Bloosqr: i hope you don't have all this mapped out :)
+blujay13: i had something else mapped out, and you didn't follow the map :[
+Bloosqr: whew
+blujay13: that's when i make a new map ^^
+Bloosqr: i play on instinct under the premise it should learn to map in my head.. this actually works pretty terribly :)
+blujay13: playing with your instinct? xD
+Bloosqr: ya w/out really planning the moves out.. if i read 2 moves ahead i'm good :)
+Bloosqr: i think i accidentally gave you an eye ...
+blujay13: did you?
+Bloosqr: i am not sure
+blujay13: let's play it out
+Bloosqr: i have to think for a bit tho :)
+blujay13: haha kk
+Bloosqr: this may be a bad idea .. but...
+]
+(;B[gb]
+C[blujay13: wow o-O
+Bloosqr: btw that analysis thing is cool! 
+blujay13: yea...
+blujay13: i swore you woulda gone L19
+Bloosqr: i was debating originally L19 and something else that ended up being really bad... oh J19
+blujay13: lol, J19 xD
+blujay13: you shoulda gone there :\]
+Bloosqr: G18 sort of appeals to me because it keeps you in your box :)
+blujay13: does it?
+Bloosqr: probably not
+Bloosqr: i can dream
+blujay13: u do kno you sacrificed your top right corner right?
+Bloosqr: did i?
+Bloosqr: i don't think so
+Bloosqr: :)
+]
+(;W[ja]
+C[blujay13: let's see
+Bloosqr: oh shit
+Bloosqr: ya
+Bloosqr: haha
+blujay13: xD
+Bloosqr: this thing censtors
+Bloosqr: censors
+Bloosqr: shit shit shit
+blujay13: xD
+Bloosqr: i was dumb
+blujay13: revenge for the bottom right corner
+blujay13: >:D
+Bloosqr: :)
+Bloosqr: i should use the analyze tool more often :)
+Bloosqr: in my head i got the idea you would go L19
+blujay13: haha
+blujay13: nope, K19 :\]
+Bloosqr: ya..
+Bloosqr: that sucks
+Bloosqr: because now the whole middle bit will die
+blujay13: the whole middle bit was dead anyway
+]
+(;B[ej]
+C[Bloosqr: noooo
+blujay13: the M15 group is dead
+Bloosqr: oh i meant like around J12
+Bloosqr: i was going to steal all your territory
+blujay13: hmm... i don't see how you can do that
+Bloosqr: i dont either
+Bloosqr: :)
+Bloosqr: i was planning on wiping out your K17 territory ...
+blujay13: you could've
+Bloosqr: :(
+blujay13: but you tried trapping me inside my box lol
+Bloosqr: haha
+Bloosqr: so much for intuition
+]
+(;W[di]
+(;B[gj]
+C[Bloosqr: i think you just gave me back my territory!!
+blujay13: i didn''t see that -_-
+blujay13: i'm dumb -_-
+Bloosqr: no wonder we are all 30K :)
+Bloosqr:  btw what rank do you think you are really? i think we are about the same..
+blujay13: no idea
+blujay13: i just play the game, i don't know much about rankings
+Bloosqr: we both play kind of well but then randomly make terrible mistakes...
+blujay13: xD
+blujay13: maybe if we stop making mistakes, we can become 1d
+Bloosqr: ya i feel bad sometimes though because it can mess other peoples scores up since neither of us are really 30K.. i don't really care what my rank is..
+Bloosqr: btw any idea who is winning?
+blujay13: my intuition says you
+Bloosqr: i think so because your last move :)
+blujay13: since i just lost that group right there -_-
+Bloosqr: haha
+blujay13: maybe if i steal the top left corner too...
+Bloosqr: that was pretty funny :)
+Bloosqr: noooo
+Bloosqr: don't try
+blujay13: lol, im already pretty far ahead in planning the invasion out :\]
+Bloosqr: i'll probably make some weird move that is not on your list and throw you off 
+blujay13: haha, let's see
+Bloosqr: btw i'm about to hit my train stop in 10 minutes so i'll probably disappear in a bit...
+blujay13: kk
+]
+(;W[de]
+(;B[ce]
+(;W[ed]
+C[blujay13: err... maybe my map has loopholes -_-
+Bloosqr: whew
+]
+(;B[dc]
+(;W[ag]
+C[blujay13: k w/e
+blujay13: let's see how it goes
+]
+(;B[af]
+(;W[ai]
+(;B[ak]
+C[Bloosqr: am i off your map??
+]
+(;W[ch]
+C[blujay13: no
+blujay13: that move was a freebie for you, and you didn't do anything too bad
+blujay13: :\]
+]
+(;B[cg]
+C[Bloosqr: yikes
+]
+(;W[ae]
+C[Bloosqr: i see your scheming ways
+blujay13: hehe ^^
+]
+(;B[cd]
+(;W[bf]
+(;B[be]
+(;W[af]
+(;B[ad]
+C[Bloosqr: am i off your plan yet?
+blujay13: are you? ^^
+Bloosqr: yes!!!
+Bloosqr: :)
+Bloosqr: i see you analyzing ....
+blujay13: haha xD
+blujay13: yea, the plan got thrown off, but i still got a nice chunk
+Bloosqr: you did :(
+Bloosqr: wait did you?
+blujay13: iidk
+blujay13: lol
+Bloosqr: haha
+Bloosqr: still analyzing ... 
+blujay13: bleh
+blujay13: -_-
+blujay13: im pretty sure i lost the game
+]
+(;W[bk]
+C[Bloosqr: well honestly you had 2 opportunities at least to kick my butt :)
+blujay13: lol...
+blujay13: well, i went from slaughtering you to tying with you and now losing :[
+Bloosqr: oooh
+blujay13: :[
+Bloosqr: wait..
+Bloosqr: i wasn't expecting your B9
+blujay13: lulz
+]
+(;B[bl]
+C[Bloosqr: did i just give you two eyes again?
+blujay13: oh...
+blujay13: i just noticed my situation...
+blujay13: -_-
+Bloosqr: what?
+blujay13: the whole left side might die
+Bloosqr: you me trying to eat you?
+Bloosqr: that was kind of my goal :)
+Bloosqr: i am not sure if that will happen actually
+Bloosqr: its a huge capturing race
+]
+(;W[ec]
+(;B[eb]
+(;W[fc]
+(;B[fb]
+C[Bloosqr: i am a bit surprised you did that
+]
+(;W[ha]
+C[Bloosqr: oh never mind that makes sense
+]
+(;B[ga]
+C[Bloosqr: hmmmm
+]
+(;W[db]
+(;B[cb]
+(;W[bc]
+(;B[bd]
+C[Bloosqr: oh i am dumb!!!!
+blujay13: why you say that?
+Bloosqr: i think you eat C16
+Bloosqr: all my blacks
+blujay13: naw, i think you're safe
+Bloosqr: maybe not?
+Bloosqr: oh i am safe.. you are right...
+Bloosqr: whew
+blujay13: as long as you don't make a mistake
+Bloosqr: well i am not prone to that!
+Bloosqr: okay got to run.. will be back in a bit
+blujay13: naww i think i lost
+Bloosqr: that said it think your whites live
+Bloosqr: that said it think your whites live
+Bloosqr: hmmm my chat thing went in random order
+Bloosqr: i think your whites all live to be honest...
+Bloosqr: C10 whites
+blujay13: yea, but you got more territory
+Bloosqr: true
+Bloosqr: maybe
+]
+(;W[gg]
+C[Bloosqr: noooo
+]
+(;B[gh]
+(;W[fh]
+(;B[gi]
+(;W[gf]
+C[blujay13: k, now theyre alive for sure
+]
+(;B[hg]
+C[Bloosqr: ya
+Bloosqr: you got your goal in the end
+Bloosqr: of stealing my corner
+blujay13: not the whole corner tho
+blujay13: :[
+Bloosqr: :)
+]
+(;W[jl]
+C[Bloosqr: lets play again some point! this was kind of fun!
+blujay13: haha sure
+]
+(;B[hk]
+(;W[al]
+(;B[am]
+(;W[an]
+(;B[bm]
+(;W[bo]
+C[Bloosqr: what evil is this?
+blujay13: desperation xD
+Bloosqr: haha okay got to run ... will be back in a few hours
+blujay13: k
+Bloosqr: i will analyze this :)
+blujay13: cyaa :\]
+]
+(;B[bp]
+(;W[pi]
+(;B[sn]
+(;W[gk]
+(;B[fk]
+(;W[ig]
+(;B[hh]
+C[Bloosqr: are you up to something? i hope not
+]
+(;W[jh]
+C[Bloosqr: evil!!
+]
+(;B[hj]
+C[blujay13: xD
+]
+(;W[ji]
+(;B[gl]
+(;W[jm]
+(;B[ak]
+(;W[ck]
+(;B[ma]
+(;W[nb]
+(;B[ci]
+(;W[bj]
+C[Bloosqr: i feel like i am doing something co like but probably not :)
+Bloosqr: co = ko
+blujay13: xD
+blujay13: i think we're done tho
+]
+(;B[ef]
+C[Bloosqr: how about that magic move?
+]
+(;W[ff]
+C[blujay13: crap
+blujay13: -_-
+]
+(;B[fg]
+C[Bloosqr: hahaha
+blujay13: :'(
+Bloosqr: i even warned you!
+blujay13: i demand a rematch later
+blujay13: -_-
+Bloosqr: definitely!
+blujay13: thanks for the game
+blujay13: :\]
+Bloosqr: honestly we are about the same level...
+Bloosqr: and both hit submit way too fast :)
+blujay13: lolol
+blujay13: that last part is too true xD
+Bloosqr: how do I score?
+blujay13: i resigned
+Bloosqr: oh okay...
+blujay13: that stole way too much from me
+blujay13: >_<
+Bloosqr: throw on a new game that was actually pretty fun...
+blujay13: challenged
+blujay13: xP
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+433270,54770,1209,Yellowli,Bloosqr,us,us,"{'version': 5, 'overall': {'rating': 1525.8392491024035, 'deviation': 333.38157053597695, 'volatility': 0.05999970737787094}}","{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}",24.698772094532828,23.067837834644436,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-19]
+PC[OGS: https://online-go.com/game/433270]
+GN[Boo!]
+PB[Yellowli]
+PW[Bloosqr]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[13]
+KM[0.5]
+RU[Japanese]
+HA[9]
+AB[gd][gj][dg][jg][gg][dd][jj][jd][dj]
+;W[ck]
+(;B[ci]
+(;W[cg]
+(;B[ch]
+(;W[cf]
+(;B[df]
+(;W[cj]
+C[Bloosqr: Smoooch
+]
+(;B[ce]
+C[Bloosqr: i am going to distract you
+Yellowli: That doesn't distract me. :)
+]
+(;W[ek]
+(;B[ej]
+(;W[dk]
+C[Yellowli: That was hot btw...
+Yellowli: i actually finished before you. :)
+]
+(;B[fk]
+(;W[fh]
+(;B[gh]
+(;W[fi]
+(;B[fj]
+(;W[dh]
+(;B[bf]
+(;W[eg]
+(;B[bg]
+(;W[ef]
+(;B[ee]
+(;W[gf]
+(;B[fe]
+(;W[ff]
+(;B[di]
+(;W[hf]
+(;B[eh]
+(;W[fg]
+(;B[gi]
+(;W[hd]
+(;B[hg]
+(;W[jf]
+(;B[ig]
+(;W[if]
+(;B[kf]
+(;W[ke]
+(;B[kg]
+(;W[jk]
+(;B[je]
+(;W[kd]
+(;B[he]
+(;W[ge]
+(;B[ie]
+(;W[jc]
+(;B[ei]
+))))))))))))))))))))))))))))))))))))))))))))))"
+433708,1209,54769,Bloosqr,TheGrumpyDonut,us,us,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1497.3155528621403, 'deviation': 65.30659627407279, 'volatility': 0.059987121587120926}}",23.067837834644436,24.26191509817438,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-20]
+PC[OGS: https://online-go.com/game/433708]
+GN[Game two on OGS!]
+PB[Bloosqr]
+PW[Legolas]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"
+433726,1209,54377,Bloosqr,light117,us,un,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1489.3949372515535, 'deviation': 74.86837699987998, 'volatility': 0.059988120416011224}}",23.067837834644436,24.13912939005357,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-20]
+PC[OGS: https://online-go.com/game/433726]
+GN[]
+PB[Bloosqr]
+PW[light117]
+BR[30k]
+WR[28k]
+TM[259200]OT[86400 fischer]
+RE[Void]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[pd][dp]
+C[light117: lets play
+Bloosqr: sounds good thanks for the game!
+]
+;W[pp]
+C[Bloosqr: sounds good thanks for the game!
+]
+(;B[nq]
+C[light117: let have fun
+]
+(;W[or]
+C[light117: hello hello you may go
+light117: XP
+light117: :)
+]
+(;B[kq]
+(;W[cp]
+C[Bloosqr: hey btw my train stop is in 10 minutes so i may disappear for a bit... 
+]
+(;B[co]
+C[light117: just pause and we will play tomorrow
+]
+(;W[cn]
+C[light117: sound good
+]
+(;B[do]
+(;W[dq]
+(;B[cq]
+(;W[bp]
+(;B[eq]
+C[Bloosqr: hey what happened?
+Bloosqr: I am new to OGS.. so i am not sure what happened with the annul?
+]
+))))))))))))"
+434338,51468,1209,blujay13,Bloosqr,un,us,"{'version': 5, 'overall': {'rating': 1573.8610952575136, 'deviation': 101.5259160041212, 'volatility': 0.06000306330735163}}","{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}",25.41612833531971,23.067837834644436,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-20]
+PC[OGS: https://online-go.com/game/434338]
+GN[]
+PB[blujay13]
+PW[Bloosqr]
+BR[30k]
+WR[29k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[blujay13: gl
+blujay13: :\]
+Bloosqr: that took forever to do the accept
+blujay13: haha
+Bloosqr: oh i am white now.. i am totally thrown off :)
+]
+;B[pd]
+C[blujay13: gl
+blujay13: :\]
+Bloosqr: that took forever to do the accept
+blujay13: haha
+Bloosqr: oh i am white now.. i am totally thrown off :)
+]
+(;W[dd]
+(;B[pp]
+C[blujay13: xD
+]
+(;W[dp]
+C[blujay13: yea, i'm used to being black too
+]
+(;B[jd]
+C[Bloosqr: i feel this is going to be a vengence match :)
+]
+(;W[nq]
+C[blujay13: it will -_-
+]
+(;B[jp]
+C[Bloosqr: haha
+Bloosqr: the trick with you is to get you to move fast without thinking :)
+]
+(;W[qq]
+(;B[np]
+(;W[pq]
+C[blujay13: is that really the case?
+]
+(;B[mq]
+C[Bloosqr: probably not
+Bloosqr: but honestly most of my win was coming from you doing a crazy bad move
+]
+(;W[op]
+(;B[oo]
+C[blujay13: yea -_-
+]
+(;W[oq]
+C[blujay13: not making a bad move like that again
+]
+(;B[mo]
+(;W[po]
+(;B[pn]
+(;W[qo]
+C[Bloosqr: :)
+]
+(;B[qn]
+(;W[on]
+(;B[no]
+(;W[om]
+(;B[oj]
+(;W[ql]
+(;B[qk]
+(;W[rl]
+(;B[dj]
+(;W[hq]
+(;B[ir]
+(;W[hr]
+(;B[iq]
+(;W[io]
+(;B[hp]
+(;W[ip]
+(;B[jq]
+C[Bloosqr: analyze game makes ladder breakers so much easier to see :)
+blujay13: xD
+blujay13: u shoulda just gone with the ladder :\]
+]
+(;W[fq]
+(;B[gp]
+(;W[gq]
+(;B[fc]
+(;W[ec]
+(;B[fd]
+(;W[cg]
+(;B[dg]
+(;W[df]
+(;B[dh]
+(;W[ch]
+(;B[ci]
+C[Bloosqr: hmm i think i just gave you the entire center of the board
+]
+(;W[jj]
+C[blujay13: jerk -_-
+Bloosqr: :)
+]
+(;B[nl]
+(;W[fl]
+(;B[em]
+(;W[el]
+(;B[dl]
+(;W[dm]
+(;B[dn]
+(;W[cm]
+(;B[eo]
+(;W[cn]
+(;B[cl]
+(;W[co]
+(;B[hm]
+(;W[fm]
+(;B[en]
+(;W[ho]
+(;B[ef]
+(;W[de]
+(;B[gn]
+(;W[go]
+(;B[fn]
+(;W[fp]
+(;B[jn]
+(;W[gj]
+(;B[fk]
+(;W[gl]
+(;B[gk]
+C[Bloosqr: i did a super ba d move there
+]
+(;W[hl]
+C[blujay13: xD
+blujay13: argh
+blujay13: -_-
+blujay13: i lost that whole corner
+]
+(;B[hk]
+C[Bloosqr: high five me!!
+]
+(;W[il]
+C[Bloosqr: i am not sure about that to be honest yet
+blujay13: ...
+blujay13: k, i thought ud move somewhere else
+]
+(;B[im]
+C[Bloosqr: oh i did a bad move again :(
+blujay13: yea... xD
+]
+(;W[kl]
+(;B[nm]
+(;W[jo]
+(;B[ko]
+(;W[jm]
+(;B[km]
+(;W[hn]
+(;B[jl]
+(;W[jk]
+(;B[jm]
+(;W[ik]
+(;B[ek]
+C[Bloosqr: what was that?
+]
+(;W[gm]
+C[blujay13: defense o-o
+Bloosqr: i think you just gave me life
+]
+(;B[kk]
+C[blujay13: u were alive to begin with
+Bloosqr: was I/
+Bloosqr: ?
+Bloosqr: haha
+blujay13: yea
+blujay13: xD
+Bloosqr: i mean the pieces around G8
+Bloosqr: you could have killed those
+Bloosqr: i had to cut you off by eating your pieces at D6
+blujay13: not really
+blujay13: you coulda just ko'd and close it
+Bloosqr: that was the game i was playing in my head :)
+]
+(;W[kj]
+(;B[lk]
+(;W[kg]
+(;B[ih]
+(;W[jh]
+(;B[hj]
+(;W[ii]
+(;B[hi]
+(;W[ig]
+(;B[hh]
+(;W[hg]
+(;B[gg]
+(;W[oh]
+(;B[mh]
+(;W[mg]
+(;B[li]
+(;W[nh]
+(;B[ki]
+(;W[ji]
+(;B[lj]
+(;W[lh]
+(;B[kh]
+(;W[mi]
+C[blujay13: ...
+blujay13: i needa take a break
+blujay13: -_-
+Bloosqr: okay np ..
+blujay13: sry
+blujay13: cya
+Bloosqr: ya no issues i am procrastinating
+]
+(;B[ph]
+(;W[pg]
+(;B[hf]
+(;W[md]
+(;B[me]
+(;W[ne]
+(;B[le]
+(;W[ke]
+(;B[ld]
+(;W[mc]
+(;B[lc]
+(;W[mb]
+(;B[lf]
+(;W[lg]
+(;B[kf]
+(;W[if]
+(;B[ob]
+(;W[he]
+(;B[gf]
+(;W[hd]
+(;B[ie]
+(;W[id]
+(;B[je]
+(;W[jg]
+(;B[qg]
+(;W[qh]
+(;B[rg]
+(;W[pi]
+(;B[qf]
+(;W[pf]
+(;B[qe]
+(;W[pe]
+(;B[ri]
+(;W[rh]
+(;B[sh]
+(;W[rj]
+(;B[qi]
+(;W[ph]
+(;B[pm]
+(;W[ol]
+(;B[pl]
+(;W[ok]
+(;B[pk]
+(;W[nk]
+(;B[nj]
+(;W[mk]
+(;B[mj]
+(;W[mm]
+C[blujay13: what was the point of that? o-o
+]
+(;B[ml]
+C[Bloosqr: nothing smart obviously :(
+]
+(;W[qj]
+(;B[ro]
+(;W[qp]
+(;B[sq]
+(;W[rp]
+(;B[sp]
+C[Bloosqr: i thought i was doing pretty good what happened?
+]
+(;W[rr]
+C[blujay13: i have no idea
+blujay13: but i like where the game is going now ^^
+]
+(;B[rm]
+C[Bloosqr: :)
+]
+(;W[pj]
+(;B[os]
+(;W[nr]
+(;B[ns]
+C[Bloosqr: woops!!!
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+434392,54699,1209,mikefitz,Bloosqr,ie,us,"{'version': 5, 'overall': {'rating': 1505.0157416771988, 'deviation': 92.77291372409015, 'volatility': 0.06002617516702822}}","{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}",24.38066266094351,23.067837834644436,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-21]
+PC[OGS: https://online-go.com/game/434392]
+GN[Correspondence game!]
+PB[mikefitz]
+PW[Bloosqr]
+BR[30k]
+WR[29k]
+TM[604800]OT[86400 fischer]
+RE[B+R]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+;B[dp]
+;W[pp]
+(;B[dd]
+(;W[pd]
+(;B[nq]
+(;W[oq]
+C[Bloosqr: hi thanks for the game
+mikefitz: Hey
+]
+(;B[kp]
+(;W[fc]
+(;B[ec]
+(;W[fd]
+(;B[ee]
+(;W[cc]
+(;B[dc]
+(;W[cd]
+(;B[ce]
+(;W[fe]
+(;B[dj]
+C[mikefitz: Wish we were playing live. Rather than having to submit.
+]
+(;W[ef]
+(;B[df]
+C[Bloosqr: ahh sorry its easier doing the correspondence for me as it allows me to randomly take a break (well when the girlfriend gets home :))
+]
+(;W[ed]
+(;B[de]
+(;W[eg]
+C[mikefitz: Ah yeah, no probs.
+]
+(;B[dg]
+(;W[kg]
+C[Bloosqr: slightly non-normal move :)
+]
+(;B[qe]
+(;W[qd]
+(;B[pe]
+(;W[oe]
+(;B[pg]
+(;W[og]
+(;B[of]
+(;W[nf]
+(;B[pf]
+(;W[nd]
+C[mikefitz: Hey man I've just got involved in a live one so I'm sad to say I'm gonna engage in that for a while.
+mikefitz: We'll get back to this soon though yeah?
+Bloosqr: hey no issues.. its a correspondence game :)
+mikefitz: Cool
+]
+(;B[oh]
+(;W[ng]
+(;B[nh]
+(;W[mh]
+C[Bloosqr: hey gotta go eat be back in a bit
+]
+(;B[nj]
+(;W[mj]
+(;B[mi]
+(;W[li]
+(;B[ni]
+(;W[pk]
+(;B[ok]
+(;W[ol]
+(;B[pj]
+(;W[qk]
+(;B[nl]
+(;W[mk]
+(;B[mg]
+(;W[lh]
+(;B[mf]
+(;W[ne]
+(;B[me]
+(;W[md]
+(;B[kf]
+(;W[jg]
+(;B[jf]
+(;W[if]
+(;B[jd]
+(;W[le]
+(;B[lf]
+(;W[ke]
+(;B[je]
+(;W[kc]
+(;B[jc]
+(;W[kb]
+(;B[jb]
+(;W[hc]
+(;B[hb]
+(;W[gb]
+(;B[ic]
+(;W[hd]
+(;B[fb]
+(;W[eb]
+(;B[db]
+(;W[fa]
+(;B[da]
+(;W[ea]
+C[mikefitz: hey can I take that move back
+mikefitz: using touch mouse'
+mikefitz: Oh no it's fine
+Bloosqr: are you sure?
+mikefitz: hadn't submitted yet
+Bloosqr: haha
+mikefitz: it's cool
+Bloosqr: this is the advantage of correspondence :)
+]
+(;B[om]
+C[mikefitz: One of many
+]
+(;W[pl]
+(;B[nm]
+(;W[nk]
+(;B[oj]
+(;W[qi]
+(;B[qh]
+(;W[pi]
+(;B[ph]
+(;W[rh]
+(;B[rg]
+(;W[ri]
+(;B[qj]
+(;W[rj]
+(;B[rd]
+(;W[rc]
+(;B[re]
+(;W[sg]
+(;B[sf]
+(;W[sd]
+(;B[qf]
+(;W[pm]
+(;B[on]
+(;W[pn]
+(;B[se]
+(;W[sc]
+(;B[qc]
+(;W[qb]
+(;B[pc]
+C[Bloosqr: oh i see :(
+]
+(;W[pb]
+(;B[od]
+(;W[rb]
+(;B[nc]
+(;W[mc]
+(;B[kd]
+(;W[nb]
+(;B[oc]
+(;W[ob]
+(;B[ld]
+(;W[lc]
+(;B[ka]
+(;W[la]
+(;B[ja]
+(;W[ha]
+(;B[mb]
+(;W[ej]
+(;B[ek]
+(;W[fk]
+(;B[el]
+(;W[fl]
+(;B[em]
+(;W[fm]
+(;B[fn]
+(;W[ml]
+(;B[mm]
+(;W[lm]
+(;B[ln]
+(;W[km]
+(;B[kn]
+(;W[np]
+(;B[mp]
+(;W[no]
+(;B[mn]
+(;W[mq]
+(;B[lq]
+(;W[mr]
+(;B[lr]
+(;W[lo]
+(;B[ko]
+(;W[mo]
+(;B[lp]
+(;W[gn]
+(;B[go]
+(;W[fo]
+(;B[en]
+(;W[gp]
+(;B[ho]
+(;W[ep]
+(;B[eq]
+(;W[cq]
+(;B[cp]
+(;W[dq]
+(;B[eo]
+(;W[fp]
+(;B[fq]
+(;W[gq]
+(;B[dr]
+(;W[cr]
+(;B[fr]
+(;W[gr]
+(;B[jm]
+(;W[jl]
+(;B[kl]
+(;W[ll]
+(;B[kk]
+(;W[jk]
+(;B[lj]
+(;W[kj]
+(;B[lk]
+(;W[ji]
+(;B[ei]
+C[Bloosqr: i am playing badly!!
+]
+(;W[fj]
+(;B[eh]
+(;W[fh]
+(;B[fi]
+(;W[gh]
+(;B[gi]
+(;W[hi]
+(;B[gj]
+(;W[hk]
+C[mikefitz: happens to the best of us
+]
+(;B[gk]
+(;W[hm]
+(;B[gl]
+(;W[gm]
+(;B[hl]
+(;W[im]
+(;B[ik]
+(;W[hj]
+(;B[il]
+(;W[jj]
+(;B[in]
+(;W[ip]
+(;B[hp]
+(;W[hq]
+(;B[iq]
+(;W[ir]
+(;B[jq]
+(;W[jr]
+(;B[kr]
+(;W[io]
+(;B[hn]
+(;W[bp]
+(;B[bo]
+(;W[co]
+(;B[do]
+(;W[bq]
+(;B[cn]
+(;W[nr]
+(;B[gs]
+(;W[hs]
+(;B[hr]
+C[Bloosqr: hmmm
+Bloosqr: i should resign this .. you kicked my butt
+mikefitz: Thanks for the game.
+Bloosqr: ya np... i was playing super badly there
+Bloosqr: i am not sure what was going on
+mikefitz: As I said... Happens to everybody. Game before that one. I was terrible.
+mikefitz: Cheers anyway.
+Bloosqr: ya thanks as well!
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+434393,53636,1209,Matriumcauthon,Bloosqr,un,us,"{'version': 5, 'overall': {'rating': 1423.9801127850183, 'deviation': 73.7579556252492, 'volatility': 0.0600180262805201}}","{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}",23.099367790995387,23.067837834644436,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-21]
+PC[OGS: https://online-go.com/game/434393]
+GN[Correspondence game 2!]
+PB[Matriumcauthon]
+PW[Bloosqr]
+BR[30k]
+WR[28k]
+TM[604800]OT[86400 fischer]
+RE[Void]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[pd][dp]
+C[Bloosqr: wait what happened?
+]
+)"
+434398,1209,1203,Bloosqr,2A5DAC,us,ch,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1824.6200017080585, 'deviation': 77.9902726615761, 'volatility': 0.06045006752524678}}",23.067837834644436,28.83862087508011,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-21]
+PC[OGS: https://online-go.com/game/434398]
+GN[Correspondance game 3]
+PB[Bloosqr]
+PW[newbold]
+BR[28k]
+WR[28k]
+TM[604800]OT[172800 fischer]
+RE[W+80.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[newbold: Hi, have fun!
+Bloosqr: hi you too!
+]
+;B[pp]
+(;W[dd]
+(;B[dp]
+(;W[pd]
+(;B[qf]
+(;W[nc]
+(;B[qd]
+(;W[qc]
+(;B[pe]
+(;W[rd]
+(;B[qe]
+(;W[od]
+(;B[ne]
+(;W[oe]
+(;B[of]
+(;W[jj]
+(;B[kj]
+(;W[li]
+(;B[ki]
+(;W[nf]
+(;B[mf]
+(;W[ng]
+(;B[og]
+(;W[oh]
+(;B[nh]
+(;W[mg]
+(;B[mh]
+(;W[lg]
+(;B[lh]
+(;W[me]
+(;B[lf]
+(;W[kg]
+(;B[le]
+(;W[md]
+(;B[ld]
+(;W[lc]
+(;B[jd]
+(;W[kd]
+(;B[ke]
+(;W[kc]
+(;B[je]
+(;W[jf]
+(;B[jc]
+(;W[jb]
+(;B[ib]
+(;W[kb]
+(;B[hc]
+(;W[if]
+(;B[ie]
+(;W[pg]
+(;B[pf]
+(;W[qg]
+(;B[ph]
+(;W[oi]
+(;B[qh]
+(;W[rg]
+(;B[re]
+(;W[se]
+(;B[hf]
+(;W[kh]
+(;B[jp]
+(;W[mi]
+(;B[ig]
+(;W[hg]
+(;B[gg]
+(;W[hh]
+(;B[gh]
+(;W[gf]
+(;B[he]
+(;W[ge]
+(;B[gd]
+(;W[fd]
+(;B[fe]
+(;W[ff]
+(;B[ee]
+(;W[ef]
+(;B[ed]
+(;W[fc]
+(;B[ec]
+(;W[gc]
+(;B[hd]
+(;W[eb]
+(;B[gb]
+(;W[fb]
+(;B[dc]
+(;W[db]
+(;B[ha]
+(;W[de]
+(;B[hi]
+(;W[ih]
+(;B[ii]
+(;W[jh]
+(;B[dj]
+(;W[cc]
+(;B[pj]
+(;W[pi]
+(;B[qi]
+(;W[qj]
+(;B[oj]
+(;W[ni]
+(;B[ql]
+(;W[qk]
+(;B[qn]
+(;W[ji]
+(;B[ij]
+(;W[jk]
+(;B[kk]
+(;W[jl]
+(;B[kl]
+(;W[km]
+(;B[lm]
+(;W[ll]
+(;B[lk]
+(;W[ml]
+(;B[mk]
+(;W[mm]
+(;B[nl]
+(;W[nk]
+(;B[mp]
+(;W[mo]
+(;B[no]
+(;W[nn]
+(;B[lo]
+(;W[cq]
+(;B[dq]
+(;W[dr]
+(;B[er]
+(;W[ds]
+(;B[es]
+(;W[br]
+(;B[cp]
+(;W[bp]
+(;B[bo]
+(;W[qq]
+(;B[pq]
+(;W[pr]
+(;B[or]
+(;W[ps]
+(;B[os]
+(;W[rr]
+(;B[qp]
+(;W[rp]
+(;B[ro]
+(;W[eq]
+(;B[fq]
+(;W[ep]
+(;B[eo]
+(;W[fp]
+(;B[gq]
+(;W[fr]
+(;B[gr]
+(;W[fs]
+(;B[gs]
+(;W[gp]
+(;B[co]
+(;W[hp]
+(;B[hq]
+(;W[iq]
+C[Bloosqr: Yikes
+]
+(;B[fo]
+(;W[go]
+(;B[ip]
+(;W[hr]
+(;B[jq]
+(;W[ir]
+(;B[jr]
+(;W[ei]
+(;B[ej]
+(;W[gi]
+(;B[gj]
+(;W[fi]
+(;B[fj]
+(;W[ik]
+(;B[hj]
+(;W[gl]
+(;B[fl]
+(;W[fk]
+(;B[ek]
+(;W[gk]
+(;B[dh]
+(;W[di]
+(;B[ci]
+(;W[ch]
+(;B[eh]
+(;W[dg]
+(;B[fh]
+(;W[fm]
+(;B[el]
+(;W[em]
+(;B[dm]
+(;W[en]
+(;B[dn]
+(;W[fn]
+(;B[do]
+(;W[ao]
+(;B[an]
+(;W[ap]
+(;B[bm]
+(;W[bi]
+(;B[bj]
+(;W[ai]
+(;B[aj]
+(;W[bg]
+(;B[nj]
+(;W[ok]
+(;B[ol]
+(;W[pk]
+(;B[pl]
+(;W[nm]
+(;B[mn]
+(;W[ln]
+(;B[on]
+(;W[mo]
+(;B[lp]
+(;W[np]
+(;B[oo]
+(;W[oq]
+(;B[nq]
+(;W[om]
+(;B[pm]
+(;W[rl]
+(;B[rm]
+(;W[sl]
+(;B[sm]
+(;W[rk]
+(;B[sp]
+(;W[rq]
+(;B[sq]
+(;W[sr]
+(;B[so]
+(;W[io]
+(;B[qs]
+(;W[jo]
+(;B[ko]
+(;W[kn]
+(;B[mn]
+(;W[lm]
+(;B[mo]
+(;W[fa]
+(;B[ga]
+(;W[ja]
+(;B[ia]
+(;W[jn]
+(;B[hk]
+(;W[hl]
+(;B[is]
+(;W[hs]
+(;B[js]
+(;W[nr]
+(;B[op]
+(;W[kf]
+(;B[eg]
+(;W[fg]
+(;B[rj]
+(;W[mj]
+(;B[]
+(;W[]
+C[newbold: Thanks for the game!
+Bloosqr: Thanks much !
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+434400,54377,1209,light117,Bloosqr,un,us,"{'version': 5, 'overall': {'rating': 1489.3949372515535, 'deviation': 74.86837699987998, 'volatility': 0.059988120416011224}}","{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}",24.13912939005357,23.067837834644436,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-21]
+PC[OGS: https://online-go.com/game/434400]
+GN[]
+PB[light117]
+PW[Bloosqr]
+BR[29k]
+WR[29k]
+TM[900]OT[5x15 byo-yomi]
+RE[W+33.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[light117: hi
+Bloosqr: hi
+]
+;B[dq]
+C[Bloosqr: hi
+]
+(;W[pp]
+(;B[cd]
+C[Bloosqr: oh this is a live game :)
+]
+(;W[pd]
+C[light117: yea so we can finish today
+]
+(;B[ec]
+C[Bloosqr: okay cool np
+]
+(;W[co]
+C[light117: yea hate long games
+]
+(;B[ep]
+(;W[eo]
+(;B[do]
+(;W[dn]
+C[Bloosqr: woops
+]
+(;B[dl]
+(;W[dp]
+(;B[cp]
+(;W[bo]
+(;B[bp]
+(;W[do]
+(;B[fq]
+(;W[fp]
+(;B[gp]
+(;W[eq]
+(;B[fo]
+(;W[cq]
+(;B[dr]
+(;W[bq]
+(;B[ep]
+(;W[ap]
+(;B[pj]
+(;W[qh]
+(;B[qi]
+(;W[ph]
+(;B[em]
+(;W[jh]
+(;B[nj]
+(;W[ql]
+(;B[pm]
+(;W[qm]
+(;B[pl]
+(;W[pn]
+(;B[nh]
+(;W[og]
+(;B[oe]
+(;W[od]
+(;B[ne]
+C[Bloosqr: actually this live thing is nice
+]
+(;W[nd]
+(;B[ng]
+(;W[pe]
+(;B[qc]
+(;W[qd]
+(;B[pb]
+(;W[oc]
+(;B[oa]
+(;W[nb]
+(;B[qa]
+(;W[of]
+(;B[nf]
+(;W[jp]
+C[light117: yea not long but you cant take too long
+]
+(;B[ob]
+(;W[na]
+(;B[rc]
+(;W[rd]
+(;B[sd]
+(;W[se]
+(;B[sc]
+(;W[rf]
+(;B[er]
+(;W[iq]
+(;B[nn]
+(;W[cr]
+(;B[cs]
+(;W[bs]
+(;B[ds]
+(;W[ar]
+(;B[np]
+(;W[nq]
+(;B[mq]
+(;W[mp]
+(;B[lp]
+(;W[mo]
+(;B[oq]
+(;W[nr]
+(;B[or]
+(;W[mr]
+(;B[lq]
+(;W[lr]
+(;B[kq]
+(;W[kr]
+(;B[ko]
+(;W[no]
+(;B[op]
+(;W[oo]
+(;B[pq]
+(;W[qq]
+(;B[rq]
+(;W[pr]
+(;B[qp]
+(;W[os]
+(;B[qo]
+(;W[qn]
+(;B[ro]
+(;W[rn]
+(;B[qr]
+(;W[pq]
+(;B[qs]
+C[Bloosqr: you are good at stealing my space with small eyes :)
+]
+(;W[ps]
+(;B[rr]
+(;W[so]
+(;B[sp]
+(;W[sn]
+(;B[sr]
+C[light117: yea but trick some times
+Bloosqr: you might have there actually
+]
+(;W[lo]
+(;B[kp]
+(;W[lm]
+(;B[kn]
+(;W[lk]
+(;B[jq]
+(;W[jr]
+(;B[jo]
+(;W[ip]
+(;B[ho]
+(;W[io]
+(;B[in]
+(;W[jm]
+(;B[jn]
+(;W[im]
+(;B[hn]
+(;W[hm]
+(;B[go]
+(;W[gm]
+(;B[fn]
+C[light117: opps
+]
+(;W[fm]
+(;B[en]
+(;W[fh]
+(;B[fk]
+(;W[gk]
+(;B[fl]
+(;W[gl]
+(;B[ln]
+(;W[mn]
+(;B[km]
+(;W[kl]
+(;B[mm]
+(;W[ll]
+(;B[nm]
+(;W[dj]
+(;B[ei]
+(;W[fj]
+(;B[ej]
+(;W[ek]
+(;B[dk]
+(;W[el]
+(;B[di]
+(;W[dm]
+C[light117: grrr
+]
+(;B[cj]
+C[Bloosqr: not too bad :)
+light117: thanks same too you
+]
+(;W[cl]
+(;B[ck]
+(;W[eh]
+(;B[bl]
+(;W[cm]
+(;B[dh]
+(;W[dg]
+(;B[cg]
+(;W[df]
+(;B[cf]
+(;W[de]
+(;B[dd]
+(;W[gc]
+(;B[fd]
+(;W[gd]
+(;B[gb]
+(;W[hb]
+(;B[fb]
+(;W[ic]
+(;B[ha]
+(;W[ia]
+(;B[kf]
+(;W[jf]
+(;B[jg]
+(;W[ig]
+(;B[kg]
+(;W[if]
+(;B[fi]
+(;W[gi]
+(;B[gf]
+(;W[fe]
+(;B[gh]
+(;W[gg]
+(;B[hh]
+(;W[hi]
+(;B[ih]
+(;W[ii]
+(;B[ff]
+C[Bloosqr: yikes that was scary
+light117: yea
+]
+(;W[ee]
+(;B[eg]
+(;W[hg]
+C[light117: dam!
+]
+(;B[ge]
+(;W[fg]
+(;B[he]
+(;W[ie]
+(;B[fc]
+(;W[li]
+(;B[mc]
+(;W[nc]
+(;B[md]
+(;W[ke]
+(;B[lf]
+(;W[kc]
+(;B[ed]
+(;W[ef]
+(;B[ce]
+(;W[eg]
+(;B[ld]
+(;W[kd]
+(;B[lb]
+(;W[kb]
+(;B[hq]
+(;W[hr]
+(;B[gr]
+(;W[gs]
+(;B[fs]
+(;W[hs]
+(;B[hp]
+(;W[ir]
+(;B[qk]
+(;W[rk]
+(;B[rj]
+(;W[rl]
+(;B[rh]
+(;W[rg]
+(;B[sh]
+(;W[sg]
+(;B[ri]
+(;W[oi]
+(;B[oj]
+(;W[ni]
+(;B[mi]
+(;W[mj]
+C[light117: time runing
+light117: out
+]
+(;B[mh]
+C[Bloosqr: oh what happens?
+]
+(;W[mk]
+C[light117: you will lose
+Bloosqr: ahh
+]
+(;B[nk]
+C[Bloosqr: i have 15 seconds
+]
+(;W[nl]
+C[light117: it will restart if not fast
+]
+(;B[ol]
+(;W[kh]
+C[light117: +4
+]
+(;B[lh]
+(;W[ki]
+(;B[ml]
+(;W[la]
+(;B[ma]
+(;W[mb]
+(;B[lc]
+(;W[le]
+(;B[me]
+(;W[sj]
+(;B[mg]
+(;W[sk]
+(;B[pi]
+(;W[si]
+(;B[on]
+(;W[bm]
+(;B[al]
+(;W[am]
+(;B[bk]
+(;W[pc]
+(;B[jk]
+(;W[jj]
+(;B[ik]
+(;W[hk]
+(;B[ch]
+(;W[ga]
+(;B[fa]
+(;W[ha]
+C[Bloosqr: I gave let you live on accident back there
+]
+(;B[jb]
+(;W[ja]
+(;B[jd]
+(;W[jc]
+(;B[hd]
+(;W[hc]
+(;B[]
+(;W[ib]
+(;B[]
+(;W[]
+C[Bloosqr: I won?
+light117: yea you had the middle
+light117: left C bottem
+Bloosqr: that was an interesting game I played some really bad moves...
+light117: me too
+Bloosqr: i think the timing got me panicked 
+light117: no
+Bloosqr: hey thanks for the game.. the gf is here and is annoyed a bit as we are all starving :)
+light117: ok have fun
+Bloosqr: gotta run thanks again!
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2288382,1209,15729,Bloosqr,GNU Go Level 1,us,un,"{'version': 5, 'overall': {'rating': 1422.0419931542936, 'deviation': 166.12319548931396, 'volatility': 0.06000457622332118}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",23.067837834644436,24.303382182144386,False,False,provisional,bot provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2015-06-25]
+PC[OGS: https://online-go.com/game/2288382]
+GN[Friendly Match]
+PB[Bloosqr]
+PW[GNU Go Level 1]
+BR[7k]
+WR[?]
+TM[600]OT[5x30 byo-yomi]
+RE[B+54.5]
+SZ[13]
+KM[0.5]
+RU[Japanese]
+HA[4]
+AB[dd][jj][jd][dj]
+;W[gd]
+(;B[dg]
+(;W[ic]
+(;B[jc]
+(;W[fk]
+(;B[ek]
+(;W[kh]
+(;B[kf]
+(;W[el]
+(;B[dl]
+(;W[fl]
+(;B[fj]
+(;W[gj]
+(;B[fi]
+(;W[ik]
+(;B[jk]
+(;W[ih]
+(;B[il]
+(;W[gb]
+(;B[eb]
+(;W[lj]
+(;B[lk]
+(;W[id]
+(;B[hl]
+(;W[ie]
+(;B[je]
+(;W[if]
+(;B[jf]
+(;W[jg]
+(;B[kg]
+(;W[mh]
+(;B[mg]
+(;W[lh]
+(;B[lg]
+(;W[kj]
+(;B[kk]
+(;W[ji]
+(;B[ec]
+(;W[hk]
+(;B[fg]
+(;W[ij]
+(;B[gl]
+(;W[gk]
+(;B[fe]
+(;W[ib]
+(;B[jb]
+(;W[ja]
+(;B[ka]
+(;W[ia]
+(;B[lb]
+(;W[mk]
+(;B[ml]
+(;W[mj]
+(;B[ll]
+(;W[fb]
+(;B[fc]
+(;W[ea]
+(;B[da]
+(;W[fa]
+(;B[cb]
+(;W[dm]
+(;B[cl]
+(;W[cm]
+(;B[bm]
+(;W[em]
+(;B[al]
+(;W[gf]
+(;B[ff]
+(;W[gc]
+(;B[ge]
+(;W[hg]
+(;B[gg]
+(;W[he]
+(;B[gi]
+(;W[hi]
+(;B[hf]
+(;W[fd]
+(;B[ed]
+(;W[gm]
+(;B[jl]
+(;W[hm]
+(;B[im]
+(;W[fm]
+(;B[km]
+(;W[gh]
+(;B[fh]
+(;W[hh]
+(;B[gf]
+(;W[]
+(;B[]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

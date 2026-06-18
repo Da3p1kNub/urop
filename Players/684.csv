@@ -1,0 +1,1078 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+19096352,647660,684,thesgw,rafial,us,us,"{'version': 5, 'overall': {'rating': 1388.9816794717876, 'deviation': 97.4348461393394, 'volatility': 0.05999251771116102}}","{'version': 5, 'overall': {'rating': 1531.6563343440614, 'deviation': 183.52054265991615, 'volatility': 0.060003427825541585}}",22.523280661616386,24.786860977839297,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2019-08-13]
+PC[OGS: https://online-go.com/game/19096352]
+GN[Friendly Match]
+PB[thesgw]
+PW[rafial]
+BR[8k]
+WR[?]
+TM[259200]OT[86400 fischer]
+RE[W+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pq]
+(;W[pd]
+(;B[dp]
+(;W[dd]
+(;B[cf]
+C[thesgw: thought that was some new cool strat at first
+]
+(;W[fc]
+C[rafial: (Facepalm) Misclick
+rafial: AlphaGo level move!
+]
+(;B[di]
+(;W[bd]
+(;B[cl]
+(;W[fq]
+(;B[dr]
+(;W[iq]
+(;B[mq]
+(;W[po]
+(;B[pm]
+(;W[np]
+(;B[mp]
+(;W[no]
+(;B[qo]
+(;W[qp]
+(;B[ro]
+(;W[pp]
+(;B[qq]
+(;W[rp]
+(;B[pj]
+(;W[qg]
+(;B[jc]
+(;W[lc]
+(;B[qc]
+(;W[pc]
+(;B[qd]
+(;W[qe]
+(;B[pb]
+(;W[ob]
+(;B[qb]
+(;W[re]
+(;B[rd]
+(;W[oc]
+(;B[sb]
+(;W[nq]
+(;B[rq]
+(;W[sq]
+(;B[nr]
+(;W[or]
+(;B[pr]
+(;W[mr]
+(;B[sr]
+(;W[sp]
+(;B[rs]
+(;W[rj]
+(;B[qk]
+(;W[cn]
+(;B[co]
+(;W[dn]
+(;B[mo]
+(;W[mn]
+(;B[kp]
+(;W[nm]
+(;B[ip]
+(;W[hp]
+(;B[io]
+(;W[fo]
+(;B[jf]
+(;W[ef]
+(;B[qh]
+(;W[rh]
+(;B[ph]
+(;W[pg]
+(;B[mf]
+(;W[ne]
+(;B[og]
+(;W[of]
+(;B[ng]
+(;W[nj]
+(;B[ni]
+(;W[om]
+(;B[mj]
+(;W[nk]
+(;B[mk]
+(;W[ml]
+(;B[ho]
+(;W[gp]
+(;B[bn]
+(;W[do]
+(;B[bp]
+(;W[ll]
+(;B[rk]
+(;W[qi]
+(;B[pi]
+(;W[fl]
+(;B[jk]
+(;W[im]
+(;B[jq]
+(;W[ir]
+(;B[jm]
+(;W[kk]
+(;B[li]
+(;W[jj]
+(;B[ji]
+(;W[jl]
+(;B[km]
+(;W[jn]
+(;B[kn]
+(;W[in]
+(;B[jo]
+(;W[ik]
+(;B[me]
+(;W[md]
+(;B[gd]
+(;W[gc]
+(;B[gf]
+(;W[eg]
+(;B[cg]
+(;W[hd]
+(;B[he]
+(;W[id]
+(;B[ie]
+C[thesgw: Misscklick ;_;
+]
+(;W[jd]
+C[thesgw: Hmmm I'm guessing my plea went unheard. Very well. 
+]
+(;B[ee]
+(;W[de]
+(;B[gi]
+(;W[ih]
+(;B[ii]
+C[rafial: Oh shoot. I forget to scroll down on my phone screen
+rafial: If it makes you feel any better, my previous move now feels like a misclick, and yet I did it on purpose 😫
+]
+(;W[bh]
+(;B[ch]
+(;W[ag]
+(;B[bg]
+(;W[af]
+(;B[bi]
+(;W[ah]
+(;B[ai]
+(;W[be]
+(;B[hl]
+(;W[il]
+(;B[ed]
+(;W[ec]
+(;B[fm]
+(;W[fn]
+(;B[gm]
+(;W[ep]
+(;B[dq]
+(;W[em]
+(;B[el]
+(;W[qn]
+(;B[rn]
+(;W[qm]
+(;B[rm]
+(;W[pl]
+(;B[ql]
+(;W[pn]
+(;B[fr]
+(;W[gr]
+(;B[lr]
+(;W[ns]
+C[rafial: It's starting to feel a lot like yose 😃
+thesgw: Yeah. And it's making my weak shapes nervous.
+]
+(;B[dm]
+C[rafial: Good thing you are on the sente train 🚂 
+]
+(;W[en]
+(;B[cm]
+(;W[ei]
+(;B[df]
+(;W[fe]
+(;B[eh]
+(;W[fh]
+(;B[dh]
+(;W[fg]
+(;B[fi]
+(;W[hh]
+(;B[gh]
+(;W[hj]
+(;B[hi]
+(;W[gk]
+(;B[hk]
+C[thesgw: Merry Christmas! 
+]
+(;W[hm]
+C[rafial: and a Happy New Year. 
+]
+(;B[gn]
+(;W[gl]
+(;B[oa]
+(;W[na]
+(;B[pa]
+(;W[mb]
+(;B[kd]
+(;W[kc]
+(;B[ke]
+(;W[ge]
+(;B[ff]
+(;W[fd]
+(;B[gg]
+(;W[ek]
+(;B[dk]
+(;W[ej]
+(;B[sj]
+(;W[si]
+(;B[qj]
+(;W[ri]
+(;B[rg]
+(;W[sk]
+(;B[rf]
+(;W[sf]
+(;B[sg]
+(;W[se]
+(;B[sl]
+(;W[qf]
+(;B[jr]
+(;W[er]
+(;B[is]
+(;W[hs]
+(;B[js]
+(;W[ds]
+(;B[cs]
+(;W[es]
+(;B[br]
+(;W[oj]
+(;B[oi]
+(;W[pk]
+C[thesgw: I think this one is over. GG. Start another?
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+24420279,684,217224,rafial,Tethers,us,us,"{'version': 5, 'overall': {'rating': 1531.6563343440614, 'deviation': 183.52054265991615, 'volatility': 0.060003427825541585}}","{'version': 5, 'overall': {'rating': 1562.1156557636727, 'deviation': 182.1617993614192, 'volatility': 0.0600146191371607}}",24.786860977839297,25.24271621060742,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2020-06-03]
+PC[OGS: https://online-go.com/game/24420279]
+GN[Friendly Introduction!]
+PB[rafial]
+PW[Tethers]
+BR[8k]
+WR[3k]
+TM[345600]OT[86400 fischer]
+RE[B+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[Tethers: Good luck, have fun!
+rafial: Onegaishimasu!
+Tethers: Onegaishimasu
+Tethers: At default in correspondence games here, you must confirm you move to execute it.  If that bothers you, it can be turned off somewhere or another.
+rafial: Ah sorry yes. 
+Tethers: It flummoxed me for over an hour once.
+rafial: It's actually better on, I usually play on my phone, so mis-clicks happen.
+]
+;B[cp]
+C[rafial: Ah sorry yes. 
+Tethers: It flummoxed me for over an hour once.
+rafial: It's actually better on, I usually play on my phone, so mis-clicks happen.
+]
+(;W[pq]
+(;B[pc]
+C[rafial: I've been exploring what the nice safe 3-4 can bring me recently :)
+Tethers: Enjoy the approach!
+]
+(;W[dd]
+(;B[fc]
+C[rafial: speaking of approaches...
+]
+(;W[pe]
+(;B[oe]
+(;W[qc]
+C[Tethers: I was deciding between R17 and P14
+Tethers: I don't know if you want any commentary or would prefer silence.
+rafial: Oh, commentary is great.
+rafial: I read that choice as driving into the corner or starting to build your side
+]
+(;B[od]
+C[Tethers: P14 would have been an attempt to gain sente  and influence.  Going R17 was traditional, and yes into the corner for points and life
+rafial: Okay, I see by putting pressure on P15 it strongly encourages me to answer there :)
+]
+(;W[pf]
+C[rafial: As it is, I'll continue taking a safe road for now.
+Tethers: That's what Q14 is, a safe continuation
+Tethers: This is pretty cool, I wonder what you'll do now.
+]
+(;B[of]
+(;W[pg]
+(;B[cf]
+C[rafial: A chance at that double approach was too hard to resist.
+Tethers: ^.^
+]
+(;W[ee]
+C[Tethers: Old time response.
+rafial: classic
+]
+(;B[dc]
+C[rafial: Okay, let's see. I think C17 is standard, but I didn't want to give you the choice of which way to lean.
+rafial: Let's see if I regret that.
+Tethers: Don't know that move, so probably won't regret it.  It means I don't know how to punish <3
+]
+(;W[cc]
+(;B[db]
+(;W[cd]
+C[Tethers: C17 was me relying on basics, C16 protecting against the cut  made possible by D18
+Tethers: didn't want to touch your stone by playing C15 to protect against the cut, or make a second line move at B16
+]
+(;B[dj]
+C[rafial: I waffled between D11 and D10. I decided 11 was too slow.
+]
+(;W[gd]
+C[Tethers: Since you protected the left side, pushing at E13 doesn't seem good anymore, so pushing at G16
+Tethers: They were miai to me (take one or the other)
+]
+(;B[gc]
+C[rafial: Well, I seem to have handed the sente back to you, so interested to see what you do with it.
+Tethers: Doesn't feel like sente to me, wich black P15 wall
+Tethers: with*
+Tethers: a hane at H16 would hurt me
+Tethers: giving you good potential
+Tethers: Normally yes but I don't like it
+]
+(;W[hd]
+(;B[hc]
+C[rafial: I feel like I have to keep crawling for the moment
+Tethers: *deep sigh at situation*
+Tethers: I feel like I need to keep pushing
+Tethers: It's hard to know when
+]
+(;W[ep]
+C[rafial: Tenuki!
+Tethers: I figure approaching a 3-4 is never a bad move
+]
+(;B[eo]
+C[rafial: It's hard to ignore
+]
+(;W[fo]
+(;B[en]
+(;W[dp]
+(;B[co]
+(;W[cm]
+C[Tethers: This is meant to be a sinister move.  I hope you are temporarily spooked!
+rafial: Oh hai! A challenge.
+Tethers: yoroshiku onegaishimasu 
+Tethers: I am in your hands.
+]
+(;B[dl]
+C[Tethers: My C7 could be what they call ajikeshi 
+rafial: Let's see if I can cage that tiger.
+Tethers: Do you know the term aji keshi?
+rafial: I didn't ... but I after looking it up, I kind of know the concept, in practice, if not formally.
+Tethers: *nods*
+rafial: Alright, well, I need to do some chores and head bedways
+Tethers: thank you for playing good sir
+rafial: So ponder your sinister follow up...
+Tethers: Will do!
+]
+(;W[cq]
+(;B[do]
+(;W[id]
+C[Tethers: Decided I needed to push one more time
+rafial: Your ""sinister stone"" helped you keep the sente to do that :)
+]
+(;B[fd]
+(;W[fe]
+C[Tethers: right, in exchange for making you strong
+]
+(;B[kd]
+(;W[ic]
+(;B[ib]
+(;W[jb]
+(;B[hb]
+(;W[jc]
+(;B[kg]
+(;W[qk]
+C[Tethers: unsure what is pressing, so played a large area in gote
+Tethers: and that low chinese spacing is familiar to me
+Tethers: I have a bad tendency to jump back and forth across the board as I change my mind over and over while I play.
+rafial: I don't know it's bad? Ideally you are always playing what is most urgent, and as the local situation changes, another section of the board can rise in urgency.
+]
+(;B[kq]
+(;W[mp]
+C[Tethers: sorry I've been sleeping during the day, which makes my responses dramatically slow from your perspective
+Tethers: I think C18 is forcing, so I should have played that first
+Tethers: R18 is a lot of points for me, and B3 is nice also.  Possibly the only time ever that I've wanted to make 3 different 2-3 moves.
+Tethers: I should be able to take C18 anyway.  But your response here will likely weaken the E4 group and it'll be fairly messy over there.
+Tethers: It would be nice to get C12 some day but for now that's a pipe dream
+Tethers: I'm pretty impressed by you.
+Tethers: After we settle the L3 situation, I'm expecting  you to maybe peep at G14
+Tethers: I hope I am not being rude.  I've just been so exited to play someone.  And when I asked Eric, for all I knew you were a 25kyu player, so I am thrilled to play someone who really does know how to play.  
+Tethers: Not that I would have complained if you were 25 kyu, either.
+Tethers: I've social phobia, so I get fidgety and talk too much and worry about offending people.  
+rafial: Good evenings, no worry on the chatter. It's helpful to knock the rust off by talking strategy like this.
+rafial: Also, I agree it's nice to find a player of similar aptitude to oneself.
+rafial: I briefly had dreams of dropping a stone at Q5 and seeing what excitement ensues.
+rafial: But in the end, a nice simple settle with peep threat seems sensible.
+]
+(;B[gq]
+C[rafial: Also no worries on the move pacing. I had a heck of a day and didn't get to check in til now
+]
+(;W[cb]
+C[Tethers: G3 is nice, vital point.
+rafial: Wow, I didn't appreciate quite how critical C18 was :gulp:
+]
+(;B[da]
+C[rafial: ...and once again I forgot to submit...
+]
+(;W[fq]
+C[Tethers: You could live at Q5 for sure, but would be a bit picked on.
+Tethers: If you play G4 forcing my F4 I'm okay with the empty triangle at E3 because it's eyeshape there
+Tethers: not saying that G4 is a bad move.  Just explaining why I chose F3
+Tethers: I was tempted by K4 but figured you might ignore it and beat me up in the lower left
+rafial: Is that even an empty triangle though with the extra stones? 
+rafial: I'm going to have to hold off till tomorrow in making another move, as today really fried my brain. 
+Tethers: take all the time you like, you have... like 20+ days
+]
+(;B[gp]
+(;W[fp]
+C[rafial: Oh, conditional future moves? 
+]
+(;B[hn]
+(;W[pd]
+C[Tethers: Yessir
+]
+(;B[pb]
+(;W[nc]
+C[Tethers: So far you playing G3 nstead of H3 is my favorite move 
+Tethers: Normally a 3 space jump is a tad greedy, but I was weak there, and high on the opposite side, so it was the perfect chance, nothing I could do about it
+Tethers: And you have me pretty well surrounded in the lower left.  Tiny bit of aji but I'm mostly stuck.
+Tethers: I think your top group F18 will make about the same number of points as my top white group around it.  Our top right groups are not figured yet so I can't say.  Then it is my left against your right and center.  
+Tethers: my bottom left group will not make many points, 5-8
+Tethers: maybe only 2!
+Tethers: Hmm I guess after the game I can draw on this board and show my thoughts, and hear yours
+Tethers: during the game it's not as easy
+Tethers: While I haven't played for literal years, I did once study hard, and take lessons.
+rafial: Definitely would love to hear your analysis. I've not had the time to do any studying for many year, and I've never taken any formal lessons.
+rafial: It was definitely scary to take the wide step to G3, but otherwise my stone was only doing one thing instead of two, and I felt I just had to keep up the pace.
+rafial: I still feel behind, I'm looking at the large area you've sketched out on the right side.
+rafial: And now this stone, which is making me very sad.
+rafial: You are certainly giving me no time to sit back and collect points.
+]
+(;B[mc]
+C[rafial: N17 feels a bit crazy to me, but I'm also not just willing to roll over and accept the invasion.
+]
+(;W[qb]
+C[Tethers: it's a very good move
+Tethers: I thought I was stronger than you, I might have been wrong
+Tethers: I was expecting M17  for some reason, this is better.
+Tethers: reading gets dull with disuse, but shape and other things stay around more or less forever
+Tethers: I was taught by Guo Juan 5p and Young-soon 8p but only for an hour a week for 10 weeks
+Tethers: but it's indicative of my level of dedication at that time.  I quit around Alphago.
+Tethers: As did most of the people I played with online.  Like 80% of the community I was in
+Tethers: And many pros lost their jobs and go schools closed, and cheating became prominent 
+Tethers: Pros were very cool about it, ""anything that can improve our understanding of go is wonderful"" was the typical sentiment.  But people stopped hiring them for reviews, which is where most pros supported themselves
+Tethers: It cut the legs out from under the pro system
+Tethers: Which means fewer people can now dedicate their lives to go
+Tethers: It does save students money, for sure.  But I do not like it what it's done.
+Tethers: It could be the view of someone in a small town mad that electric lightbulbs undercut the candle industry.  So in 20 years, my feelings may be utterly subsumed by history
+Tethers: But it hurt people I know and respect and for that reason it is hard for me to think well of it.
+Tethers: Also, especially, the online cheating is rampant and annoying.  But that would have happened anyway, just a few years later
+Tethers: sorry for my rant
+Tethers: I appreciate AI research in general, but worry a lot about ethics.  Deepmind did not consider or review the ethics of alphago in any organized way, which I think was a failure.  They had no process for that, they just figured it was good.
+Tethers: I don't worry about a super GI consuming the world, but impacts need to be considered for any action to inspect potential consequences
+Tethers: whether that's AI or diverting a stream, etc
+rafial: Wow, that's quite a story. For my part, AlphaGo filled me with excitement when it happened, I remember watching the live stream and being so impressed with how Michael Redmond was able to explain what was happening in a way that I could follow and understand.
+rafial: I never had any worry for Go as a game. Chess still thrives, despite computer chess having surpassed human grandmasters quite awhile ago.
+rafial: At the end of the day, I was never going to be playing anywhere near top level Go, so for me, AlphaGo just showed us there are levels to the game that we as human players have yet to explore.
+rafial: During my dedicated time playing Go, I mostly played at the Go Center here in Seattle. We are lucky to have one of the few remaining Go Centers originally crated by Iwamoto Sensei, and it has a thriving community.
+rafial: I zoomed up about 12k, then made steady progress to 8k. And at that point I stalled, I just didn't have the time or will to put in the sustained study I would need to get stronger.
+rafial: At some point, I just burned out.
+rafial: Part of the difficulty for me is that I think I hit that level where I wasn't good enough to play interesting games with folks who are solely dedicated to the game. And I was getting too good to play interesting game with folks who are just casually interested. You can only play so many teaching games.
+rafial: And I much prefer to play with people I know (even on line) as for me part of joy of the game is camaraderie over the board. As you alluded to up above, the very competitive online scene seems to breed poor behaviors, and I always got the impression that there was an emphasis on speed play. 
+rafial: Anyway, I should make a move.
+rafial: I do think you are little stronger than me, I certainly feel like I'm holding on by my fingertips. All for the good to be challenged at a level where you can still understand what is happening.
+]
+(;B[nb]
+C[Tethers: the Seattle Go Center is for sure famous in american go
+Tethers: I like playing with friends also
+Tethers: N17 was such a sharp move, it's what I should have played instead of O17, totally spoiled my plan, so just used it to get a few corner points, i think you come out ahead there for sure
+]
+(;W[bq]
+(;B[bp]
+C[rafial: Speaking of collecting corner points...
+Tethers: because of N17 my top left group does not have 2 eyes, has a ton of liberties so probably fine, and it *might* have two eyes
+Tethers: but I have to keep an eye on it, if I lose track I'll be in trouble
+Tethers: I think I can still take one move against it and be okay, but probably not two
+]
+(;W[nh]
+C[rafial: It it were mine yeah, you've got some eye space in the top left, and space to run out towards the center, but if those options both get challenged it'll be tricky.
+Tethers: yes, the opening at C12 is my third option
+Tethers: if one of those is gone I need to act, but decided to give you that initiative and play what felt like a big shape move
+Tethers: not exactly urgent to respond to it, but it leaves potential to reduce you later
+rafial: Yeah, that greatly reduces the potential of my top right group.
+]
+(;B[ed]
+C[rafial: Okay, let me make some trouble
+Tethers: *sigh of chagrin*
+Tethers: Okay lets see what I got myself into
+rafial: ...signing off for the night.
+Tethers: have a good night sir
+]
+(;W[df]
+(;B[cg]
+C[rafial: Might have been a bit of aji keshi on my part there, provoking such a strong answer from you, but it does address some of my own weakness, although I don't like handing back sente just like that. 
+Tethers: No I think it was in the basket of appropriate responses
+Tethers: I don't trust my reading at all.  So I feel like my desire to hit C11 and see what happens is probably a bad idea lol
+Tethers: I think I will try to play more reasonably instead.  
+]
+(;W[eh]
+C[Tethers: Well I mean C13 was good, E16 wasn't necessary I dont' think, unless you absolutely wanted to avoid seki or a ko threat
+Tethers: Now I have enough eye space again, so am happy.  But your potential is still a bit intimidating.  I'm just relying on the center being hard to solidify.  I'm also still open to invasion on the lower right
+Tethers: I think I'm only about 10 points ahead, which is quite close
+Tethers: You have a couple sente moves around C14 if you want them now, and who knows what else, lots of options
+Tethers: 10 points is in the margins still
+Tethers: I mean there are 8 point endgame moves around, so who knows
+Tethers: I could be losing very quickly
+rafial: Yeah, E16 was me not being confident in my reading...
+rafial: And also for some nutty reason expecting you to respond at D15 instead of the obviously better D14
+rafial: I think I have to bite the bullet and jump into the lions den.
+]
+(;B[po]
+(;W[qo]
+C[Tethers: Plenty of room, I don't mind sharing.  But I snore.
+rafial: Very calm...
+]
+(;B[pn]
+(;W[pp]
+C[Tethers: haha I just rememberd something Guo Juan would say ""ow, you hit your head""
+Tethers: which I just did right then
+Tethers: extending into a stone
+Tethers: I never understood why it was bad.  Still don't.  But she would laugh and say I must have a hard head.
+Tethers: She also used to say ""Don't try to catch fish with bare hands.""  And I told her about Noodling Catfish
+Tethers: then she used to  introduce me as the guy with the hard head who caught fish with his hands (though I never have!)
+Tethers: Yes, calm.  This is go.  We have to share.  Even the very best players have to share.
+Tethers: So I don't mind that.  I feel nervous in fights, though.
+Tethers: If we split everything 50/50 I win by komi.  So sharing is great.
+Tethers: but that means I can't make any mistakes which, I don't know about everyone else, but personally, was never my strong suit
+]
+(;B[qn]
+(;W[ro]
+C[rafial: I for one make a specialty of snatching defeat from the jaws of victory.
+]
+(;B[mn]
+(;W[lo]
+C[Tethers: I expected you to move in but now you're parking in my driveway /stomps feet petulently
+Tethers: This is fun.  You often don't play what i expect, but they're still solid moves.  2 point extension from 2 stones is totally reasonable, moving toward your strength, totally reasonable
+Tethers: I make the mistake of thinking everyone thinks like me, and so you'd have first tried to make room for 1 or more eyes, and then run if you failed.  Instead you've moved out first, which has me all upside down.
+Tethers: We have now gotten to the stage of the game where my confidence fizzles away as battle becomes inevitable
+rafial: I've never felt like I do well in fuseki, so I'm used to having to claw back points in the mid-game, so I kind of welcome it when the knives come out :)
+rafial: My first idea was M6, but I didn't like how that felt when I visualized attacks against my 2-jump. Also it just encourages you to lean heavier on my still nascent bottom middle shape.
+]
+(;B[nk]
+C[rafial: So I'm going with this to get a little ""width"" into my developing shape, and hopefully lean a little on your right middle.
+Tethers: Seems reasonable
+Tethers: A little bit soft.  But flexible
+]
+(;W[pj]
+C[Tethers: I definitely wanted to ignore and play M6
+Tethers: But decided the points at Q10 were probably worth it
+Tethers: You gave up the flow in the early game, letting me have sente a lot, but you seem more comfortable here, and willing to dictate changes
+Tethers: And I'm a bit more placid.
+]
+(;B[ln]
+C[rafial: The time for M6 has come.
+rafial: Oh cool, I just discover if you hover over a point mentioned in the text, it's highlighted on the board :)
+]
+(;W[ko]
+C[Tethers: yessir!
+Tethers: That's why I always use them when talking, makes it easy to follow
+Tethers: I'm thinking if you keep pushing at L6 then you will start to really solidify your center, but I will probably be able to kill L3
+Tethers: since you are likely to give up a bit of one thing or the other, I'm okay with that
+Tethers: I have to keep reminding myself not to be too afraid of your center, and allow you to take it if you are going to pay for it
+rafial: “Things fall apart; the centre cannot hold""
+]
+(;B[ip]
+C[Tethers: Mere anarchy is loosed upon the world.
+]
+(;W[jn]
+C[Tethers: If you said that without Eric's prodding I'm going to laugh so hard
+Tethers: Though I can't ask him because right now I'm pretending I'm dead
+Tethers: in furtherance of a joke
+Tethers: (he knows I""m not, it's not a mean joke)
+Tethers: When we were young, Eric and I read a set of books called The Star of the Guardian series, by Margaret Weis.  The dragonlance author lady.  He read them before me, and one of the books ends with that line, without context; ""The center cannot hold"".  And it confused him so badly as a young person that if you just said that line to him in future, he'd run around in hysterics saying ""what does that even MEAN?""
+rafial: I remember Star of the Guardian :) That series actually came up in table discussions at our RPG night. But he didn't mention the line, that's funny.
+rafial: So many things to do, and only one move to do them with...
+Tethers: Yeah the worst part is giving the other player a turn
+Tethers: Why I don't get several turns in a row i'll never understand
+Tethers: My AOL name 200 years ago was DerekSagan !  When I was like 14-16
+rafial: Yeah, all my plans would be perfect if I could just move twice.
+]
+(;B[hj]
+(;W[mb]
+C[Tethers: yay sente
+Tethers: don't worry i'll give up sente in this exchange
+]
+(;B[ob]
+(;W[lc]
+(;B[md]
+(;W[ld]
+C[Tethers: interesting!  again you throw me off, I expected M18 in response
+Tethers: instead of P18
+Tethers: but you didn't want to give up O18 or Q18 i guess
+rafial: M18 just felt like it was leaving you with too many lines of play.
+]
+(;B[le]
+(;W[me]
+(;B[nd]
+C[rafial: It'd be interesting to review this later and see what would have developed out of M18
+Tethers: sure!  I saw two possibilities, and can show you them, though of course I probably missed 5 more
+]
+(;W[ci]
+C[Tethers: sort of a sloppy outcome up there, hoping I can do some sente stuff before fixing it a bit, because I don't think I have much value there at L15 or similar right now
+Tethers: and then i'll use this time where you read out the left, to try to read out the top right
+Tethers: The falcon cannot hear the falconer.
+Tethers: My stones go off on their own
+rafial: Well, I can't really afford to lose any of the left, so I'll just have to dive in and hope that it all works out.
+]
+(;B[di]
+(;W[dh]
+C[Tethers: It works out just fine, only a small reduction
+Tethers: which is what I think I was owed there
+Tethers: well, if you D13 instead of C12, and I C12 instead of E13, it will get messy
+Tethers: but we'd both have to go for that
+]
+(;B[ch]
+C[Tethers: get some sleep sir <3
+]
+(;W[lr]
+C[Tethers: I'm noctornal, and it makes a loud CLACK stone noise to get my attention
+rafial: It was you playing C12 that would have had my palms sweaty. 
+Tethers: I considered it very seriously but it was complicated and my reading is really bad right now >.>;
+Tethers: all I have on the left now is 1 eye and 2 ko threats
+]
+(;B[lq]
+(;W[mq]
+(;B[kr]
+(;W[ke]
+C[Tethers: time to get my 2nd eye for the top group since you'll kill me if I leave it much longer
+]
+(;B[lf]
+(;W[kc]
+C[Tethers: M19 and K15 are miai eyes for me
+Tethers: and 1 eye at B17
+Tethers: so I should be okay now
+Tethers: (not supposed to be impressive, living with 2 points is not the best lol)
+Tethers: and I gave you like 8 points for my 2, so its' a good exchange for you, I made a mistake somewhere responding to your P18
+]
+(;B[hg]
+(;W[rm]
+C[Tethers: hmm
+Tethers: if I misread the G15 cut i'm in deep shit
+rafial: Yeah, I'm studying it 
+Tethers: I definitely erred.  Will have to see what happens.
+rafial: Best to look at it in the morning 😉
+Tethers: =D
+Tethers: I read your F15 leading to my H14 and me being barely okay
+Tethers: er G15
+rafial: Oh, H14 is a cool way to defend. I would not have considered that.
+rafial: I can chase you around up there, but the end result doesn't look any better for me, and may even be to my detriment.
+]
+(;B[gr]
+C[rafial: I've been eyeing G2 for a while so let's give that a go.
+]
+(;W[fr]
+C[Tethers: Fair enough
+]
+(;B[be]
+(;W[bd]
+(;B[ce]
+(;W[de]
+C[Tethers: lollll ah oh oops
+Tethers: RIP me
+Tethers: Total brain failure.  Great sadness.
+Tethers: That's probably the game right there.
+Tethers: Killing C16 by just not paying any attention and clicking something is around a 20 point loss, and if it also (I think it does) kill the H16 separated group, then it's like 60 points
+Tethers: i can't come back 60 points, impossible.  I can't believe I did that.
+Tethers: *extreme face palming*
+Tethers: Gimme a minute to process so I know whether to resign.
+Tethers: Yes I should resign.  So frustrating to waste a nice game that way, though.
+Tethers: Sorry mad at myself.
+Tethers: Would you like me to resign, which is exactly what I should do, or would you like me to ask to undo the move, or fork the game, to see what would have happened if I hadn't lost so unenjoyably?  
+Tethers: Normally I'd resign w/o question, but I don't want to give you such a disappointing end after you've invested so many days playing with me.
+Tethers: At the top there is an undo button I can click, and a resign button.  You deserve the win, no questions.  But if you'd like the game to go on I can click undo.
+rafial: Oh, undo without question. This is far too interesting a game to let it go now :)
+rafial: I was fully expecting you to defend.
+Tethers: I was too, I don't know what happened, I did it on autopilot after waking up from a nap
+Tethers: so embarrassing tho
+Tethers: then my internet went out for a long time
+Tethers: Hearing ""Undo granted"" said by a random british woman just now scared the shit out of me.  My god.
+Tethers: Thank you.
+]
+(;B[kn]
+C[rafial: And we're off again
+]
+(;W[jp]
+(;B[jq]
+(;W[jm]
+(;B[io]
+(;W[jo]
+(;B[il]
+(;W[jl]
+C[Tethers: If you keep pushing me around your O7 group it might get tricky
+]
+(;B[ll]
+(;W[cj]
+C[Tethers: this seeeems like a bad move.  But I was worried I'd not be able to make it if I continued around K8 
+Tethers: So it's not a total tenuki but a qualified one, since you protected your N6 group continuing isn't that urgent
+Tethers: for instance if I did J9, variation could take away C10 
+Tethers: C10 is only possible right now because of C7 my sinister move, combined with D12 -D12
+Tethers: and it might be impossible anyway
+Tethers: I'm 60% sure it's a thing
+Tethers: ooo I can't wait
+Tethers: I think this is the big fight, we've been so peaceful so far
+Tethers: except for that time when I slipped and fell off the Eiffel tower of shame a few moves ago (sssshhhh)
+Tethers: So I see (possibly mistaken) that I can get enough liberties at C10 to kill C14 group which doesn't have two eyes.  Or, if it goes another way, I can live inside, and if it goes another way, I can kill D11 and connect
+Tethers: I wanted to push further with K8 to K10 or J9 or similar, but was worried that strengthening your H10 stone might collapse all the possibilities at C10
+Tethers: My teacher always said I hopped around changing my mind all the time and that this isn't good.  I should have gone straight for C10 instead of pushing at k6 in the first place
+Tethers: Or continued pushing and not played C10 unless at the end, it was still there
+Tethers: It's me being bad.  Forgetting that you get to take your fare share and no one can stop you.  I try to remind myself of that over and over, but my bad move earlier shook me up and I wanted to take everything to make up for it
+rafial: Hey, FYI, I'm still in the game but our home remodeling project exploded over the last few days, so it may be a day or two before I can get back to the game.
+rafial: You could well be right. I've not read it out, was hoping that the extra liberty at D13 would serve me in a fight.
+rafial: But the fact that you've got a two way threat thanks to B7 might be the edge you need.
+]
+(;B[ck]
+C[rafial: Apparently I neglected to hit submit again
+Tethers: sorry my internet has been out a lot the past few days
+]
+(;W[bk]
+(;B[bl]
+(;W[bj]
+(;B[cl]
+(;W[bh]
+C[rafial: Looking good for you 🤔
+]
+(;B[bg]
+(;W[ai]
+(;B[ak]
+(;W[ag]
+C[Tethers: Depends, it's ko, I think.  So I should get something somewhere if not this.
+Tethers: It might not even be ko... my head hurts lol
+Tethers: I had read it differently when I first moved at C10 somehow
+Tethers: but it's not awful
+Tethers: as long as you play a stone inside your territory for each stone I play inside your territory that dies, it's not locally expensive
+Tethers: when I play inside and die, that gives you a point, when you play inside to kill me, that loses 1 point, so inside that territory it's a wash (globablly it's bad for me)
+]
+(;B[al]
+C[rafial: Yup I believe a ko fight is indicated. Or you could just give me four stones and run out, which might not be a bad outcome for you. 
+Tethers: okay I see a compromise, let's hope it works okay
+Tethers: plan is to hand you six stones, ending up with a 3 stone undercut (tiny) and 2 stones on the outside (okay).  As a poor trade for me but not a hugely bad one, sufficient cost of me misreading
+]
+(;W[ej]
+C[Tethers: meaning I think it's reasonable all things considered
+Tethers: will have to compare the two after game
+Tethers: I read black A10, white E11, black B11, white A15, black A12, white A14, black takes sentei
+Tethers: you can see the weakness in my game now =)  I'm worst at late middle game especially
+rafial: You drive a hard bargain, but I like the sound of sente.
+rafial: Let's do it :)
+]
+(;B[aj]
+(;W[ei]
+C[rafial: I dunno, now that it comes to it, I'm just liking D9 better.
+]
+(;B[dk]
+(;W[ae]
+(;B[bi]
+(;W[af]
+(;B[ah]
+C[Tethers: D9 means you didn't get sentei
+]
+(;W[ol]
+C[Tethers: it put you 1 move behind capturing me
+Tethers: which I can used to tennuki
+Tethers: That only in english.
+rafial: Yes, I see I sold my sente for a bowl of pottage. For some reason I was viewing D9 as a peep threat, but after the capture, no such thing.
+]
+(;B[nm]
+(;W[om]
+(;B[on]
+(;W[no]
+(;B[mo]
+(;W[lp]
+(;B[np]
+(;W[op]
+(;B[oo]
+(;W[kk]
+C[Tethers: because you did P5 you can (now or later) do black O2 peep, white O3 connect, black N2 cut, and gain some points.  But you gave up sente again, and while the black O2 is sente, black N2 isn't, so you could give up sente again doing that
+Tethers: You can also just extend at black O3, but white O2 and it's sente, but only accomplished a 1 pt reduction
+Tethers: maybe that's a 2 pt reduction?
+Tethers: I'm bad at counting, it seems like i've forgotten exactly how to count end game type moves
+Tethers: I'm imagining you played Black P5 to prevent me from playing it later and forcing you to connect at O6 in sente
+Tethers: Which is a gote move that takes away sente.  Usually (not always?) sente > gote that removes sente > gote
+Tethers: well, the best move is a sente move that prevents an opponents sente move, so that should be at the top of the list
+Tethers: Black N5 was a good move, btw.  Just connecting at Black O6 would have been too easy on me
+Tethers: Black N5 was sharp ^.^
+rafial: I was hoping for better from it than I got, your response to it was also pretty effective.
+rafial: Things look in a bad way for me know, but I don't have time to really consider the board.
+rafial: I got up early this morning and painted all day. You forget how much work painting is when you don't do it for awhile.
+rafial: Anyway, it may be a couple days before I make another move since I am swamped by the pressures of remodeling.
+Tethers: that's no problem
+Tethers: It's only here to have fun and make a new friend.  I appreciate the game you've given me already =)
+Tethers: thank you for the game =)
+Tethers: [object Object\]
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1171,684,28,rafial,seanachain,us,ie,"{'version': 5, 'overall': {'rating': 1531.6563343440614, 'deviation': 183.52054265991615, 'volatility': 0.060003427825541585}}","{'version': 5, 'overall': {'rating': 1672.9524090103962, 'deviation': 62.671596468452364, 'volatility': 0.060025612734896955}}",24.786860977839297,26.82962285307493,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-05-01]
+PC[OGS: https://online-go.com/game/1171]
+GN[Game Name]
+PB[rafial]
+PW[seanachain]
+BR[8k]
+WR[7k]
+TM[0]OT[172800 simple]
+RE[W+R]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+;B[dd]
+;W[pq]
+(;B[qd]
+(;W[dq]
+(;B[do]
+(;W[cm]
+(;B[dk]
+(;W[em]
+(;B[fo]
+(;W[cp]
+(;B[co]
+(;W[bp]
+(;B[bo]
+(;W[gp]
+(;B[dp]
+(;W[eq]
+(;B[go]
+(;W[hp]
+(;B[bk]
+(;W[gm]
+(;B[ap]
+(;W[br]
+(;B[fk]
+(;W[ho]
+(;B[hn]
+(;W[gn]
+(;B[in]
+(;W[hl]
+(;B[al]
+(;W[jo]
+(;B[jn]
+(;W[ko]
+(;B[jl]
+(;W[hj]
+(;B[gi]
+(;W[cf]
+(;B[ch]
+(;W[fd]
+(;B[cd]
+(;W[ef]
+(;B[ee]
+(;W[fe]
+(;B[ff]
+(;W[eg]
+(;B[gg]
+(;W[be]
+(;B[bd]
+(;W[bh]
+(;B[bg]
+(;W[ci]
+(;B[cg]
+(;W[dh]
+(;B[bf]
+(;W[ei]
+(;B[fi]
+(;W[bj]
+(;B[ah]
+(;W[ai]
+(;B[ae]
+(;W[ag]
+(;B[ck]
+(;W[dg]
+(;B[ce]
+(;W[fg]
+(;B[gf]
+(;W[fh]
+(;B[cj]
+(;W[gh]
+(;B[hh]
+(;W[hg]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1177,625,684,vdk,rafial,ru,us,"{'version': 5, 'overall': {'rating': 1368.6936714094454, 'deviation': 111.80122818371005, 'volatility': 0.06000114838883737}}","{'version': 5, 'overall': {'rating': 1531.6563343440614, 'deviation': 183.52054265991615, 'volatility': 0.060003427825541585}}",22.1826489333413,24.786860977839297,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-30]
+PC[OGS: https://online-go.com/game/1177]
+GN[]
+PB[vdk]
+PW[rafial]
+BR[8k]
+WR[8k]
+TM[604800]OT[1/604800 canadian]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"
+18160564,647660,684,thesgw,rafial,us,us,"{'version': 5, 'overall': {'rating': 1388.9816794717876, 'deviation': 97.4348461393394, 'volatility': 0.05999251771116102}}","{'version': 5, 'overall': {'rating': 1531.6563343440614, 'deviation': 183.52054265991615, 'volatility': 0.060003427825541585}}",22.523280661616386,24.786860977839297,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2019-06-07]
+PC[OGS: https://online-go.com/game/18160564]
+GN[Friendly Match]
+PB[thesgw]
+PW[rafial]
+BR[9k]
+WR[?]
+TM[259200]OT[86400 fischer]
+RE[B+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pp]
+(;W[cd]
+C[rafial: Onegaishimasu!
+]
+(;B[dq]
+C[thesgw: At some point we should play live (rl). I miss it. 
+rafial: Yes indeed, I miss it too
+]
+(;W[pd]
+(;B[cn]
+(;W[ic]
+(;B[lc]
+(;W[nc]
+(;B[le]
+(;W[ie]
+(;B[cj]
+(;W[jq]
+(;B[hq]
+(;W[mq]
+(;B[ql]
+(;W[qh]
+(;B[oh]
+(;W[pg]
+C[rafial: Ah crap. Misclick. 
+]
+(;B[qc]
+(;W[pc]
+(;B[pb]
+(;W[ob]
+(;B[rb]
+(;W[qd]
+(;B[rd]
+(;W[re]
+(;B[sc]
+(;W[se]
+(;B[sd]
+(;W[fd]
+(;B[mo]
+(;W[pr]
+(;B[rq]
+(;W[lp]
+(;B[oq]
+(;W[or]
+(;B[ig]
+(;W[mg]
+(;B[lg]
+(;W[og]
+(;B[mf]
+(;W[ng]
+(;B[cg]
+(;W[fg]
+(;B[fi]
+(;W[mj]
+(;B[ri]
+(;W[qi]
+(;B[rj]
+(;W[fl]
+(;B[hl]
+(;W[hn]
+(;B[fn]
+(;W[gn]
+(;B[fm]
+(;W[gp]
+(;B[gq]
+(;W[fp]
+(;B[fq]
+(;W[hp]
+(;B[ep]
+(;W[lh]
+(;B[kg]
+(;W[hh]
+(;B[je]
+(;W[if]
+(;B[jf]
+(;W[hg]
+(;B[id]
+(;W[hd]
+(;B[jd]
+(;W[hc]
+(;B[nl]
+(;W[ok]
+(;B[ol]
+(;W[pk]
+(;B[oe]
+(;W[pe]
+(;B[nd]
+(;W[md]
+(;B[me]
+(;W[mc]
+(;B[ld]
+(;W[gj]
+(;B[fj]
+(;W[gk]
+(;B[el]
+(;W[gl]
+(;B[eh]
+(;W[ek]
+(;B[fk]
+(;W[em]
+(;B[dl]
+(;W[en]
+(;B[eo]
+(;W[fo]
+(;B[dn]
+(;W[gm]
+(;B[kl]
+C[rafial: Gotta jump out for now 
+]
+(;W[jm]
+(;B[km]
+(;W[pl]
+(;B[pm]
+(;W[qk]
+(;B[rl]
+(;W[rk]
+(;B[sk]
+(;W[rh]
+(;B[cc]
+(;W[dd]
+(;B[dc]
+(;W[ec]
+(;B[bd]
+(;W[be]
+(;B[bc]
+(;W[cf]
+(;B[eb]
+(;W[fb]
+(;B[da]
+(;W[ba]
+(;B[bb]
+(;W[fa]
+(;B[jl]
+(;W[ea]
+(;B[ca]
+C[rafial: Definitely dropped the ball on this 😰
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

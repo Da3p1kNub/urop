@@ -1,0 +1,228 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+243,234,226,beastin,genei.09,un,,"{'version': 5, 'overall': {'rating': 1662.3108939062977, 'deviation': 290.31896371798047, 'volatility': 0.05999967537233814}}","{'version': 5, 'overall': {'rating': 1337.6891060937023, 'deviation': 290.31896371798047, 'volatility': 0.05999967537233814}}",26.681897238489267,21.652208749198074,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-06]
+PC[OGS: https://online-go.com/game/243]
+GN[]
+PB[beastin]
+PW[genei.09]
+BR[30k]
+WR[30k]
+TM[86400]OT[1/86400 canadian]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+;B[jj]
+(;W[ji]
+(;B[ki]
+(;W[li]
+(;B[ii]
+(;W[jh]
+(;B[lj]
+C[genei.09: At first I didn't realize who was sending me a friend request
+]
+(;W[lh]
+C[beastin: Yeah, I had to go look up your gmail address to be sure I was pinging the right person.
+beastin: Good to play with you.
+]
+(;B[mi]
+C[beastin: Surprisingly, while I don't see your name on your profile typing ""Sua"" popped you up.
+genei.09: well I signed in with my gmail account
+]
+(;W[kh]
+(;B[nj]
+C[genei.09: also I'm wickedly out of practice with this game
+]
+(;W[kj]
+C[beastin: Yeah, I haven't really played since my oldest was born.
+beastin: He's two and a half now.
+beastin: And I was never great to begin with.
+]
+(;B[kk]
+C[genei.09: yeah, without the program I'm sure I'd get some rules wrong
+genei.09: This was put together by a couple friends of mine out here in NC
+beastin: Cool.
+beastin: It's nice.
+beastin: I have to go put my son to bed.  Then I'll need to work for the rest of the evening.
+beastin: To be continued...
+]
+(;W[ki]
+(;B[mk]
+(;W[jk]
+(;B[jl]
+(;W[kl]
+(;B[ik]
+(;W[ll]
+(;B[lk]
+(;W[il]
+(;B[im]
+(;W[hl]
+(;B[km]
+(;W[jn]
+(;B[lm]
+(;W[ml]
+(;B[nl]
+(;W[mm]
+(;B[mn]
+(;W[nm]
+(;B[om]
+(;W[nn]
+(;B[no]
+(;W[jm]
+(;B[on]
+(;W[in]
+(;B[ih]
+(;W[ig]
+(;B[hg]
+C[genei.09: where are you working these days?
+beastin: I work at Northrop Grumman.
+]
+(;W[hj]
+C[beastin: You?
+genei.09: little place called CIS. Government Pharma Compliance stuff
+]
+(;B[ij]
+(;W[hh]
+C[beastin: You like it?
+]
+(;B[hi]
+(;W[gh]
+C[genei.09: it's OK. Some things I like, some things are frustrating
+genei.09: I do a good job, and management likes me, so that's good
+]
+(;B[gi]
+(;W[gg]
+C[beastin: Always a nice thing in a job.
+]
+(;B[gj]
+(;W[hf]
+(;B[hk]
+C[genei.09: and you?
+]
+(;W[hm]
+(;B[mg]
+(;W[fi]
+C[beastin: I like my job.
+beastin: I travel a lot and there's always way more work than I actually have time to do, but otherwise it's good.
+]
+(;B[fj]
+(;W[ej]
+(;B[ek]
+(;W[eh]
+(;B[dj]
+(;W[ei]
+C[genei.09: man, I still just don't get the rules to this game.  I thought I did, but I guess not
+]
+(;B[gl]
+(;W[fl]
+(;B[fm]
+C[beastin: How so?
+]
+(;W[el]
+C[genei.09: fundamentals really. The rules around capturing territory.
+]
+(;B[dl]
+C[genei.09: defending territory
+beastin: Surround a group on all sides (so that there are no open spaces horizontally or vertically adjacent) and you take it. 
+beastin: The most fundamental thing about defending territory is about establishing 
+beastin: ""eyes""
+genei.09: I've heard that term...doesn't seem to be working for me tho
+beastin: Basically, you need a pair of open spots embedded among your pieces such that the opponent can't play in either spot (because he'd just die, being surrounded).
+beastin: If you have that the group is safe.
+beastin: A single open spot surrounded by your pieces isn't enough since if the opponent has surrounded all of the other pieces in a group then playing in the open spot kills your group not his piece.
+genei.09: it's the ""surrounded"" rules that I'm not really seeing consistently
+genei.09: I try to follow the eye shape and then it still doesn't work
+genei.09: I just need to play more so I can recognize the pattern 
+beastin: For the purpose of ""surrounding"" what matters is the...  Sorry, I have to go check my kid.
+genei.09: kids are like that. B-)
+]
+(;W[em]
+C[beastin: ...what matters is chains.  (I just looked up the proper term.)  A chain is a set of stones that are connected rectilinearly, i.e. no diagonal connnections, like a boardwalk.
+beastin: You have eight chains right now.
+beastin: So you can have a group of chains that shares two eyes, but if one of the chains is only adjacent to one eye then I can surround that chain and then throw my piece in the eye to capture it.
+genei.09: yup, totally lost.  I need a little more visual
+genei.09: B-)
+]
+(;B[fk]
+C[genei.09: this site has an ability to share the analysis screen, but I'm not exactly sure how that works
+]
+(;W[dm]
+C[beastin: I'm not sure what I'd do with it anyhow.
+]
+(;B[gm]
+C[beastin: Wikipedia has a nice discussion of the basics.
+]
+(;W[cl]
+(;B[dk]
+(;W[bm]
+C[beastin: [object Object\]
+beastin: Huh, okay.  I've figured out how to share an analysis.
+genei.09: ah cool
+genei.09: were you trying to show me anything in particular there?
+]
+(;B[ck]
+C[beastin: No.  I was trying to figure out how it worked.
+]
+(;W[al]
+(;B[bk]
+C[beastin: Ah, well that's kind of annoying.  It resets your analysis when your opponent makes a move.
+beastin: I guess that's what you want generally.
+genei.09: yeah
+genei.09: well, I could see it going either way
+]
+(;W[cm]
+C[genei.09: while continued strategy based on an old board state might result in wasted time, it would be nice if you could finish planning an unrelated strategy
+beastin: Yeah.  And if they do just what you were thinking then wiping the analysis seems downright obnoxious.
+]
+(;B[ak]
+C[beastin: Though I'm not sure that they do that.
+]
+(;W[am]
+C[genei.09: I bet it does, but we could test that theory
+]
+(;B[gn]
+C[genei.09: I'll tell you where I'm about to play next turn
+]
+(;W[gp]
+C[beastin: Okay.
+genei.09: nope, it's a known bug. I just asked him
+]
+(;B[ho]
+(;W[ip]
+(;B[hn]
+(;W[im]
+(;B[hp]
+(;W[hq]
+(;B[io]
+(;W[hr]
+C[genei.09: that's enough for me for tonight.  have a good one
+]
+(;B[jo]
+(;W[fn]
+C[beastin: Alright.  You too!
+beastin: [object Object\]
+beastin: The white chain with the stone labeled 1 is nearly surrounded.  One more stone above the 1 stone will do it.
+beastin: The stone labeled 11 is also nearly surrounded, even though it is next to an eye.
+beastin: A black stone placed just above 11 would not be considered suicide.  It would be considered as taking the stone labeled 11 instead.
+genei.09: well that area that I thought was safe is now dead...sigh
+]
+(;B[fo]
+(;W[go]
+(;B[en]
+(;W[dn]
+(;B[do]
+(;W[co]
+C[genei.09: sorry, I kinda forgot I was playing these games
+]
+(;B[fp]
+C[beastin: Ah, that's okay.  I thought you had gotten tired of it.
+]
+(;W[gq]
+(;B[cp]
+(;W[bo]
+C[genei.09: nah, I like the game, just a busy little bee
+]
+(;B[bp]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

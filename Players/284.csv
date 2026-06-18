@@ -1,0 +1,17 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+382,284,296,bethany,melgo,un,au,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1905.4020819148595, 'deviation': 65.41968216153208, 'volatility': 0.06003761512706087}}",24.303382182144386,29.84150910475164,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-20]
+PC[OGS: https://online-go.com/game/382]
+GN[]
+PB[bethany]
+PW[melgo]
+BR[3k]
+WR[3k]
+TM[15]OT[1/15 canadian]
+RE[B+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"

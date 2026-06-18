@@ -1,0 +1,21 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+890,542,170,python012,egor.orlov.1988,cn,ru,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1088.7567379217446, 'deviation': 181.53345675622896, 'volatility': 0.06000237368539084}}",24.303382182144386,16.885458465485325,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-03]
+PC[OGS: https://online-go.com/game/890]
+GN[]
+PB[python012]
+PW[egor.orlov.1988]
+BR[30k]
+WR[28k]
+TM[259200]OT[1/259200 canadian]
+RE[Void]
+SZ[13]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[jd]
+C[egor.orlov.1988: Hello.You have one more stone.
+]
+)"

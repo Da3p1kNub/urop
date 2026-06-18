@@ -1,0 +1,372 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+6,4,9,matburt,pcmagic5000,us,us,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}",17.66169912212786,21.275357192226387,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+PC[OGS: https://online-go.com/game/6]
+GN[]
+PB[matburt]
+PW[pcmagic5000]
+BR[30k]
+WR[30k]
+TM[0]OT[86400 simple]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+;B[pd]
+(;W[]
+(;B[]
+(;W[cq]
+(;B[pp]
+(;W[dl]
+(;B[dd]
+(;W[ck]
+(;B[ej]
+(;W[dk]
+(;B[jj]
+(;W[ho]
+(;B[io]
+(;W[hp]
+(;B[ip]
+(;W[hq]
+(;B[iq]
+(;W[hn]
+(;B[in]
+(;W[im]
+(;B[jm]
+(;W[jl]
+(;B[hm]
+(;W[gm]
+(;B[il]
+(;W[hl]
+(;B[im]
+(;W[ik]
+(;B[hk]
+(;W[gk]
+(;B[gl]
+(;W[jk]
+(;B[gn]
+(;W[ij]
+(;B[fm]
+(;W[hj]
+(;B[hl]
+(;W[gj]
+(;B[fk]
+(;W[km]
+(;B[go]
+(;W[fj]
+(;B[gp]
+(;W[fl]
+(;B[el]
+(;W[ek]
+(;B[fl]
+(;W[dj]
+(;B[gq]
+)))))))))))))))))))))))))))))))))))))))))))))))))"
+20,13,9,Adrisoras,pcmagic5000,us,us,"{'version': 5, 'overall': {'rating': 1513.2442126457734, 'deviation': 232.60102367868436, 'volatility': 0.059999532727821825}}","{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}",24.506887424703663,21.275357192226387,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+PC[OGS: https://online-go.com/game/20]
+GN[]
+PB[Adrisoras]
+PW[pcmagic5000]
+BR[30k]
+WR[30k]
+TM[0]OT[600 simple]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+;B[bb]
+(;W[bc]
+(;B[cc]
+(;W[bd]
+(;B[be]
+(;W[cd]
+(;B[de]
+(;W[ce]
+(;B[cb]
+(;W[ab]
+(;B[dd]
+(;W[dc]
+(;B[ad]
+(;W[aa]
+(;B[db]
+(;W[ba]
+(;B[eb]
+(;W[ec]
+(;B[fc]
+(;W[ed]
+(;B[fd]
+(;W[ee]
+(;B[ef]
+(;W[fb]
+(;B[fe]
+(;W[ca]
+(;B[cf]
+(;W[da]
+(;B[ac]
+(;W[df]
+(;B[dg]
+(;W[bf]
+(;B[af]
+(;W[ag]
+(;B[ea]
+(;W[ae]
+(;B[ah]
+(;W[ab]
+(;B[bh]
+(;W[bd]
+(;B[bg]
+(;W[ce]
+(;B[cg]
+(;W[bc]
+(;B[af]
+(;W[dc]
+(;B[be]
+(;W[cd]
+(;B[df]
+(;W[ec]
+(;B[ad]
+(;W[ac]
+(;B[aa]
+(;W[ch]
+(;B[ed]
+(;W[eg]
+(;B[fa]
+(;W[gb]
+(;B[ga]
+(;W[ha]
+(;B[hb]
+(;W[gc]
+(;B[gd]
+(;W[hc]
+(;B[hd]
+(;W[ic]
+(;B[jc]
+(;W[ib]
+(;B[ia]
+(;W[id]
+(;B[ie]
+(;W[jd]
+(;B[hb]
+(;W[kc]
+(;B[je]
+(;W[kd]
+(;B[jb]
+(;W[ka]
+(;B[lc]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+23,13,9,Adrisoras,pcmagic5000,us,us,"{'version': 5, 'overall': {'rating': 1513.2442126457734, 'deviation': 232.60102367868436, 'volatility': 0.059999532727821825}}","{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}",24.506887424703663,21.275357192226387,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+PC[OGS: https://online-go.com/game/23]
+GN[]
+PB[Adrisoras]
+PW[pcmagic5000]
+BR[30k]
+WR[30k]
+TM[0]OT[86400 simple]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+;B[sa]
+(;W[as]
+(;B[ar]
+(;W[sb]
+(;B[ii]
+(;W[ji]
+(;B[ki]
+(;W[li]
+(;B[jh]
+(;W[jj]
+(;B[rb]
+(;W[sc]
+(;B[qc]
+(;W[rc]
+(;B[pd]
+(;W[qd]
+(;B[oe]
+(;W[nf]
+(;B[ra]
+(;W[kj]
+(;B[qb]
+(;W[rd]
+(;B[mg]
+(;W[qe]
+(;B[lh]
+)))))))))))))))))))))))))"
+14,9,11,pcmagic5000,matt.doman,us,un,"{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}","{'version': 5, 'overall': {'rating': 1293.054475363856, 'deviation': 283.64823171755216, 'volatility': 0.060000018269360404}}",21.275357192226387,20.866582301334372,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+PC[OGS: https://online-go.com/game/14]
+GN[]
+PB[pcmagic5000]
+PW[matt.doman]
+BR[30k]
+WR[29k]
+TM[0]OT[300 simple]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+;B[ff]
+)"
+47,9,4,pcmagic5000,matburt,us,us,"{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}","{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}",21.275357192226387,17.66169912212786,False,False,provisional,supporter moderator admin,"(;FF[4]
+CA[UTF-8]
+GM[1]
+PC[OGS: https://online-go.com/game/47]
+GN[]
+PB[pcmagic5000]
+PW[matburt]
+BR[30k]
+WR[26k]
+TM[0]OT[604800 simple]
+RE[W+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+HA[4]
+AB[dd][pp][pd][dp]
+;W[qp]
+)"
+1,4,9,matburt,pcmagic5000,us,us,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}",17.66169912212786,21.275357192226387,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+PC[OGS: https://online-go.com/game/1]
+GN[]
+PB[matburt]
+PW[pcmagic5000]
+BR[30k]
+WR[30k]
+TM[0]OT[300 simple]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+C[Pempu: [object Object\]
+ObieTwice: sweep the leg
+ObieTwice: check the variation. lol
+thouis: [object Object\]
+ObieTwice: [object Object\]
+SparkinFlint: HAI ALL
+Javinner: Hi
+Veridisquo: HI
+Drake17: #2
+oace: swiggity swooty
+Prometeus: historic match
+JkupGo: history
+herbie: o.O history indeed
+beelzebub1: XD
+OGSER: Epic
+calvinkuan: yo,suckerz
+grizato: typing here is like scrawling on the chair of  a scottish Monarch
+RoboTeddy: .
+Aniuś Talewise: [object Object\]
+Aniuś Talewise: sorry it looks like crap my hand is really shaky and this is a far cry from photoshop
+Aniuś Talewise: http://i.imgur.com/uUjvfj3.gif better version of the same picture
+HyperVenom: lomg time ago...
+XxX_BlAzItMiKe_XxX: hi
+DylanBean: [object Object\]
+Branzz: lol
+StonedGoPlaying: woopa doop
+NiallRedmond: ey
+Jadeite: nice game :D
+寒含: hi
+hikaru17: hello? what is this ""game"" for?
+BHydden: this one will go down in the record books :') beatiful embodiment of the game 
+Joshuaplays: [object Object\]
+Joshuaplays: [object Object\]
+Joshuaplays: [object Object\]
+Joshuaplays: omg
+Joshuaplays: wtf
+Blue Lady: wow :') this place became an authentic pilgrimage, how moving
+So1us: where am i
+So1us: china #1
+togarida: the game of life
+Pinene: 大家好
+Pinene: [object Object\]
+JoshuaMabaquiao: [object Object\]
+Kankato: Hello curious players from the future.
+kurtkafka: Kilroy was here
+trung12ly: Lol, why im here?
+Crazyseel123: hi
+dachen11: hello
+thatguycrrs: thatguy was here
+thatguycrrs: [object Object\]
+Gary Ning: hi the first game
+Gary Ning: Anyone comw here? Ever?
+Gary Ning: People who come here, type 123 if you see my name
+phuc19105: is this the first game>
+Gary Ning: yup
+Gary Ning: if anyone will ever come here again, they are the smart people
+Triple X Gaming: FIRST GAME EVER
+Triple X Gaming: AMAZING
+Triple X Gaming: 123
+thatguycrrs: 123
+MummRa: Nic wuz hear
+Lattex: interesting game...
+bphavin: 123
+Unbound Shadows: 123
+Unbound Shadows: 2020 anyone?
+trung12ly: [object Object\]
+trung12ly: [object Object\]
+Google Pixel Slate: [object Object\]
+Gia_: [object Object\]
+NotABot_XD: wow
+HHG: Hi!
+HHG: Hi!
+HHG: Hi!
+陳卓鋒: hi
+YeeTyBOI: cool
+Wrw: wat is this
+alanqian: u r in game 1
+tantairong: wow
+sShiny: hmm
+Pimchanok99: Hi
+Pimchanok99: 😃
+ProdV: Hi
+0helm: awww, theres no game 1
+victor778: hi
+victor778: What do you mean?
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+CelineW: Ubisoft goes Steamworks bye bye, always on DRM.
+]
+)"
+58,9,28,pcmagic5000,seanachain,us,ie,"{'version': 5, 'overall': {'rating': 1316.0895695576999, 'deviation': 205.1130395649564, 'volatility': 0.0599987291135941}}","{'version': 5, 'overall': {'rating': 1672.9524090103962, 'deviation': 62.671596468452364, 'volatility': 0.060025612734896955}}",21.275357192226387,26.82962285307493,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-28]
+PC[OGS: https://online-go.com/game/58]
+GN[]
+PB[pcmagic5000]
+PW[seanachain]
+BR[30k]
+WR[30k]
+TM[0]OT[300 simple]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+C[seanachain: hi gg
+]
+)"

@@ -1,0 +1,29 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+136,154,122,fajek,crazyone,un,ru,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-30]
+PC[OGS: https://online-go.com/game/136]
+GN[]
+PB[fajek]
+PW[crazyone]
+BR[2k]
+WR[3k]
+TM[86400]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[fajek: hi
+fajek: gg
+]
+;B[qd]
+C[fajek: hi
+fajek: gg
+]
+(;W[cc]
+C[crazyone: Hi, have a good game!
+]
+(;B[pq]
+(;W[dq]
+))))"

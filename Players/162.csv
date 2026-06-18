@@ -1,0 +1,27 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+152,162,4,almays,matburt,ru,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}",24.303382182144386,17.66169912212786,False,False,provisional,supporter moderator admin,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-30]
+PC[OGS: https://online-go.com/game/152]
+GN[Welcome to Nova]
+PB[almays]
+PW[matburt]
+BR[30k]
+WR[26k]
+TM[0]OT[86400 simple]
+RE[W+T]
+SZ[9]
+KM[7.5]
+RU[AGA]
+;B[gf]
+(;W[gg]
+C[matburt: hey there :)
+]
+(;B[hg]
+C[matburt: Welcome to Nova!
+]
+(;W[gh]
+(;B[eg]
+(;W[cc]
+))))))"

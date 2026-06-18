@@ -1,0 +1,767 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1140,599,7,nigam.shah,Mcadoux,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1685.002422887828, 'deviation': 61.29547457065226, 'volatility': 0.05996195821864099}}",24.303382182144386,26.995771019233292,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-26]
+PC[OGS: https://online-go.com/game/1140]
+GN[game2]
+PB[nigam.shah]
+PW[Mcadoux]
+BR[30k]
+WR[15k]
+TM[259200]OT[1/259200 canadian]
+RE[W+7.5]
+SZ[13]
+KM[0.5]
+RU[AGA]
+HA[5]
+AB[jd][dd][jj][dj][gg]
+;W[cf]
+(;B[ch]
+(;W[cc]
+C[Mcadoux: That was a good move.  The Knights move is strong, especially when towards the border like that
+]
+(;B[cd]
+(;W[dc]
+(;B[ec]
+(;W[bd]
+(;B[be]
+(;W[bc]
+(;B[ce]
+(;W[eb]
+(;B[fd]
+C[Mcadoux: F11 would be better
+]
+(;W[fc]
+(;B[ed]
+(;W[gc]
+C[nigam.shah: i was thinking about that
+nigam.shah: more on instinct
+nigam.shah: now i kinda see why
+]
+(;B[hd]
+(;W[gd]
+(;B[ge]
+(;W[hc]
+(;B[ic]
+(;W[jh]
+(;B[kg]
+(;W[kh]
+(;B[lh]
+(;W[li]
+(;B[lg]
+(;W[kj]
+C[nigam.shah: or K5?
+]
+(;B[kk]
+C[Mcadoux: k5 would be in order to decrease my eye space, but L3 is good
+]
+(;W[lk]
+(;B[jk]
+(;W[ki]
+(;B[hi]
+(;W[kc]
+(;B[kd]
+(;W[ib]
+(;B[jc]
+(;W[jb]
+(;B[lc]
+(;W[kb]
+C[Mcadoux: Thats the right move
+]
+(;B[le]
+(;W[he]
+(;B[id]
+(;W[gf]
+(;B[fe]
+(;W[hf]
+(;B[hg]
+(;W[ff]
+(;B[ef]
+(;W[eg]
+(;B[fg]
+(;W[jf]
+(;B[jg]
+(;W[ee]
+(;B[df]
+(;W[dg]
+(;B[de]
+(;W[bf]
+(;B[if]
+(;W[ae]
+C[nigam.shah: i don't get it
+]
+(;B[ie]
+C[nigam.shah: am i missing something?
+]
+(;W[cg]
+(;B[di]
+C[Mcadoux: Thats a good idea
+Mcadoux: better place would be C3
+]
+(;W[dk]
+(;B[ek]
+(;W[el]
+(;B[dl]
+(;W[ck]
+(;B[fl]
+(;W[ej]
+(;B[fk]
+(;W[cl]
+(;B[em]
+(;W[ei]
+(;B[eh]
+(;W[dh]
+(;B[fh]
+(;W[ci]
+(;B[ih]
+(;W[kl]
+C[nigam.shah: Oh shit
+]
+(;B[jl]
+(;W[lm]
+(;B[jm]
+(;W[mj]
+(;B[lb]
+(;W[la]
+(;B[mb]
+(;W[fj]
+(;B[gj]
+(;W[cj]
+(;B[fi]
+C[nigam.shah: are you ready to call it?
+]
+(;W[mh]
+(;B[mg]
+(;W[mi]
+(;B[ji]
+(;W[cm]
+(;B[dm]
+(;W[km]
+C[Mcadoux: Good game Nig, you played well
+nigam.shah: thanks dude
+]
+(;B[]
+C[nigam.shah: i love this game
+Mcadoux: I think you should play at N13 though, I lose a point
+Mcadoux: yea, its totally far out
+nigam.shah: n13 - i see
+]
+(;W[]
+C[nigam.shah: ok help me out here if i need it
+nigam.shah: this was my first 13x13 game
+Mcadoux: In the future, its tough to win games without a corner
+nigam.shah: i've been playing 9x9 on my phone a lot
+nigam.shah: yeah
+Mcadoux: You can auto out of 9x9 on the phone
+Mcadoux: the computer is annoyingly good at it
+nigam.shah: i didn't realize i didn't have one until late in the game
+nigam.shah: i thought i had the n1 corner
+Mcadoux: yea, I fucked you up there
+nigam.shah: yes you did
+Mcadoux: You haven't played a 19x19?
+nigam.shah: no not yet
+Mcadoux: Lets do that, with a big handicap, and we'll go over joseki moves
+nigam.shah: cool
+nigam.shah: i'll start reading some joseki
+Mcadoux: and broad board thinking, which is definitely the coolest part of the game
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+1902,599,7,nigam.shah,Mcadoux,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1685.002422887828, 'deviation': 61.29547457065226, 'volatility': 0.05996195821864099}}",24.303382182144386,26.995771019233292,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-19]
+PC[OGS: https://online-go.com/game/1902]
+GN[]
+PB[nigam.shah]
+PW[Mcadoux]
+BR[30k]
+WR[13k]
+TM[0]OT[259200 simple]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[AGA]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+;W[cf]
+(;B[ch]
+C[Mcadoux: This move is called a pincer, and usually forces me into the corner like this
+]
+(;W[cc]
+C[nigam.shah: yup -- been reading a book on opening strategy
+]
+(;B[dc]
+(;W[cd]
+(;B[cb]
+(;W[bb]
+C[Mcadoux: that's not your move, though it looks right
+]
+(;B[db]
+(;W[de]
+C[nigam.shah: not sure if this is a good idea, but i don't really see a better one
+]
+(;B[ee]
+(;W[ef]
+(;B[ff]
+C[Mcadoux: the double hane move there is good
+]
+(;W[fe]
+(;B[ed]
+(;W[gf]
+(;B[fg]
+(;W[ge]
+)))))))))))))))))"
+1821,599,7,nigam.shah,Mcadoux,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1685.002422887828, 'deviation': 61.29547457065226, 'volatility': 0.05996195821864099}}",24.303382182144386,26.995771019233292,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-15]
+PC[OGS: https://online-go.com/game/1821]
+GN[]
+PB[nigam.shah]
+PW[Mcadoux]
+BR[30k]
+WR[13k]
+TM[0]OT[259200 simple]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[AGA]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[nigam.shah: Whoops sorry
+]
+;W[cf]
+C[nigam.shah: Whoops sorry
+]
+)"
+1057,657,599,natxrosen,nigam.shah,mx,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,
+987,599,7,nigam.shah,Mcadoux,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1685.002422887828, 'deviation': 61.29547457065226, 'volatility': 0.05996195821864099}}",24.303382182144386,26.995771019233292,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-12]
+PC[OGS: https://online-go.com/game/987]
+GN[]
+PB[nigam.shah]
+PW[Mcadoux]
+BR[30k]
+WR[16k]
+TM[0]OT[259200 simple]
+RE[W+T]
+SZ[13]
+KM[0.5]
+RU[AGA]
+HA[6]
+AB[jk][jd][dd][dj][ii][dg]
+C[nigam.shah: awesome -- smart go hasn't let me play beyond 9x9 yet. this should be interesting
+]
+;W[gd]
+(;B[ib]
+(;W[ki]
+(;B[jh]
+(;W[kh]
+(;B[jg]
+(;W[kk]
+(;B[jj]
+(;W[kj]
+(;B[gk]
+C[Mcadoux: Good move
+]
+(;W[kd]
+(;B[ke]
+(;W[le]
+(;B[ld]
+(;W[kc]
+C[nigam.shah: goddamn it what is the time limit?
+]
+)))))))))))))))"
+2004,599,7,nigam.shah,Mcadoux,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1685.002422887828, 'deviation': 61.29547457065226, 'volatility': 0.05996195821864099}}",24.303382182144386,26.995771019233292,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-27]
+PC[OGS: https://online-go.com/game/2004]
+GN[19x919 - Take 3]
+PB[nigam.shah]
+PW[Mcadoux]
+BR[30k]
+WR[13k]
+TM[0]OT[0 none]
+RE[W+R]
+SZ[19]
+KM[0.5]
+RU[AGA]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[Mcadoux: Dude, if you're not going to make a move every day, it becomes no fun
+]
+;W[cf]
+(;B[ch]
+C[nigam.shah: I will try! but there might be a day or two when I don't. also, whenever i try to play on my phone, my fat fingers keep making the wrong move and it gets really frustrating
+]
+(;W[cc]
+(;B[dc]
+(;W[cd]
+(;B[df]
+(;W[de]
+(;B[ee]
+(;W[ce]
+C[Mcadoux: after your D14 move and my push, you now have 2 cutting point to your shape.  D14 should have been at D15
+]
+(;B[cb]
+(;W[ef]
+C[Mcadoux: Too many cutting points
+]
+(;B[dg]
+(;W[ed]
+(;B[fe]
+(;W[ec]
+(;B[db]
+(;W[eb]
+(;B[ea]
+(;W[fa]
+(;B[da]
+C[nigam.shah: now, i was thinking of f18
+nigam.shah: but decided it was a little too risky and might not turn out the way I wanted
+]
+(;W[bb]
+C[nigam.shah: fuck me
+]
+(;B[cn]
+C[Mcadoux: that wasnt a result of your latest moves, but of the C18 move and D14.  It leaves too many cutting points for me
+]
+(;W[nc]
+C[nigam.shah: yes D15 instead of D14 changes things -- even if you go D14  after my D15, then I get the corner
+]
+(;B[oc]
+C[Mcadoux: [object Object\]
+Mcadoux: There is the joseki
+]
+(;W[nd]
+(;B[qf]
+(;W[ke]
+(;B[nb]
+(;W[mb]
+(;B[na]
+C[Mcadoux: Not a bad idea, but just do P18.  It accomplishes the same thing, while being safer
+]
+(;W[kd]
+(;B[ph]
+(;W[fg]
+(;B[qm]
+(;W[np]
+(;B[oq]
+(;W[po]
+(;B[qo]
+C[nigam.shah: OK -- I have a feeling you are going to say I am leaving myself vulnerable again
+nigam.shah: but i don't see how an attack will succeed here...
+nigam.shah: if you try to cut i think i can defend it
+]
+(;W[oo]
+(;B[qq]
+C[Mcadoux: I think that's a good move
+]
+(;W[qi]
+(;B[pi]
+(;W[ql]
+(;B[qk]
+(;W[rk]
+(;B[rl]
+(;W[pl]
+(;B[rj]
+(;W[rm]
+(;B[sk]
+(;W[qn]
+(;B[rn]
+(;W[pm]
+(;B[sm]
+(;W[ro]
+C[nigam.shah: hmmm
+]
+(;B[qp]
+(;W[sn]
+(;B[sl]
+(;W[nq]
+(;B[or]
+(;W[nr]
+(;B[rp]
+C[Mcadoux: A nice life and death problem here
+]
+(;W[qr]
+C[nigam.shah: let's do it
+]
+(;B[rr]
+(;W[pr]
+(;B[os]
+C[Mcadoux: right
+]
+(;W[sr]
+C[nigam.shah: you mean P1 was right?
+]
+(;B[sq]
+C[Mcadoux: definitely
+]
+(;W[rs]
+C[nigam.shah: i feel like i'm walking into a trap here...
+]
+(;B[ss]
+C[Mcadoux: no, its a ko situation, have you ever done that before?
+]
+(;W[qc]
+C[nigam.shah: yes
+nigam.shah: so that's how it's gonna be huh?
+nigam.shah: i live in the T1 corner, yes?
+Mcadoux: you can, but then I can live in the upper corner
+nigam.shah: i don't see the connection, let's play it out
+Mcadoux: ok
+]
+(;B[qd]
+(;W[sr]
+(;B[qs]
+(;W[rq]
+(;B[sp]
+C[nigam.shah: sorry if i'm going slow, i'm using analysis
+]
+(;W[ps]
+C[nigam.shah: is that it?
+nigam.shah: no matter what i do
+nigam.shah: you connect at S2
+nigam.shah: hmm
+nigam.shah: no
+]
+(;B[rr]
+(;W[rd]
+C[Mcadoux: its a race of ""ko moves"" or forcing moves that the other player has to respond to
+nigam.shah: yes i see what's going on here
+nigam.shah: if i fill at s3
+nigam.shah: then you get the advantage in the upper corner
+Mcadoux: yep
+]
+(;B[re]
+(;W[rq]
+C[nigam.shah: so
+]
+(;B[rc]
+(;W[rr]
+C[Mcadoux: so you killed the upper corner, but let the lower one die
+nigam.shah: yes
+nigam.shah: upper corner is bigger
+nigam.shah: plus
+nigam.shah: if you get the upper corner you might connect it with the other A19 corner
+Mcadoux: but upper corner you could have lived with the stones you have there, in the lower right, they are all dead and against you
+Mcadoux: But your worries about the upper side getting totally torn up are legit
+nigam.shah: was there a way to save both corners?
+Mcadoux: dont think so
+nigam.shah: i'll make my next move then gotta go
+nigam.shah: so wait are you saying i could have saved the T1 corner, and then, although you get life in the upper corner, i would have found another group to live there too?
+]
+(;B[fq]
+C[Mcadoux: no, you lose all those stones in the lower corner.  If you had saved them and gone with the upper corner, those stones could have lived because they would be connected to the live side group
+Mcadoux: That last move has to be at E3
+]
+(;W[cq]
+C[Mcadoux: Still, I don't think you had enough ko threats really, and I have a bunch, you were in tough shape there
+]
+(;B[cp]
+(;W[dq]
+(;B[ep]
+(;W[er]
+C[nigam.shah: OK I want to know
+nigam.shah: when you say:
+nigam.shah: ""That last move has to be at E3""
+nigam.shah: you are obviously seeing this played out
+nigam.shah: ahead of time
+nigam.shah: is this a counting thing?
+nigam.shah: something like, ""if Nigam plays E3, Mike can't get life because there are aren't enough points...""
+nigam.shah: points meaning intersections
+]
+(;B[eq]
+C[Mcadoux: yea, when you played F3, it leaves the corner open for invasion.  I can read out how it would happen.  If you played E3, the invasion doesn't work without supporting stones, which I don't have
+Mcadoux: A classic corner enclosure is C6, D4 and E3
+]
+(;W[fr]
+C[nigam.shah: that's the same to what I have at the top: P17, Q16, R14
+]
+(;B[gr]
+(;W[bp]
+(;B[bo]
+(;W[bq]
+C[Mcadoux: Yes, good call, but that position is only invadable with a Ko situation like we had in the bottom.  So if I didn't think I could win a Ko fight, I would lose that invastion
+Mcadoux: Now when someone invades the corner like I just did in lower left, what makes it tolerable for the opponent is the thickness you gain on the outside.  But you have to utilize that thickness.
+nigam.shah: is there a way to save an analysis? maybe i can use the malkovich log as a workaround...
+]
+(;B[bn]
+C[Mcadoux: Thats a shit move.  What does it accomplish?  
+]
+(;W[gq]
+C[nigam.shah: my thinking is that i wanted to connect and prevent you from expanding up
+nigam.shah: i was also thinking of C7, or B7, or A4
+]
+(;B[hq]
+C[Mcadoux: your ""hanging connection"" was good enough to protect that group.  If you want to protect that area, C8 is way better.  
+]
+(;W[gp]
+(;B[ir]
+(;W[ho]
+C[nigam.shah: have to admit i don't quite understand that move
+]
+(;B[io]
+(;W[hm]
+C[nigam.shah: this feels like the same thing that happened at D15
+]
+(;B[in]
+C[nigam.shah: i'm going out of town for the weekend
+nigam.shah: not sure what my internet connection will be like
+nigam.shah: might be fine, might not, so i may be moving slow
+Mcadoux: Cool, well if so, you left with a pretty good move.
+]
+(;W[hn]
+C[nigam.shah: back in town
+nigam.shah: as you may hear from rosen, we played a shitload of catan over the weekend
+nigam.shah: a little too much
+]
+(;B[im]
+(;W[il]
+(;B[hl]
+(;W[gl]
+C[Mcadoux: that was a good last move.  its good you took the initiative and didn't get pushed around
+]
+(;B[hk]
+(;W[dl]
+(;B[dm]
+C[nigam.shah: i'm thinking i have a chance of life in that lower left quad -- not quite in the corner but just above it
+nigam.shah: am i kidding myself?
+nigam.shah: somewhere from C5 - G7
+nigam.shah: that area
+]
+(;W[em]
+(;B[en]
+(;W[el]
+(;B[fn]
+C[nigam.shah: i'm not sure -- maybe i should have done F5 instead....
+Mcadoux: thats a cool move, and you definitely can make life there.  Only need 2 eyes and you have the makings of that for sure
+Mcadoux: Good thing about your move is its sente, I have to connect
+]
+(;W[gm]
+C[nigam.shah: have to go back to work.. will move later
+Mcadoux: you get a new job?
+nigam.shah: no i'm working on a puzzle game on my own -- but i'm doing my best to treat it as a full-time job
+nigam.shah: my goal is to have something in the app store in a couple of months
+nigam.shah: before my severance runs out and i have to get a job
+nigam.shah: every analysis i do here i am finding a way to kill off my potential life
+]
+(;B[fo]
+(;W[ck]
+(;B[ek]
+(;W[gk]
+(;B[hi]
+(;W[fi]
+(;B[gj]
+(;W[fj]
+(;B[fk]
+(;W[ej]
+(;B[dk]
+(;W[di]
+(;B[cj]
+(;W[bj]
+(;B[bk]
+C[Mcadoux: good, you're not a puss in go.
+]
+(;W[cl]
+(;B[bi]
+(;W[bl]
+C[nigam.shah: i feel like there is some kind of Ko fight about to happen, and you know the outcome and i don't
+]
+(;B[aj]
+C[Mcadoux: you have the analyze button, don't freak out
+Mcadoux: its actually a ""capture race"".  
+]
+(;W[bg]
+C[Mcadoux: you have to capture my group before I can capture your group
+Mcadoux: as noone will have life after my last move
+nigam.shah: mmm... i don't quite see it
+]
+(;B[fl]
+(;W[fm]
+(;B[ci]
+(;W[eg]
+(;B[hp]
+C[nigam.shah: i kinda see it now
+]
+(;W[dh]
+C[nigam.shah: fuck me
+]
+(;B[kq]
+(;W[al]
+(;B[go]
+(;W[ak]
+(;B[do]
+C[Mcadoux: you focused on the wrong group.  Plus, once you make G5, that group is alive
+]
+(;W[bh]
+C[nigam.shah: that group you are in the process of killing looked dead to me about 3 or 4 moves ago
+nigam.shah: i couldn't figure out a way to keep it, so i wanted to make sure i have the bottom group
+nigam.shah: could I have saved it?
+nigam.shah: once you played D12 I couldn't figure out a way to save it
+]
+(;B[mr]
+C[nigam.shah: you know... where I said ""fuck me""
+Mcadoux: you could have had it with a ko 
+]
+(;W[ns]
+C[Mcadoux: I think
+Mcadoux: [object Object\]
+]
+(;B[ms]
+C[Mcadoux: Thats an unnecessary move as well.  What do you gain from it?
+]
+(;W[ma]
+C[nigam.shah: thought was to make sure you don't squeeze underneath my group at N2
+]
+(;B[mq]
+C[Mcadoux: who cares about that?  Maybe a few points.
+]
+(;W[cg]
+(;B[mp]
+C[Mcadoux: Nig, these are whats called ""small moves"".  They assure you some points, but not many and leave ""big moves"" that make a lot of influence and change the game available.
+]
+(;W[hf]
+C[Mcadoux: Your last move was very small, though it seems to get points, there are much larger moves all over the board
+nigam.shah: why did you go at N19?
+]
+(;B[ig]
+C[nigam.shah: i guess i see what you mean about small
+nigam.shah: it is different playing on a bigger board
+nigam.shah: on a smaller board, there's not so much space in the middle to fight over
+]
+(;W[if]
+(;B[jf]
+(;W[je]
+(;B[kf]
+(;W[ob]
+C[nigam.shah: yeah, i thought you might do that
+]
+(;B[pb]
+(;W[oa]
+(;B[pa]
+(;W[mn]
+(;B[lo]
+(;W[ik]
+(;B[hj]
+(;W[kl]
+(;B[jl]
+(;W[jk]
+(;B[jm]
+(;W[kk]
+(;B[lm]
+(;W[mk]
+C[nigam.shah: hmf... i have to think about that one
+]
+(;B[lk]
+C[nigam.shah: i gotta do something
+]
+(;W[ll]
+(;B[lj]
+(;W[km]
+(;B[ln]
+(;W[mm]
+C[nigam.shah: sorry about moving slow, been very busy the last few days
+]
+(;B[mj]
+(;W[lf]
+(;B[lg]
+C[nigam.shah: actually that's OK, you can decline that, didn't mean to click ""undo""
+nigam.shah: let's do that
+]
+(;W[kg]
+(;B[jg]
+(;W[kh]
+(;B[lh]
+(;W[mf]
+(;B[nh]
+(;W[mo]
+C[nigam.shah: i don't really get that move
+]
+(;B[of]
+C[Mcadoux: good move
+]
+(;W[kj]
+(;B[ki]
+(;W[ji]
+(;B[jh]
+(;W[ii]
+(;B[ij]
+C[nigam.shah: now i'm totally confused
+nigam.shah: what the fuck are you doing?
+nigam.shah: ha! auto censorship~
+nigam.shah: fuck me
+nigam.shah: take a shit
+Mcadoux: just testing you out a bit, fucker
+]
+(;W[nk]
+(;B[nj]
+(;W[ok]
+(;B[ne]
+(;W[me]
+(;B[id]
+(;W[kn]
+(;B[he]
+(;W[gf]
+(;B[ge]
+(;W[gc]
+(;B[hc]
+(;W[gd]
+(;B[hd]
+C[Mcadoux: That was an unnecessary move
+]
+(;W[jb]
+(;B[ib]
+C[Mcadoux: You have to get 2 eyes here
+]
+(;W[jc]
+(;B[gb]
+C[nigam.shah: on vacation, not moving a lot
+nigam.shah: but i'm not going to analyze as much now, want to finish the game
+]
+(;W[ca]
+(;B[gh]
+C[nigam.shah: i'm dead in top middle already, right?
+]
+(;W[od]
+(;B[pc]
+(;W[oe]
+(;B[nf]
+(;W[pe]
+(;B[pf]
+(;W[ko]
+(;B[lp]
+(;W[oj]
+(;B[oi]
+C[Mcadoux: very dead, you dont have one eye
+]
+(;W[gs]
+(;B[hr]
+(;W[dr]
+(;B[hg]
+(;W[cm]
+(;B[dn]
+(;W[mg]
+(;B[mh]
+(;W[fh]
+(;B[gg]
+(;W[gi]
+(;B[ih]
+(;W[ng]
+(;B[og]
+(;W[ah]
+(;B[kp]
+(;W[ao]
+(;B[pk]
+(;W[an]
+(;B[hs]
+(;W[fs]
+(;B[ip]
+(;W[ai]
+C[nigam.shah: interesting, i thought it would award points for for the ""practically"" dead areas, but it doesn't
+nigam.shah: unlike SmartGo 
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

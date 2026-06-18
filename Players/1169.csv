@@ -1,0 +1,332 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+3024,1169,914,solveigo,pathogenix,gb,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",24.303382182144386,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-21]
+PC[OGS: https://online-go.com/game/3024]
+GN[First game :)]
+PB[solveigo]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+52.5]
+SZ[9]
+KM[3.5]
+RU[Japanese]
+HA[4]
+AB[cc][gg][gc][cg]
+C[pathogenix: Hey
+solveigo: wait, so why are there four black ones already on the table? 
+pathogenix: Because you get a handicap
+solveigo: awwh. lovely
+]
+;W[ee]
+C[pathogenix: Hey
+solveigo: wait, so why are there four black ones already on the table? 
+pathogenix: Because you get a handicap
+solveigo: awwh. lovely
+]
+(;B[df]
+(;W[ef]
+(;B[dd]
+(;W[de]
+(;B[cd]
+(;W[dg]
+C[pathogenix: white has to be aggressive in a handicap game since black already controls the board
+pathogenix: especially on the 9x9
+]
+(;B[cf]
+(;W[ge]
+C[solveigo: sure. do your finest :) i don't mind losing as i need to learn strategies anyway
+pathogenix: For the first few games, just focus on keeping your stones connected, and mine disconnected if possible
+pathogenix: That's it :)
+pathogenix: A lot of go is tactical reading and a feel for shape, and you can only get that by playing
+pathogenix: All the strategy can come later
+solveigo: eek!
+]
+(;B[eg]
+C[pathogenix: Good :)
+]
+(;W[fg]
+(;B[dh]
+(;W[gh]
+C[pathogenix: Except make a big ugly ball of stones where a nice group used to be
+solveigo: :)
+]
+(;B[fh]
+C[solveigo: oh shit
+solveigo: you can't put one there anyway
+pathogenix: You can undo if you like
+solveigo: ahh
+pathogenix: But you're right, that move doesn't do anything
+]
+(;W[gf]
+(;B[ff]
+(;W[fe]
+(;B[gi]
+C[solveigo: i'll work on my speed in the next game...
+pathogenix: Speed is not a requirement :)
+solveigo: time not important, only life important
+]
+(;W[hh]
+C[solveigo: i know... 5th element. but it's a good quote.
+pathogenix: Also highly relevant
+solveigo: oui
+]
+(;B[hg]
+C[pathogenix: This game is not going well for white
+]
+(;W[ig]
+C[solveigo: that's you, not me. hurrah
+]
+(;B[ih]
+(;W[ii]
+C[solveigo: shit
+pathogenix: :)
+pathogenix: that's your first mistake, though, you're doing very well
+solveigo: ta
+]
+(;B[hi]
+C[pathogenix: That's two...
+]
+(;W[fi]
+C[solveigo: balls
+pathogenix: phew
+pathogenix: That gives me some breathing room, I thought I might have to give up this corner
+pathogenix: and then the game would basically be lost for white
+solveigo: le cry
+pathogenix: desolee
+]
+(;B[ei]
+(;W[fg]
+(;B[ci]
+C[pathogenix: It would have been better to connect solidly. White can capture at E2
+]
+(;W[eh]
+C[solveigo: ahh
+]
+(;B[bh]
+(;W[fc]
+(;B[ai]
+(;W[gb]
+(;B[ag]
+(;W[db]
+(;B[ec]
+(;W[eb]
+(;B[fd]
+(;W[fb]
+(;B[gd]
+(;W[ed]
+(;B[dc]
+(;W[hd]
+(;B[cb]
+(;W[ca]
+(;B[ba]
+C[pathogenix: good :) Now white has to connect, but black *also* has to connect or white can cut through again
+]
+(;W[da]
+(;B[bb]
+C[solveigo: like so :) 
+pathogenix: Exactly thus
+solveigo: i think i was born to go
+pathogenix: The game is nearly finished
+]
+(;W[ce]
+C[solveigo: well. handicap definitely helps a lot
+pathogenix: It's there for both players :) Black gets a helping hand and white gets a bigger challenge
+pathogenix: Your opening was very nice, I was gravely concerned
+solveigo: takk :)
+pathogenix: það var ekkert
+solveigo: that's some fast google translating
+pathogenix: I guessed takk because it's the same in Danish and ... Swedish?
+]
+(;B[bf]
+C[pathogenix: Black should have blocked at B5, now white can push in - see?
+]
+(;W[be]
+C[pathogenix: Do you know about life and death? The two-eyes thing?
+]
+(;B[ae]
+(;W[ad]
+C[solveigo: uhm. i think i saw some two eye thing in the rules but my buffer was a bit full at the time so i didn't read it properly. 
+]
+(;B[af]
+C[pathogenix: I'll show you quickly after the game.
+solveigo: k
+]
+(;W[bd]
+(;B[ac]
+(;W[dg]
+(;B[hc]
+(;W[hb]
+(;B[he]
+(;W[ic]
+C[solveigo: aaaaaaahh... oops
+pathogenix: There's nothing you can really do on this side of the board. The action is all still at the bottom. There's a white stone and a black stone in atari. Once that's cleaned up, the game is done :)
+solveigo: hmh. well i can't really put mine anywhere at the bottom apart from inside circles at bottom let... which seems pointless? 
+solveigo: if i put them on G1 or H1 you'll just take them. 
+pathogenix: :) Black can capture a white stone at E3, and then white has to connect at F2 and the game's done
+pathogenix: Otherwise white can capture at D1
+solveigo: no... that's a suicide move right?
+solveigo: oh no
+pathogenix: and then black connects at C2
+solveigo: it isn't ... ahh
+pathogenix: Aha!
+solveigo: i thought it was a suicide setup
+pathogenix: It's not suicide if you capture
+solveigo: of kors
+solveigo: i forgot about that
+pathogenix: So does everybody else at first
+]
+(;B[eg]
+(;W[fh]
+C[solveigo: boink
+pathogenix: actually black is still in atari at D3
+pathogenix: and should connect... also D1...
+pathogenix: But we can skip those if you want
+pathogenix: Or you take one and I'll take the other
+solveigo: yup. see it now. thought you weren't able to put yours in there as per suicide misunderstanding
+pathogenix: It's the kind of move that gets left until the end because it's only worth a single point
+pathogenix: But it needs finishing off for the scoring algorithm to work
+]
+(;B[dg]
+(;W[di]
+C[pathogenix: If you pass, I'll connect, and then we both pass and you've completed your first game
+pathogenix: You can't immediately capture my stone back because of the Ko rule
+solveigo: si
+solveigo: well i can just put a stone in top left corner... but that won't change anything though
+solveigo: so better i just pass then?
+pathogenix: Yeah, the upper left is dead, placing a stone there just gives me an extra point
+solveigo: oh ok. i didn't read the scoring details fully either... 
+]
+(;B[]
+C[pathogenix: :) I'll explain that in a sec, too
+]
+(;W[ei]
+(;B[]
+(;W[]
+C[pathogenix: Okay, if you accept the removed stones, I'll explain what's going on
+pathogenix: But I should probably come over
+solveigo: oui
+solveigo: please do
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+3076,1169,1143,solveigo,eskitek,gb,un,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-24]
+PC[OGS: https://online-go.com/game/3076]
+GN[]
+PB[solveigo]
+PW[eskitek]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+(;W[pg]
+))"
+3077,1169,914,solveigo,pathogenix,gb,_GoT_Stark,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1816.4034473474544, 'deviation': 68.94731778738652, 'volatility': 0.0600594480574636}}",24.303382182144386,28.734137309402236,False,False,provisional,supporter moderator,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-08-23]
+PC[OGS: https://online-go.com/game/3077]
+GN[]
+PB[solveigo]
+PW[pathogenix]
+BR[30k]
+WR[17k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[pathogenix: Hey Solveig :)
+pathogenix: First time on the 19 x 19?
+solveigo: yes. also i'm on the motorway
+solveigo: and the connection is a bit waffly
+solveigo: see how it goes :)
+pathogenix: No probs, Corners first, then sides, then centre. On the big board there aren't any points to be made in the centre, comparatively :)
+pathogenix: I hope you're not driving
+]
+;B[dd]
+C[pathogenix: No probs, Corners first, then sides, then centre. On the big board there aren't any points to be made in the centre, comparatively :)
+pathogenix: I hope you're not driving
+]
+(;W[pp]
+C[solveigo: great. thanks! 
+solveigo: and no, not driving ;) it's 2 hours to rotherham. time for go.
+]
+(;B[dc]
+(;W[cp]
+C[pathogenix: Rotherham?
+]
+(;B[ce]
+(;W[pd]
+C[solveigo: the boyfriend is from wickersley, rotherham. going there for the weekend. a bit of peak district too.
+]
+(;B[dp]
+(;W[do]
+(;B[cq]
+C[pathogenix: Hey - how's Rotherham?
+]
+(;W[co]
+))))))))))"
+3402,1147,1169,idiocratic,solveigo,it,gb,"{'version': 5, 'overall': {'rating': 895.9626866400455, 'deviation': 65.78122853873121, 'volatility': 0.06001321619626367}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",12.37368669401893,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-03]
+PC[OGS: https://online-go.com/game/3402]
+GN[]
+PB[go_fys]
+PW[solveigo]
+BR[30k]
+WR[30k]
+TM[0]OT[0 none]
+RE[B+T]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[solveigo: YO
+go_fys: Yo! :)
+]
+;B[gc]
+C[go_fys: Yo! :)
+]
+(;W[gg]
+C[solveigo: you stole my move!
+]
+(;B[cc]
+(;W[cg]
+(;B[ec]
+(;W[ee]
+(;B[df]
+)))))))"
+3404,1169,1143,solveigo,eskitek,gb,un,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-09-03]
+PC[OGS: https://online-go.com/game/3404]
+GN[]
+PB[solveigo]
+PW[eskitek]
+BR[30k]
+WR[30k]
+TM[0]OT[0 none]
+RE[B+T]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+;B[gc]
+(;W[ec]
+(;B[gg]
+(;W[cc]
+(;B[ee]
+(;W[ce]
+(;B[eg]
+)))))))"
+689713,1169,81830,solveigo,andrewchaa,gb,gb,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,

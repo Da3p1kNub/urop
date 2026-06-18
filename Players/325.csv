@@ -1,0 +1,19 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+471,325,104,karas,Oolong4Go,un,_Klingon,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1487.0974735216928, 'deviation': 79.93436684201419, 'volatility': 0.06000532839122804}}",24.303382182144386,24.103391824779585,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-28]
+PC[OGS: https://online-go.com/game/471]
+GN[]
+PB[karas]
+PW[Oolong4Go]
+BR[6k]
+WR[6k]
+TM[86400]OT[1/86400 canadian]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[Oolong4Go: Hi, have a fun game
+]
+)"

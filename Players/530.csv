@@ -1,0 +1,19 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+871,513,530,vive2000,oxandria,un,un,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,
+875,530,428,oxandria,0xbdf,un,us,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.303382182144386,24.303382182144386,False,False,provisional,provisional,
+886,530,133,oxandria,valker.rus,un,ru,"{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1581.6084257680939, 'deviation': 76.35959281701047, 'volatility': 0.060007260560132614}}",24.303382182144386,25.529804642762365,False,False,provisional,,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-05]
+PC[OGS: https://online-go.com/game/886]
+GN[]
+PB[oxandria]
+PW[valker.rus]
+BR[30k]
+WR[30k]
+TM[1814400]OT[20/1728000 canadian]
+RE[Void]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+)"

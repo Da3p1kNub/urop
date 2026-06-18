@@ -1,0 +1,1188 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1120,614,665,StuckAt7,Astrognome,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}",24.303382182144386,23.246514915292064,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-22]
+PC[OGS: https://online-go.com/game/1120]
+GN[Again!]
+PB[robert.judith]
+PW[Astrognome]
+BR[30k]
+WR[30k]
+TM[604800]OT[1/604800 canadian]
+RE[W+5.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[robert.judith: Test chat
+robert.judith: I'm trying the center thing again
+robert.judith: [object Object\]
+StuckAt7: [object Object\]
+StuckAt7: Malkkovich Logs?
+]
+;B[ee]
+C[robert.judith: Test chat
+robert.judith: I'm trying the center thing again
+robert.judith: [object Object\]
+StuckAt7: [object Object\]
+StuckAt7: Malkkovich Logs?
+]
+(;W[fd]
+C[Astrognome: Well I'll try not to get owned this time
+]
+(;B[gc]
+C[StuckAt7: I think I lost when I played here last time
+StuckAt7: It's cool that you can play a series of moves out in a row and send it to the other person
+Astrognome: Yeah  that's pretty sweet. My brain isn't working today, you might have an easy game =P
+]
+(;W[fc]
+(;B[gd]
+C[StuckAt7: Niether is mine
+StuckAt7: I should be working
+StuckAt7: yet I'm doing this
+Astrognome: Haha
+StuckAt7: I'm not sure what this is
+]
+(;W[ge]
+C[Astrognome: woops
+StuckAt7: I think I can make comments about the moves
+StuckAt7: and when the game is over we both can see what each other have said
+]
+(;B[fb]
+C[StuckAt7: This server is much nicer
+StuckAt7: I can actually see your trash talk now
+]
+(;W[fe]
+C[Astrognome: Which is super important
+Astrognome: maybe the most important part of the game
+]
+(;B[cc]
+(;W[fg]
+(;B[gg]
+C[StuckAt7: I'm not sure about this move
+]
+(;W[gf]
+(;B[hg]
+(;W[ef]
+C[Astrognome: I think it's ok since you went there. If you didn't immediatlely connect I could have killed it
+]
+(;B[cg]
+(;W[gb]
+(;B[hb]
+C[Astrognome: Oh shit what was I thinking
+StuckAt7: I think you saw the potential to get those two stones
+StuckAt7: I thought I was screwed at first
+StuckAt7: had to think about it
+Astrognome: haha
+Astrognome: I didn't think it through thoguh
+Astrognome: though**
+]
+(;W[eb]
+(;B[fa]
+(;W[de]
+(;B[he]
+C[StuckAt7: crazy looking board
+]
+(;W[ed]
+(;B[hf]
+C[Astrognome: Indeed
+StuckAt7: I think I could have played a better move there
+]
+(;W[ea]
+(;B[ga]
+(;W[df]
+C[Astrognome: I yhink it was fine
+]
+(;B[dg]
+(;W[eg]
+(;B[cf]
+(;W[dd]
+C[Astrognome: I'm probably playing way too passively
+]
+(;B[dc]
+(;W[ec]
+(;B[cd]
+(;W[ce]
+(;B[be]
+C[StuckAt7: You started a fight early
+StuckAt7: against the middle stone
+Astrognome: Yeah
+Astrognome: so all my stones are safe
+Astrognome: but I have no idea how to make any headwy now
+]
+(;W[dh]
+C[StuckAt7: I was able to play random stones around the board
+StuckAt7: which I wasn't sure was a good idea when I did it
+StuckAt7: but now they have been super helpful
+Astrognome: yup
+]
+(;B[ch]
+(;W[ci]
+(;B[eh]
+C[Astrognome: shit
+Astrognome: lol
+StuckAt7: not your day today
+Astrognome: nope
+Astrognome: getting schooled
+]
+(;W[fh]
+C[Astrognome: might be time to resign
+]
+(;B[di]
+C[StuckAt7: iIt's pretty much over
+StuckAt7: you could just pass and score the game
+]
+(;W[]
+C[StuckAt7: there isn't much else to do
+]
+(;B[]
+C[Astrognome: no, I'm stuck
+Astrognome: Hey why so all those get removed?
+Astrognome: lol
+Astrognome: I thought I had two good eyes there
+StuckAt7: I don't think you do
+StuckAt7: want to play it out
+Astrognome: they're all connected horizontally/vertically
+StuckAt7: hold on let me look at it
+Astrognome: not that it will keep me from losing
+StuckAt7: yeah I think you're right the scoring thing is off
+Astrognome: hm
+Astrognome: doesn't matter
+]
+(;W[]
+C[Astrognome: weird
+Astrognome: see how it counts without removing?
+StuckAt7: sure
+Astrognome: What
+Astrognome: that's not right
+StuckAt7: not at all
+Astrognome: You totally won
+Astrognome: Maybe this isn't as high tech as we thought
+StuckAt7: I still like it better
+Astrognome: me too
+StuckAt7: just have to manually do the score for now
+Astrognome: yup
+Astrognome: probably need to surround all our territory
+Astrognome: like the other one
+StuckAt7: yeah
+StuckAt7: I think we ended early
+StuckAt7: and confused the hell out of it
+Astrognome: well good game, wrecked me
+Astrognome: lol
+StuckAt7: gg
+StuckAt7: now I actually have to focus on do work
+Astrognome: me too
+Astrognome: peace
+]
+))))))))))))))))))))))))))))))))))))))))))))"
+1159,665,614,Astrognome,StuckAt7,us,us,"{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",23.246514915292064,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-29]
+PC[OGS: https://online-go.com/game/1159]
+GN[]
+PB[Astrognome]
+PW[StuckAt7]
+BR[30k]
+WR[30k]
+TM[172800]OT[1/172800 canadian]
+RE[W+26.5]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+;B[fd]
+(;W[gc]
+(;B[ef]
+(;W[ee]
+(;B[fe]
+(;W[gg]
+(;B[de]
+(;W[cc]
+(;B[cg]
+C[Astrognome: I think I want to not get surrounded again
+Astrognome: lol
+StuckAt7: yeah that doesn't go well usually
+]
+(;W[ed]
+C[StuckAt7: not feeling well this morning so I'm ""working"" from home
+Astrognome: haha good idea
+Astrognome: being adventurous this game....
+StuckAt7: talking about me?
+Astrognome: no me
+Astrognome: I also thought about g4
+Astrognome: oh wow
+Astrognome: it puts markers on the board when you mention a position
+StuckAt7: shit son
+StuckAt7: this is some hitech shit
+StuckAt7: g4 where I would move I think
+StuckAt7: right now I can really mess you up by playing f4
+Astrognome: mm true
+Astrognome: oh dammit I was waiting for you to move
+Astrognome: didn't realize I didn't submit my move
+]
+(;B[gf]
+C[StuckAt7: I wondered...
+]
+(;W[fg]
+C[Astrognome: hmmmm
+]
+(;B[ff]
+(;W[ce]
+(;B[dd]
+(;W[df]
+(;B[ec]
+C[StuckAt7: can't beleive I didn't see that
+Astrognome: haha I was wondering
+]
+(;W[cd]
+C[Astrognome: sorr
+Astrognome: sorry**
+]
+(;B[cf]
+(;W[dg]
+(;B[eg]
+(;W[dh]
+(;B[eh]
+(;W[ch]
+(;B[hg]
+(;W[bf]
+(;B[gh]
+(;W[he]
+(;B[hf]
+(;W[eb]
+(;B[hd]
+C[StuckAt7: getting my ass haned to me this game
+]
+(;W[gd]
+C[Astrognome: well you are home sick
+Astrognome: brain can't work at 100% when you're sick
+]
+(;B[ge]
+(;W[fc]
+(;B[dc]
+(;W[db]
+(;B[hb]
+(;W[hc]
+(;B[ic]
+(;W[fb]
+C[Astrognome: darn, didn't think you would miss that one, but I was hoping =P
+]
+(;B[di]
+(;W[id]
+C[StuckAt7: almost did
+Astrognome: wait what the fuck did I just let happen
+Astrognome: BALLLLLLLS
+Astrognome: NOOOOOOO
+Astrognome: epic fail right there
+StuckAt7: I lost the center of the board because of one
+Astrognome: yup I was due for a silly mistake
+Astrognome: lol
+StuckAt7: I even knew that the center was potentially under attack
+]
+(;B[ie]
+C[StuckAt7: and new what I should have done
+StuckAt7: i just forgot
+Astrognome: WAIT NO
+Astrognome: NO LET ME TAKE IT BACK AGHHHH
+Astrognome: gah
+]
+(;W[if]
+(;B[ig]
+(;W[ci]
+(;B[ei]
+(;W[ib]
+(;B[ie]
+(;W[hd]
+C[StuckAt7: let's see if we can get the scoring system to work this time
+Astrognome: yeah
+Astrognome: I think you probably have this one
+]
+(;B[if]
+(;W[]
+C[StuckAt7: I think that is game
+StuckAt7: unless you have some sneaky move up your sleeve
+Astrognome: yeah, I can't break into the left/upper parts of the board
+]
+(;B[]
+C[Astrognome: ouch
+Astrognome: good game
+StuckAt7: yeah
+Astrognome: time to be productive
+Astrognome: or maybe take a nap first lol
+StuckAt7: at least try
+StuckAt7: I like the nap idea
+Astrognome: peace
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))"
+932,424,614,cale.haskell,StuckAt7,us,us,"{'version': 5, 'overall': {'rating': 1229.3545061826308, 'deviation': 248.30347747776162, 'volatility': 0.05999913005430535}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",19.697090833391986,24.303382182144386,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-13]
+PC[OGS: https://online-go.com/game/932]
+GN[]
+PB[cale.haskell]
+PW[robert.judith]
+BR[30k]
+WR[30k]
+TM[86400]OT[1/86400 canadian]
+RE[W+T]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+;B[dd]
+(;W[jj]
+(;B[jd]
+(;W[dj]
+(;B[ch]
+(;W[gc]
+(;B[gk]
+(;W[kc]
+C[StuckAt7: I forgot to say good luck and have a good game.
+cale.haskell: You too!
+]
+(;B[kk]
+(;W[ke]
+(;B[kd]
+(;W[jc]
+(;B[ic]
+(;W[id]
+(;B[hd]
+(;W[ie]
+(;B[if]
+(;W[hc]
+(;B[ib]
+(;W[je]
+(;B[ld]
+(;W[he]
+(;B[gd]
+(;W[fd]
+(;B[ge]
+(;W[gf]
+(;B[fe]
+(;W[dg]
+(;B[dh]
+(;W[ee]
+(;B[ef]
+(;W[ff]
+(;B[eg]
+(;W[eh]
+))))))))))))))))))))))))))))))))))"
+1670,614,665,StuckAt7,Astrognome,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}",24.303382182144386,23.246514915292064,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-10]
+PC[OGS: https://online-go.com/game/1670]
+GN[Let there be Go!]
+PB[StuckAt7]
+PW[Astrognome]
+BR[30k]
+WR[30k]
+TM[1814400]OT[20/3456000 canadian]
+RE[B+R]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+C[StuckAt7: Sorry this took so long. I was in florida for the worlds longest 8th grade graduation.
+Astrognome: Haha no worries. I hope the weather was nice at least
+]
+;B[jj]
+C[Astrognome: Haha no worries. I hope the weather was nice at least
+]
+(;W[jd]
+(;B[ke]
+C[StuckAt7: There was only a tropical storm
+StuckAt7: How are things going?
+Astrognome: Oh right, that did happen
+Astrognome: things here are good
+Astrognome: went on a 9 mile hike yesterday and it poured on us
+Astrognome: but it was still fun
+]
+(;W[dd]
+(;B[ek]
+C[StuckAt7: As long as it's warm getting rained on isn't too bad
+StuckAt7: so when are you thinking about coming down?
+StuckAt7: You and Amanda are always welcome
+StuckAt7: to stay with us if you need a place to stay
+Astrognome: not sure
+Astrognome: I think I'm going to come down alone
+Astrognome: was thinking I might aim to get there by lunchtime on a friday
+Astrognome: and leave sunday morningish
+Astrognome: I have a wedding this weeken
+Astrognome: and the last weekend in June I'll be in florida with college friends
+]
+(;W[dj]
+C[StuckAt7: well whenever works for Meg and I as of right now
+Astrognome: so maybe the weekend of july 12
+StuckAt7: works for me
+Astrognome: sweet
+StuckAt7: got to go to lunch with REU students
+Astrognome: kk, have fun
+StuckAt7: have an Summer undergrad that is tied to Shelia's program
+StuckAt7: I want it to end...
+Astrognome: lol
+Astrognome: I bet
+Astrognome: good luck
+]
+(;B[dk]
+(;W[ei]
+(;B[kc]
+(;W[id]
+(;B[gg]
+(;W[gf]
+(;B[eg]
+C[StuckAt7: Man I thought I submitted that move a couple days ago
+StuckAt7: oops
+Astrognome: haha I was wondering what was taking so long
+]
+(;W[fg]
+(;B[ff]
+(;W[fh]
+(;B[ge]
+C[Astrognome: oh dear, you had this all planned out didn't you
+Astrognome: lol
+]
+(;W[hf]
+(;B[he]
+(;W[hg]
+C[Astrognome: hmmm I don't know if my last move was a good one, perhaps I should have played at j9
+]
+(;B[ie]
+C[StuckAt7: I think you are right
+]
+(;W[gh]
+(;B[ch]
+(;W[fe]
+(;B[ef]
+(;W[ee]
+(;B[ih]
+(;W[dg]
+C[StuckAt7: Hmmmmm not good for me
+StuckAt7: :-p
+]
+(;B[dh]
+(;W[eh]
+(;B[df]
+(;W[cf]
+C[Astrognome: SHIT
+Astrognome: SHIT
+Astrognome: NOOOOOOOOOOOOO
+Astrognome: The noobishness
+Astrognome: didn't think about that one
+Astrognome: DAMMIT
+Astrognome: why can't I take it baaaaack
+Astrognome: Go, the cruelest game =P
+]
+(;B[cg]
+C[StuckAt7: True dat
+]
+(;W[de]
+(;B[dg]
+(;W[ci]
+(;B[hh]
+(;W[bh]
+C[Astrognome: Well, I was mad at myself for not thinking my move through
+Astrognome: but I didn't think far enough ahead before spazzing out, I think it still works out for me
+StuckAt7: I think so too
+]
+(;B[bf]
+(;W[ce]
+(;B[bg]
+(;W[ag]
+(;B[bi]
+C[StuckAt7: but I'm going to fight to the death
+StuckAt7: for those stones
+Astrognome: haha
+Astrognome: I don't remember what my plan was now
+Astrognome: that was totally the wrong move
+]
+(;W[bj]
+(;B[ah]
+(;W[cj]
+(;B[aj]
+C[StuckAt7: what would you have played?
+Astrognome: I think I should have played at b5 instead of b6 so that you couldn't cut at b5
+Astrognome: or later at b5 instead of a7
+]
+(;W[ak]
+C[Astrognome: playing on the edge at a7 was dumb since you could surround it before I took tour group
+Astrognome: your**
+Astrognome: I'm liking the bigger board btw
+]
+(;B[af]
+C[StuckAt7: yeah
+StuckAt7: it makes the game more interesting
+]
+(;W[ai]
+(;B[be]
+(;W[bh]
+(;B[bd]
+(;W[bi]
+(;B[bk]
+(;W[ck]
+(;B[cc]
+(;W[dc]
+(;B[cb]
+(;W[db]
+C[Astrognome: I've given up on getting all those stones, now I just want to contain them =P
+]
+(;B[je]
+(;W[ig]
+(;B[fd]
+(;W[gd]
+(;B[hd]
+(;W[gc]
+(;B[fc]
+(;W[fb]
+(;B[ic]
+(;W[jg]
+(;B[gb]
+C[StuckAt7: So when do you think you're coming down?
+Astrognome: I'm planning to come down the weekend of July 12 if that's good
+Astrognome: oh shit that was so stupid
+Astrognome: I hate these moments
+Astrognome: dammit
+Astrognome: lots of teachable moments this game lol
+]
+(;W[jh]
+(;B[ii]
+C[StuckAt7: I feel like I'm learning a lot in these games 
+StuckAt7: I've played one game with someone else on a 13x13 board but he quit before the game was over
+Astrognome: me too
+Astrognome: I think I might resign this one soon, pretty sure you've got it
+]
+(;W[hj]
+(;B[gk]
+C[StuckAt7: I think so too
+StuckAt7: I have the top half of the board
+StuckAt7: and can put up a good fight in the bottom half
+]
+(;W[hi]
+C[Astrognome: yup
+Astrognome: I just made two really dumb errors that cost me top
+Astrognome: I need to use the conditional move planner more so I don't do that =P
+StuckAt7: Yep this game could have gone the other way
+]
+(;B[hk]
+C[Astrognome: Time to start a new one I think
+StuckAt7: Aggreed
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+2135,614,665,StuckAt7,Astrognome,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}",24.303382182144386,23.246514915292064,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-10]
+PC[OGS: https://online-go.com/game/2135]
+GN[13x13 Take Two]
+PB[StuckAt7]
+PW[Astrognome]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[B+T]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+;B[dd]
+(;W[jd]
+(;B[dj]
+(;W[gh]
+(;B[jj]
+)))))"
+2295,614,665,StuckAt7,Astrognome,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}",24.303382182144386,23.246514915292064,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-07-19]
+PC[OGS: https://online-go.com/game/2295]
+GN[This is Ridiculous ]
+PB[StuckAt7]
+PW[Astrognome]
+BR[30k]
+WR[30k]
+TM[1200]OT[5x30 byo-yomi]
+RE[W+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[dd]
+(;W[pd]
+(;B[dp]
+(;W[pp]
+(;B[dj]
+(;W[jd]
+(;B[oc]
+(;W[od]
+(;B[pc]
+(;W[nc]
+(;B[nd]
+(;W[ne]
+(;B[md]
+(;W[mc]
+(;B[ld]
+(;W[lc]
+(;B[kd]
+(;W[kc]
+(;B[jc]
+(;W[je]
+(;B[jf]
+(;W[ke]
+(;B[jp]
+(;W[pj]
+(;B[oo]
+(;W[on]
+(;B[po]
+(;W[qp]
+(;B[mp]
+C[skyfish: testing
+]
+(;W[op]
+C[skyfish: aaa
+skyfish: bb
+]
+(;B[no]
+(;W[om]
+(;B[jj]
+(;W[mj]
+(;B[ic]
+(;W[jh]
+(;B[qc]
+(;W[ob]
+(;B[oe]
+C[skyfish: stone click sound is LOUD :D
+]
+(;W[me]
+(;B[qd]
+(;W[le]
+(;B[pe]
+(;W[nd]
+(;B[ld]
+(;W[nb]
+(;B[ig]
+(;W[jg]
+(;B[if]
+(;W[kg]
+(;B[li]
+(;W[kf]
+(;B[pb]
+(;W[oa]
+(;B[of]
+(;W[lh]
+(;B[ki]
+(;W[ji]
+(;B[kj]
+(;W[mi]
+(;B[mh]
+(;W[nh]
+(;B[mg]
+(;W[ng]
+(;B[lf]
+(;W[lg]
+(;B[kh]
+(;W[mf]
+(;B[pa]
+(;W[mg]
+(;B[ll]
+(;W[lk]
+(;B[kl]
+(;W[kk]
+(;B[jk]
+(;W[hd]
+(;B[id]
+(;W[ie]
+(;B[he]
+(;W[hc]
+(;B[jb]
+(;W[hb]
+(;B[gd]
+(;W[ih]
+(;B[hf]
+(;W[hi]
+(;B[og]
+(;W[oi]
+(;B[ph]
+(;W[rh]
+(;B[rf]
+(;W[nl]
+(;B[qi]
+(;W[ri]
+(;B[qj]
+(;W[pk]
+(;B[qk]
+(;W[pl]
+(;B[mm]
+(;W[ml]
+(;B[nm]
+(;W[nn]
+(;B[mn]
+(;W[jl]
+(;B[il]
+(;W[jm]
+(;B[km]
+(;W[kn]
+(;B[lm]
+(;W[ik]
+(;B[ij]
+(;W[hk]
+(;B[jn]
+(;W[im]
+(;B[hm]
+(;W[hl]
+(;B[in]
+(;W[il]
+(;B[lj]
+(;W[mk]
+(;B[hj]
+(;W[gj]
+(;B[ef]
+(;W[ii]
+(;B[ec]
+C[Astrognome: lol
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+4266,614,665,StuckAt7,Astrognome,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}",24.303382182144386,23.246514915292064,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-02]
+PC[OGS: https://online-go.com/game/4266]
+GN[It's been too long]
+PB[StuckAt7]
+PW[Astrognome]
+BR[30k]
+WR[30k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+C[Astrognome: indeed it has
+]
+;B[dd]
+(;W[jd]
+(;B[dj]
+C[StuckAt7: And it begins
+]
+(;W[jj]
+C[Astrognome: woooo
+]
+(;B[ki]
+C[StuckAt7: It's been a while
+StuckAt7: I'm probably going to suck
+StuckAt7: How's Boston by the way?
+Astrognome: it's ok
+Astrognome: work is good
+Astrognome: I'm enjoying it
+Astrognome: not much to do atm
+Astrognome: I really really hate the roads up here though
+Astrognome: god driving is horrible
+Astrognome: going to harpoonfest this Saturday so that should be fun
+]
+(;W[he]
+C[StuckAt7: Harpoon is awesome
+StuckAt7: and driving in Boston is like driving through the devils colon
+Astrognome: haha
+Astrognome: an excellent analogy
+]
+(;B[ih]
+(;W[ji]
+C[Astrognome: how are things down there?
+StuckAt7: Good
+StuckAt7: I just got back from Seattle for a conference
+StuckAt7: we've been traveling way too much
+StuckAt7: Megan just left for Texas
+StuckAt7: we were in St. Augustine for Javi's proposal
+]
+(;B[jh]
+C[StuckAt7: I'm ready to sit at home
+Astrognome: krikes
+Astrognome: sounds like it
+]
+(;W[hg]
+C[StuckAt7: So what is your job exactly?
+]
+(;B[gf]
+C[Astrognome: doing mysql database work
+Astrognome: writing stored procedures and things
+Astrognome: doing some regular queries for customers I think
+Astrognome: there's a sweet rock gym here, I'm heading there now
+Astrognome: peace
+]
+(;W[hf]
+(;B[hh]
+C[StuckAt7: Oooh metro rock?
+StuckAt7: I love metro rock that place is awesome
+Astrognome: central rock in watertown, just built in may
+Astrognome: 3rd biggest on the east coast I think
+]
+(;W[gg]
+(;B[fh]
+(;W[ff]
+(;B[kf]
+C[Astrognome: were you presenting anything at your conference or just attending?
+]
+(;W[gh]
+(;B[gi]
+C[StuckAt7: I had a talk, on the first day
+StuckAt7: which was nice because then I was able to enjoy seattle for the rest of the trip
+StuckAt7: so much pot
+StuckAt7: pot
+StuckAt7: it bleeps out p0t
+StuckAt7: are you kidding me
+StuckAt7: time to turn to leet speek
+StuckAt7: 133t
+StuckAt7: more correctly
+]
+(;W[ge]
+C[Astrognome: haha funny
+Astrognome: this go stuff is serious business, no drugs allowed
+]
+(;B[ik]
+(;W[dg]
+(;B[fc]
+(;W[ed]
+(;B[ec]
+(;W[fd]
+(;B[de]
+(;W[ee]
+C[Astrognome: It's been long enough for me to forget not to play the center
+]
+(;B[eg]
+C[StuckAt7: The center is so tempting though
+Astrognome: sorry I had to blow you off, had a bunch of stuff to do that wasn't working and my boss was on my back about it
+]
+(;W[ef]
+C[StuckAt7: I understand
+]
+(;B[df]
+C[StuckAt7: You're working for the man now
+Astrognome: ha pretty much
+]
+(;W[eh]
+(;B[dh]
+(;W[fg]
+C[Astrognome: pew pew
+Astrognome: 5:00, time to go home!
+Astrognome: I apparently care about that now
+]
+(;B[ei]
+C[StuckAt7: That's nice though
+StuckAt7: sounds like your day ends cleanly at 5:00
+StuckAt7: and wow
+StuckAt7: that was stupid
+StuckAt7: I don't know how I didn't see that
+Astrognome: =(
+]
+(;W[fi]
+C[Astrognome: and yeah knowing I'll be done at 5 is nice
+]
+(;B[cg]
+C[Astrognome: going to try a ballsy move that might be the wrong one
+Astrognome: lol
+]
+(;W[hi]
+(;B[eg]
+(;W[gj]
+(;B[fh]
+C[StuckAt7: we will see where this goes
+]
+(;W[ii]
+(;B[eh]
+(;W[gc]
+(;B[kd]
+C[StuckAt7: So we were supposed to get reviewed by the NIH today
+StuckAt7: but that didn't happen
+StuckAt7: whoooo government shutdown
+Astrognome: hahaha
+Astrognome: oh dear
+Astrognome: I can't believe this shit is still going on
+Astrognome: damn tea party
+]
+(;W[jg]
+(;B[kg]
+C[StuckAt7: I know it's crazy
+StuckAt7: why did they have to name themselves after tea
+StuckAt7: I like tea
+]
+(;W[ke]
+(;B[le]
+(;W[je]
+(;B[jf]
+C[StuckAt7: Wow sorry to disappear like that
+Astrognome: np
+Astrognome: I was busy all weekend
+StuckAt7: Same
+StuckAt7: Kyle was just up in Boston
+StuckAt7: he didn't realize you were up there
+Astrognome: ah damn
+Astrognome: well I was in MD all weekend for weddings
+Astrognome: so I wasn't here from Friday until this morning
+]
+(;W[ie]
+C[Astrognome: btw, Amanda wanted to tell you:
+Astrognome: (and Megan moreso)
+Astrognome: ""it's not a competition""
+Astrognome: ""but Rob and Megan are totally winning at having the best wedding""
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))"
+430140,614,665,StuckAt7,Astrognome,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1433.0601092699176, 'deviation': 260.48877518890885, 'volatility': 0.06000173569164599}}",24.303382182144386,23.246514915292064,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-11-12]
+PC[OGS: https://online-go.com/game/430140]
+GN[Don't time out!]
+PB[StuckAt7]
+PW[Astrognome]
+BR[30k]
+WR[30k]
+TM[0]OT[0 none]
+RE[W+6.5]
+SZ[13]
+KM[6.5]
+RU[Japanese]
+C[StuckAt7: I go for the center!
+StuckAt7: How's boston?
+StuckAt7: Winter is Coming...
+StuckAt7: you should keep that in mind up there
+]
+;B[gg]
+(;W[jj]
+C[Astrognome: it's ok, I am slightly worried about the winter 
+Astrognome: with my rear wheel drive camare
+Astrognome: camaro*
+Astrognome: still not a fan of Waltham but Boston was cool the one time I went into the city with Amanda
+Astrognome: I should do that more often
+]
+(;B[ik]
+C[StuckAt7: I'm looking up where that is
+StuckAt7: I'm not sure
+Astrognome: west of cambridge and watertown
+Astrognome: out by 95
+]
+(;W[ih]
+C[Astrognome: it's not terribly convenient to go into Boston but it's not that bad
+StuckAt7: Yeah doesn't look to bad
+StuckAt7: you're basically in the burbs
+Astrognome: yup
+Astrognome: but my vision of burbs is very different from the boston version lol
+Astrognome: maybe I'll go into the city this weekend and do something
+Astrognome: how are things down there?
+StuckAt7: Good
+StuckAt7: a little better now
+Astrognome: that's good
+StuckAt7: yeah
+Astrognome: anyone else from our year still there? =P
+StuckAt7: Eric
+StuckAt7: Erik?
+StuckAt7: That's pretty much it
+]
+(;B[kd]
+(;W[dj]
+C[Astrognome: rough times
+StuckAt7: I've gotten over the Meg and I aren't going to graduate at the same time panic
+StuckAt7: though which is good
+Astrognome: good
+Astrognome: I was in Amanda/Brandon's home town last weekend I was afriad I might run into him
+StuckAt7: That could be awkward
+Astrognome: it would have been fine, I was just like
+Astrognome: oh god
+Astrognome: I don't know what brandon is doing
+Astrognome: he could be in Niskayuna!
+StuckAt7: I don't either
+]
+(;B[ce]
+C[StuckAt7: I know Eva is still in Virginia 
+]
+(;W[ke]
+C[Astrognome: I assume that means her bf hasn't died yet
+Astrognome: zing!
+StuckAt7: not yet...
+]
+(;B[je]
+C[StuckAt7: It's lonely down here now though
+Astrognome: =(
+Astrognome: I'm planning to come visit (hopefully with Amanda) after christmas
+Astrognome: like maybe late January or early February
+]
+(;W[kf]
+C[StuckAt7: That'd be awesome!
+StuckAt7: do you and Amanda need a place to stay?
+]
+(;B[jg]
+C[StuckAt7: I'm about ready to head home so I'll be out for a little while.
+Astrognome: I mean I haven't planned anything, I'm just intending to have us visit
+]
+(;W[jf]
+C[Astrognome: is that hotel in Carrboro open yet?
+StuckAt7: I'm not sure
+]
+(;B[jh]
+C[StuckAt7: well I'll see you later
+Astrognome: peace!
+]
+(;W[ig]
+(;B[if]
+C[StuckAt7: Meg says the carrboro hotel is open
+]
+(;W[kh]
+(;B[ji]
+C[Astrognome: sweet
+]
+(;W[ii]
+(;B[ck]
+(;W[ie]
+C[StuckAt7: I think I'm getting my ass kicked
+]
+(;B[di]
+C[Astrognome: on the right half of the board anyway, I think you're still ok on the left
+]
+(;W[fj]
+(;B[gc]
+(;W[hf]
+(;B[gi]
+(;W[gh]
+(;B[hh]
+(;W[hi]
+(;B[fh]
+(;W[hg]
+(;B[gh]
+(;W[gf]
+(;B[jd]
+C[StuckAt7: Just put something together that I had the machine shop build
+StuckAt7: it's always scary as hell
+Astrognome: ha
+Astrognome: hoping you gave them the right dimensions?
+]
+(;W[kg]
+C[StuckAt7: yep
+StuckAt7: because they don't fuck up
+StuckAt7: you do
+]
+(;B[id]
+(;W[hd]
+(;B[hc]
+C[StuckAt7: So how are you and Amanda doing? Is she still moving up to Boston soon?
+Astrognome: Still doing ok, miss her like crazy but I saw her last weekend
+Astrognome: and we'll see each other a good bit over the holidays
+Astrognome: she just sent her resume to a recruiter for a position at the federal reserve in Boston that she's excited about, hopefully it works out
+]
+(;W[gj]
+C[Astrognome: long distance is worse this time around now that we've lived together
+Astrognome: at least imo
+]
+(;B[ei]
+C[StuckAt7: Yeah that would be hard. I don't think Megan and I could do it now. You get spoiled
+StuckAt7: but the Federal Reserve job seems awesome
+StuckAt7: I have no idea what Amanda would be doing at the Federal Reserve but it sounds important
+]
+(;W[ej]
+C[Astrognome: they rejected her =(
+Astrognome: apparently they only read like 1 line of her resume and decided that was her specialty/all she know how to do
+Astrognome: bad times
+]
+(;B[hj]
+C[StuckAt7: Man that's rough.
+StuckAt7: At least they got back to her a little bit
+StuckAt7: usually failed applications just fall into a black hole
+]
+(;W[hk]
+C[Astrognome: yeah that's true
+Astrognome: also the recruiter said they would resubmit her resume if she wanted to change it a bit
+]
+(;B[ij]
+C[Astrognome: found out that some guys I work with know some people in risk management/finance so I gave them her resume today
+]
+(;W[jk]
+C[StuckAt7: I understand wanting to get the long distance over with as soon as possible.
+]
+(;B[il]
+C[StuckAt7: Hopefully something works out.
+]
+(;W[hl]
+(;B[fe]
+(;W[cj]
+(;B[ci]
+(;W[gd]
+C[Astrognome: no idea what I want to do in this game now
+Astrognome: that was a rushed decision, don't want it open at work too long =P
+]
+(;B[fc]
+(;W[ge]
+C[StuckAt7: It's speed go!
+]
+(;B[bj]
+C[Astrognome: =P
+Astrognome: fuk
+Astrognome: fuck**
+Astrognome: I use that emoticon too much
+]
+(;W[dk]
+C[StuckAt7: Is that fuck because you over use that emoticon too much
+StuckAt7: or am I missing an obvious move that I can make that screws you up?
+]
+(;B[ff]
+C[Astrognome: Don't worry, it was due to the emoticon overuse
+]
+(;W[fd]
+(;B[ed]
+C[StuckAt7: You don't have a healthy relationship with emoticons do you
+]
+(;W[ld]
+(;B[kc]
+(;W[lc]
+C[Astrognome: not at all
+]
+(;B[lb]
+(;W[mb]
+C[Astrognome: I think this game is pretty much over
+Astrognome: I don't see how I could break into the left half of the board
+StuckAt7: yeah
+StuckAt7: shall we double pass
+]
+(;B[dg]
+C[Astrognome: sure
+]
+(;W[]
+(;B[]
+C[StuckAt7: okay how do we do this scorring
+StuckAt7: that isn't crazy
+StuckAt7: I think we might have to go back and fill out the boarders
+Astrognome: hmm we might
+Astrognome: I don't know how to do it otherwise
+Astrognome: what happens if you hit autoscore?
+Astrognome: lol
+Astrognome: I guess we really only need two more white stones for the border at the bottom left
+StuckAt7: yep
+StuckAt7: so lets close this board up
+StuckAt7: because I think the score is close
+StuckAt7: you've captured a bunch of stones and have the handicap
+]
+(;W[cl]
+(;B[bk]
+(;W[bl]
+C[Astrognome: indeed
+]
+(;B[al]
+(;W[bm]
+(;B[am]
+C[Astrognome: I think that's good
+]
+(;W[]
+(;B[]
+C[StuckAt7: yep looks good
+StuckAt7: why do I have no points
+StuckAt7: wait I think I have to close of the upper side for my
+Astrognome: ah ok
+]
+(;W[mc]
+(;B[la]
+C[StuckAt7: I think we're good now
+]
+(;W[]
+(;B[]
+C[StuckAt7: That's better
+StuckAt7: you still win
+Astrognome: yay
+Astrognome: close one though
+Astrognome: gg
+Astrognome: ha, won by exactly the komi
+Astrognome: I think that means we are quite evenly matched
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

@@ -1,0 +1,131 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+1975,890,288,jeff.haw1,csobod,us,us,"{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}","{'version': 5, 'overall': {'rating': 1333.1912566618555, 'deviation': 195.06834014127082, 'volatility': 0.05999843071633905}}",24.303382182144386,21.57423796905288,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-06-25]
+PC[OGS: https://online-go.com/game/1975]
+GN[Open Malkovich]
+PB[jeff.haw1]
+PW[csobod]
+BR[30k]
+WR[19k]
+TM[259200]OT[86400 fischer]
+RE[W+T]
+SZ[19]
+KM[0.5]
+RU[AGA]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[csobod: This is an open Malkovich. When it is your turn, type in your reasoning for your move.
+csobod: I'm going to attack this corner.
+csobod: Whoop: you have to click ""Malkovich Log"" which is the paper icon above the chat box.
+csobod: The idea is to keep moves from each other. Too late now.
+]
+;W[fq]
+C[csobod: Whoop: you have to click ""Malkovich Log"" which is the paper icon above the chat box.
+csobod: The idea is to keep moves from each other. Too late now.
+]
+(;B[fp]
+C[csobod: I was planning on attacking this corner, but now I might want to slip in through the side and made better use of this stone later.
+csobod: I'm going to go for the side, then peep elsewhere.
+]
+(;W[jq]
+C[jeff.haw1: okay so i moved where i did to challenge the attack in the corner, personally i think i should build some connections in the top of the boarf
+jeff.haw1: board
+jeff.haw1: but ive essentially made my fate in protecting that corner
+]
+(;B[gq]
+C[csobod: When you write that in, put it in your Malkovich Log, which is the tab pictured with a piece of paper above the chatbox on the right. We'll be able to review our thoughts after the game.
+csobod: Attack, attack.
+]
+(;W[eq]
+C[jeff.haw1: okay so i moved where i did to challenge the attack in the corner, personally i think i should build some connections in the top of the boarf jeff.haw1: board jeff.haw1: but ive essentially made my fate in protecting that corner
+jeff.haw1: and now im trying to seal off your movement on the corner
+]
+(;B[ep]
+C[csobod: Extend.
+csobod: Missing a liberty, hope I can make it up.
+]
+(;W[dq]
+(;B[cq]
+C[csobod: I can't.
+]
+(;W[es]
+(;B[er]
+C[csobod: Trying to survive
+jeff.haw1: that was so i can keep a connection
+]
+(;W[dr]
+C[jeff.haw1: now i just have to beat you to the wall
+]
+(;B[fr]
+(;W[gr]
+C[jeff.haw1: i find this harder than playing on a board lmao
+jeff.haw1: its harder to plan out moves in my opinion
+jeff.haw1: also those two are dead as a door nail.
+csobod: Yes, I can kill.
+]
+(;B[hr]
+C[jeff.haw1: that last move was to bring my connection to the wall
+csobod: Planning on killing H2 and extending at D2
+]
+(;W[gs]
+(;B[hs]
+(;W[fs]
+(;B[hq]
+C[csobod: It's a good teaching aid. Type in whenever you have a specific strategy in mind.
+jeff.haw1: creates a stronger connection
+csobod: She lives!
+]
+(;W[cr]
+C[csobod: Into your journal, that is.
+csobod: All this gets recorded as an SGF file, so that you can archive it and study on it whenever you want.
+jeff.haw1: playing at B3 prevents a ko from forming but leaves me weak at spot C4
+]
+(;B[bq]
+(;W[br]
+C[jeff.haw1: now playing at C4 strengthens those peices
+]
+(;B[cp]
+(;W[aq]
+C[jeff.haw1: playing at A4 creates a connection to the wall and makes it harder for chad to take those peices.
+]
+(;B[ap]
+(;W[ar]
+C[csobod: Well, that's cool and totally pointless. Time to haul my ass elsewhere.
+jeff.haw1: B5 creates a temporary eye and stops him from running me up the wall.
+]
+(;B[bo]
+C[jeff.haw1: oh thats pretty cool
+]
+(;W[nq]
+C[csobod: O3 is that elsewhere, apparently. Really need to get northeast.
+jeff.haw1: A5 prevents him from taking a piece.
+]
+(;B[ao]
+(;W[qn]
+C[csobod: Damn, just letting me grab it? FUCK HOMIE.
+jeff.haw1: start attempting to make territory with double jumps from peices K16 and D16 by playing at G16
+]
+(;B[gd]
+(;W[qj]
+C[csobod: Extension, extension.
+jeff.haw1: same strategy on the last move.
+]
+(;B[md]
+(;W[qf]
+C[csobod: Keep going.
+jeff.haw1: challenge his attempt to move into this side
+]
+(;B[qe]
+(;W[ph]
+C[jeff.haw1: hey im thinkin we recreate this game tomorrow and play it out. and talk through it as we go, im gettin tired as hell 
+jeff.haw1: kinda just wanna chill for a bit honestly then go to bed
+csobod: Dude, we have 8 days on the timer.
+csobod: Just walk away from it, we'll pick back up
+jeff.haw1: lol yea just thought id tell ya and not leave ya hangin lmao
+csobod: Yeah mang, that correspondence game. Anyway, I'll ttyl. Have a good one man. I have some chores to do in the morning, but we'll get together tomorrow say afternoon?
+jeff.haw1: sounds great!
+csobod: Peace brah!
+]
+)))))))))))))))))))))))))))))))))))"

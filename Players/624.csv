@@ -1,0 +1,674 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+997,28,624,seanachain,shmiao,ie,us,"{'version': 5, 'overall': {'rating': 1672.9524090103962, 'deviation': 62.671596468452364, 'volatility': 0.060025612734896955}}","{'version': 5, 'overall': {'rating': 1438.603198478973, 'deviation': 293.56723851289763, 'volatility': 0.05999897368774166}}",26.82962285307493,23.335886586558694,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-04-13]
+PC[OGS: https://online-go.com/game/997]
+GN[nameeee]
+PB[seanachain]
+PW[shmiao]
+BR[15k]
+WR[12k]
+TM[0]OT[172800 simple]
+RE[B+T]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[3]
+AB[pp][pd][dp]
+;W[dd]
+(;B[fc]
+C[seanachain: ? Why handi?
+shmiao: I don't know, apparently you are stronger than me too...
+]
+(;W[ic]
+C[seanachain: strange...
+]
+(;B[fe]
+(;W[df]
+C[shmiao: lets see how it goes...
+]
+(;B[ch]
+(;W[eh]
+(;B[kc]
+(;W[ie]
+(;B[gg]
+(;W[ff]
+(;B[gf]
+(;W[ge]
+(;B[ee]
+(;W[ef]
+(;B[de]
+(;W[ce]
+(;B[gd]
+(;W[he]
+(;B[dc]
+(;W[ec]
+(;B[cd]
+(;W[ed]
+(;B[fd]
+(;W[eb]
+(;B[db]
+(;W[fb]
+(;B[gb]
+(;W[gc]
+(;B[be]
+C[seanachain: it seems i made a big boo boo :(
+]
+(;W[cf]
+C[shmiao: yes, move 26
+shmiao: shoud've c14
+]
+(;B[bc]
+C[seanachain: [object Object\]
+]
+(;W[qn]
+(;B[qj]
+(;W[fq]
+C[shmiao: I thought I read out a sequence where I died... but I guess I was imagining things, I can't find it again...
+]
+(;B[cn]
+(;W[nq]
+(;B[eq]
+(;W[fp]
+(;B[oq]
+(;W[np]
+C[shmiao: it did not email me that you had moved...
+]
+(;B[qo]
+C[seanachain: oh...
+shmiao: that wasn't meant to happen...
+shmiao: I had a very busy week at work
+shmiao: :(
+shmiao: good game, and sorry about that
+]
+))))))))))))))))))))))))))))))))))))))))))"
+456397,55901,624,CaptainZSC,shmiao,au,us,"{'version': 5, 'overall': {'rating': 1697.2738614268717, 'deviation': 63.99351433938075, 'volatility': 0.0599092324524657}}","{'version': 5, 'overall': {'rating': 1438.603198478973, 'deviation': 293.56723851289763, 'volatility': 0.05999897368774166}}",27.16375555084745,23.335886586558694,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-12-25]
+PC[OGS: https://online-go.com/game/456397]
+GN[shmiao]
+PB[Jason JH]
+PW[shmiao]
+BR[19k]
+WR[12k]
+TM[1200]OT[5x30 byo-yomi]
+RE[B+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pp]
+(;W[dp]
+C[Jason JH: hi
+]
+(;B[qd]
+(;W[dc]
+(;B[de]
+(;W[ce]
+(;B[cf]
+(;W[cd]
+(;B[df]
+(;W[oc]
+(;B[pe]
+(;W[ld]
+(;B[cj]
+(;W[qn]
+(;B[ql]
+(;W[on]
+(;B[np]
+(;W[pk]
+(;B[pl]
+(;W[ol]
+(;B[ok]
+(;W[pj]
+(;B[om]
+(;W[nl]
+(;B[nm]
+(;W[ml]
+(;B[pm]
+(;W[qq]
+(;B[qp]
+(;W[pq]
+(;B[oq]
+(;W[rp]
+(;B[ro]
+(;W[rq]
+(;B[qo]
+(;W[or]
+(;B[nr]
+(;W[pr]
+(;B[sp]
+(;W[sr]
+(;B[fq]
+(;W[qh]
+(;B[pc]
+(;W[ob]
+(;B[od]
+(;W[nd]
+(;B[ne]
+(;W[me]
+(;B[pb]
+(;W[cn]
+(;B[dr]
+(;W[cq]
+(;B[ip]
+(;W[mq]
+(;B[nq]
+(;W[mm]
+(;B[mn]
+(;W[ln]
+(;B[mo]
+(;W[lo]
+(;B[lp]
+(;W[kp]
+(;B[lm]
+(;W[ko]
+(;B[km]
+(;W[mp]
+(;B[lq]
+(;W[mr]
+(;B[lr]
+(;W[kq]
+(;B[kk]
+(;W[io]
+(;B[ho]
+(;W[kr]
+(;B[ms]
+(;W[iq]
+(;B[in]
+(;W[jo]
+(;B[hp]
+(;W[hq]
+(;B[gq]
+(;W[gr]
+(;B[fr]
+(;W[hs]
+(;B[jr]
+(;W[js]
+(;B[jp]
+(;W[ir]
+(;B[jq]
+(;W[nj]
+(;B[cr]
+(;W[br]
+(;B[bp]
+(;W[bq]
+(;B[bn]
+(;W[cm]
+(;B[bm]
+(;W[bl]
+(;B[cl]
+(;W[ck]
+(;B[dl]
+(;W[bj]
+(;B[co]
+(;W[dn]
+(;B[do]
+(;W[eo]
+(;B[en]
+(;W[cp]
+(;B[dm]
+(;W[ap]
+(;B[bo]
+(;W[ci]
+(;B[fo]
+(;W[dj]
+(;B[dd]
+(;W[ec]
+(;B[gd]
+(;W[gc]
+(;B[fd]
+(;W[hc]
+(;B[fg]
+(;W[bf]
+(;B[bg]
+(;W[be]
+(;B[ch]
+(;W[bh]
+(;B[ah]
+(;W[bi]
+(;B[al]
+(;W[bk]
+(;B[dh]
+(;W[ai]
+(;B[ag]
+(;W[ak]
+(;B[ek]
+(;W[ej]
+(;B[fk]
+(;W[fj]
+(;B[gj]
+(;W[gi]
+(;B[hi]
+(;W[fh]
+(;B[gh]
+(;W[fi]
+(;B[hg]
+(;W[hd]
+(;B[nc]
+(;W[mc]
+(;B[md]
+(;W[nb]
+(;B[nd]
+(;W[lf]
+(;B[mb]
+(;W[lb]
+(;B[lc]
+(;W[kc]
+(;B[kb]
+(;W[mc]
+(;B[cc]
+(;W[bc]
+(;B[lc]
+(;W[jn]
+(;B[im]
+(;W[mc]
+(;B[fc]
+(;W[fb]
+(;B[lc]
+(;W[jm]
+(;B[jl]
+(;W[mc]
+(;B[gb]
+(;W[ma]
+(;B[cb]
+(;W[db]
+(;B[bb]
+(;W[ab]
+(;B[rg]
+(;W[qg]
+(;B[rf]
+(;W[rh]
+(;B[mf]
+(;W[nf]
+(;B[le]
+C[doublep: another ko at l1
+]
+(;W[ke]
+(;B[lg]
+(;W[me]
+(;B[mg]
+(;W[ng]
+(;B[nh]
+(;W[pg]
+(;B[of]
+(;W[og]
+(;B[pf]
+(;W[mh]
+(;B[lh]
+(;W[mi]
+(;B[rj]
+(;W[qk]
+(;B[rk]
+(;W[ri]
+(;B[li]
+(;W[lj]
+(;B[kj]
+(;W[lk]
+(;B[kl]
+(;W[hj]
+(;B[gk]
+(;W[ii]
+(;B[hh]
+(;W[ki]
+(;B[jg]
+(;W[kg]
+(;B[ji]
+(;W[kh]
+(;B[jh]
+C[doublep: oh wait
+]
+(;W[il]
+(;B[jj]
+(;W[hn]
+(;B[hm]
+(;W[he]
+(;B[gf]
+(;W[ge]
+(;B[fe]
+(;W[pa]
+(;B[qa]
+(;W[oa]
+(;B[rb]
+(;W[ks]
+(;B[ls]
+(;W[os]
+(;B[so]
+(;W[sq]
+(;B[af]
+(;W[ae]
+(;B[je]
+(;W[jf]
+C[doublep: wtf
+]
+(;B[if]
+(;W[jd]
+(;B[ie]
+(;W[cg]
+(;B[dg]
+(;W[qf]
+(;B[qe]
+(;W[re]
+(;B[rd]
+(;W[sg]
+(;B[se]
+(;W[sj]
+(;B[sk]
+(;W[qj]
+(;B[rl]
+(;W[si]
+(;B[ed]
+(;W[fs]
+(;B[es]
+(;W[gs]
+(;B[kn]
+C[shmiao: gg
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+4736208,304244,624,madhat5,shmiao,_Pirate,us,"{'version': 5, 'overall': {'rating': 1215.0209112056687, 'deviation': 263.608068138197, 'volatility': 0.060000761381299984}}","{'version': 5, 'overall': {'rating': 1438.603198478973, 'deviation': 293.56723851289763, 'volatility': 0.05999897368774166}}",19.42558873537257,23.335886586558694,False,False,provisional,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2016-04-15]
+PC[OGS: https://online-go.com/game/4736208]
+GN[HelloWorld1]
+PB[madhat5]
+PW[shmiao]
+BR[?]
+WR[?]
+TM[604800]OT[5x86400 byo-yomi]
+RE[W+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+;B[pd]
+(;W[dp]
+(;B[pp]
+(;W[cd]
+(;B[cj]
+(;W[ec]
+(;B[qn]
+(;W[qf]
+(;B[nc]
+(;W[qi]
+(;B[cm]
+(;W[nq]
+(;B[cf]
+(;W[ch]
+(;B[gq]
+(;W[kq]
+(;B[pr]
+(;W[eq]
+(;B[bo]
+(;W[gp]
+(;B[hr]
+(;W[hp]
+(;B[fp]
+(;W[fq]
+(;B[fr]
+(;W[er]
+(;B[fs]
+(;W[hq]
+(;B[gs]
+(;W[jq]
+(;B[is]
+(;W[ir]
+(;B[dr]
+(;W[cq]
+(;B[ip]
+(;W[io]
+(;B[jr]
+(;W[iq]
+(;B[jp]
+(;W[ko]
+(;B[ks]
+(;W[mr]
+(;B[ds]
+(;W[bq]
+(;B[os]
+(;W[ns]
+C[shmiao: So what got you into go?
+madhat5: i saw it in a manga once, and starting reading more about
+madhat5: also saw a korean gangster movie on netflix centered around go
+madhat5: i like it more than chess, its less rigid but so much harder i think, because its so open
+]
+(;B[oq]
+(;W[di]
+C[shmiao: hikaru no go?
+shmiao: whats the korean show?
+shmiao: definitely more open than chess, simple rules, but very complex play. A win in a localized area, can mean a global loss.
+madhat5: yea, that's why i like it, really focuses more on the player and how far ahead they can think
+madhat5: the movie is the Divine Move
+madhat5: pretty good
+]
+(;B[rp]
+(;W[df]
+(;B[cp]
+(;W[dq]
+C[shmiao: Ill check it out on netflix when I get home
+shmiao: was the manga called hikaru no go?
+madhat5: no, i didn't even know about that one, definitely going to read it now though (it's also on hulu apparently). I forget what the manga i read that had it, but it was just a scene in the manga
+]
+(;B[qr]
+C[shmiao: when playing go, try to remember 3 things which should improve your play considerably. In order of importance 1. Are any of my groups in danger (can I save them?) 2. Are any of my opponents stones in danger (How can I put pressure on them?) 3. Whats the biggest move?
+]
+(;W[kc]
+C[madhat5: Nice, thanks for the tips!!
+]
+(;B[lq]
+(;W[lr]
+C[shmiao: anytime
+]
+(;B[lp]
+(;W[kp]
+(;B[pf]
+C[madhat5: just lost 2....
+shmiao: you're entire bottom group is dead too
+shmiao: :)
+madhat5: yea :/ i was trying to win that one group on the bottom right and totally screwed it up....
+]
+(;W[qd]
+C[shmiao: it happens... your opening is good, just remember the 3 rules
+]
+(;B[qe]
+C[madhat5: Cool, baby steps!! lol
+shmiao: https://shop.gogameguru.com/lessons-in-the-fundamentals-of-go/
+shmiao: you should get this book, if you really want to learn and get good
+]
+(;W[re]
+(;B[oe]
+(;W[pe]
+C[madhat5: definitely!!
+madhat5: ...that group on the top right is eternal ko isn't it?
+shmiao: it is ko. but you didnt need it to be
+shmiao: whoever gets last play can fill in middle space
+madhat5: ohh ok
+shmiao: last play in ko fight that is... but its not that important here. prob more important for me than it is for you. but in this case I dont need to win
+shmiao: i can make life on right side pretty easy, or escape in corner, if you cut me and want to make life there
+shmiao: might be hard but probably doable
+shmiao: the problem with the way you played, is that now you have to respond to me cause if I cut you at p16 it will hurt
+shmiao: so either you win the ko fight, or you block at p16
+]
+(;B[od]
+(;W[qe]
+C[shmiao: now i am not in any immediate danger
+shmiao: but I have bad shape
+]
+(;B[rr]
+(;W[hc]
+C[shmiao: why did you play s2?
+shmiao: tell me to just shut up, if you prefer to play without my commentary
+madhat5: werid move i guess
+madhat5: lol no prob tho
+shmiao: yea, the bottom right corner is solid, there is no way I can invade that. It is your territory.
+shmiao: ill be quiet now, so we can just play
+madhat5: lol no! no prob!!
+madhat5: honestly, i was going to try to setup some eyes there, but realised after i didn't really need to
+]
+(;B[kd]
+(;W[jd]
+(;B[ld]
+(;W[lc]
+(;B[md]
+(;W[mb]
+(;B[nb]
+(;W[ce]
+(;B[bf]
+(;W[bh]
+(;B[hd]
+(;W[id]
+(;B[gd]
+(;W[gc]
+(;B[ie]
+(;W[je]
+(;B[he]
+(;W[jf]
+(;B[jg]
+(;W[ig]
+(;B[kf]
+(;W[ql]
+(;B[if]
+(;W[hg]
+(;B[ic]
+(;W[ib]
+C[madhat5: damn... well played
+shmiao: thanks
+shmiao: you forfeiting, or just busy?
+shmiao: what, you have more important things to do than play go?
+shmiao: :)
+madhat5: hehehe my bad, was a busy day at the office
+madhat5: i'm still in!!
+]
+(;B[gg]
+(;W[hi]
+C[shmiao: glad to hear it
+shmiao: what do you do?
+madhat5: i'm doing tech support for an app called Qapital (https://www.qapital.com/)
+madhat5: pretty cool concept
+madhat5: what're you up to these days?
+]
+(;B[ih]
+(;W[hh]
+C[shmiao: interesting, looking at their website now. How is it different to Mint?
+shmiao: I am still working as a research in structured finance for an asset manager
+madhat5: Mint is definitely a competitor. With us you can link your account with other apps like IFTTT, Apple Health and what not
+madhat5: its goal and rule oriented, and we try to make the user enjoy savings
+]
+(;B[ii]
+(;W[ei]
+C[shmiao: thats cool
+shmiao: do you enjoy it?
+]
+(;B[gi]
+C[madhat5: yea its been good overall so far i think
+]
+(;W[gh]
+C[shmiao: thats good, overall positive experience is good
+]
+(;B[fh]
+(;W[fg]
+(;B[gf]
+(;W[fi]
+(;B[eh]
+(;W[gj]
+(;B[hf]
+(;W[eg]
+C[madhat5: if i play g11, wouldnt that mean death for your group?
+]
+(;B[jb]
+C[shmiao: no but you can atari at H10 to force me to play g11
+]
+(;W[jc]
+C[shmiao: but I can respond with g11 or take your stones at d12
+madhat5: yea, but i would still lose the group at f/g12 
+madhat5: *e/f
+shmiao: I consider them dead already :)
+madhat5: haha
+shmiao: as is H15 group...
+shmiao: sorry
+madhat5: yea i saw that too :/
+shmiao: heres a question, do you think your group at bottom is alive or dead?
+shmiao: F1 group?
+madhat5: i think still alive, barely though
+shmiao: lets play it out. 
+shmiao: its dead by the way. But I want to make sure you know why.
+shmiao: All your eyes are called false eyes
+madhat5: ohh man, i read about those too.. totally forgot, damn...
+shmiao: haha, yea, they are tricky
+]
+(;B[kr]
+C[shmiao: example is if you play L2
+shmiao: haha perfect,
+]
+(;W[ls]
+C[shmiao: now if you fill at k1 i play H1
+shmiao: if you play H1 first I can take at K1
+madhat5: i'm screwed either way, you would play at either e1 or g2 right?
+shmiao: yea
+]
+(;B[js]
+C[shmiao: actually truth be told, if you did play anywhere at the bottom now, I would likely ignore, and play somewhere where I can score big points. I could probably ignore 1-3 moves of yours.
+madhat5: yea that's yours now anyway
+]
+(;W[hs]
+C[shmiao: If you remember at some point, I started playing elsewhere. Simply cause there was no way you could make life, and ignored many moves of yours down there. Allowed me to make big moyo on top left
+]
+(;B[pi]
+C[shmiao: nice
+madhat5: :)
+shmiao: a little too far of a jump in my opinion, but you need to focus on another group
+shmiao: I would have either played to help your weak group at C10
+shmiao: or secured corner at R17
+shmiao: but putting pressure on my right could also be good
+shmiao: cause if I ignore you, I can make this really annoying move
+]
+(;W[ak]
+C[shmiao: or if I played R17 would be really annoying for you
+shmiao: but now you might really struggle to make life on left
+shmiao: A9 is called a monkey jump
+shmiao: and I hate it when people do it to me
+shmiao: :)
+shmiao: I will let you try to figure out the best way to respond
+shmiao: if you havent checked it out already, I recommend http://senseis.xmp.net/?PagesForBeginners
+shmiao: good place to learn stuff about go in general
+madhat5: haha i actually always have that page open when i play 
+]
+(;B[bk]
+(;W[aj]
+C[shmiao: good response by the way
+madhat5: hehe thanks!
+]
+(;B[al]
+(;W[bi]
+C[shmiao: coudnt play at all this weekend...
+shmiao: bummed out
+madhat5: no prob! same here, hectic weekend/monday
+]
+(;B[qc]
+(;W[rc]
+(;B[qb]
+(;W[rb]
+(;B[qa]
+(;W[pg]
+(;B[of]
+(;W[ph]
+(;B[oi]
+(;W[pk]
+(;B[qj]
+(;W[pj]
+(;B[sj]
+(;W[rl]
+(;B[em]
+(;W[co]
+(;B[bp]
+(;W[cn]
+(;B[dn]
+(;W[do]
+(;B[bm]
+(;W[bn]
+(;B[ol]
+(;W[nk]
+C[madhat5: gonna try and start this one up again!
+madhat5: but might just be a new game, so lookout for a challenge soonish
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"

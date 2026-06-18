@@ -1,0 +1,175 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+123,1,114,anoek,quiettimes3,us,,"{'version': 5, 'overall': {'rating': 1205.4125394041205, 'deviation': 62.349733098663535, 'volatility': 0.06006351933873569}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",19.24179109733849,24.303382182144386,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-01-30]
+PC[OGS: https://online-go.com/game/123]
+GN[]
+PB[anoek]
+PW[Quiettimes]
+BR[26k]
+WR[17k]
+TM[86400]OT[1/86400 canadian]
+RE[W+8.5]
+SZ[9]
+KM[7.5]
+RU[AGA]
+;B[gc]
+(;W[gg]
+C[anoek: Heya, and welcome to Nova.gs :)
+]
+(;B[cc]
+(;W[cg]
+C[anoek: you should be able to double click / double tap to place stones if you don't like the submit system, fyi :)
+]
+(;B[ee]
+(;W[hd]
+C[Quiettimes: Good to know.  Was first dislike
+anoek: You can change that behavior if you'd like
+anoek: if you click the wrench, you can change it to single click submit
+]
+(;B[hc]
+(;W[gd]
+C[Quiettimes: So, on chrome and iPad double click triggers copy/paste function at the 10.5
+anoek: Oh yuck
+]
+(;B[ce]
+C[anoek: good to know, thanks for telling me, i'll see if we can behave better
+]
+(;W[ef]
+C[Quiettimes: I don't want you get get a bad vibe from me.  I really like what I see.
+]
+(;B[fd]
+C[anoek: Well thats good :) And it's fine, we're pretty new, while we did a lot of testing and whatnot, we expected a lot of feedback on issues we didn't catch
+]
+(;W[be]
+C[Quiettimes: Did some testing on health care software. It is frustrating for devs.
+]
+(;B[ge]
+(;W[he]
+C[Quiettimes: Wrench sits behind++
+]
+(;B[hf]
+C[Quiettimes: Really looking forward to malkovich logs
+anoek: Oh yuck, it sure does.. so the layout is fairly fluid, if you put your device in portrait mode you might be able to get to it. In landscape, on thinner devices, it will move below the ++ ... there is a range there where that doesn't happen, i'm logging that as a bug.. should be fixed up by tomorrow
+anoek: thanks for pointing that out
+anoek: Yeah I'm very curious to see how people like and use them :) (Malkovich logs that is)
+Quiettimes: [object Object\]
+Quiettimes: Ooooooooo.  Very cool
+anoek: :)
+]
+(;W[gf]
+(;B[fe]
+(;W[if]
+(;B[hg]
+(;W[hh]
+C[Quiettimes: What about sound effects for stones?
+anoek: If you could get to the wrench, you could turn those on :)
+]
+(;B[de]
+C[Quiettimes: Ah
+]
+(;W[bd]
+C[Quiettimes: The numbers on the side.  17.5 and 10, score estimates?
+]
+(;B[ff]
+C[anoek: well, not so much estimates as the current score of the game (without any guessing as to possible area)
+anoek: On PC's you can mouse over them and they'll show you what it's scoring - on the ipad, you might be able to tap them once to get a similar effect, i'm not sure
+]
+(;W[fg]
+(;B[eg]
+(;W[df]
+C[Quiettimes: Yup.  Very cool
+]
+(;B[cf]
+C[anoek: We've gotten some mixed reviews about that one.. we may make it an optional feature during game creation or something, some people don't like seeing the score until the end :)
+]
+(;W[dg]
+(;B[eh]
+(;W[bf]
+(;B[bg]
+(;W[bh]
+(;B[bc]
+(;W[ec]
+C[Quiettimes: Yes.  Not a fan myself.  Cool idea but it moves the game from playing the board to playing the numbers.  Maybe I'm being a traditionalist.
+]
+(;B[db]
+C[Quiettimes: So this is a play by mail (pbm)game right? So if I close this window I should be able to open again?
+anoek: Correct
+anoek: And if you don't have a browser open to the site, you'll get email notifications when I move and whatnot as well :)
+anoek: (if you have that setup)
+anoek: .. ie your email address is provided and you have the little email prefference checked under the preferences.. (which is turned on by default)
+Quiettimes: Solid
+Quiettimes: Like the conditional moves
+anoek: Excellent :)
+]
+(;W[dc]
+C[anoek: Don't know if you noticed, but if you go to the main games screen (clicking the nova), you'll see mini boards of all the games you're in with any that are your turn highlighted .. and they update in realtime too :)
+]
+(;B[cd]
+(;W[ig]
+(;B[id]
+(;W[ie]
+(;B[ic]
+(;W[ag]
+(;B[ad]
+(;W[fc]
+(;B[gb]
+(;W[bb]
+(;B[eb]
+(;W[ae]
+(;B[ac]
+(;W[cb]
+(;B[fb]
+(;W[ab]
+(;B[ca]
+(;W[]
+(;B[]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+229,4,114,matburt,quiettimes3,us,,"{'version': 5, 'overall': {'rating': 1125.8827017028436, 'deviation': 78.19731452501959, 'volatility': 0.06006087171771568}}","{'version': 5, 'overall': {'rating': 1500, 'deviation': 350, 'volatility': 0.06}}",17.66169912212786,24.303382182144386,False,False,supporter moderator admin,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-06]
+PC[OGS: https://online-go.com/game/229]
+GN[Welcome to Nova!]
+PB[matburt]
+PW[Quiettimes]
+BR[26k]
+WR[17k]
+TM[0]OT[172800 simple]
+RE[B+T]
+SZ[9]
+KM[6.5]
+RU[Japanese]
+C[Quiettimes: Try the Malkovich log?  Always wanted to try it.
+matburt: Sounds good... most of mine will be idiotic ramblings :)
+]
+;B[gg]
+C[Quiettimes: Try the Malkovich log?  Always wanted to try it.
+matburt: Sounds good... most of mine will be idiotic ramblings :)
+]
+(;W[dg]
+C[Quiettimes: cool
+Quiettimes: Want to see how the log displays after a game.  If someone sticks to it honestly I think their review will be ten fold better.
+matburt: Common placement
+Quiettimes: Just for giggles, starting with an aggressive approach.
+]
+(;B[ee]
+C[Quiettimes: still having hang ups with sign in. Is it a lot to ask to get rid of the case sensitivity?
+matburt: we've actually talked about that and will probably implement it pretty soon
+matburt: I wouldn't want someone coming in with Matburt for example
+]
+(;W[dc]
+C[matburt: heh, I keep making my moves and then commenting... I should do it in the move of what I'm thinking about
+matburt: trying to divide up the board
+Quiettimes: Likely he's going to do one of two things.  If he splits the middle left then I walk in top left and try to keep the top.  If he goes for the 3 star point triangle then I will seal the left side and work to reduce.
+]
+(;B[ec]
+C[Quiettimes: I like the clean interface a lot, however I wonder if it will become a detractor in the future.
+Quiettimes: My chat is not showing up on the main chat screen in english room.
+matburt: interesting
+matburt: yeah I don't see you logged in
+matburt: maybe Shift-refresh?  We rolled out a new version of the site last night and you may still be using the cached js
+Quiettimes: put conditional moves to the test
+]
+)))))"

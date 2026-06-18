@@ -1,0 +1,24 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+247,104,105,Oolong4Go,calmo,_Klingon,us,"{'version': 5, 'overall': {'rating': 1487.0974735216928, 'deviation': 79.93436684201419, 'volatility': 0.06000532839122804}}","{'version': 5, 'overall': {'rating': 1500.0, 'deviation': 350.0, 'volatility': 0.06}}",24.103391824779585,24.303382182144386,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-02-07]
+PC[OGS: https://online-go.com/game/247]
+GN[12hr canadian]
+PB[Oolong4Go]
+PW[calmo]
+BR[5k]
+WR[5k]
+TM[43200]OT[1/43200 canadian]
+RE[B+T]
+SZ[19]
+KM[7.5]
+RU[AGA]
+C[calmo: Hello - this is my first Nova game. Have fun!
+Oolong4Go: Hi, have a fun game
+]
+;B[pd]
+C[calmo: Hello - this is my first Nova game. Have fun!
+Oolong4Go: Hi, have a fun game
+]
+)"

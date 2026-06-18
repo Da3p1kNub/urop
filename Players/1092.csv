@@ -1,0 +1,471 @@
+game_id,black_id,white_id,black_username,white_username,black_country,white_country,black_ratings,white_ratings,black_ranking,white_ranking,black_professional,white_professional,black_ui_class,white_ui_class,board
+4873,1028,1092,Shakti,webcat,se,un,"{'version': 5, 'overall': {'rating': 2013.4993827091182, 'deviation': 76.74818094653901, 'volatility': 0.06005354356896803}}","{'version': 5, 'overall': {'rating': 2077.6113936267434, 'deviation': 326.3503437940474, 'volatility': 0.060008817839299344}}",31.118952537515632,31.844581663085993,False,False,,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-11]
+PC[OGS: https://online-go.com/game/4873]
+GN[]
+PB[Shakti]
+PW[webcat]
+BR[4d]
+WR[6d]
+TM[600]OT[3x30 byo-yomi]
+RE[W+R]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[2]
+AB[pd][dp]
+C[Shakti: Hello
+webcat: Hi, have fun
+]
+;W[po]
+(;B[dc]
+(;W[de]
+(;B[cg]
+(;W[cc]
+(;B[db]
+C[SunPin: Anybody in the peanut gallery? I really hope my comment does not disturb the players. If it does, please accept my apologies.
+thouis: Spectator chat is invisible to the players until the end of the game
+Nisan: yes its 2 different channels
+SunPin: Very good. Thank you, sirs.
+]
+(;W[be]
+(;B[cd]
+(;W[dd]
+(;B[bc]
+(;W[ce]
+(;B[gc]
+(;W[bd]
+(;B[bb]
+(;W[ci]
+(;B[dg]
+(;W[gd]
+(;B[hc]
+(;W[hd]
+C[matburt: high Dans make the most interesting shapes
+]
+(;B[id]
+(;W[fc]
+(;B[fb]
+(;W[eh]
+C[thouis: Whenever I play interesting shapes, they're bad.
+]
+(;B[eg]
+(;W[fg]
+(;B[ff]
+(;W[gg]
+(;B[di]
+(;W[dh]
+(;B[ch]
+(;W[bi]
+(;B[dj]
+(;W[fi]
+(;B[ee]
+(;W[ed]
+(;B[gf]
+(;W[hf]
+(;B[he]
+(;W[ge]
+(;B[fd]
+(;W[ie]
+(;B[ec]
+(;W[bg]
+(;B[bh]
+(;W[ah]
+(;B[fe]
+(;W[ef]
+C[dmf: nice move
+]
+(;B[he]
+(;W[cf]
+(;B[qm]
+(;W[qp]
+(;B[pi]
+(;W[qc]
+(;B[qd]
+(;W[pc]
+C[thouis: How does the voice thing work?  Can one just listen?
+dmf: listen and talk
+]
+(;B[rc]
+(;W[rb]
+(;B[rd]
+(;W[nc]
+C[afar: But is it possible to turn on just-listen mode?
+]
+(;B[od]
+C[dmf: yes, of course
+]
+(;W[mb]
+C[thouis: Is someone talking?
+matburt: afar, there are controls on it when you click it... just mute it
+dmf: just cick the stop button on your thingie
+afar: matburt: So I click the speaker on my own bar, and that mutes me?
+matburt: yep
+afar: Sorry, I just want to be totally sure to get it right
+thouis: (oh, I missed the popup asking permissiong)
+matburt: if you click the speaker icon you'll see a slash go through it
+]
+(;B[ld]
+C[afar: I don't see a slash...I see the noise semicircles disappear
+matburt: hmm... on mine those go away and a slash is through the speaker
+matburt: you can also mute other people
+afar: What about the pause and play button?
+]
+(;W[me]
+C[afar: What does that mean, given it's a live stream?
+]
+(;B[md]
+(;W[nd]
+(;B[ne]
+(;W[nf]
+(;B[oe]
+(;W[qk]
+C[thouis: turn on and off that person's voice
+matburt: hmm, good question... I might toss that one over to anoek :)
+]
+(;B[om]
+(;W[qi]
+(;B[qh]
+C[afar: thouis: That's what I would expect, except there's also a mute button. Maybe it's just an implementation thing
+]
+(;W[rh]
+C[matburt: this is a new feature on nova, so use the ""Help"" -> ""Feedback"" link to help us improve it
+]
+(;B[qj]
+(;W[ri]
+C[matburt: (that is the best way to leave feedback)
+]
+(;B[pj]
+(;W[qg]
+(;B[ph]
+C[afar: I do really like the general idea, it's basically perfect
+]
+(;W[rj]
+(;B[pg]
+C[afar: And the kind of thing I'm jealous of chess servers for ;)
+matburt: it already works pretty well here
+]
+(;W[rl]
+C[afar: I haven't actually heard anything yet...has anyone been speaking?
+]
+(;B[rm]
+C[dmf: i tried saying something
+dromar56: i heard someone typing
+]
+(;W[qf]
+C[matburt: I think we could hear thouis typing and someone speaking french out of dromar56?
+]
+(;B[pq]
+C[dromar56: ah yeah sorry, that was my roommate
+]
+(;W[qq]
+C[dmf: I couldn't hear anything :|
+]
+(;B[qr]
+C[matburt: no problem :)  
+]
+(;W[pk]
+C[dromar56: at first I didn't understood, I though one of you was talkling french
+matburt: haha
+thouis: Sorry.  I thought I was muted.
+afar: Hmm, I didn't catch any of it, maybe something is wrong
+]
+(;B[nn]
+C[afar: I do have lots of audio providers registered to pulseaudio, so I guess it isn't that for once
+]
+(;W[oj]
+C[matburt: dmf, afar... what browsers are you guys using?  We use webrtc... it's a fairly new thing
+dmf: firefox
+afar: I'm on firefox
+thouis: chrome
+]
+(;B[ng]
+C[dromar56: chrome on windows
+matburt: on chrome here it works pretty well
+]
+(;W[or]
+C[matburt: on ie it doesn't work at all
+Nisan: haha
+Nisan: chrome here
+dmf: trying chrome
+matburt: get dromar56 to talk in french to you!
+]
+(;B[pr]
+(;W[no]
+C[dromar56: ;) i would like to practice my english actually
+matburt: It's awesome... something I would never here sitting in my office in North Carolina :D
+afar: Trying chromium...
+]
+(;B[nq]
+(;W[on]
+C[thouis: I heard that.  very garbled, though.
+thouis: better
+dmf: works on chrome
+afar: Hmm...chromium I don't see any audio controls and no sound providers register with pulseaudio
+]
+(;B[nl]
+(;W[mn]
+C[matburt: make sure you click on the mic icon
+afar: I did
+]
+(;B[nm]
+(;W[pm]
+(;B[pl]
+(;W[pn]
+C[thouis: afar: is there a bar at the top asking to use your mic?
+dmf: so, the speaker icon from MY bar is for what?
+matburt: did you click to allow chromium access?
+]
+(;B[ql]
+(;W[ok]
+(;B[ol]
+C[afar: Oh, good point, I didn't even get the access question popup
+matburt: dmf: muting yourself?
+afar: Hurray, it works having upgraded chromium
+thouis: This conversation is going to be as confusing to the players as their game is to us.
+afar: Thanks for the help :)
+]
+(;W[mp]
+(;B[sl]
+C[dmf: and the play icon from my bar?
+afar: I wonder why firefox failed through...maybe their implementation isn't done yet
+]
+(;W[rk]
+(;B[mj]
+C[thouis: Someone watching Nick Sibicky.
+]
+(;W[nh]
+C[matburt: afar are you using a recent FF?
+dmf: too bad it doesn't show who's talking
+]
+(;B[mg]
+C[afar: matburt: Yeah, totally up to date
+matburt: dmf is the one watching tv :)
+]
+(;W[pf]
+C[thouis: afar.
+matburt: oh maybe not
+dmf: nope
+]
+(;B[of]
+C[matburt: I think muting anyone mutes everyone
+thouis: It's not TV.  A go lecture.
+dmf: yeah
+thouis: oh, yeah.
+]
+(;W[li]
+C[thouis: needs some debugging.
+matburt: well, we do have some bugs on this... we're working on them :)
+afar: Still cool :)
+]
+(;B[op]
+(;W[oo]
+C[dmf: no more nick
+thouis: I'm glad high dans make dumpling shapes sometimes, too.
+]
+(;B[lr]
+(;W[ll]
+(;B[lm]
+(;W[mm]
+(;B[ml]
+(;W[kl]
+(;B[lo]
+(;W[mo]
+(;B[lj]
+(;W[kj]
+(;B[kk]
+(;W[lk]
+(;B[ki]
+(;W[jk]
+(;B[nj]
+(;W[oi]
+(;B[jj]
+(;W[og]
+(;B[kk]
+(;W[kq]
+(;B[jm]
+(;W[jl]
+(;B[km]
+C[dmf: i was so distracted by the audio features, I have no idea what's going on on the board :D
+]
+(;W[ij]
+C[thouis: Even paying attention, I have no idea, either.
+]
+(;B[ji]
+(;W[mh]
+(;B[lg]
+(;W[kj]
+(;B[lh]
+C[thouis: Black trying to save P8 group, mostly.  I think.  I'm probably wrong.
+]
+(;W[mi]
+(;B[kk]
+(;W[ko]
+(;B[im]
+(;W[hl]
+(;B[kj]
+(;W[kr]
+(;B[lq]
+(;W[lp]
+(;B[jp]
+(;W[mq]
+C[Shakti: thanks
+webcat: Thank you
+Shakti: famished
+crodgers: oh, there's a noise when the game finishes
+]
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+4892,1037,1092,Animiral,webcat,at,un,"{'version': 5, 'overall': {'rating': 2063.3116656949214, 'deviation': 65.48530680210828, 'volatility': 0.05985871804451829}}","{'version': 5, 'overall': {'rating': 2077.6113936267434, 'deviation': 326.3503437940474, 'volatility': 0.060008817839299344}}",31.68469459791905,31.844581663085993,False,False,supporter,provisional,"(;FF[4]
+CA[UTF-8]
+GM[1]
+DT[2013-10-11]
+PC[OGS: https://online-go.com/game/4892]
+GN[]
+PB[Animiral]
+PW[webcat]
+BR[2k]
+WR[6d]
+TM[600]OT[5x20 byo-yomi]
+RE[B+R]
+SZ[19]
+KM[0.5]
+RU[Japanese]
+HA[7]
+AB[dj][pj][jj][dd][pp][pd][dp]
+C[Animiral: hi
+webcat: Hi, have fun
+Animiral: ok :)
+]
+;W[md]
+C[Animiral: ok :)
+]
+(;B[kc]
+(;W[pf]
+(;B[oc]
+(;W[fc]
+(;B[df]
+(;W[mb]
+(;B[oe]
+(;W[jd]
+(;B[kd]
+(;W[jc]
+(;B[ke]
+(;W[mf]
+(;B[je]
+(;W[kb]
+(;B[of]
+(;W[pi]
+(;B[qj]
+(;W[og]
+(;B[ng]
+(;W[nf]
+(;B[nh]
+(;W[oi]
+(;B[qg]
+(;W[pg]
+(;B[qf]
+(;W[qi]
+(;B[ri]
+(;W[rh]
+(;B[rj]
+(;W[qe]
+(;B[pe]
+(;W[re]
+(;B[rg]
+(;W[qc]
+(;B[qb]
+(;W[pb]
+(;B[qd]
+(;W[rc]
+(;B[rd]
+(;W[sd]
+(;B[rb]
+(;W[se]
+(;B[pc]
+(;W[sg]
+(;B[qh]
+(;W[oj]
+(;B[ok]
+(;W[nk]
+(;B[nj]
+(;W[ol]
+(;B[pk]
+(;W[ni]
+(;B[mj]
+(;W[mi]
+(;B[li]
+(;W[mh]
+(;B[lh]
+(;W[qn]
+(;B[np]
+(;W[qp]
+(;B[qq]
+(;W[rq]
+(;B[pq]
+(;W[ro]
+(;B[lb]
+(;W[jb]
+(;B[mc]
+(;W[nc]
+(;B[lc]
+(;W[nd]
+(;B[oh]
+(;W[mg]
+(;B[ph]
+(;W[ob]
+(;B[ka]
+(;W[kg]
+(;B[lj]
+(;W[kf]
+(;B[ie]
+(;W[hf]
+(;B[jg]
+(;W[jf]
+(;B[if]
+(;W[ig]
+(;B[jh]
+(;W[gg]
+(;B[hc]
+(;W[hb]
+(;B[he]
+(;W[ge]
+(;B[gd]
+(;W[fd]
+(;B[fe]
+(;W[gf]
+(;B[ib]
+(;W[ic]
+(;B[gb]
+(;W[gc]
+(;B[hd]
+(;W[ia]
+(;B[fb]
+(;W[ec]
+(;B[eb]
+(;W[dc]
+(;B[cc]
+(;W[db]
+(;B[cb]
+(;W[ee]
+(;B[ff]
+(;W[ef]
+(;B[fg]
+(;W[eg]
+(;B[fh]
+(;W[ed]
+(;B[gh]
+(;W[cd]
+(;B[bd]
+(;W[de]
+(;B[be]
+(;W[bb]
+(;B[bc]
+(;W[ca]
+(;B[ch]
+C[Animiral: thanks
+webcat: Thanks, no chance :-)
+Animiral: too much handicap ^^
+]
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
